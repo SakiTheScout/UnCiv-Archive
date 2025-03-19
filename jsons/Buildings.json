@@ -7,7 +7,7 @@
 		"faith": -2,
 		"cost": 0,
 		"requiredTech": "Civil Service",
-		"uniques": ["All newly-trained [land] units [in this city] receive [Tea Party] promotion", "[-2] Faith [in this city] <after discovering [Scientific Theory]", "[+2 Gold] from every luxury [in this city]", "[+1 Gold] and [+1 Culture] [in all cities]", "Only available in cities without a [Justice Realisation Committee Stronghold]", "Only available in cities without a [Sisterhood  Cathedral", "Only available in cities without a [Remedial Knights Hospital]", "Only available in cities without a [Trinity’s Vigilante Crew Keep]", "[Gold] price for purchasing [{Military} {Land}] units [in all cities] [-5]%", "[-5]% Faith [in all cities] <after discovering [Scientific Theory]", "Destroyed when the city is captured", "Cost increases by [10] per owned city <with [Tea Party Plaza]>"],
+		"uniques": ["All newly-trained [land] units [in this city] receive [Tea Party] promotion", "[-2] Faith [in this city] <after discovering [Scientific Theory]", "[+2 Gold] from every [Luxury] [in this city]", "[+1] Gold [in all cities]", "[Gold] price for purchasing [{Military} {Land}] units [in all cities] [-5]%", "[-5]% Faith [in all cities] <after discovering [Scientific Theory]", "Destroyed when the city is captured", "Cost increases by [10] per owned city <with [Tea Party Plaza]>"],
 	},
 	{
 		"name": "Justice Realisation Committee Stronghold",
