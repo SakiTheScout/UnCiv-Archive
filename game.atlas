@@ -21,7 +21,7 @@ BuildingIcons/Tea Party Plaza
 NationIcons/Trinity General School
   rotate: false
   xy: 0, 0
-  size: 750, 750
+  size: 100, 100
   orig: 750, 750
   offset: 0, 0
   index: -1
