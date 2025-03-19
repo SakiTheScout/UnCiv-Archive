@@ -20,15 +20,8 @@ BuildingIcons/Tea Party Plaza
   index: -1
 NationIcons/Trinity General School
   rotate: false
-  xy: 
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-UnitIcons/Phasers
-  rotate: false
-  xy: 328, 4
-  size: 100, 100
-  orig: 100, 100
+  xy: 0, 0
+  size: 750, 750
+  orig: 750, 750
   offset: 0, 0
   index: -1
