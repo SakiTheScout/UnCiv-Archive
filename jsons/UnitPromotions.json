@@ -8,13 +8,13 @@
   {
     "name": "Justice Task Force",
     "uniques": ["[+25]% Strength <when wounded>", "[+33]% Strength <when fighting [Barbarian] units>"],
-    "column": 1,
+    "column": 2,
     "row": 10,
   },
   {
     "name": "Sister Militant"
     "uniques": ["Can Spread Religion", "Prevents spreading of religion to the city it is next to", "Unable to pillage tiles", "Can see invisible [Land] units", "May enter foreign tiles without open borders"],
-    "column": 1,
+    "column": 3,
     "row": 10,
   },
 ]
