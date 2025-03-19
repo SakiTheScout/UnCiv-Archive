@@ -1,13 +1,19 @@
 [
   {
     "name": "Tea Party",
-    "uniques": "Can build [Land] improvements on tiles", "[+20]% Strength <when fighting in [Friendly Land] tiles>", "Free Maintenance <when not at war>",
+    "uniques": ["Can build [All Land] improvements on tiles", "[+20]% Strength <when fighting in [Friendly Land] tiles>", "[-100]% maintenance cost <when not at war>"],
     "column": 1,
     "row": 10,
   },
   {
     "name": "Justice Task Force",
-    "uniques": "[+25]% Strength <when wounded>", "[+33]% Strength <when fighting [Barbarian] units>",
+    "uniques": ["[+25]% Strength <when wounded>", "[+33]% Strength <when fighting [Barbarian] units>"],
+    "column": 1,
+    "row": 10,
+  },
+  {
+    "name": "Sister Militant"
+    "uniques": ["Can Spread Religion", "Prevents spreading of religion to the city it is next to", "Unable to pillage tiles", "Can see invisible [Land] units", "May enter foreign tiles without open borders"],
     "column": 1,
     "row": 10,
   },
