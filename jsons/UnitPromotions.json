@@ -1,7 +1,7 @@
 [
   {
     "name": "Tea Party",
-    "uniques": ["Can build [All Land] improvements on tiles", "[+20]% Strength <when fighting in [Friendly Land] tiles>", "[-100]% maintenance cost <when not at war>"],
+    "uniques": ["Can build [All Land] improvements on tiles", "[+20]% Strength <when fighting in [Friendly Land] tiles>", "[0]% maintenance cost <when not at war>"],
     "column": 1,
     "row": 10,
   },
