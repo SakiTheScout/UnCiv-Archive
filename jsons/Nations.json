@@ -1,38 +1,36 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Trinity General School",
+		"leaderName": "Tea Party Council",
+		"adjective": ["Trinitian"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Long ago, we were many schools with one similarity: hatred towards aggressive barbarians of Gehenna Academy. We solved our issues and coordinated our efforts during tea parties, and one day we decided to unite. We uphold the traditions of founding schools, thus every faction is semi-autonomous, but we will stand as one lest we perish alone. Thanks to trading policies, we became the richest great school in Kivotos.",
+		"startIntroPart2": "I stand before thee, oh three presidents of Tea Party, from factions Pater, Filius and Sanctus. May thy wisdom and worth guide us. May thy faith enlighten our path. May we become the last standing.",
 		
-		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"declaringWar": "Die, barbarian scum.",
+		"attacked": "Filthy barbarians think they can overrun us. To arms!",
+		"defeated": "Your victory will be short-lived...",
+		"introduction": "We, Tea Party, greet thee. Would you like to join us for this cup of tea?",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Greetings, may the God bless thee.",
+		"neutralLetsHearIt": "We see you would like to offer us something. Proceed, please.",
+		"neutralNo": "After discussing this matter, we have to decline your offer.",
+		"neutralYes": "After discussing this matter, we agreed to accept your offer.",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "You don't deserve greetings, barbarian...",
+		"hateLetsHearIt": "What is that you were going to say, scum?",
+		"hateNo": "We refuse, be gome.",
+		"hateYes": "...We have to agree...",
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "The slaughter is over, we shall be leaving.",
+		"tradeRequest": "We have prepared a deal to you, would you agree?.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [255,253,249],
+		"innerColor": [255,220,147],
+		"uniqueName": "Trinity Unification",
+		"uniques":["[+2 Happiness] from every [Tea] [in all cities]"]
+		"cities": ["Trinity Main Plaza", "Trinity Inner District A1", "Trinity Inner District B2", "Trinity Inner District C3", "Trinity Inner District D4", "Trinity Inner District E5", "Trinity Inner District F6", "Trinity Inner District G7", "Trinity Inner District H8", "Trinity Inner District I9", "Trinity Inner District J10"]
+		"personality": "Tea Party Council"
 	}
-]
