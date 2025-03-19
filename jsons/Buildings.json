@@ -18,7 +18,7 @@
 		"culture": -1,
 		"cost": 40,
 		"requiredTech": "Civil Service",
-		"uniques": ["New [Land] units start with [10] XP [in this city]", "[-20% Production] [in this city]", "All newly-trained [Land] units [in this city] receive the [Justice Task Force] promotion"],
+		"uniques": ["New [Land] units start with [10] XP [in this city]", "[-20]% Production [in this city]", "All newly-trained [Land] units [in this city] receive the [Justice Task Force] promotion"],
 	},
 	{
 		"name": "Sisterhood Cathedral",
