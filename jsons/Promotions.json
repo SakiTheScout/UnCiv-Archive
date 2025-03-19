@@ -1,0 +1,14 @@
+[
+  {
+    "name": "Tea Party",
+    "uniques": "Can build [Land] improvements on tiles", "[+20]% Strength <when fighting in [Friendly Land] tiles>", "Free Maintenance <when not at war>",
+    "column": 1,
+    "row": 10,
+  },
+  {
+    "name": "Justice Task Force",
+    "uniques": "[+25]% Strength <when wounded>", "[+33]% Strength <when fighting [Barbarian] units>",
+    "column": 1,
+    "row": 10,
+  },
+]
