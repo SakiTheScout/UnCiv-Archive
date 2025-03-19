@@ -1,0 +1,31 @@
+[
+  {
+    "name": "Tea Party Council",
+    "production": 5,
+    "food": 5,
+    "gold": 10,
+    "science": 5,
+    "culture": 8,
+    "happiness": 9,
+    "faith": 8,
+    "military": 6,
+    "aggressive": 5,
+    "declareWar": 6,
+    "commerce": 10,
+    "diplomacy": 8,
+    "loyal": 5,
+    "expansion": 6,
+    "priorities": {
+      "Tradition": 10,
+      "Liberty": 4,
+      "Honor": 3,
+      "Commerce": 10,
+      "Patronage": 4,
+      "Piety": 9,
+      "Rationalism": 5,
+      "Freedom": 5,
+      "Autocracy": 5,
+      "Order": 5
+    }
+  }
+]
