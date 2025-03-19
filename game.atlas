@@ -1,27 +1,27 @@
 
 game.png
-size: 
+size: 300,100
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Justice Realisation Committee Stronghold
   rotate: false
-  xy: 750, 650
+  xy: 200,0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tea Party Plaza
   rotate: false
-  xy: 750, 0
+  xy: 0, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Trinity General School
   rotate: false
-  xy: 0, 0
+  xy: 100, 0
   size: 100, 100
-  orig: 750, 750
+  orig: 100, 100
   offset: 0, 0
   index: -1
