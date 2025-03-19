@@ -18,6 +18,6 @@
 		"culture": -1,
 		"cost": 10,
 		"requiredTech": "Civil Service",
-		"uniques": ["All newly-trained [land] units [in this city] receive [Justice Task Force] promotion", "[-15]% Production [in this city] when constructing [Building]", "[-20]% Production [in this city] when constructing [Civilian] units", "[-10]% Unhappiness [in all cities]", "[Gold] price for purchasing buildings [in all cities] [+5]%", "Destroyed when the city is captured", "Cost increases by [10] per owned city <with [Justice Realisation Committee Stronghold]>", "Only available in cities <with [Tea Party Plaza]>"],
+		"uniques": ["All newly-trained [land] units [in this city] receive [Justice Task Force] promotion", "[-15]% Production [in this city] when constructing [Building]", "[-20]% Production [in this city] when constructing [Civilian] units", "[-10]% Unhappiness [in all cities]", "[Gold] price for purchasing buildings [in all cities] [+5]%", "Destroyed when the city is captured", "Cost increases by [10] per owned city <with [Justice Realisation Committee Stronghold]>", "Only available in cities <without [Tea Party Plaza]>"],
 	}
 ]
