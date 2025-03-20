@@ -50,4 +50,13 @@
     "column": 5,
     "row": 10,
   },
+  {
+    "name": "Kivotos Halo",
+    "uniques": [
+      "[+10]% XP gained from combat",
+      "Earn [25]% of damage done to [All] units as [Science]",
+      "[1] Movement",
+      "[1] Sight",
+      "[+100]% Strengh <when defending> <vs [Ranged] units>",
+  },
 ]
