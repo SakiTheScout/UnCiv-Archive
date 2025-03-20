@@ -1,26 +1,47 @@
 
 game.png
-size: 300,100
+size: 500,350
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Justice Realisation Committee Stronghold
   rotate: false
-  xy: 200,0
+  xy: 400,0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tea Party Plaza
   rotate: false
-  xy: 0, 0
+  xy: 200, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 NationIcons/Trinity General School
   rotate: false
+  xy: 0, 100
+  size: 250, 250
+  orig: 250, 250
+  offset: 0, 0
+  index: -1
+BuildingIcons/Remedial Knights Hospital
+  rotate: false
+  xy: 0, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Trinity's Vigilante Crew Keep
+  rotate: false
   xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Sisterhood Cathedral
+  rotate: false
+  xy: 300, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
