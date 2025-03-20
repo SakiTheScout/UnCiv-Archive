@@ -4,8 +4,7 @@
     "uniques": [
       "Can build [All] improvements on tiles",
       "[+20]% Strength <when fighting in [Friendly Land] tiles>",
-      "Gain [1]-[10] [Culture] <every [2] turns> <with [80]% chance> <when not at war>",
-    ],
+      "Gain [1]-[10] [Culture] <every [2] turns> <with [80]% chance> <when not at war>"],
     "column": 1,
     "row": 10,
   },
@@ -14,8 +13,7 @@
     "uniques": [
       "[+25]% Strength <when at war>",
       "[+33]% Strength <vs [Barbarian] units>",
-      "Ignores Zone of Control",
-    ],
+      "Ignores Zone of Control"],
     "column": 2,
     "row": 10,
   },
@@ -25,8 +23,7 @@
       "Can Spread Religion",
       "Prevents spreading of religion to the city it is next to",
       "Unable to pillage tiles",
-      "May enter foreign tiles without open borders",
-    ],
+      "May enter foreign tiles without open borders"],
     "column": 3,
     "row": 10,
   },
@@ -35,8 +32,7 @@
     "uniques": [
       "Can see invisible [Land] units",
       "[+20]% Strength <when defending>",
-      "[+20]% Strength when stacked with [Civilian]",
-    ]
+      "[+20]% Strength when stacked with [Civilian]"],
     "column": 4,
     "row": 10,
   },
@@ -45,8 +41,7 @@
     "uniques": [
       "[+20]% Strength bonus for [Wounded] units within [3] tiles",
       "[5] HP when healing",
-      "All adjacent units heal [15] HP when healing",
-    ],
+      "All adjacent units heal [15] HP when healing"],
     "column": 5,
     "row": 10,
   },
@@ -57,8 +52,7 @@
       "Earn [25]% of killed [Military] unit's [Strength] as [Science]",
       "[1] Movement",
       "[1] Sight",
-      "[+100]% Strengh <vs [Ranged] units> <when defending>",
-    ]
+      "[+100]% Strengh <vs [Ranged] units> <when defending>"],
     "column": 1,
     "row": 20,
   },
