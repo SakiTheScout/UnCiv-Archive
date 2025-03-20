@@ -4,7 +4,7 @@
     "uniques": [
       "Can build [All Land] improvements on tiles",
       "[+20]% Strength <when fighting in [Friendly Land] tiles>",
-      "[0]% maintenance cost <when not at war>"
+      "[0]% maintenance cost <when not at war>",
     ],
     "column": 1,
     "row": 10,
@@ -14,7 +14,7 @@
     "uniques": [
       "[+25]% Strength <when wounded>",
       "[+33]% Strength <when fighting [Barbarian] units>",
-      "Ignores Zone of Control"
+      "Ignores Zone of Control",
     ],
     "column": 2,
     "row": 10,
@@ -25,7 +25,7 @@
       "Can Spread Religion",
       "Prevents spreading of religion to the city it is next to",
       "Unable to pillage tiles",
-      "May enter foreign tiles without open borders"
+      "May enter foreign tiles without open borders",
     ],
     "column": 3,
     "row": 10,
@@ -35,13 +35,19 @@
     "uniques": [
       "Can see invisible [Land] units",
       "[+20]% Strength when [Defending]",
-      "[+20]% Strength when stacked with [Civilian]"
+      "[+20]% Strength when stacked with [Civilian]",
     ]
     "column": 4,
     "row": 10,
   },
   {
     "name": "Knight Hospitaller",
-    "uniques": 
+    "uniques": [
+      "[+20]% Strength bonus for [Wounded] units within [3] tiles",
+      "[5] HP when healing",
+      "All adjacent units heal [15] HP when healing",
+    ],
+    "column": 5,
+    "row": 10,
   },
 ]
