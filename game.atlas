@@ -1,6 +1,6 @@
 
 game.png
-size: 500,350
+size: 500,200
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
