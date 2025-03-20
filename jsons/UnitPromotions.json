@@ -13,7 +13,7 @@
     "name": "Justice Task Force",
     "uniques": [
       "[+25]% Strength <when wounded>",
-      "[+33]% Strength <when fighting [Barbarian] units>",
+      "[+33]% Strength <vs [Barbarian] units>",
       "Ignores Zone of Control",
     ],
     "column": 2,
