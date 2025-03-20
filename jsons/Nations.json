@@ -27,8 +27,8 @@
 		"afterPeace": "The slaughter is over, we shall be leaving.",
 		"tradeRequest": "We have prepared a deal to you, would you agree?.",
 
-		"outerColor": [255,253,249] Suppress warning [it is unreadable],
-		"innerColor": [255,220,147] Suppress warning [it is unreadable],
+		"outerColor": [255,253,249],
+		"innerColor": [255,220,147],
 		"uniqueName": "Trinity Unification",
 		"uniques":[
 			"[+1 Happiness] from every [Luxury resource]",
