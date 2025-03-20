@@ -17,8 +17,7 @@
 			"Only available <in cities without a [Remedial Knights Hospital]> <hidden from users>",
 			"All newly-trained [Land] units [in this city] receive the [Tea Party] promotion",
 			"Unsellable <hidden from users>",
-			"Cannot be purchased <hidden from users>",
-		], 
+			"Cannot be purchased <hidden from users>"], 
 	},
 	{
 		"name": "Justice Realisation Committee Stronghold",
@@ -38,8 +37,7 @@
 			"Only available <in cities without a [Remedial Knights Hospital]> <hidden from users>",
 			"All newly-trained [Land] units [in this city] receive the [Justice Task Force] promotion",
 			"Unsellable <hidden from users>",
-			"Cannot be purchased <hidden from users>",
-		],
+			"Cannot be purchased <hidden from users>"],
 	},
 	{
 		"name": "Sisterhood Cathedral",
@@ -59,8 +57,7 @@
 			"Only available <in cities without a [Remedial Knights Hospital]> <hidden from users>",
 			"All newly-trained [Land] units [in this city] receive the [Sister Militant] promotion",
 			"Unsellable <hidden from users>",
-			"Cannot be purchased <hidden from users>",
-		],
+			"Cannot be purchased <hidden from users>"],
 	},
 	{
 		"name": "Trinity's Vigilante Crew Keep",
@@ -79,8 +76,7 @@
 			"Only available <in cities without a [Remedial Knights Hospital]> <hidden from users>",
 			"All newly-trained [Land] units [in this city] receive the [Trinity's Vigilante Crew] promotion",
 			"Unsellable <hidden from users>",
-			"Cannot be purchased <hidden from users>",
-		],
+			"Cannot be purchased <hidden from users>"],
 	},
 	{
 		"name": "Remedial Knights Hospital",
@@ -101,7 +97,6 @@
 			"Only available <in cities without a [Trinity's Vigilante Crew Keep]> <hidden from users>",
 			"All newly-trained [Land] units [in this city] receive the [Knight Hospitaller] promotion",
 			"Unsellable <hidden from users>",
-			"Cannot be purchased <hidden from users>",
-		],
+			"Cannot be purchased <hidden from users>"],
 	}
 ]
