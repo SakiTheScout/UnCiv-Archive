@@ -37,6 +37,17 @@
 		"culture": 1,
 		"cost": 40,
 		"requiredTech": "Civil Service",
-		"uniques": ["[-50]% enemy spy effectiveness [in this city]", "[+5]% [Production] [in this city]", "All newly-trained [Land] units [in this city] receive the [Sister Militant] promotion", "Unsellable", "Cannot be purchased"],
+		"uniques": ["[-50]% enemy spy effectiveness [in this city]", "[+5]% [Production] [in this city]", "All newly-trained [Land] units [in this city] receive the [Trinity's Vigilante Crew] promotion", "Unsellable", "Cannot be purchased"],
 	},
+	{
+		"name": "Remedial Knights Hospital",
+		"uniqueTo": "Trinity General School",
+		"gold": -4,
+		"culture": 1,
+		"happiness": 2,
+		"faith": 2,
+		"cost": 40,
+		"requiredTech": "Civil Service",
+		"uniques": ["[+1 Happiness] per [2] population [in this city]", "[-20]% Production when constructing [Military] units [in this city]", "[+20]% Growth [in this city]", "[+10]% Growth [in all cities]", "All newly-trained [Land] units [in this city] receive the [Trinity's Vigilante Crew] promotion", "Unsellable", "Cannot be purchased"],
+	}
 ]
