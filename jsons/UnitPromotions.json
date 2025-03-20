@@ -57,7 +57,7 @@
       "Earn [25]% of damage done to [All] units as [Science]",
       "[1] Movement",
       "[1] Sight",
-      "[+100]% Strengh <when defending> <vs [Ranged] units>",
+      "[100]% Strengh <when defending> <vs [Ranged] units>",
     ]
     "column": 1,
     "row": 20,
