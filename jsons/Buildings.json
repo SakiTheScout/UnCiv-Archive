@@ -27,7 +27,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"New [Land] units start with [10] XP [in this city]",
-			"[+20]% [Production] [in this city] <when constructing [Military] units",
+			"[+20]% [Production] [in this city] <when constructing [Military] units>",
 			"All newly-trained [Land] units [in this city] receive the [Justice Task Force] promotion",
 			"Unsallable",
 			"Cannot be purchased",
