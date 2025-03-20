@@ -8,7 +8,7 @@
 		"cost": 40,
 		"requiredTech": "Civil Service",
 		"uniques": [
-			"[+2 Gold] [in this city]",
+			"[+2 Gold, +2 Culture] [in this city] <when not at war>",
 			"Gifts of Gold to City-States generate [5]% more Influence",
 			"[+1 Gold, +1 Culture] [in all cities]",
 			"Gain [-50]-[-250] [Gold] <every [10] turns> <with [5}% chance> <hidden from users>",
