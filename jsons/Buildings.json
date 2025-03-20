@@ -7,7 +7,7 @@
 		"faith": -2,
 		"cost": 40,
 		"requiredTech": "Civil Service",
-		"uniques": ["[+2 Gold] [in this city]", "Gifts of Gold to City-States generate [5]% more Influence", "[+1 Gold, +1 Culture] [in all cities]", "All newly-trained [Land] units [in this city] receive the [Tea Party] promotion"], 
+		"uniques": ["[+2 Gold] [in this city]", "Gifts of Gold to City-States generate [5]% more Influence", "[+1 Gold, +1 Culture] [in all cities]", "All newly-trained [Land] units [in this city] receive the [Tea Party] promotion", "Unsellable", "Cannot be purchased"], 
 	},
 	{
 		"name": "Justice Realisation Committee Stronghold",
@@ -18,7 +18,7 @@
 		"culture": -1,
 		"cost": 40,
 		"requiredTech": "Civil Service",
-		"uniques": ["New [Land] units start with [10] XP [in this city]", "[+20]% Production [in this city] <when constructing [Military] units", "All newly-trained [Land] units [in this city] receive the [Justice Task Force] promotion"],
+		"uniques": ["New [Land] units start with [10] XP [in this city]", "[+20]% [Production] [in this city] <when constructing [Military] units", "All newly-trained [Land] units [in this city] receive the [Justice Task Force] promotion", "Unsallable", "Cannot be purchased"],
 	},
 	{
 		"name": "Sisterhood Cathedral",
@@ -28,6 +28,15 @@
 		"faith": 3,
 		"cost": 40,
 		"requiredTech": "Civil Service",
-		"uniques": ["Gain an extra spy", "[+1 Faith, +1 Culture] [in all cities]", "All newly-trained [Land] units [in this city] receive the [Sister Militant] promotion"],
+		"uniques": ["Gain an extra spy", "[+1 Faith, +1 Culture] [in all cities]", "All newly-trained [Land] units [in this city] receive the [Sister Militant] promotion", "Unsellable", "Cannot be purchased"],
+	},
+	{
+		"name": "Trinity's Vigilante Crew Keep",
+		"uniqueTo": "Trinity General School",
+		"gold": -2,
+		"culture": 1,
+		"cost": 40,
+		"requiredTech": "Civil Service",
+		"uniques": ["[-50]% enemy spy effectiveness [in this city]", "[+5]% [Production] [in this city]", "All newly-trained [Land] units [in this city] receive the [Sister Militant] promotion", "Unsellable", "Cannot be purchased"],
 	},
 ]
