@@ -34,7 +34,7 @@
     "name": "Trinity's Vigilante Crew",
     "uniques": [
       "Can see invisible [Land] units",
-      "[+20]% Strength when [Defending]",
+      "[+20]% Strength <when defending>",
       "[+20]% Strength when stacked with [Civilian]",
     ]
     "column": 4,
