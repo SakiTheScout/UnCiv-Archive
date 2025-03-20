@@ -21,8 +21,8 @@ BuildingIcons/Tea Party Plaza
 NationIcons/Trinity General School
   rotate: false
   xy: 0, 100
-  size: 250, 250
-  orig: 250, 250
+  size: 100, 100
+  orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Remedial Knights Hospital
