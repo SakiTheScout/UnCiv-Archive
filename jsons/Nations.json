@@ -31,7 +31,7 @@
 		"innerColor": [255,220,147],
 		"uniqueName": "Trinity Unification",
 		"uniques":["[+1 Happiness] from every [Luxury resource]", "[Land] units gain the [Kivotos Halo] promotion"],
-		"cities": ["Trinity Main Plaza", "Trinity Inner District A1", "Trinity Inner District B2", "Trinity Inner District C3", "Trinity Inner District D4", "Trinity Inner District E5", "Trinity Inner District F6", "Trinity Inner District G7", "Trinity Inner District H8", "Trinity Inner District I9", "Trinity Inner District J10"]
+		"cities": ["Trinity Main Plaza", "Trinity Inner District A1", "Trinity Inner District B2", "Trinity Inner District C3", "Trinity Inner District D4", "Trinity Inner District E5", "Trinity Inner District F6", "Trinity Inner District G7", "Trinity Inner District H8", "Trinity Inner District I9", "Trinity Inner District J10"],
 		"personality": "Tea Party Council"
 	}
 ]
