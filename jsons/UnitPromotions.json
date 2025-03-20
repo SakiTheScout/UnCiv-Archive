@@ -2,7 +2,7 @@
   {
     "name": "Tea Party",
     "uniques": [
-      "Can build [All Land] improvements on tiles",
+      "Can build [All] improvements on tiles",
       "[+20]% Strength <when fighting in [Friendly Land] tiles>",
       "[0]% maintenance cost <when not at war>",
     ],
@@ -12,7 +12,7 @@
   {
     "name": "Justice Task Force",
     "uniques": [
-      "[+25]% Strength when wounded",
+      "[25]% Strength when wounded",
       "[+33]% Strength <vs [Barbarian] units>",
       "Ignores Zone of Control",
     ],
