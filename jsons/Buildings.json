@@ -31,7 +31,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"New [Land] units start with [10] XP [in this city]",
-			"[20]% Production [in this city] <when constructing [Military] units>",
+			"[+20]% Production when constructing [Military] units [in this city]",
 			"Only available <in cities without a [Tea Party Plaza]> <hidden from users>",
 			"Only available <in cities without a [Sisterhood Cathedral]> <hidden from users>",
 			"Only available <in cities without a [Trinity's Vigilante Crew Keep]> <hidden from users>",
