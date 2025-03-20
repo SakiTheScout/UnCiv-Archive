@@ -13,7 +13,8 @@
     "name": "Justice Task Force",
     "uniques": [
       "[+25]% Strength <when wounded>",
-      "[+33]% Strength <when fighting [Barbarian] units>"
+      "[+33]% Strength <when fighting [Barbarian] units>",
+      "Ignores Zone of Control"
     ],
     "column": 2,
     "row": 10,
@@ -33,5 +34,14 @@
     "name": "Trinity's Vigilante Crew",
     "uniques": [
       "Can see invisible [Land] units",
-      
+      "[+20]% Strength when [Defending]",
+      "[+20]% Strength when stacked with [Civilian]"
+    ]
+    "column": 4,
+    "row": 10,
+  },
+  {
+    "name": "Knight Hospitaller",
+    "uniques": 
+  },
 ]
