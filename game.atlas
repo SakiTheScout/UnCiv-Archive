@@ -6,14 +6,14 @@ filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 BuildingIcons/Justice Realisation Committee Stronghold
   rotate: false
-  xy: 100,400
+  xy: 400, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 BuildingIcons/Tea Party Plaza
   rotate: false
-  xy: 100, 200
+  xy: 200, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -41,7 +41,7 @@ BuildingIcons/Trinity's Vigilante Crew Keep
   index: -1
 BuildingIcons/Sisterhood Cathedral
   rotate: false
-  xy: 300, 0
+  xy: 300, 100
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
