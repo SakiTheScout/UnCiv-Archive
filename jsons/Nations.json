@@ -67,7 +67,11 @@
 		"uniques":["Free Great Person <upon entering a new era>",
 		"Empire enters a [5]-turn Golden Age <upon entering a new era>",
 		"[+2 Science, +1 Production, -3 Gold] [in all cities] <upon entering a new era>",
-		"[-5 Gold] [in all cities] <starting from the [Modern era]> <hidden from users>"],
+		"Comment [Desertification strikes upon reaching Modern era!]",
+		"[-5 Gold] [in all cities] <starting from the [Modern era]> <hidden from users>",
+		"[-20]% Science [in all cities] <starting from the [Modern era]> <hidden from users>",
+		"[-20]% Production [in all cities] <starting from the [Modern era]> <hidden from users>",
+		"[-100]% growth [in all cities] <starting from the [Modern era]> <hidden from users>"],
 		"cities": ["Abydos High School Main Building Annex", "Desertified Abydos Main Building", "Abydos Downtown", "Abydos Desert District 12-77", "Abydos Desert District 36-78", "Abydos Desrt District 41-12", "Abydos Desert District 50-17", "Abydos Desert District 67-77", "Volley of Presidents", "Abydos Ruined District 17-73", "Abydos Ruined District 67-89"],
 		"personality": "Takanashi Hoshino"
 	}
