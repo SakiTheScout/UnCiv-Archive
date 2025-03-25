@@ -104,7 +104,7 @@
 			"Unsellable <hidden from users>",
 			"Cannot be purchased <hidden from users>"]
 	},
-		{
+	{
 		"name": "Lodge of Martyrs",
 		"uniqueTo": "Arius Beanch School",
 		"gold": -5,
@@ -120,13 +120,13 @@
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Basilica of Shadows]> <hidden from users>",
 			"Only available <in cities without a [Choir of Silence]> <hidden from users>",
-			"Only available <in cities without a []> <hidden from users>",
-			"Only available <in cities without a []> <hidden from users>",
+			"Only available <in cities without a [Underground Shrine]> <hidden from users>",
+			"Only available <in cities without a [Unsealed Vault]> <hidden from users>",
 			"All newly-trained [Land] units [in this city] receive the [Vanitas Martyrdom] promotion",
 			"Unsellable <hidden from users>",
 			"Cannot be purchased <hidden from users>"]
 	},
-		{
+	{
 		"name": "Basilica of Shadows",
 		"uniqueTo": "Arius Branch School",
 		"gold": -5,
@@ -142,13 +142,13 @@
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Lodge of Martyrs]> <hidden from users>",
 			"Only available <in cities without a [Choir of Silence]> <hidden from users>",
-			"Only available <in cities without a [Sisterhood Cathedral]> <hidden from users>",
-			"Only available <in cities without a [Trinity's Vigilante Crew Keep]> <hidden from users>",
+			"Only available <in cities without a [Unsealed Vault]> <hidden from users>",
+			"Only available <in cities without a [Underground Shrine]> <hidden from users>",
 			"All newly-trained [Land] units [in this city] receive the [Shadowpath] promotion",
 			"Unsellable <hidden from users>",
 			"Cannot be purchased <hidden from users>"]
 	},
-		{
+	{
 		"name": "Choir of Silence",
 		"uniqueTo": "Arius Branch School",
 		"gold": -5,
@@ -164,10 +164,54 @@
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Lodge of Martyrs]> <hidden from users>",
 			"Only available <in cities without a [Basilica of Shadows]> <hidden from users>",
-			"Only available <in cities without a [Sisterhood Cathedral]> <hidden from users>",
-			"Only available <in cities without a [Trinity's Vigilante Crew Keep]> <hidden from users>",
+			"Only available <in cities without a [Unsealed Vault]> <hidden from users>",
+			"Only available <in cities without a [Underground Shrine]> <hidden from users>",
 			"All newly-trained [Land] units [in this city] receive the [Silent Chorus] promotion",
 			"Unsellable <hidden from users>",
 			"Cannot be purchased <hidden from users>"]
 	},
+	{
+		"name": "Underground Shrine",
+		"uniqueTo": "Arius School",
+		"gold": -5,
+		"culture": -2,
+		"happiness": -2,
+		"Science": 4,
+		"cost": 40,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+1 Science] per [2] population [in this city]",
+			"[+20]% Production when constructing [Military] units [in this city] <hidden from users>",
+			"[-20]% growth [in this city]",
+			"Cost increases by [40] when built",
+			"Only available <in cities without a [Lodge of Martyrs]> <hidden from users>",
+			"Only available <in cities without a [Choir of Silence]> <hidden from users>",
+			"Only available <in cities without a [Unsealed Vault]> <hidden from users>",
+			"Only available <in cities without a [Basilica of Shadows]> <hidden from users>",
+			"All newly-trained [Land] units [in this city] receive the [Coming from Below] promotion",
+			"Unsellable <hidden from users>",
+			"Cannot be purchased <hidden from users>"]
+	},
+	{
+		"name": "Unsealed Vault",
+		"uniqueTo": "Trinity General School",
+		"gold": 5,
+		"culture": -4,
+		"happiness": -2,
+		"faith": -2,
+		"cost": 40,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"[+1 Gold] per [2] population [in this city]",
+			"[+20]% Production when constructing [Military] units [in this city] <hidden from users>",
+			"[-20]% growth [in this city]",
+			"Cost increases by [40] when built",
+			"Only available <in cities without a [Basilica of Shadows]> <hidden from users>",
+			"Only available <in cities without a [Lodge of Martyrs]> <hidden from users>",
+			"Only available <in cities without a [Underground Shrine]> <hidden from users>",
+			"Only available <in cities without a [Choir of Silence]> <hidden from users>",
+			"All newly-trained [Land] units [in this city] receive the [Knight Hospitaller] promotion",
+			"Unsellable <hidden from users>",
+			"Cannot be purchased <hidden from users>"]
+	}
 ]
