@@ -35,6 +35,40 @@
 		"personality": "Tea Party Council"
 	},
 	{
+		"name": "Arius Branch School",
+		"leaderName": "Madame Beatrice",
+		"adjective": ["Arian"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Long ago, we were many schools with one similarity: hatred towards aggressive barbarians of Gehenna Academy. We solved our issues and coordinated our efforts during tea parties, and one day they decided to unite. But we refused, we didn't want to be one, grey mass. And they betrayed us, turned their weapons against us. Arius burned, and was erased from history.",
+		"startIntroPart2": "...But we live! We will have our vengeance that comes in flaming hatred! And you, Madame Beatrice, shall guide our efforts with your iron fist. Vanitas Vanitatum et Omnia Vanitas!",
+		
+		"declaringWar": "Et Omnia Vanitas, die.",
+		"attacked": "You have made a colossal mistake...",
+		"defeated": "...Not the first time...",
+		"introduction": "Hello. Madame has considered you undeserving of her presence, so I will watch the diplomacy by her name.",
+		
+		"neutralHello": "Hello, do you need something?",
+		"neutralLetsHearIt": "Is that what I think it is?..",
+		"neutralNo": "Sorry, no.",
+		"neutralYes": "Yes, indeed.",
+		"hateHello": "...Vanity...",
+		"hateLetsHearIt": "...You speak...",
+		"hateNo": "...",
+		"hateYes": "...We have to agree...",
+		
+		"afterPeace": "Vanitas Vanitatum...",
+		"tradeRequest": "Here's the deal. By the day, don't you mind we are terrorists?",
+
+		"outerColor": [242,247,255],
+		"innerColor": [12,34,38],
+		"uniqueName": "Hatred that is not ours",
+		"uniques":["[+50]% <when fighting units from a Civilization with more Cities than you>",
+		"[-100] Unhappiness [in all cities] <when at war>"],
+		"cities": ["Arius Basilica", "Remnants of Basilica's Downtown", "The Tea Square", "Arius District 1", "Arius District 2", "Arius District 3", "Arius District 7", "Arius District 8", "Arius District 9", "Arius District 10", "Arius District 11"]
+		"personality": "Madame Beatrice",
+	{
 		"name": "Abydos High School",
 		"leaderName": "Takanashi Hoshino",
 		"adjective": ["Abydosan"],
