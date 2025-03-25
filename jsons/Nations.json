@@ -66,7 +66,8 @@
 		"uniqueName": "Hatred that is not ours",
 		"uniques":["[+50]% Strength <when fighting units from a Civilization with more Cities than you> <after discovering [Civil Service]>",
 		"[-100]% Unhappiness from [Population] [in all cities] <when at war> <after discovering [Civil Service]>",
-		"[+2 Happiness, +1 Culture] [in all cities] <before discovering [Civil Service]>"],
+		"[+2 Happiness, +1 Culture] [in all cities] <before discovering [Civil Service]>",
+		"[Land] units gain the [Kivotos Halo] promotion"],
 		"cities": ["Arius Basilica", "Remnants of Basilica's Downtown", "The Tea Square", "Arius District 1", "Arius District 2", "Arius District 3", "Arius District 7", "Arius District 8", "Arius District 9", "Arius District 10", "Arius District 11"]
 		"personality": "Madame Beatrice"},
 	{
