@@ -1,6 +1,6 @@
 
 game.png
-size: 500,200
+size: 800,200
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -42,6 +42,48 @@ BuildingIcons/Trinity's Vigilante Crew Keep
 BuildingIcons/Sisterhood Cathedral
   rotate: false
   xy: 300, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Lodge of Martyrs
+  rotate: false
+  xy: 600, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Underground Shrine
+  rotate: false
+  xy: 700, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Arius Branch School
+  rotate: false
+  xy: 500, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Unsealed Vault
+  rotate: false
+  xy: 500, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Basilica of Shadows
+  rotate: false
+  xy: 700, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Silent Choir
+  rotate: false
+  xy: 600, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
