@@ -106,7 +106,7 @@
 	},
 	{
 		"name": "Lodge of Martyrs",
-		"uniqueTo": "Arius Beanch School",
+		"uniqueTo": "Arius Branch School",
 		"gold": -5,
 		"culture": -2,
 		"happiness": -2,
@@ -172,7 +172,7 @@
 	},
 	{
 		"name": "Underground Shrine",
-		"uniqueTo": "Arius School",
+		"uniqueTo": "Arius Branch School",
 		"gold": -5,
 		"culture": -2,
 		"happiness": -2,
@@ -194,7 +194,7 @@
 	},
 	{
 		"name": "Unsealed Vault",
-		"uniqueTo": "Trinity General School",
+		"uniqueTo": "Arius Branch School",
 		"gold": 5,
 		"culture": -4,
 		"happiness": -2,
