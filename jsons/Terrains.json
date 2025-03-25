@@ -14,6 +14,6 @@
             "Becomes [Flood plains] when adjacent to [River]",
             "Considered [Undesirable] when determining start locations <in all except [Desert] Regions>",
             "Every [13] tiles with this terrain will receive a major deposit of a strategic resource.",
-    "[-5 Production, -5 Gold, -5 Science, -5 Food, -5 Faith, -5 Happiness, -5 Culture]"]
+    "[-5 Production, -5 Gold, -5 Science, -5 Food, -5 Faith, -5 Happiness, -5 Culture] <for [Abydos High School] Civilisations> <starting from [Modern era]> <hidden from users>"]
 	}
 ]
