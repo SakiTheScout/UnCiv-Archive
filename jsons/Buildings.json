@@ -115,7 +115,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"[+1 Faith] per [2] population [in this city]",
-			"[+20]% Production when constructing [Military] units [in this city] <hidden from users>",
+			"[+20]% Production when constructing [Military] units [in this city]",
 			"[-20]% growth [in this city]",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Basilica of Shadows]> <hidden from users>",
@@ -137,7 +137,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"[+1 Culture] per [2] population [in this city]",
-			"[+20]% Production when constructing [Military] units [in this city] <hidden from users>",
+			"[+20]% Production when constructing [Military] units [in this city]",
 			"[-20]% growth [in this city]",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Lodge of Martyrs]> <hidden from users>",
@@ -159,7 +159,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"[+1 Happiness] per [2] population [in this city]",
-			"[+20]% Production when constructing [Military] units [in this city] <hidden from users>",
+			"[+20]% Production when constructing [Military] units [in this city]",
 			"[-20]% growth [in this city]",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Lodge of Martyrs]> <hidden from users>",
@@ -181,7 +181,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"[+1 Science] per [2] population [in this city]",
-			"[+20]% Production when constructing [Military] units [in this city] <hidden from users>",
+			"[+20]% Production when constructing [Military] units [in this city]",
 			"[-20]% growth [in this city]",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Lodge of Martyrs]> <hidden from users>",
@@ -203,7 +203,7 @@
 		"requiredTech": "Civil Service",
 		"uniques": [
 			"[+1 Gold] per [2] population [in this city]",
-			"[+20]% Production when constructing [Military] units [in this city] <hidden from users>",
+			"[+20]% Production when constructing [Military] units [in this city]",
 			"[-20]% growth [in this city]",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Basilica of Shadows]> <hidden from users>",
