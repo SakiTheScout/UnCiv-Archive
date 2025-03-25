@@ -27,5 +27,63 @@
       "Autocracy": 5,
       "Order": 5
     }
+  },
+  {
+    "name": "Madame Beatrice",
+    "production": 4,
+    "food": 2,
+    "gold": 3,
+    "science": 1,
+    "culture": 1,
+    "happiness": 1,
+    "faith": 2,
+    "military": 10,
+    "aggressive": 10,
+    "declareWar": 10,
+    "commerce": 3,
+    "diplomacy": 2,
+    "loyal": 1,
+    "expansion": 3,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 1,
+      "Honor": 10,
+      "Commerce": 3,
+      "Patronage": 1,
+      "Piety": 6,
+      "Rationalism": 1,
+      "Freedom": 1,
+      "Autocracy": 10,
+      "Order": 1
+    }
+  },
+  {
+    "name": "Takanashi Hoshino",
+    "production": 8,
+    "food": 8,
+    "gold": 6,
+    "science": 7,
+    "culture": 5,
+    "happiness": 7,
+    "faith": 4,
+    "military": 5,
+    "aggressive": 4,
+    "declareWar": 5,
+    "commerce": 7,
+    "diplomacy": 4,
+    "loyal": 10,
+    "expansion": 10,
+    "priorities": {
+      "Tradition": 6,
+      "Liberty": 7,
+      "Honor": 8,
+      "Commerce": 7,
+      "Patronage": 9,
+      "Piety": 4,
+      "Rationalism": 10,
+      "Freedom": 7,
+      "Autocracy": 6,
+      "Order": 7
+    }
   }
 ]
