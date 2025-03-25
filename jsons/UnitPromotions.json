@@ -53,7 +53,7 @@
   {
     "name": "Vanitas Martyrdom",
     "uniques": [
-      "[+200]% Strength <when attacking>",
+      "[+100]% Strength <when attacking>",
       "Self-destructs when attacking",
       "Blast radius [2]"],
     "column": 1,
@@ -69,7 +69,7 @@
   {
     "name": "Silent Chorus",
     "uniques": [
-      "[-25]% Strength for enemy [Wounded] units in adjacent [All] tiles",
+      "[-20]% Strength for enemy [Wounded] units in adjacent [All] tiles",
       "Prevents spreading of religion to the city it is next to",
       "Can see invisible [All] units"],
     "column": 3,
@@ -78,14 +78,14 @@
     "name": "Coming from Below",
     "uniques": [
       "[+50]% to Flank Attack bonuses",
-      "May Paradrop up to [25] tiles from inside friendly territory",
-      "[1] additional attacks per turn <every [2] turns>"],
+      "May Paradrop up to [10] tiles from inside friendly territory",
+      "[1] additional attacks per turn <every [10] turns>"],
     "column": 4,
     "row": 11},
   {
     "name": "Ultimate Judgement",
     "uniques": [
-      "[+100]% Strength <vs units with [Kivotos Halo]> <when attacking>",
+      "[+75]% Strength <vs units with [Kivotos Halo]> <when attacking>",
       "[+25]% Strength <when adjacent to a [Wounded] unit> <when attacking>",
       "Destroys tile improvements when attacking"],
     "column": 5,
