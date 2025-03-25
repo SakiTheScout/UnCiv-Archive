@@ -85,8 +85,8 @@
   {
     "name": "Ultimate Judgement",
     "uniques": [
-      "[+100]% Strength <when attacking> <vs units with [Kivotos Halo]>",
-      "[+25]% Strength <when attacking> <when adjacent to a [Wounded] unit>",
+      "[+100]% Strength <vs units with [Kivotos Halo]> <when attacking>",
+      "[+25]% Strength <when adjacent to a [Wounded] unit> <when attacking>",
       "Destroys tile improvements when attacking"],
     "column": 5,
     "row": 11}
