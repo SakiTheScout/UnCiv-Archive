@@ -27,7 +27,7 @@
 		"afterPeace": "The slaughter is over, we shall be leaving.",
 		"tradeRequest": "We have prepared a deal to you, would you agree?.",
 
-		"outerColor": [255,253,249], "Suppress warning [Trinity General School's colors do not contrast enough - it is unreadable!]",
+		"outerColor": [255,253,249],
 		"innerColor": [255,210,111],
 		"uniqueName": "Trinity Unification",
 		"uniques":["[+1 Happiness] from every [Luxury resource]", "[Land] units gain the [Kivotos Halo] promotion"],
