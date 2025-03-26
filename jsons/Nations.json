@@ -108,6 +108,7 @@
 		"[-20]% [Production] [in all cities] <starting from the [Modern era]> <hidden from users>",
 		"[Land] units gain the [Kivotos Halo] promotion",
 		"[-100]% growth [in all cities] <starting from the [Modern era]> <hidden from users>",
+		"All newly-trained [Land] units [in all cities] receive the [Tea Party] promotion <starting from the [Modern era]>",
 		"Rebel units may spawn <every [7] turns> <starting from the [Modern era]>"],
 		"cities": ["Abydos High School Main Building Annex", "Desertified Abydos Main Building", "Abydos Downtown", "Abydos Desert District 12-77", "Abydos Desert District 36-78", "Abydos Desrt District 41-12", "Abydos Desert District 50-17", "Abydos Desert District 67-77", "Volley of Presidents", "Abydos Ruined District 17-73", "Abydos Ruined District 67-89"],
 		"personality": "Takanashi Hoshino"
