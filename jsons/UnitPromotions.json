@@ -82,6 +82,15 @@
       "[1] additional attacks per turn <every [10] turns>"],
     "column": 4,
     "row": 11},
+    {
+    "name": "Foreclusive Task Force",
+    "uniques": [
+      "[+100]% Strength <vs [Barbarian] units>",
+      "[3] Sight <when fighting in [Friendly Land] tiles>",
+      "Gain [100]-[200] Gold <when fighting in [Friendly Land] tiles> <every [1] turns> <with [75]% chance>",
+      "Earn [100]% of killed [All] unit's [Strength] as [Culture]",],
+    "column": 1,
+    "row": 12},
   {
     "name": "Ultimate Judgement",
     "uniques": [
