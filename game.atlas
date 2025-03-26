@@ -25,6 +25,13 @@ NationIcons/Trinity General School
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Anydos High School
+  rotate: false
+  xy: 100, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Remedial Knights Hospital
   rotate: false
   xy: 0, 100
