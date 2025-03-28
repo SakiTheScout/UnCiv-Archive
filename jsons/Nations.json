@@ -104,7 +104,7 @@
 		"uniques":["[+75]% Strength <when fighting units from a Civilization with more Cities than you>",
 		"[-100]% Unhappiness from [Population] [in all cities] <when at war>",
 		"[Land] units gain the [Kivotos Halo] promotion"],
-		"cities": ["Arius Basilica", "Remnants of Basilica's Downtown", "The Tear Square", "Arius District 1", "Arius District 2", "Arius District 3", "Arius District 7", "Arius District 8", "Arius District 9", "Arius District 10", "Arius District 11"]
+		"cities": ["Arius Basilica", "Remnants of Basilica's Downtown", "The Tear Square", "Arius District 1", "Arius District 2", "Arius District 3", "Arius District 7", "Arius District 8", "Arius District 9", "Arius District 10", "Arius District 11"],
 		"personality": "Madame Beatrice"},
 	{
 		"name": "Abydos High School",
