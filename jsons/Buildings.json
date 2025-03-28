@@ -225,7 +225,7 @@
 		"cost": 40,
 		"requiredTech": "Chivalry",
 		"uniques": [
-			"[+1 Culture, +1 Science, +1 Production, +1 Gold, +1 Happiness, +1 Faith] [in this city] <per city owned>",
+			"[+1 Culture, +1 Science, +1 Production, +1 Gold, +1 Happiness, +1 Faith] [in this city] <for every [Cities]>",
 			"[-1 Culture, -1 Science, -1 Production, -1 Gold, -1 Happiness, -1 Faith] [in all cities]",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Prefect Team Office]> <hidden from users>",
