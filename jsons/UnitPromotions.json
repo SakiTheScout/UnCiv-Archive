@@ -5,7 +5,7 @@
       "Can build [All] improvements on tiles",
       "[+20]% Strength <when fighting in [Friendly Land] tiles>",
       "Gain [1]-[10] [Culture] <every [2] turns> <with [80]% chance> <when not at war>"],
-    "column": 1,{
+    "column": 1,
     "row": 10},
   {
     "name": "Justice Task Force",
@@ -104,7 +104,7 @@
       "Can build [All] improvements on tiles",
       "[+20]% Strength <when fighting in [Friendly Land] tiles>",
       "Gain [1]-[10] [Culture] <every [2] turns> <with [80]% chance> <when not at war>"],
-    "column": 1,{
+    "column": 1,
     "row": 13},
   {
     "name": "Prefect Team",
