@@ -258,7 +258,7 @@
 			"Cannot be purchased <hidden from users>"]
 	},
 	{
-		"name": "Emergency Medicicine Infirmary",
+		"name": "Emergency Medicine Infirmary",
 		"uniqueTo": "Gehenna Academy",
 		"faith": 3,
 		"production": -1,
@@ -295,14 +295,14 @@
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Prefect Team Office]> <hidden from users>",
 			"Only available <in cities without a [Emergency Medicine Infirmary]> <hidden from users>",
-			"Only available <in cities without a [Pandemonium]> <hidden from users>",
+			"Only available <in cities without a [Pandemonium Society Office]> <hidden from users>",
 			"Only available <in cities without a [Outlaws Office]> <hidden from users>",
 			"All newly-trained [Land] units [in this city] receive the [Hot Springs Department] promotion",
 			"Unsellable <hidden from users>",
 			"Cannot be purchased <hidden from users>"]
 	},
 	{
-		"name": "Hot Springs Office",
+		"name": "Outlaws Office",
 		"uniqueTo": "Gehenna Academy",
 		"faith": 4,
 		"production": 3,
