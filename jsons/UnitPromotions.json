@@ -101,42 +101,42 @@
   {
     "name": "Pandemonium Society",
     "uniques": [
-      "Can build [All] improvements on tiles",
-      "[+20]% Strength <when fighting in [Friendly Land] tiles>",
-      "Gain [1]-[10] [Culture] <every [2] turns> <with [80]% chance> <when not at war>"],
+      "[+33]% Strength <when fighting in [Enemy Land] tiles>",
+      "No movement cost to pillage",
+      "Great General provides double combat bonus"],
     "column": 1,
     "row": 13},
   {
     "name": "Prefect Team",
     "uniques": [
-      "[+25]% Strength <when at war>",
+      "[+33]% Strength <when fighting in [Friendly Land] tiles>",
       "[+33]% Strength <vs [Barbarian] units>",
-      "Ignores Zone of Control"],
+      "Withdraws before melee combat <with [33]% chance>"],
     "column": 2,
     "row": 13},
   {
     "name": "Hot Springs Department",
     "uniques": [
-      "Can Spread Religion",
-      "Prevents spreading of religion to the city it is next to",
-      "Unable to pillage tiles",
-      "May enter foreign tiles without open borders"],
+      "Can build [All] improvements on tiles",
+      "Ignores terrain cost",
+      "Can pass through impassable tiles"],
     "column": 3,
     "row": 13},
   {
     "name": "Gehenna's Outlaws",
     "uniques": [
-      "Can see invisible [Land] units",
-      "[+20]% Strength <when defending>",
-      "[+20]% Strength when stacked with [Civilian]"],
+      "May enter foreign tiles without open borders",
+      "[+100]% maintenance costs",
+      "Earn [50]% of the damage done to [All] units as [Culture]",
+      "Earn [150]% of the damage done to [All] units as [Gold]"],
     "column": 4,
     "row": 13},
   {
     "name": "Emergency Medicine Department",
     "uniques": [
-      "[+20]% Strength bonus for [Wounded] units within [3] tiles",
-      "[5] HP when healing",
-      "All adjacent units heal [15] HP when healing"],
+      "No damage penalty for wounded units",
+      "Heals [50] damage if it kills a unit",
+      "All adjacent units heal [10] HP when healing"],
     "column": 5,
     "row": 13}
 ]
