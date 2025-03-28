@@ -312,9 +312,8 @@
 		"cost": 40,
 		"requiredTech": "Chivalry",
 		"uniques": [
-			"[Gold] cost of purchasing [Military] units [-50]% [in this city]",
+			"[Gold] cost of purchasing [Military] units [-5]%",
 			"[-2 Science, -2 Production, -1 Gold] [in all cities]",
-			"Cannot build [Military] units [in this city]",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Prefect Team Office]> <hidden from users>",
 			"Only available <in cities without a [Emergency Medicine Infirmary]> <hidden from users>",
