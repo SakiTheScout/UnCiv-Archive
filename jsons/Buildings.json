@@ -213,5 +213,27 @@
 			"All newly-trained [Land] units [in this city] receive the [Ultimate Judgement] promotion",
 			"Unsellable <hidden from users>",
 			"Cannot be purchased <hidden from users>"]
-	}
+	},
+	{
+		"name": "Pandemonium Society Office",
+		"uniqueTo": "Gehenna Academy",
+		"faith": 1,
+		"production": 1,
+		"happiness": 1,
+		"gold": 2,
+		"culture": 1,
+		"cost": 40,
+		"requiredTech": "Chivalry",
+		"uniques": [
+			"[+1 Culture, +1 Science, +1 Production, +1 Gold, +1 Happiness, +1 Faith] [in this city] <per city owned>",
+			"[-1 Culture, -1 Science, -1 Production, -1 Gold, -1 Happiness, -1 Faith] [in all cities]",
+			"Cost increases by [40] when built",
+			"Only available <in cities without a [Prefect Team Office]> <hidden from users>",
+			"Only available <in cities without a [Emergency Medicine Infirmary]> <hidden from users>",
+			"Only available <in cities without a [Hot Springs Office]> <hidden from users>",
+			"Only available <in cities without a [Outlaws Office]> <hidden from users>",
+			"All newly-trained [Land] units [in this city] receive the [Pandemonium Society] promotion",
+			"Unsellable <hidden from users>",
+			"Cannot be purchased <hidden from users>"]
+	},
 ]
