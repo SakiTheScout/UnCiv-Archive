@@ -58,6 +58,35 @@
     }
   },
   {
+    "name": "Great Leader Makoto",
+    "production": 5,
+    "food": 5,
+    "gold": 4,
+    "science": 5,
+    "culture": 4,
+    "happiness": 6,
+    "faith": 1,
+    "military": 9,
+    "aggressive": 9,
+    "declareWar": 9,
+    "commerce": 7,
+    "diplomacy": 6,
+    "loyal": 4,
+    "expansion": 8,
+    "priorities": {
+      "Tradition": 1,
+      "Liberty": 10,
+      "Honor": 8,
+      "Commerce": 2,
+      "Patronage": 3,
+      "Piety": 3,
+      "Rationalism": 4,
+      "Freedom": 1,
+      "Autocracy": 10,
+      "Order": 1
+    }
+  },
+  {
     "name": "Takanashi Hoshino",
     "production": 8,
     "food": 8,
