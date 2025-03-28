@@ -132,7 +132,7 @@
     "column": 4,
     "row": 13},
   {
-    "name": "Emergency Medicine Department",
+    "name": "Medical Emergency Department",
     "uniques": [
       "No damage penalty for wounded units",
       "Heals [50] damage if it kills a unit",
