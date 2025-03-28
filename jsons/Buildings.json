@@ -312,7 +312,7 @@
 		"cost": 40,
 		"requiredTech": "Chivalry",
 		"uniques": [
-			"[-100]% [Gold] price of purchasing [Military] units [in this city]",
+			"[Gold] cost of purchasing [Military] units [-50]% [in this city]",
 			"[-2 Science, -2 Production, -1 Gold] [in all cities]",
 			"Cannot build [Military] units [in this city]",
 			"Cost increases by [40] when built",
