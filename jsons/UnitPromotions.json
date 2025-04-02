@@ -51,66 +51,6 @@
     "column": 0,
     "row": 1},
   {
-	  "name": "Explosive Damage",
-	  "prerequisites": ["Kivotos Halo"],
-	  "unitTypes": ["Melee", "Ranged"],
-	  "uniques": [
-		  "[+100]% Strength <vs [Light Armor] units> <when attacking>",
-		  "Only available <for units without [Mystic Damage]> <hidden from users>",
-		  "Only available <for units without [Piercing Damage]> <hidden from users>"],
-	  "column": 0,
-	  "row": 2},
-  {
-	  "name": "Piercing Damage",
-	  "prerequisites": ["Kivotos Halo"],
-	  "unitTypes": ["Melee", "Ranged"],
-	  "uniques": [
-		  "[+100]% Strength <vs [Heavy Armor] units> <when attacking>",
-		  "Only available <for units without [Mystic Damage]> <hidden from users>",
-		  "Only available <for units without [Explosive Damage]> <hidden from users>"],
-	  "column": 0,
-	  "row": 3},
-  {
-	  "name": "Mystic Damage",
-	  "prerequisites": ["Kivotos Halo"],
-	  "unitTypes": ["Melee", "Ranged"],
-	  "uniques": [
-		  "[+100]% Strength <vs [Special Armor] units> <when attacking>",
-		  "Only available <for units without [Explosive Damage]> <hidden from users>",
-		  "Only available <for units without [Piercing Damage]> <hidden from users>"],
-	  "column": 0,
-	  "row": 4},
-  {
-	  "name": "Light Armor",
-	  "prerequisites": ["Kivotos Halo"],
-	  "unitTypes": ["Melee", "Ranged"],
-	  "uniques": [
-		  "[+50]% Strength <vs [Piercing Damage] units> <when defending>",
-		  "Only available <for units without [Special Armor]> <hidden from users>",
-		  "Only available <for units without [Heavy Armor]> <hidden from users>"],
-	  "column": 0,
-	  "row": 5},
-  {
-	  "name": "Heavy Armor",
-	  "prerequisites": ["Kivotos Halo"],
-	  "unitTypes": ["Melee", "Ranged"],
-	  "uniques": [
-		  "[+50]% Strength <vs [Mystic Damage] units> <when defending>",
-		  "Only available <for units without [Special Armor]> <hidden from users>",
-		  "Only available <for units without [Light Armor]> <hidden from users>"],
-	  "column": 0,
-	  "row": 6},
-  {
-	  "name": "Special Armor",
-	  "prerequisites": ["Kivotos Halo"],
-	  "unitTypes": ["Melee", "Ranged"],
-	  "uniques": [
-		  "[+50]% Strength <vs [Explosive Damage] units> <when defending>",
-		  "Only available <for units without [Light Armor]> <hidden from users>",
-		  "Only available <for units without [Heavy Armor]> <hidden from users>"],
-	  "column": 0,
-	  "row": 7},
-  {
     "name": "Vanitas Martyrdom",
     "uniques": [
       "[+100]% Strength <when attacking>",
