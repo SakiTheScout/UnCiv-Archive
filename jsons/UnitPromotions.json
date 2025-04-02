@@ -51,6 +51,95 @@
     "column": 1,
     "row": 20},
   {
+		"name": "Explosive Damage",
+		"prerequisites": ["Kivotos Halo"],
+		"uniques": [
+      "[+100]% Strength vs [Light Armor] <when attacking>",
+      "[-50]% Strength vs [Special Armor] <when attacking>",
+      "Only available without [Mystic Damage] promotion <hidden from users>",
+      "Only available without [Piercing Damage] promotion <hidden from users>",
+      "Only available without [Sonic Damage] promotion <hidden from users>",
+      "This Promotion is free"],
+        "column": 2,
+        "row": 20},
+  {
+		"name": "Piercing Damage",
+		"prerequisites": ["Kivotos Halo"],
+		"uniques": [
+      "[+100]% Strength vs [Heavy Armor] <when attacking>",
+      "[-50]% Strength vs [Light Armor] <when attacking>",
+      "Only available without [Mystic Damage] promotion <hidden from users>",
+      "Only available without [Explosive Damage] promotion <hidden from users>",
+      "Only available without [Sonic Damage] promotion <hidden from users>",
+      "This Promotion is free"],
+        "column": 3,
+        "row": 20},
+  {
+		"name": "Mystic Damage",
+		"prerequisites": ["Kivotos Halo"],
+		"uniques": [
+      "[+100]% Strength vs [Special Armor] <when attacking>",
+      "[+50]% Strength vs [Elastic Armor] <when attacking>",
+      "[-50]% Strength vs [Heavy Armor] <when attacking>",
+      "Only available without [Explosive Damage] promotion <hidden from users>",
+      "Only available without [Piercing Damage] promotion <hidden from users>",
+      "Only available without [Sonic Damage] promotion <hidden from users>",
+      "This Promotion is free"],
+        "column": 4,
+        "row": 20},
+  {
+		"name": "Sonic Damage",
+		"prerequisites": ["Kivotos Halo"],
+		"uniques": [
+      "[+100]% Strength vs [Elastic Armor] <when attacking>",
+      "[-50]% Strength vs [Heavy Armor] <when attacking>",
+      "Only available without [Mystic Damage] promotion <hidden from users>",
+      "Only available without [Piercing Damage] promotion <hidden from users>",
+      "Only available without [Explosive Damage] promotion <hidden from users>",
+      "This Promotion is free"],
+        "column": 5,
+        "row": 20},
+  {
+  		"name": "Light Armor",
+		"prerequisites": ["Kivotos Halo"],
+		"uniques": [
+      "Only available without [Special Armor] promotion <hidden from users>",
+      "Only available without [Heavy Armor] promotion <hidden from users>",
+      "Only available without [Elastic Armor] promotion <hidden from users>",
+      "This Promotion is free"],
+        "column": 2,
+        "row": 21},
+  {
+		"name": "Heavy Armor",
+		"prerequisites": ["Kivotos Halo"],
+		"uniques": [
+      "Only available without [Special Armor] promotion <hidden from users>",
+      "Only available without [Light Armor] promotion <hidden from users>",
+      "Only available without [Elastic Armor] promotion <hidden from users>",
+      "This Promotion is free"],
+        "column": 3,
+        "row": 21},
+  {
+		"name": "Special Armor",
+		"prerequisites": ["Kivotos Halo"],
+		"uniques": [
+      "Only available without [Light Armor] promotion <hidden from users>",
+      "Only available without [Heavy Armor] promotion <hidden from users>",
+      "Only available without [Elastic Armor] promotion <hidden from users>",
+      "This Promotion is free"],
+        "column": 4,
+        "row": 21},
+  {
+		"name": "Elastic Armor",
+		"prerequisites": ["Kivotos Halo"],
+		"uniques": [
+      "Only available without [Special Armor] promotion <hidden from users>",
+      "Only available without [Heavy Armor] promotion <hidden from users>",
+      "Only available without [Light Armor] promotion <hidden from users>",
+      "This Promotion is free"],
+        "column": 5,
+        "row": 21},
+  {
     "name": "Vanitas Martyrdom",
     "uniques": [
       "[+100]% Strength <when attacking>",
