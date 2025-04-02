@@ -1,0 +1,18 @@
+[
+  {
+    "name": "Wildhunt-tyoe",
+        "friendBonusUniques": [
+            "[+2 Culture] [in all cities] <before the [Medieval era]>",
+            "[+4 Culture] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+8 Culture] [in all cities] <starting from the [Industrial era]>",
+			"Free Great Person <upon entering a golden age>"
+        ],
+        "allyBonusUniques": [
+            "[+3 Culture] [in all cities] <before the [Medieval era]>",
+            "[+6 Culture] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
+            "[+12 Culture] [in all cities] <starting from the [Industrial era]>",
+			"Free Great Person <upon entering a golden age>",
+      "Free Policy <upon entering a golden age>"
+        ]
+  }
+]
