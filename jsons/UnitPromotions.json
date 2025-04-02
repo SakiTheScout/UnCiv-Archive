@@ -5,16 +5,16 @@
       "Can build [All] improvements on tiles",
       "[+20]% Strength <when fighting in [Friendly Land] tiles>",
       "Gain [1]-[10] [Culture] <every [2] turns> <with [80]% chance> <when not at war>"],
-    "column": 1,
-    "row": 10},
+    "column": 0,
+    "row": 8},
   {
     "name": "Justice Task Force",
     "uniques": [
       "[+25]% Strength <when at war>",
       "[+33]% Strength <vs [Barbarian] units>",
       "Ignores Zone of Control"],
-    "column": 2,
-    "row": 10},
+    "column": 1,
+    "row": 8},
   {
     "name": "Sister Militant",
     "uniques": [
@@ -22,24 +22,24 @@
       "Prevents spreading of religion to the city it is next to",
       "Unable to pillage tiles",
       "May enter foreign tiles without open borders"],
-    "column": 3,
-    "row": 10},
+    "column": 2,
+    "row": 8},
   {
     "name": "Trinity's Vigilante Crew",
     "uniques": [
       "Can see invisible [Land] units",
       "[+20]% Strength <when defending>",
       "[+20]% Strength when stacked with [Civilian]"],
-    "column": 4,
-    "row": 10},
+    "column": 3,
+    "row": 8},
   {
     "name": "Knight Hospitaller",
     "uniques": [
       "[+20]% Strength bonus for [Wounded] units within [3] tiles",
       "[5] HP when healing",
       "All adjacent units heal [15] HP when healing"],
-    "column": 5,
-    "row": 10},
+    "column": 4,
+    "row": 8},
   {
     "name": "Kivotos Halo",
     "uniques": [
@@ -49,7 +49,7 @@
       "[1] Sight",
       "[+100]% Strength <vs [Ranged] units> <when defending>"],
     "column": 0,
-    "row": 10},
+    "row": 1},
   {
 	  "name": "Explosive Damage",
 	  "prerequisites": ["Kivotos Halo"],
@@ -58,7 +58,7 @@
 		  "Only available <for units without [Mystic Damage]> <hidden from users>",
 		  "Only available <for units without [Piercing Damage]> <hidden from users>"],
 	  "column": 0,
-	  "row": 11},
+	  "row": 2},
   {
 	  "name": "Piercing Damage",
 	  "prerequisites": ["Kivotos Halo"],
@@ -67,7 +67,7 @@
 		  "Only available <for units without [Mystic Damage]> <hidden from users>",
 		  "Only available <for units without [Explosive Damage]> <hidden from users>"],
 	  "column": 0,
-	  "row": 12},
+	  "row": 3},
   {
 	  "name": "Mystic Damage",
 	  "prerequisites": ["Kivotos Halo"],
@@ -76,7 +76,7 @@
 		  "Only available <for units without [Explosive Damage]> <hidden from users>",
 		  "Only available <for units without [Piercing Damage]> <hidden from users>"],
 	  "column": 0,
-	  "row": 13},
+	  "row": 4},
   {
 	  "name": "Light Armor",
 	  "prerequisites": ["Kivotos Halo"],
@@ -85,7 +85,7 @@
 		  "Only available <for units without [Special Armor]> <hidden from users>",
 		  "Only available <for units without [Heavy Armor]> <hidden from users>"],
 	  "column": 0,
-	  "row": 14},
+	  "row": 5},
   {
 	  "name": "Heavy Armor",
 	  "prerequisites": ["Kivotos Halo"],
@@ -94,7 +94,7 @@
 		  "Only available <for units without [Special Armor]> <hidden from users>",
 		  "Only available <for units without [Light Armor]> <hidden from users>"],
 	  "column": 0,
-	  "row": 15},
+	  "row": 6},
   {
 	  "name": "Special Armor",
 	  "prerequisites": ["Kivotos Halo"],
@@ -103,47 +103,47 @@
 		  "Only available <for units without [Light Armor]> <hidden from users>",
 		  "Only available <for units without [Heavy Armor]> <hidden from users>"],
 	  "column": 0,
-	  "row": 16},
+	  "row": 7},
   {
     "name": "Vanitas Martyrdom",
     "uniques": [
       "[+100]% Strength <when attacking>",
       "Self-destructs when attacking",
       "Blast radius [2]"],
-    "column": 1,
-    "row": 11},
+    "column": 0,
+    "row": 9},
   {
     "name": "Shadowpath",
     "uniques": [
       "Withdraws before melee combat <with [50]% chance>",
       "Invisible to non-adjacent units",
       "Ignores Zone of Control"],
-    "column": 2,
-    "row": 11},
+    "column": 1,
+    "row": 9},
   {
     "name": "Silent Chorus",
     "uniques": [
       "[-20]% Strength for enemy [Wounded] units in adjacent [All] tiles",
       "Prevents spreading of religion to the city it is next to",
       "Can see invisible [All] units"],
-    "column": 3,
-    "row": 11},
+    "column": 2,
+    "row": 9},
   {
     "name": "Coming from Below",
     "uniques": [
       "[+50]% to Flank Attack bonuses",
       "May Paradrop up to [10] tiles from inside friendly territory",
       "[1] additional attacks per turn <every [10] turns>"],
-    "column": 4,
-    "row": 11},
+    "column": 3,
+    "row": 9},
     {
     "name": "Foreclusive Task Force",
     "uniques": [
       "[+100]% Strength <vs [Barbarian] units>",
       "[3] Sight <when fighting in [Friendly Land] tiles>",
       "Earn [100]% of killed [All] unit's [Strength] as [Culture]"],
-    "column": 1,
-    "row": 12},
+    "column": 4,
+    "row": 9},
   {
     "name": "Ultimate Judgement",
     "uniques": [
@@ -151,31 +151,31 @@
       "[+25]% Strength <when adjacent to a [Wounded] unit> <when attacking>",
       "Destroys tile improvements when attacking"],
     "column": 5,
-    "row": 11},
+    "row": 9},
   {
     "name": "Pandemonium Society",
     "uniques": [
       "[+33]% Strength <when fighting in [Enemy Land] tiles>",
       "No movement cost to pillage",
       "Great General provides double combat bonus"],
-    "column": 1,
-    "row": 13},
+    "column": 0,
+    "row": 10},
   {
     "name": "Prefect Team",
     "uniques": [
       "[+33]% Strength <when fighting in [Friendly Land] tiles>",
       "[+33]% Strength <vs [Barbarian] units>",
       "Withdraws before melee combat <with [33]% chance>"],
-    "column": 2,
-    "row": 13},
+    "column": 1,
+    "row": 10},
   {
     "name": "Hot Springs Department",
     "uniques": [
       "Can build [All] improvements on tiles",
       "Ignores terrain cost",
       "Can pass through impassable tiles"],
-    "column": 3,
-    "row": 13},
+    "column": 2,
+    "row": 10},
   {
     "name": "Gehenna's Outlaws",
     "uniques": [
@@ -183,16 +183,16 @@
       "[+100]% maintenance costs",
       "Earn [50]% of the damage done to [All] units as [Culture]",
       "Earn [150]% of the damage done to [All] units as [Gold]"],
-    "column": 4,
-    "row": 13},
+    "column": 3,
+    "row": 10},
   {
     "name": "Medical Emergency Department",
     "uniques": [
       "No damage penalty for wounded units",
       "Heals [50] damage if it kills a unit",
       "All adjacent units heal [10] HP when healing"],
-    "column": 5,
-    "row": 13},
+    "column": 4,
+    "row": 10},
 	{
 		"name": "Shock IV",
 		"prerequisites": ["Shock III"],
