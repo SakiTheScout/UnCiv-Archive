@@ -48,8 +48,8 @@
       "[1] Movement",
       "[1] Sight",
       "[+100]% Strength <vs [Ranged] units> <when defending>"],
-    "column": 1,
-    "row": 20},
+    "column": 0,
+    "row": 10},
   {
 	  "name": "Explosive Damage",
 	  "prerequisites": ["Kivotos Halo"],
@@ -57,8 +57,8 @@
 		  "[+100]% Strength <vs [Light Armor] units> <when attacking>",
 		  "Only available <for units without [Mystic Damage]> <hidden from users>",
 		  "Only available <for units without [Piercing Damage]> <hidden from users>"],
-	  "column": 2,
-	  "row": 20},
+	  "column": 0,
+	  "row": 11},
   {
 	  "name": "Piercing Damage",
 	  "prerequisites": ["Kivotos Halo"],
@@ -66,8 +66,8 @@
 		  "[+100]% Strength <vs [Heavy Armor] units> <when attacking>",
 		  "Only available <for units without [Mystic Damage]> <hidden from users>",
 		  "Only available <for units without [Explosive Damage]> <hidden from users>"],
-	  "column": 3,
-	  "row": 20},
+	  "column": 0,
+	  "row": 12},
   {
 	  "name": "Mystic Damage",
 	  "prerequisites": ["Kivotos Halo"],
@@ -75,8 +75,8 @@
 		  "[+100]% Strength <vs [Special Armor] units> <when attacking>",
 		  "Only available <for units without [Explosive Damage]> <hidden from users>",
 		  "Only available <for units without [Piercing Damage]> <hidden from users>"],
-	  "column": 4,
-	  "row": 20},
+	  "column": 0,
+	  "row": 13},
   {
 	  "name": "Light Armor",
 	  "prerequisites": ["Kivotos Halo"],
@@ -84,8 +84,8 @@
 		  "[+50]% Strength <vs [Piercing Damage] units> <when defending>",
 		  "Only available <for units without [Special Armor]> <hidden from users>",
 		  "Only available <for units without [Heavy Armor]> <hidden from users>"],
-	  "column": 2,
-	  "row": 21},
+	  "column": 0,
+	  "row": 14},
   {
 	  "name": "Heavy Armor",
 	  "prerequisites": ["Kivotos Halo"],
@@ -93,8 +93,8 @@
 		  "[+50]% Strength <vs [Mystic Damage] units> <when defending>",
 		  "Only available <for units without [Special Armor]> <hidden from users>",
 		  "Only available <for units without [Light Armor]> <hidden from users>"],
-	  "column": 3,
-	  "row": 21},
+	  "column": 0,
+	  "row": 15},
   {
 	  "name": "Special Armor",
 	  "prerequisites": ["Kivotos Halo"],
@@ -102,8 +102,8 @@
 		  "[+50]% Strength <vs [Explosive Damage] units> <when defending>",
 		  "Only available <for units without [Light Armor]> <hidden from users>",
 		  "Only available <for units without [Heavy Armor]> <hidden from users>"],
-	  "column": 4,
-	  "row": 21},
+	  "column": 0,
+	  "row": 16},
   {
     "name": "Vanitas Martyrdom",
     "uniques": [
