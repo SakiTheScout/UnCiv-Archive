@@ -192,5 +192,21 @@
       "Heals [50] damage if it kills a unit",
       "All adjacent units heal [10] HP when healing"],
     "column": 5,
-    "row": 13}
+    "row": 13},
+	{
+		"name": "Shock IV",
+		"prerequisites": ["Shock III"],
+		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles>"],
+		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
+        "column": 4,
+        "row": 4
+	},
+	{
+		"name": "Drill IV",
+		"prerequisites": ["Drill III"],
+		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles>"],
+		"unitTypes": ["Sword","Gunpowder","Mounted","Armored"],
+        "column": 5,
+        "row": 4
+	}
 ]
