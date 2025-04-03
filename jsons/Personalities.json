@@ -28,6 +28,35 @@
       "Order": 5
     }
   },
+   {
+    "name": "Tea Party Council",
+    "production": 5,
+    "food": 5,
+    "gold": 10,
+    "science": 8,
+    "culture": 5,
+    "happiness": 9,
+    "faith": 1,
+    "military": 7,
+    "aggressive": 5,
+    "declareWar": 6,
+    "commerce": 10,
+    "diplomacy": 8,
+    "loyal": 3,
+    "expansion": 6,
+    "priorities": {
+      "Tradition": 3,
+      "Liberty": 7,
+      "Honor": 3,
+      "Commerce": 10,
+      "Patronage": 10,
+      "Piety": 1,
+      "Rationalism": 7,
+      "Freedom": 5,
+      "Autocracy": 5,
+      "Order": 5
+    }
+  },
   {
     "name": "Madame Beatrice",
     "production": 4,
