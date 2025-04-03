@@ -180,7 +180,7 @@
 		"outerColor": [33,68,98],
 		"innerColor": [229,224,220],
 		"uniqueName": "Railroad Masters",
-		"uniques":["[+4 Good, +4 Science, +2 Production, +4 Happiness] from each Trade Route", "[+100]% Culture cost of natural border growth", "[-50]% construction time for [All Road] improvements", "[Land] units gain the [Kivotos Halo] promotion"],
+		"uniques":["[+3 Gold, +3 Production, +3 Culture] from each Trade Route", "[100]% Culture cost of natural border growth", "[-50]% construction time for [All Road] improvements", "[Land] units gain the [Kivotos Halo] promotion"],
 		"cities": ["Highlander Railroad Grand Station", "Train Station 1", "Train Station 2", "Train Station 3", "Train Station 4", "Train Station 5", "Train Station 6", "Train Station 7", "Train Station 8", "Train Station 9", "Train Station 10"],
 		"personality": "Hikari and Nozomi"
 	},
