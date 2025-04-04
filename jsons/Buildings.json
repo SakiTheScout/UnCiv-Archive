@@ -368,7 +368,7 @@
 		"uniques": [
 			"[+1 Science, +2 Gold] <in cities with a [Seminar Branch Office]>",
 			"Limited to [1] per Civilization",
-			"<if [Seminar Branch Office] is constructed in at least [4] of [in all cities] cities>",
+			"Only available <if [Seminar Branch Office] is constructed in at least [4] of [in all cities] cities>",
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
@@ -403,7 +403,7 @@
 		"uniques": [
 			"[+3 Production] <in cities with a [Engineering Department Testing Facility]>",
 			"Limited to [1] per Civilization",
-			"<if [Engineering Department Testing Facility] is constructed in at least [4] of [in all cities] cities>",
+			"Only available <if [Engineering Department Testing Facility] is constructed in at least [4] of [in all cities] cities>",
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
@@ -438,7 +438,7 @@
 		"uniques": [
 			"[+3 Happiness] <in cities with a [Veritas Proxy Server]>",
 			"Limited to [1] per Civilization",
-			"<if [Veritas Proxy Server] is constructed in at least [4] of [in all cities] cities>",
+			"Only available <if [Veritas Proxy Server] is constructed in at least [4] of [in all cities] cities>",
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
@@ -473,7 +473,7 @@
 		"uniques": [
 			"[+1 Science, +2 Faith] <in cities with a [Cognitive Circle's Lodge]>",
 			"Limited to [1] per Civilization",
-			"<if [Cognitive Circle's Lodge] is constructed in at least [4] of [in all cities] cities>",
+			"Only available <if [Cognitive Circle's Lodge] is constructed in at least [4] of [in all cities] cities>",
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
