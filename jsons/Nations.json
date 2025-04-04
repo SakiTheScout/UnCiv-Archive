@@ -196,5 +196,17 @@
 		"outerColor": [70, 44, 56],
 		"innerColor": [203,181,98],
 		"cities": ["Wild Hunt Academy of Arts Main Building"]
-	}
+	},
+		{
+		"name": "Olympian Sports School",
+		"adjective": ["Olympian"],
+		"cityStateType": "Olympian-type",
+
+		"declaringWar": "It is a minor setback.",
+		"attacked": "Why would you do that?",
+		"defeated": "Laurels to the winner...",
+		"outerColor": [255,255,255],
+		"innerColor": [255,255,0],
+		"cities": ["Olympian Sports School Main Building"]
+		}
 ]
