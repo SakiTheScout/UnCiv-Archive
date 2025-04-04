@@ -366,7 +366,7 @@
 		"cost": 400,
 		"requiredTech": "Scientific Theory",
 		"uniques": [
-			"[+1 Science, +2 Gold] <in cities with a [Seminar Branch Office]",
+			"[+1 Science, +2 Gold] <in cities with a [Seminar Branch Office]>",
 			"Limited to [1] per Civilization",
 			"<if [Seminar Branch Office] is constructed in at least [4] of [in all cities] cities>",
 			"Unsellable <hidden from users>",
@@ -401,7 +401,7 @@
 		"cost": 400,
 		"requiredTech": "Scientific Theory",
 		"uniques": [
-			"[+3 Production] <in cities with a [Engineering Department Testing Facility]",
+			"[+3 Production] <in cities with a [Engineering Department Testing Facility]>",
 			"Limited to [1] per Civilization",
 			"<if [Engineering Department Testing Facility] is constructed in at least [4] of [in all cities] cities>",
 			"Unsellable <hidden from users>",
@@ -436,7 +436,7 @@
 		"cost": 400,
 		"requiredTech": "Scientific Theory",
 		"uniques": [
-			"[+3 Happiness] <in cities with a [Veritas Proxy Server]",
+			"[+3 Happiness] <in cities with a [Veritas Proxy Server]>",
 			"Limited to [1] per Civilization",
 			"<if [Veritas Proxy Server] is constructed in at least [4] of [in all cities] cities>",
 			"Unsellable <hidden from users>",
@@ -452,7 +452,7 @@
 		"cost": 40,
 		"requiredTech": "Scientific Theory",
 		"uniques": [
-			"[+1 faith] from every specialist [in all cities]",
+			"[+1 Faith] from every specialist [in all cities]",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Engineering Department Testing Facility]> <hidden from users>",
 			"Only available <in cities without a [Veritas Proxy Server]> <hidden from users>",
@@ -471,7 +471,7 @@
 		"cost": 40,
 		"requiredTech": "Scientific Theory",
 		"uniques": [
-			"[+1 Science, +2 Faith] <in cities with a [Cognitive Circle's Lodge]",
+			"[+1 Science, +2 Faith] <in cities with a [Cognitive Circle's Lodge]>",
 			"Limited to [1] per Civilization",
 			"<if [Cognitive Circle's Lodge] is constructed in at least [4] of [in all cities] cities>",
 			"Unsellable <hidden from users>",
