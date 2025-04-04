@@ -1,6 +1,6 @@
 
 game.png
-size: 1000,200
+size: 1000,300
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -140,6 +140,27 @@ BuildingIcons/Pandemonium Society Office
 NationIcons/Highlander Railroad Academy
   rotate: false
   xy: 900, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Millennium Science School
+  rotate: false
+  xy: 0, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Seminar Branch Office
+  rotate: false
+  xy: 100, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Seminar Head Office
+  rotate: false
+  xy: 100, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
