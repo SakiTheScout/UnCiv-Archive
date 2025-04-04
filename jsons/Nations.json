@@ -184,6 +184,41 @@
 		"cities": ["Highlander Railroad Grand Station", "Train Station 1", "Train Station 2", "Train Station 3", "Train Station 4", "Train Station 5", "Train Station 6", "Train Station 7", "Train Station 8", "Train Station 9", "Train Station 10"],
 		"personality": "Hikari and Nozomi"
 	},
+	{
+		"name": "Millennium Science School",
+		"leaderName": "Seminar",
+		"adjective": ["Millennial"],
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Scientific",
+		
+		"startIntroPart1": "Oh, Millennium. The youngest Great School in Kivotos. Nobody could have even had believed that our humble school would achive such greatness. Our scientific inventions are known and used by majority of population, our potents yield us great money. But we didn't earn our great legacy yet, we are disliked by other Great Schools. They underestimate us. How foolish...",
+		"startIntroPart2": "President Tsukatsuki Rio, leader of Seminar. You have proven a smart and logical leader with paranoiac tendencies. Will you manage to suppress all opposition? Will Millennium crush these arrogant old schools?",
+		
+		"declaringWar": "Your illogical behaviour has provoked us to declare war.",
+		"attacked": "Fool. This will be punished.",
+		"defeated": "Uncalculated result...",
+		"introduction": "Greetings. I am Tsukatsuki Rio, president of Seminar.",
+		
+		"neutralHello": "Hello. Don't be impressed by talking coffee machine, its AI needs to he corrected.",
+		"neutralLetsHearIt": "What are your suggestions then?",
+		"neutralNo": "This is out of our current plans.",
+		"neutralYes": "This is suitable for our purposes.",
+
+		"hateHello": "These handcuffs are necessary.",
+		"hateLetsHearIt": "Speak.",
+		"hateNo": "This is not according to our plans.",
+		"hateYes": "This is according to our plans",
+		
+		"afterPeace": "War is over, time to process our experience.",
+		"tradeRequest": "According to calculations, this trade offer will not be rejected.",
+
+		"outerColor": [241,246,255],
+		"innerColor": [61,130,255],
+		"uniqueName": "Expanding Ingenuity",
+		"uniques":["Triggers a [Millennium Prize] event <every [50] turns>", "[Land] units gain the [Kivotos Halo] promotion"],
+		"cities": ["Millennium Study Centre", "Millennium Engineering Hangars", "Millennium Data Centre", "Millennium Research Facility", "Millennium Testing Facility", "Millennium Central Park", "Millennium District 1", "Millennium District 2", "Millennium District 3", "Millennium District 4", "Millennium District 5"],
+		"personality": "Seminar"
+	},
 	
 	{
 		"name": "Wild Hunt Academy of Arts",
