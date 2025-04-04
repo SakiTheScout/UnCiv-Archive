@@ -215,7 +215,7 @@
 		"outerColor": [241,246,255],
 		"innerColor": [61,130,255],
 		"uniqueName": "Expanding Ingenuity",
-		"uniques":["Triggers a [Millennium Prize] event <every [10] turns> <(modified by game speed)>", "[-1 Gold] [in all cities]", "[Land] units gain the [Kivotos Halo] promotion"],
+		"uniques":["Triggers a [Millennium Prize] event <every [10] turns>", "[-1 Gold] [in all cities]", "[Land] units gain the [Kivotos Halo] promotion"],
 		"cities": ["Millennium Study Centre", "Millennium Engineering Hangars", "Millennium Data Centre", "Millennium Research Facility", "Millennium Testing Facility", "Millennium Central Park", "Millennium District 1", "Millennium District 2", "Millennium District 3", "Millennium District 4", "Millennium District 5"],
 		"personality": "Seminar"
 	},
