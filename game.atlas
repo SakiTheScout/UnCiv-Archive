@@ -172,6 +172,13 @@ BuildingIcons/Engineering Department Testing Facility
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Engineering Department Main Facility
+  rotate: false
+  xy: 200, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Cognitive Circle's Lodge
   rotate: false
   xy: 300, 200
@@ -179,7 +186,21 @@ BuildingIcons/Cognitive Circle's Lodge
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Cognitive Council
+  rotate: false
+  xy: 300, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Veritas Proxy Server
+  rotate: false
+  xy: 400, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Veritas Lodge
   rotate: false
   xy: 400, 200
   size: 100, 100
