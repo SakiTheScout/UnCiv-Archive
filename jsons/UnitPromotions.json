@@ -139,6 +139,38 @@
       "All adjacent units heal [10] HP when healing"],
     "column": 4,
     "row": 10},
+	  {
+    "name": "Seminar",
+    "uniques": [
+      "Gain [1]-[10] [Science] <every [2] turns> <when not at war>",
+      "Gain [1]-[10] [Gold] <every [2] turns> <when not at war>",
+      "[1] Movement <when fighting in [Friendly Land] tiles>"],
+    "column": 0,
+    "row": 11},
+	{
+    "name": "Veritas",
+    "uniques": [
+      "[-25]% Strength for enemy [Wounded] units in adjacent [All] tiles",
+      "[+50]% to Flank Attack bonuses",
+      "Can see invisible [All] units"],
+    "column": 1,
+    "row": 11},
+	{
+    "name": "Engineering Department",
+    "uniques": [
+      "Can build [All] improvements on tiles",
+      "[+33]% Strength <vs [Barbarian] units>",
+      "Heals [50] damage if it kills a unit"],
+    "column": 2,
+    "row": 11},
+	{
+    "name": "Cognitive Circle",
+    "uniques": [
+      "Earn [100]% of killed [All] unit's [Strength] as [Culture]",
+      "Prevents spreading of religion to the city it is next to",
+      "Gain [1]-[10] [Faith] <every [2] turns> <when not at war>"],
+    "column": 3,
+    "row": 11},
 	{
 		"name": "Shock IV",
 		"prerequisites": ["Shock III"],
