@@ -21,13 +21,13 @@
             "[+2 Happiness] [in all cities] <before the [Medieval era]>",
             "[+4 Happiness] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+8 Happiness] [in all cities] <starting from the [Industrial era]>",
-		"[+1 Happiness] from [Happiness] buildings"
+		"[+1 Happiness] from every [Happiness] buildings"
         ],
         "allyBonusUniques": [
             "[+3 Happiness] [in all cities] <before the [Medieval era]>",
             "[+6 Happiness] [in all cities] <starting from the [Medieval era]> <before the [Industrial era]>",
             "[+12 Happiness] [in all cities] <starting from the [Industrial era]>",
-		"[+2 Happiness] from [Happiness] buildings",
+		"[+2 Happiness] from every [Happiness] buildings",
 		"[+25]% XP gained from combat"
         ]
   }
