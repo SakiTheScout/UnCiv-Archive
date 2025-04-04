@@ -116,6 +116,35 @@
     }
   },
   {
+    "name": "Seminar",
+    "production": 7,
+    "food": 5,
+    "gold": 8,
+    "science": 10,
+    "culture": 4,
+    "happiness": 4,
+    "faith": 1,
+    "military": 8,
+    "aggressive": 7,
+    "declareWar": 4,
+    "commerce": 7,
+    "diplomacy": 9,
+    "loyal": 6,
+    "expansion": 5,
+    "priorities": {
+      "Tradition": 5,
+      "Liberty": 8,
+      "Honor": 4,
+      "Commerce": 10,
+      "Patronage": 6,
+      "Piety": 1,
+      "Rationalism": 10,
+      "Freedom": 2,
+      "Autocracy": 7,
+      "Order": 7
+    }
+  },
+  {
     "name": "Takanashi Hoshino",
     "production": 8,
     "food": 8,
