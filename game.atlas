@@ -165,3 +165,24 @@ BuildingIcons/Seminar Head Office
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Engineering Department Testing Facility
+  rotate: false
+  xy: 200, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Cognitive Circle's Lodge
+  rotate: false
+  xy: 300, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Veritas Proxy Server
+  rotate: false
+  xy: 400, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
