@@ -13,9 +13,9 @@
                     "Gain [100]-[200] [Science] <(modified by game speed)> <before the [Medieval era]>",
                     "Gain [250]-[500] [Science] <(modified by game speed)> <starting from the [Medieval era]> <before the [Industrial era]>",
                     "Gain [500]-[1000] [Science] <(modified by game speed)> <starting from the [Industrial era]>",
-                    "Instantly consumes [400] [Gold] <(modified by game speed)> <before the [Medieval era]>",
-                    "Instantly consumes [800] [Gold] <(modified by game speed)> <starting from the [Medieval era]> <before the [Industrial era]>",
-                    "Instantly consumes [1200] [Gold] <(modified by game speed)> <starting from the [Industrial era]>",
+                    "Gain [-400] [Gold] <(modified by game speed)> <before the [Medieval era]>",
+                    "Gain [-800] [Gold] <(modified by game speed)> <starting from the [Medieval era]> <before the [Industrial era]>",
+                    "Gain [-1200] [Gold] <(modified by game speed)> <starting from the [Industrial era]>",
                     "Free Technology"
                 ]
             },
