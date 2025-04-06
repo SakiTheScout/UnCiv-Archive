@@ -177,9 +177,9 @@
       "Earn [100]% of killed [All] unit's [Strength] as [Golden Age points]",
       "[+150]% Yield from pillaging tiles",
       "[+75]% Health from pillaging tiles",
-      "[-33]% Strength",
+      "[-25]% Strength",
       "[+10]% Strength bonus for [Helmet Gang] units within [2] tiles",
-      "[-10] HP when healing"],
+      "[-5] HP when healing"],
     "column": 0,
     "row": 12},
 	{
