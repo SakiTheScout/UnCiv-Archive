@@ -26,5 +26,43 @@
                 ]
             }
         ]
-    }
+    },
+  {
+        "name": "Chief Election",
+        "text": "Today, we elect a chief who will lead the entire gang! They will be...",
+        "choices": [
+            {
+                "text": "Cunning",
+                "uniques":
+                    "Gain an extra spy",
+            },
+          {
+            "text": "Brutal",
+            "uniques":
+              "Free [Great General] appears",
+          },
+          {
+            "text": "Fancy",
+            "uniques":
+            "Free Policy"],
+          },
+  {
+    "text": "Rich",
+    "uniques": [
+     "Gain [400]-[800] [Gold] <(modified by game speed)> <before the [Medieval era]>",
+     "Gain [800]-[1200] [Gold] <(modified by game speed)> <starting from the [Medieval era]> <before the [Industrial era]>",
+     "Gain [1200]-[2000] [Gold] <(modified by game speed)> <starting from the [Industrial era]>"]
+  },
+  {
+    "text": "Fast",
+    "uniques":
+    "[3] Movement <for [15] turns>"
+  },
+            {
+                "text": "Smart",
+                "uniques":
+                    "Free Technology"
+            }
+        ]
+  }
 ]
