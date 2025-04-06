@@ -219,6 +219,40 @@
 		"cities": ["Millennium Study Centre", "Millennium Engineering Hangars", "Millennium Data Centre", "Millennium Research Facility", "Millennium Testing Facility", "Millennium Central Park", "Millennium District 1", "Millennium District 2", "Millennium District 3", "Millennium District 4", "Millennium District 5"],
 		"personality": "Seminar"
 	},
+	{
+		"name": "The Helmet Gang",
+		"leaderName": "Council of Officers",
+		"adjective": ["Helmet Ganger"],
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Back in the day, we was just a bunch of hardheads smashin’ skulls and takin’ goods. Then we realized – why fight each other when we could crush EVERYONE else? So we banded together, strapped on our helmets, and now? We’re the baddest, richest, toughest crew in Kivotos. You don’t like it? Haha! Try us.",
+		"startIntroPart2": "Yo, dumbasses! Listen up! This is Helmet Gang talkin’ da Big Boss, Smash Queen, and Bone Crusher at the top. We don’t do fancy words or weak ‘tea parties.’ We smash, we loot, we stomp. Follow or get flattened.",
+		
+		"declaringWar": "HEY DIPSHIT! TIME TO DIE!",
+		"attacked": "THEY THINK THEY CAN HIT US?! CRUSH ‘EM!",
+		"defeated": "Ugh… This ain’t over, moron…",
+		"introduction": "The hell you want? Speak fast or get smashed.",
+		
+		"neutralHello": "Uh… what? You talkin’ to us?",
+		"neutralLetsHearIt": "Spit it out, loser.",
+		"neutralNo": "HA! NO.",
+		"neutralYes": "…Fine. But we ain’t happy ‘bout it.",
+		
+		"hateHello": "Oh, it’s YOU. Wanna get wrecked?",
+		"hateLetsHearIt": "You better not be wastin’ ou' time, punk.",
+		"hateNo": "HELL NO. SCREW OFF.", 
+		"hateYes": "Tch… FINE. But we’re still gonna kick your ass later.",
+		
+		"afterPeace": "BORING. Let’s go find someone to punch.",
+		"tradeRequest": "Yo, we got stuff. You got stuff. Wanna swap or what?",
+		
+		"outerColor": [13,10,0],
+		"innerColor": [255,252,242],
+		"uniqueName": "Mighty and many",
+		"uniques":["[Land] units gain the [Kivotos Halo] promotion", "[Land] units gain the [Helmet Gang] promotion", "[+50]% Production when constructing [Military] units [in all cities]", "\"Borrows\" city names from other civilizations in the game"],
+		"cities": ["The Helmet Keep"],
+	},
 	
 	{
 		"name": "Wild Hunt Academy of Arts",
