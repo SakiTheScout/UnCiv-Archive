@@ -179,7 +179,7 @@
       "[+75]% Health from pillaging tiles",
       "[-33]% Strength",
       "[+10]% Strength bonus for [Helmet Gang] units within [2] tiles",
-      "Can only heal by pillaging"],
+      "[-10] HP when healing"],
     "column": 0,
     "row": 12},
 	{
