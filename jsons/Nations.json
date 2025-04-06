@@ -251,7 +251,7 @@
 		"innerColor": [255,252,242],
 		"uniqueName": "Mighty and many",
 		"uniques":["Triggers a [Chief Elections] event <upon entering a Golden Age>", "[Land] units gain the [Kivotos Halo] promotion", "[Land] units gain the [Helmet Gang] promotion", "[+50]% Production when constructing [{Military} {Land}] units [in all cities]", "\"Borrows\" city names from other civilizations in the game"],
-		"cities": ["The Helmet Keep"],
+		"cities": ["The Helmet Keep"]
 	},
 	
 	{
