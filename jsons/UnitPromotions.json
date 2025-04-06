@@ -172,6 +172,17 @@
     "column": 3,
     "row": 11},
 	{
+    "name": "Helmet Gang",
+    "uniques": [
+      "Earn [100]% of killed [All] unit's [Strength] as [Golden Age points]",
+      "[+150]% Yield from pillaging tiles",
+      "[+75]% Health from pillaging tiles",
+      "[-33]% Strength",
+      "[+10]% Strength bonus for [Helmet Gang] units within [2] tiles",
+      "Can only heal by pillaging"],
+    "column": 0,
+    "row": 12},
+	{
 		"name": "Shock IV",
 		"prerequisites": ["Shock III"],
 		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles>"],
