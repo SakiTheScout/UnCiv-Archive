@@ -232,7 +232,19 @@
 		"innerColor": [203,181,98],
 		"cities": ["Wild Hunt Academy of Arts Main Building"]
 	},
-		{
+	{
+		"name": "Odyssey Maritime School",
+		"adjective": ["Odyssean"],
+		"cityStateType": "Odyssey-type",
+
+		"declaringWar": "It is a minor setback.",
+		"attacked": "We will sail away from you.",
+		"defeated": "The starlight fades above the seas...",
+		"outerColor": [255,102,0],
+		"innerColor": [0,127,255],
+		"cities": ["Odyssey Maritime School Main Building"]
+	},
+	{
 		"name": "Olympian Sports School",
 		"adjective": ["Olympian"],
 		"cityStateType": "Olympian-type",
@@ -241,7 +253,7 @@
 		"attacked": "Why would you do that?",
 		"defeated": "Laurels to the winner...",
 		"outerColor": [255,255,255],
-		"innerColor": [255,255,0],
+		"innerColor": [255,220,0],
 		"cities": ["Olympian Sports School Main Building"]
 		}
 ]
