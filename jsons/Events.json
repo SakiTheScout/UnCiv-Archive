@@ -33,18 +33,18 @@
         "choices": [
             {
                 "text": "Cunning",
-                "uniques":
-                    "Gain an Extra Spy"
+                "uniques":[
+                    "Gain an Extra Spy"]
             },
           {
             "text": "Brutal",
-            "uniques":
-              "Free [Great General] appears"
+            "uniques": [
+              "Free [Great General] appears"]
           },
           {
             "text": "Fancy",
-            "uniques":
-            "Free Policy"
+            "uniques": [
+            "Free Policy"]
           },
   {
     "text": "Rich",
@@ -55,13 +55,13 @@
   },
   {
     "text": "Fast",
-    "uniques":
-    "[3] Movement <for [15] turns>"
+    "uniques": [
+    "[3] Movement <for [15] turns>"]
   },
             {
                 "text": "Smart",
-                "uniques":
-                    "Free Technology"
+                "uniques": [
+                    "Free Technology"]
             }
         ]
   }
