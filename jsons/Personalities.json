@@ -144,6 +144,35 @@
       "Order": 7
     }
   },
+    {
+    "name": "Council of Officers",
+    "production": 6,
+    "food": 5,
+    "gold": 5,
+    "science": 6,
+    "culture": 4,
+    "happiness": 10,
+    "faith": 1,
+    "military": 10,
+    "aggressive": 10,
+    "declareWar": 10,
+    "commerce": 2,
+    "diplomacy": 2,
+    "loyal": 1,
+    "expansion": 10,
+    "priorities": {
+      "Tradition": 7,
+      "Liberty": 3,
+      "Honor": 10,
+      "Commerce": 4,
+      "Patronage": 5,
+      "Piety": 2,
+      "Rationalism": 5,
+      "Freedom": 2,
+      "Autocracy": 10,
+      "Order": 2
+    }
+  },
   {
     "name": "Takanashi Hoshino",
     "production": 8,
