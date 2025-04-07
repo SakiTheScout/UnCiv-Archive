@@ -166,7 +166,7 @@
       {
         "name": "School Organisation",
         "row": 11,
-        "prerequisites": ["Early Schooling", "Writing"], 
+        "prerequisites": ["Early Schooling", "Writing"]
       },
 			{
 				"name": "Philosophy",
@@ -449,7 +449,7 @@
 		"era": "Industrial era",
 		"techCost": 2350,
 		"buildingCost": 360,
-		"wonderCost": 900, // Note that this column doesn't actually have any wonders. This just continues the wonderCost = 2.5 * buildingCost pattern from the last few columns.
+		"wonderCost": 900,
 		"techs": [
 			{
 				"name": "Biology",
@@ -490,7 +490,7 @@
 			{
 				"name": "Refrigeration",
 				"row": 2,
-				"prerequisites": ["Biology", "Electricity"], //todo: offshore platform should need this
+				"prerequisites": ["Biology", "Electricity"],
                 "uniques": ["[-75]% weight to this choice for AI decisions"],
 				"quote": "'And homeless near a thousand homes I stood, and near a thousand tables pined and wanted food.' - William Wordsworth"
 			},
@@ -597,4 +597,141 @@
 		"columnNumber": 14,
 		"era": "Atomic era",
 		"techCost": 6400,
-    
+		"buildingCost": 500,
+		"wonderCost": 1250,
+		"techs": [
+			{
+				"name": "Ecology",
+				"row": 2,
+				"prerequisites": ["Atomic Theory","Pharmaceuticals"],
+				"quote": "'Only within the moment of time represented by the present century has one species, man, acquired significant power to alter the nature of his world.' - Rachel Carson"
+			},
+			{
+				"name": "Nuclear Fission",
+				"row": 4,
+				"prerequisites": ["Atomic Theory","Radar"],
+				"quote": "'I am become Death, the destroyer of worlds.' - J. Robert Oppenheimer"
+			},
+			{
+				"name": "Rocketry",
+				"row": 6,
+				"prerequisites": ["Radar"],
+                "uniques": ["[+100]% weight to this choice for AI decisions"],
+				"quote": "'A good rule for rocket experimenters to follow is this: always assume that it will explode.' - Astronautics Magazine, 1937"
+			},
+			{
+				"name": "Computers",
+				"row": 8,
+				"prerequisites": ["Combined Arms","Radar"],
+				"quote": "'Computers are like Old Testament gods: lots of rules and no mercy.' - Joseph Campbell"
+			}
+		]
+	},
+	{
+		"columnNumber": 15,
+		"era": "Information era",
+		"techCost": 7700,
+		"buildingCost": 750,
+		"wonderCost": 1250,
+		"techs": [
+			{
+				"name": "Telecommunications",
+				"row": 2,
+				"prerequisites": ["Ecology"],
+				"quote": "'The more we elaborate our means of communication, the less we communicate.' - J.B. Priestly"
+			},
+			{
+				"name": "Mobile Tactics",
+				"row": 3,
+				"prerequisites": ["Ecology","Nuclear Fission"],
+				"quote": "'All men can see these tactics whereby I conquer, but what none can see is the strategy out of which victory is evolved.' - Sun Tzu"
+			},
+			{
+				"name": "Advanced Ballistics",
+				"row": 5,
+				"prerequisites": ["Nuclear Fission","Rocketry"],
+				"quote": "'Our scientific power has outrun our spiritual power, we have guided missiles and misguided men.' – Martin Luther King Jr."
+			},
+			{
+				"name": "Satellites",
+				"row": 6,
+				"prerequisites": ["Rocketry"],
+				"uniques": ["Reveals the entire map","[+200]% weight to this choice for AI decisions"],
+				"quote": "'Now, somehow, in some new way, the sky seemed almost alien.' - Lyndon B. Johnson"
+			},
+			{
+				"name": "Robotics",
+				"row": 7,
+				"prerequisites": ["Rocketry","Computers"],
+				"quote": "'1. A robot may not injure a human being or, through inaction, allow a human being to come to harm. 2. A robot must obey any orders given to it by human beings, except when such orders would conflict with the First Law. 3. A robot must protect its own existence as long as such protection does not conflict with the First or Second Law.' - Isaac Asimov"
+			},
+			{
+				"name": "Lasers",
+				"row": 8,
+				"prerequisites": ["Computers"],
+                "uniques": ["[-100]% weight to this choice for AI decisions"],
+				"quote": "'The night is far spent, the day is at hand: let us therefore cast off the works of darkness, and let us put on the armor of light.' - The Holy Bible: Romans, 13:12"
+			}
+		]
+	},
+
+	{
+		"columnNumber": 16,
+		"era": "Information era",
+		"techCost": 8800,
+		"buildingCost": 750,
+		"wonderCost": 1250,
+		"techs": [
+			{
+				"name": "Globalization",
+				"row": 2,
+				"prerequisites": ["Telecommunications"],
+                "uniques": ["[-100]% weight to this choice for AI decisions"],
+				"quote": "'The new electronic interdependence recreates the world in the image of a global village.' - Marshall McLuhan"
+			},
+			{
+				"name": "Particle Physics",
+				"row": 3,
+				"prerequisites": ["Telecommunications","Mobile Tactics","Advanced Ballistics"],
+				"quote": "'Every particle of matter is attracted by or gravitates to every other particle of matter with a force inversely proportional to the squares of their distances.' - Isaac Newton"
+			},
+			{
+				"name": "Nuclear Fusion",
+				"row": 6,
+				"prerequisites": ["Advanced Ballistics", "Satellites", "Robotics"],
+                "uniques": ["[-100]% weight to this choice for AI decisions"],
+				"quote": "'The release of atomic energy has not created a new problem. It has readily made more urgent the necessity of solving an existing one.' - Albert Einstein"
+			},
+			{
+				"name": "Nanotechnology",
+				"row": 7,
+				"prerequisites": ["Robotics"],
+				"quote": "'The impact of nanotechnology is expected to exceed the impact that the electronics revolution has had on our lives.' - Richard Schwartz"
+			},
+			{
+				"name": "Stealth",
+				"row": 8,
+				"prerequisites": ["Robotics", "Lasers"],
+                "uniques": ["[-100]% weight to this choice for AI decisions"],
+				"quote": "'Be extremely subtle, even to the point of formlessness, be extremely mysterious, even to the point of soundlessness. Thereby you can be the director of the opponent's fate.' - Sun Tzu"
+			}
+		]
+	},
+	{
+		"columnNumber": 17,
+		"era": "Future era",
+		"techCost": 9500,
+		"buildingCost": 750,
+		"wonderCost": 1250,
+		"techs": [
+			{
+				"name": "Future Tech",
+				"row": 5,
+				"prerequisites": ["Globalization","Particle Physics","Nuclear Fusion","Nanotechnology","Stealth"],
+				"uniques": ["Can be continually researched", "[+10]% Strength"],
+				"quote": "'I think we agree, the past is over.' - George W. Bush",
+                "civilopediaText": [{"text": "Who knows what the future holds?"}]
+			}
+		]
+	}
+]
