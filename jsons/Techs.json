@@ -11,13 +11,13 @@
         "row": 11,
         "quote": "'Where all miracles begin.'",
         "uniques": [
-	"Only available for [Abydos High School] Civilisations",
-	"Only available for [Arius Branch School] Civilisations",
-	"Only available for [Trinity General School] Civilisations",
-	"Only available for [Millennium Science School] Civilisations",
-	"Only available for [Gehenna Academy] Civilisations",
-	"Only available for [The Helmet Gang] Civilisations",
-	"Only available for [Highlander Railroad Academy] Civilisations"]
+	"Only available <for [Abydos High School] Civilisations>",
+	"Only available <for [Arius Branch School] Civilisations>",
+	"Only available <for [Trinity General School] Civilisations>",
+	"Only available <for [Millennium Science School] Civilisations>",
+	"Only available <for [Gehenna Academy] Civilisations>",
+	"Only available <for [The Helmet Gang] Civilisations>",
+	"Only available <for [Highlander Railroad Academy] Civilisations>"]
       },
 			{
 				"name": "Agriculture",
