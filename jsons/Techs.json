@@ -58,11 +58,11 @@
 	      ]
       },
 	{
-		"columnNumber": 7,
+                "columnNumber": 8,
 		"era": "Renaissance era",
-		"techCost": 780,
-		"buildingCost": 200,
-		"wonderCost": 500,
+		"techCost": 1150,
+		"buildingCost": 250,
+		"wonderCost": 625,
 		"techs": [
 			{
 				"name": "Festivals",
