@@ -8,7 +8,7 @@
 		"techs": [
       {
         "name": "Halo Genesis",
-        "row": 0,
+        "row": 11,
         "quote": "'Where all miracles begin.'",
         "uniques": ["Unavailable"]
       },
@@ -122,7 +122,7 @@
 		"techs": [
       {
         "name": "Early Schooling",
-        "row": 0,
+        "row": 11,
         "prerequisites": ["Halo Genesis"],
         "uniques": ["[+1 Science] [in all cities]"]
       },
@@ -165,8 +165,7 @@
 		"techs": [
       {
         "name": "School Organisation",
-        "cost": 45,
-        "row": 0,
+        "row": 11,
         "prerequisites": ["Early Schooling", "Writing"], 
       },
 			{
@@ -249,7 +248,7 @@
 		"techs": [
       {
         "name": "High Schools",
-        "row": 0,
+        "row": 11,
         "prerequisites": ["Civil Service", "School Organisation"],
         "uniques": ["[+15]% XP gained from combat"]
       },
@@ -350,7 +349,7 @@
 		"techs": [
       {
         "name": "Festivals",
-        "row": 0,
+        "row": 11,
         "prerequisites": ["High Schools", "Acoustics"],
         "uniques": ["[+1 Culture] [in all cities]"]
       },
@@ -398,7 +397,7 @@
 		"techs": [
       {
         "name": "School Logistics I",
-        "row": 0,
+        "row": 11,
         "prerequisites": ["Festivals"],
         "uniques": ["[+1 Science] [in l cities]"]
       },
