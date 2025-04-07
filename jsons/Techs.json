@@ -25,6 +25,7 @@
         "row": 11,
         "prerequisites": ["Halo Genesis"],
         "uniques": ["[+1 Science] [in all cities]"]
+	      ]
       },
 	{
 		"columnNumber": 4,
@@ -37,6 +38,7 @@
         "name": "School Organisation",
         "row": 11,
         "prerequisites": ["Early Schooling", "Writing"]
+	      ]
       },
 	{
 		"columnNumber": 6,
@@ -50,6 +52,7 @@
         "row": 11,
         "prerequisites": ["Civil Service", "School Organisation"],
         "uniques": ["[+15]% XP gained from combat"]
+	      ]
       },
       {
 		"columnNumber": 9,
@@ -63,6 +66,7 @@
         "row": 11,
         "prerequisites": ["Festivals"],
         "uniques": ["[+1 Science] [in all cities]"]
+	      ]
       },
 	{
 		"columnNumber": 17,
