@@ -67,7 +67,7 @@
 			{
 				"name": "Festivals",
 				"row": 11,
-				"prerequisite": ["Acoustics", "High Schools"]
+				"prerequisites": ["Acoustics", "High Schools"]
 				"uniques": ["[+2 Culture] [in all cities]"]
 			}
 		]
