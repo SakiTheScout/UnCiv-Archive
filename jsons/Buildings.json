@@ -652,7 +652,7 @@
 		"Only available <in cities without a [General High School]> <hidden from users>"]
 	},
 	{
-		"name": "Cultural High School",
+		"name": "General High School",
 		"requiredTech": "High Schools",
 		"cost": 350,
 		"culture": 2,
