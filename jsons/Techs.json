@@ -10,7 +10,13 @@
         "name": "Halo Genesis",
         "row": 11,
         "quote": "'Where all miracles begin.'",
-        "uniques": ["Only available <for [Abydos High School, Millennium Science School, The Helmet Gang, Gehenna Academy, Trinity General School, Arius Branch School]>"]
+        "uniques": ["Only available <for [Abydos High School]>",
+	"Only available <for [Arius Branch School]>",
+	"Only available <for [Trinity General School]>",
+	"Only available <for [Millennium Science School]>",
+	"Only available <for [Gehenna Academy]>",
+	"Only available <for [The Helmet Gang]>",
+	"Only available <for [Highlander Railroad Academy]>"]
       },
 			{
 				"name": "Agriculture",
