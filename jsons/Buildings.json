@@ -586,7 +586,10 @@
 		"Only available <in cities without a [Military High School]> <hidden from users>",
 		"Only available <in cities without a [Cultural High School]> <hidden from users>",
 		"Only available <in cities without a [Merchant High School]> <hidden from users>",
-		"Only available <in cities without a [General High School]> <hidden from users>"]
+		"Only available <in cities without a [General High School]> <hidden from users>",
+		"Only available <in cities without a [Agricultural High School]> <hidden from users>",
+		"Only available <in cities without a [Maritime High School]> <hidden from users>",
+		"Only available <in cities without a [Religious High School]> <hidden from users>"]
 	},
 	{
 		"name": "Engineering High School",
@@ -603,8 +606,11 @@
 		"Only available <in cities without a [Military High School]> <hidden from users>",
 		"Only available <in cities without a [Cultural High School]> <hidden from users>",
 		"Only available <in cities without a [Merchant High School]> <hidden from users>",
-		"Only available <in cities without a [General High School]> <hidden from users>"]
-	},
+		"Only available <in cities without a [General High School]> <hidden from users>",
+		"Only available <in cities without a [Agricultural High School]> <hidden from users>",
+		"Only available <in cities without a [Maritime High School]> <hidden from users>",
+		"Only available <in cities without a [Religious High School]> <hidden from users>"]
+			},
 	{
 		"name": "Military High School",
 		"requiredTech": "High Schools",
@@ -617,8 +623,11 @@
 		"Only available <in cities without a [Scientific High School]> <hidden from users>",
 		"Only available <in cities without a [Cultural High School]> <hidden from users>",
 		"Only available <in cities without a [Merchant High School]> <hidden from users>",
-		"Only available <in cities without a [General High School]> <hidden from users>"]
-	},
+		"Only available <in cities without a [General High School]> <hidden from users>",
+		"Only available <in cities without a [Agricultural High School]> <hidden from users>",
+		"Only available <in cities without a [Maritime High School]> <hidden from users>",
+		"Only available <in cities without a [Religious High School]> <hidden from users>"]
+			},
 	{
 		"name": "Cultural High School",
 		"requiredTech": "High Schools",
@@ -633,7 +642,10 @@
 		"Only available <in cities without a [Military High School]> <hidden from users>",
 		"Only available <in cities without a [Scientific High School]> <hidden from users>",
 		"Only available <in cities without a [Merchant High School]> <hidden from users>",
-		"Only available <in cities without a [General High School]> <hidden from users>"]
+		"Only available <in cities without a [General High School]> <hidden from users>",
+		"Only available <in cities without a [Agricultural High School]> <hidden from users>",
+		"Only available <in cities without a [Maritime High School]> <hidden from users>",
+		"Only available <in cities without a [Religious High School]> <hidden from users>"]
 	},
 	{
 		"name": "Merchant High School",
@@ -649,7 +661,10 @@
 		"Only available <in cities without a [Military High School]> <hidden from users>",
 		"Only available <in cities without a [Scientific High School]> <hidden from users>",
 		"Only available <in cities without a [Cultural High School]> <hidden from users>",
-		"Only available <in cities without a [General High School]> <hidden from users>"]
+		"Only available <in cities without a [General High School]> <hidden from users>",
+		"Only available <in cities without a [Agricultural High School]> <hidden from users>",
+		"Only available <in cities without a [Maritime High School]> <hidden from users>",
+		"Only available <in cities without a [Religious High School]> <hidden from users>"]
 	},
 	{
 		"name": "General High School",
@@ -667,6 +682,69 @@
 		"Only available <in cities without a [Military High School]> <hidden from users>",
 		"Only available <in cities without a [Scientific High School]> <hidden from users>",
 		"Only available <in cities without a [Merchant High School]> <hidden from users>",
-		"Only available <in cities without a [Cultural High School]> <hidden from users>"]
+		"Only available <in cities without a [Cultural High School]> <hidden from users>",
+		"Only available <in cities without a [Agricultural High School]> <hidden from users>",
+		"Only available <in cities without a [Maritime High School]> <hidden from users>",
+		"Only available <in cities without a [Religious High School]> <hidden from users>"]
+	},
+	{
+		"name": "Maritime High School",
+		"requiredTech": "High Schools",
+		"cost": 350,
+		"culture": 2,
+		"specialistSlots": {"Merchant":1},
+		"maintenance": 10,
+		"requiredBuilding": "Middle School",
+		"uniques": ["[+50]% Production when constructing [Water] units [in this city]",
+		"[+2 Gold, +1 Culture] from [Coast] tiles [in this city]",
+		"Only available <in cities without a [Engineering High School]> <hidden from users>",
+		"Only available <in cities without a [Military High School]> <hidden from users>",
+		"Only available <in cities without a [Scientific High School]> <hidden from users>",
+		"Only available <in cities without a [Cultural High School]> <hidden from users>",
+		"Only available <in cities without a [General High School]> <hidden from users>",
+		"Only available <in cities without a [Agricultural High School]> <hidden from users>",
+		"Only available <in cities without a [Merchant High School]> <hidden from users>",
+		"Only available <in cities without a [Religious High School]> <hidden from users>"]
+	},
+	{
+		"name": "Religious High School",
+		"requiredTech": "High Schools",
+		"cost": 350,
+		"culture": 3,
+		"science": 2,
+		"faith": 4,
+		"specialistSlots": {"Artist":1},
+		"maintenance": 10,
+		"requiredBuilding": "Middle School",
+		"uniques": ["[Faith] cost for purchasing items in cities [-10]%",
+		"[+2 Faith] from every specialist [in this city]",
+		"Only available <in cities without a [Engineering High School]> <hidden from users>",
+		"Only available <in cities without a [Military High School]> <hidden from users>",
+		"Only available <in cities without a [Scientific High School]> <hidden from users>",
+		"Only available <in cities without a [Cultural High School]> <hidden from users>",
+		"Only available <in cities without a [General High School]> <hidden from users>",
+		"Only available <in cities without a [Agricultural High School]> <hidden from users>",
+		"Only available <in cities without a [Maritime High School]> <hidden from users>",
+		"Only available <in cities without a [Merchant High School]> <hidden from users>"]
+	},
+	{
+		"name": "Agricultural High School",
+		"requiredTech": "High Schools",
+		"cost": 350,
+		"culture": 2,
+		"food": 4,
+		"specialistSlots": {"Merchant":1, "Scientist":1},
+		"maintenance": 10,
+		"requiredBuilding": "Middle School",
+		"uniques": ["[+1 Food] from every [Farm, Plantation] improvement [in this city]",
+		"[+2 Food] from every specialist [in this city]",
+		"Only available <in cities without a [Engineering High School]> <hidden from users>",
+		"Only available <in cities without a [Military High School]> <hidden from users>",
+		"Only available <in cities without a [Scientific High School]> <hidden from users>",
+		"Only available <in cities without a [Cultural High School]> <hidden from users>",
+		"Only available <in cities without a [General High School]> <hidden from users>",
+		"Only available <in cities without a [Marchant High School]> <hidden from users>",
+		"Only available <in cities without a [Maritime High School]> <hidden from users>",
+		"Only available <in cities without a [Religious High School]> <hidden from users>"]
 	}
 ]
