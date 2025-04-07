@@ -549,7 +549,7 @@
 		"maintenance": 3,
 		"uniques": ["[Land] Units adjacent to this city heal [5] HP per turn when healing",
 		"[20]% of food is carried over after population increases [in this city]",
-		"[Land] Units adjacent to this city heal [5] HP per turn when healing <after discovering [Biology]"]
+		"[Land] Units adjacent to this city heal [5] HP per turn when healing <after discovering [Biology]>"]
 	},
 	{
 		"name": "Elementary School",
