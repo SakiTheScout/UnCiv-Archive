@@ -399,7 +399,7 @@
         "name": "School Logistics I",
         "row": 11,
         "prerequisites": ["Festivals"],
-        "uniques": ["[+1 Science] [in l cities]"]
+        "uniques": ["[+1 Science] [in all cities]"]
       },
 			{
 				"name": "Archaeology",
