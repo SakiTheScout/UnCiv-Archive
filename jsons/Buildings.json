@@ -477,5 +477,13 @@
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
+	},
+	{
+		"name": "Classroom",
+		"requiredTech": "Early Schooling",
+		"cost": 45,
+		"science": 1,
+		"happiness": 1,
+		"maintenance": 1
 	}
 ]
