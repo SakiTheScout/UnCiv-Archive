@@ -88,6 +88,20 @@
 	      ]
       },
 	{
+		"columnNumber": 13,
+		"era": "Atomic era",
+		"techCost": 5100,
+		"buildingCost": 500,
+		"wonderCost": 1250,
+		"techs": [
+			{
+				"name": "School Logistics II",
+				"row": 11,
+				"prerequisites": ["School Logistics I", "Electricity"]
+			}
+		]
+	},
+	{
 		"columnNumber": 17,
 		"era": "Future era",
 		"techCost": 9500,
