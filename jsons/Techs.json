@@ -23,7 +23,7 @@
       {
         "name": "Early Schooling",
         "row": 11,
-        "prerequisites": ["Halo Genesis"],
+        "prerequisites": ["Halo Genesis", "Writing"],
         "uniques": ["[+1 Science] [in all cities]"]
       }
 	      ]
@@ -38,7 +38,7 @@
       {
         "name": "School Organisation",
         "row": 11,
-        "prerequisites": ["Early Schooling", "Writing"]
+        "prerequisites": ["Early Schooling", "Mathematics"]
       }
 	      ]
       },
