@@ -493,8 +493,8 @@
 		"science": 1,
 		"specialistSlots": {"Scientist":1},
 		"happiness": 2,
-		"maintenance": 4
-		"uniques": ["[+2 Science] per [4] population [in this city]",
+		"maintenance": 4,
+		"uniques": ["[+2 Science] per [4] population [in this city]"
 		]
 	},
 	{
@@ -605,7 +605,7 @@
 		"Only available <in cities without a [Cultural High School]> <hidden from users>",
 		"Only available <in cities without a [Merchant High School]> <hidden from users>",
 		"Only available <in cities without a [General High School]> <hidden from users>"]
-	}
+	},
 	{
 		"name": "Military High School",
 		"requiredTech": "High Schools",
