@@ -27,7 +27,7 @@
 		"uniques": [ "'Girlfriend'", "Only available <in cities without a ['Girlfriend']>"]
 	},
 	{ 
-		"name": "Building A",
+		"name": "Building B",
 		"requiredTech": "Agriculture",
 		"uniques": [ "'Girlfriend'", "Only available <in cities without a ['Girlfriend']>"]
 	},
