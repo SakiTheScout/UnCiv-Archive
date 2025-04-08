@@ -1,8 +1,8 @@
 [
-  {
+	{
 		"name": "Eleph",
 		"resourceType": "Strategic",
 		"uniques": ["Stockpiled"],
 		"revealedBy": "Halo Genesis"
-	},
+	}
 ]
