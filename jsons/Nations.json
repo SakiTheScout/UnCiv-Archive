@@ -256,8 +256,7 @@
 		"outerColor": [68,166,98],
 		"innerColor": [242,255,244],
 		"uniqueName": "Preserved Traditions",
-		"uniques":["[+1 Production, +1 Science, +1 Culture, +1 Gold, +1 Happiness, +1 Faith, +1 Food] [in all cities] <when above [15] [Happiness]>",
-			"[-1 Production, -1 Science, -1 Culture, -1 Gold, -1 Happiness, -1 Faith, -1 Food] [in all cities] <when below [0] [Happiness]>",
+		"uniques":["[+1 Production, +1 Science, +1 Culture, +1 Gold, +1 Faith, +1 Food] [in all cities] <for every [10] [Happiness]>",
 			"[Land] units gain the [Kivotos Halo] promotion"],
 		"cities": ["Shanhaijing Main Special Area", "Shanhaijing Downtown 1", "Shanhaijing Downtown 2", "Shanhaijing Downtown 3", "Shanhaijing Outskirts 1", "Shanhaijing Outskirts 2", "Shanhaijing Outskirts 3", "Shanhaijing Outskirts 4", "Shanhaijing Wildlands 1", "Shanhaijing Wildlands 2", "Shanhaijing Wildlands 3"],
 		"personality": "Ryuuge Kisaki"
