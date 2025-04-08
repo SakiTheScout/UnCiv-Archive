@@ -211,7 +211,7 @@
 		"hateHello": "These handcuffs are necessary.",
 		"hateLetsHearIt": "Speak.",
 		"hateNo": "This is not according to our plans.",
-		"hateYes": "This is according to our plans",
+		"hateYes": "This is according to our plans.",
 		
 		"afterPeace": "War is over, time to process our experience.",
 		"tradeRequest": "According to calculations, this trade offer will not be rejected.",
@@ -224,6 +224,43 @@
 			"[Land] units gain the [Kivotos Halo] promotion"],
 		"cities": ["Millennium Study Centre", "Millennium Engineering Hangars", "Millennium Data Centre", "Millennium Research Facility", "Millennium Testing Facility", "Millennium Central Park", "Millennium District 1", "Millennium District 2", "Millennium District 3", "Millennium District 4", "Millennium District 5"],
 		"personality": "Seminar"
+	},
+	{
+		"name": "Shanhaijing Second Senior School",
+		"leaderName": "Ryuuge Kisaki",
+		"adjective": ["Shanhaijing"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "Shanhaijing... A name that resembles ancient, preserved traditions of countless generations before us. Discipline, respect, awe before the Madam... Have these traitors forgotten that? First, we had to allow free entrance to Black Tortoise Promenade streets, these tourists, walking money wallets and nothing more to these merchants under Rumi's lead!",
+		"startIntroPart2": "What awaits us next, Madam Ryuuge Kisaki? Will we manage to preserve our traditions while keeping up with other Great Schools? What will be left of our school when all of that will be over?..",
+		
+		"declaringWar": "I, Ryuuge Kisaki of Genryumon, sign my decree: a war against you.",
+		"attacked": "I, Ryuuge Kisaki of Genryumon, will protect my people from your shadow.",
+		"defeated": "...Forgive me, Shanhaijing... I... Failed...",
+		"introduction": "Greetings, be guest to Shanhaijing Second Senior School. I am Ryuuge Kisaki, president of this school. Fufu, mostly people call me Madam to not mistaken with other presidents.",
+		
+		"neutralHello": "So you stand before the Madam of Genryumon. What would you like to say?",
+		"neutralLetsHearIt": "I am listening to your offer.",
+		"neutralNo": "I am afraid Genryumon and Shanhaijing is not going to accept it.",
+		"neutralYes": "This is a generous offer. I, Ryuuge Kisaki, accept this offer.",
+
+		"hateHello": "I hope Genryumon didn't neat you too hard during interrogation.",
+		"hateLetsHearIt": "Speak.",
+		"hateNo": "This is an outrageous offer. Throw this fool away.",
+		"hateYes": "I will consider this offer...",
+		
+		"afterPeace": "Yet another war has passed by Shanhaijing.",
+		"tradeRequest": "I, Ryuuge Kisaki of Genryumon, offer you this trade.",
+
+		"outerColor": [68,166,98],
+		"innerColor": [242,255,244],
+		"uniqueName": "Preserved Traditions",
+		"uniques":["",
+			"",
+			""],
+		"cities": ["Shanhaijing Main Special Area", "Shanhaijing Downtown 1", "Shanhaijing Downtown 2", "Shanhaijing Downtown 3", "Shanhaijing Outskirts 1", "Shanhaijing Outskirts 2", "Shanhaijing Outskirts 3", "Shanhaijing Outskirts 4", "Shanhaijing Wildlands 1", "Shanhaijing Wildlands 2", "Shanhaijing Wildlands 3"],
+		"personality": "Ryuuge Kisaki"
 	},
 	{
 		"name": "The Helmet Gang",
