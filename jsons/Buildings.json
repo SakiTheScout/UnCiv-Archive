@@ -485,6 +485,7 @@
 		"science": 1,
 		"happiness": 1,
 		"maintenance": 1
+		"uniques": ["Provides [1] [Eleph]"]
 	},
 	{
 		"name": "Early School",
@@ -494,8 +495,8 @@
 		"specialistSlots": {"Scientist":1},
 		"happiness": 2,
 		"maintenance": 4,
-		"uniques": ["[+2 Science] per [4] population [in this city]"
-		]
+		"uniques": ["[+2 Science] per [4] population [in this city]",
+		"Provides [1] [Eleph]"]
 	},
 	{
 		"name": "Cafeteria",
@@ -504,7 +505,8 @@
 		"happiness": 1,
 		"food": 2,
 		"maintenance": 2,
-		"uniques": ["[+5]% growth [in this city]"]
+		"uniques": ["[+5]% growth [in this city]",
+		"Provides [1] [Eleph]"]
 	},
 	{
 		"name": "Student Council Room",
@@ -517,7 +519,8 @@
 		"uniques": ["[-10]% Culture cost of adopting new Policies",
 		"[-20]% unhappiness from the number of cities",
 		"[+25]% Great Person generation [in this city]",
-		"[-5]% XP required for promotions"]
+		"[-5]% XP required for promotions",
+		"Provides [5] [Eleph]"]
 	},
 	{
 		"name": "Supervisory Office",
@@ -530,7 +533,8 @@
 		"[+2]% [Gold] [in all cities]",
 		"[+2]% [Food] [in all cities]",
 		"[+2]% [Science] [in all cities]",
-		"Only available <if [Student Council Room] is constructed>"]
+		"Only available <if [Student Council Room] is constructed>",
+		"Provides [1] [Eleph]"]
 	},
 	{
 		"name": "Treasurer Office",
@@ -540,7 +544,8 @@
 		"uniques": ["[Gold] cost of purchasing items in cities [-5]%",
 		"[-5]% maintenance on road & railroads",
 		"[-2]% maintenance cost for buildings [in all cities]",
-		"Only available <if [Student Council Room] is constructed>"]
+		"Only available <if [Student Council Room] is constructed>",
+		"Provides [1] [Eleph]"]
 	},
 	{
 		"name": "School Infirmary",
@@ -548,7 +553,8 @@
 		"cost": 140,
 		"maintenance": 3,
 		"uniques": ["[Land] Units adjacent to this city heal [5] HP per turn when healing",
-		"[20]% Food is carried over after population increases [in this city]"]
+		"[20]% Food is carried over after population increases [in this city]",
+		"Provides [1] [Eleph]"]
 	},
 	{
 		"name": "Elementary School",
@@ -558,7 +564,8 @@
 		"requiredBuilding": "Library",
 		"uniques": ["[+20]% growth [in this city]",
 		"[+1 Happiness] per [2] population [in this city]",
-		"[+1 Science] per [3] population [in this city]"]
+		"[+1 Science] per [3] population [in this city]",
+		"Provides [2] [Eleph]"]
 	},
 	{
 		"name": "Middle School",
@@ -569,7 +576,8 @@
 		"requiredBuilding": "Elementary School",
 		"uniques": ["[+25]% Great Person generation [in this city]",
 		"New [Military] units start with [10] XP [in this city]",
-		"[+2 Science] per [2] population [in this city]"]
+		"[+2 Science] per [2] population [in this city]",
+		"Provides [3] [Eleph]"]
 	},
 	{
 		"name": "Scientific High School",
@@ -582,6 +590,7 @@
 		"requiredBuilding": "Middle School",
 		"uniques": ["[+2 Science, +1 Production] per [2] population [in this city]",
 		"[+2 Science] from every specialist [in this city]",
+		"Provides [5] [Eleph]",
 		"Only available <in cities without a [Engineering High School]> <hidden from users>",
 		"Only available <in cities without a [Military High School]> <hidden from users>",
 		"Only available <in cities without a [Cultural High School]> <hidden from users>",
@@ -602,6 +611,7 @@
 		"requiredBuilding": "Middle School",
 		"uniques": ["[+2 Production, +1 Gold] per [2] population [in this city]",
 		"[+2 Production] from every specialist [in this city]",
+		"Provides [5] [Eleph]",
 		"Only available <in cities without a [Scientific High School]> <hidden from users>",
 		"Only available <in cities without a [Military High School]> <hidden from users>",
 		"Only available <in cities without a [Cultural High School]> <hidden from users>",
@@ -619,6 +629,7 @@
 		"requiredBuilding": "Middle School",
 		"uniques": ["New [Military] units start with [30] XP [in this city]",
 		"[+50]% Production when constructing [Military] units [in this city]",
+		"Provides [5] [Eleph]",
 		"Only available <in cities without a [Engineering High School]> <hidden from users>",
 		"Only available <in cities without a [Scientific High School]> <hidden from users>",
 		"Only available <in cities without a [Cultural High School]> <hidden from users>",
@@ -638,6 +649,7 @@
 		"requiredBuilding": "Middle School",
 		"uniques": ["[-5]% Culture cost of adopting new Policies",
 		"[+2 Culture] from every specialist [in this city]",
+		"Provides [5] [Eleph]",
 		"Only available <in cities without a [Engineering High School]> <hidden from users>",
 		"Only available <in cities without a [Military High School]> <hidden from users>",
 		"Only available <in cities without a [Scientific High School]> <hidden from users>",
@@ -657,6 +669,7 @@
 		"requiredBuilding": "Middle School",
 		"uniques": ["[+3 Gold, +1 Culture, +1 Science, +1 Food, +2 Production] from each Trade Route",
 		"[+2 Gold] from every specialist [in this city]",
+		"Provides [5] [Eleph]",
 		"Only available <in cities without a [Engineering High School]> <hidden from users>",
 		"Only available <in cities without a [Military High School]> <hidden from users>",
 		"Only available <in cities without a [Scientific High School]> <hidden from users>",
@@ -678,6 +691,7 @@
 		"requiredBuilding": "Middle School",
 		"uniques": ["[+25]% Great Person generation [in this city]",
 		"[+1 Culture, +1 Production, +1 Gold, +1 Science] from every specialist [in all cities]",
+		"Provides [5] [Eleph]",
 		"Only available <in cities without a [Engineering High School]> <hidden from users>",
 		"Only available <in cities without a [Military High School]> <hidden from users>",
 		"Only available <in cities without a [Scientific High School]> <hidden from users>",
@@ -697,6 +711,7 @@
 		"requiredBuilding": "Middle School",
 		"uniques": ["[+50]% Production when constructing [Water] units [in this city]",
 		"[+2 Gold, +1 Culture] from [Water] tiles [in this city]",
+		"Provides [5] [Eleph]",
 		"Only available <in cities without a [Engineering High School]> <hidden from users>",
 		"Only available <in cities without a [Military High School]> <hidden from users>",
 		"Only available <in cities without a [Scientific High School]> <hidden from users>",
@@ -718,6 +733,7 @@
 		"requiredBuilding": "Middle School",
 		"uniques": ["[Faith] cost of purchasing items in cities [-10]%",
 		"[+2 Faith] from every specialist [in this city]",
+		"Provides [5] [Eleph]",
 		"Only available <in cities without a [Engineering High School]> <hidden from users>",
 		"Only available <in cities without a [Military High School]> <hidden from users>",
 		"Only available <in cities without a [Scientific High School]> <hidden from users>",
@@ -739,6 +755,7 @@
 		"uniques": ["[+1 Food] from [Farm] tiles [in this city]",
 		"[+2 Food] from [Plantation] tiles [in this city]",
 		"[+2 Food] from every specialist [in this city]",
+		"Provides [5] [Eleph]",
 		"Only available <in cities without a [Engineering High School]> <hidden from users>",
 		"Only available <in cities without a [Military High School]> <hidden from users>",
 		"Only available <in cities without a [Scientific High School]> <hidden from users>",
