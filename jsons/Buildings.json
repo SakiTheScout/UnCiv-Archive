@@ -21,16 +21,6 @@
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
 	},
-	{ 
-		"name": "Building A",
-		"requiredTech": "Agriculture",
-		"uniques": [ "'Girlfriend'", "Only available <in cities without a ['Girlfriend']>"]
-	},
-	{ 
-		"name": "Building B",
-		"requiredTech": "Agriculture",
-		"uniques": [ "'Girlfriend'", "Only available <in cities without a ['Girlfriend']>"]
-	},
 	{
 		"name": "Justice Realisation Committee Stronghold",
 		"uniqueTo": "Trinity General School",
