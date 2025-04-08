@@ -166,7 +166,7 @@
 	{
     "name": "Cognitive Circle",
     "uniques": [
-      "Earn [100]% of killed [All] unit's [Strength] as [Culture]",
+      "Earn [100]% of killed [All] unit's [Strength] as [Faith]",
       "Prevents spreading of religion to the city it is next to",
       "Gain [1]-[10] [Faith] <every [2] turns> <when not at war>"],
     "column": 3,
@@ -181,6 +181,38 @@
       "[+10]% Strength bonus for [Helmet Gang] units within [2] tiles",
       "[-5] HP when healing"],
     "column": 0,
+    "row": 12},
+	{
+    "name": "Black Tortoise Promenade",
+    "uniques": [
+      "Can build [All] improvements on tiles",
+      "All adjacent units heal [10] HP when healing"",
+      "Gain [1]-[10] [Gold] <every [2] turns> <with [80]% chance> <when not at war>"],
+    "column": 1,
+    "row": 12},
+	{
+    "name": "Peking Opera",
+    "uniques": [
+      "Earn [100]% of killed [All] unit's [Strength] as [Culture]",
+      "Withdraws before melee combat <with [33]% chance>",
+      "Prevents spreading of religion to the city it is next to"],
+    "column": 2,
+    "row": 12},
+	{
+    "name": "Eastern Alchemy Society",
+    "uniques": [
+      "No damage penalty for wounded units",
+      "[-20]% Strength for enemy [Wounded] units in adjacent [All] tiles",
+      "Gain [1]-[10] [Science] <every [2] turns> <with [80]% chance> <when not at war>"],
+    "column": 3,
+    "row": 12},
+	{
+    "name": "Genryumon",
+    "uniques": [
+      "Can see invisible [All] units",
+      "[+50]% Strength <when defending> <when fighting in [Friendly Land] tiles>",
+      "Great General provides double combat bonus"],
+    "column": 4,
     "row": 12},
 	{
 		"name": "Shock IV",
