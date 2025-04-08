@@ -493,7 +493,7 @@
 			"[-100]% enemy spy effectiveness [in this city] <when above [-5] [Happiness]>",
 			"[-10]% enemy spy effectiveness [in all cities] <when above [-5] [Happiness]>",
 			"[+3 Gold, +3 Production] [in this city] <when above [-5] [Happiness]>",
-			"[-2 Happiness] [in all cities",
+			"[-2 Happiness] [in all cities]",
 			"[-10]% Unhappiness from [Population] [in all cities] <when above [-5] [Happiness]>",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Peking Opera Stage]> <hidden from users>",
