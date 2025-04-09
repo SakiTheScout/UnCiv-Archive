@@ -214,3 +214,38 @@ NationIcons/The Helmet Gang
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Shanhaijing Second Senior School
+  rotate: false
+  xy: 600, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Genryumon Quarters
+  rotate: false
+  xy: 600, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Eastern Alchemy Society Lab
+  rotate: false
+  xy: 700, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Pekinh Opera Stage
+  rotate: false
+  xy: 800, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Black Tortoise Promenade Market
+  rotate: false
+  xy: 900, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
