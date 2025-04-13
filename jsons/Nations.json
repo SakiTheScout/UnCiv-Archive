@@ -334,8 +334,7 @@
 		"uniques":["[-1 Food, -1 Culture, +3 Gold] [in all cities] <upon entering a new era>",
 			"Comment [This nation is capable of bribing population or committing crimes towards it.",
 			"Can spend Gold to annex or puppet a City-State that has been your Ally for [10] turns",
-			"",
-			""],
+			"[+5 Gold, -5 Happiness] [in all cities] <starting from the [Modern era]> <hidden from users>"],
 		"cities": ["Kaiser Corporation HQ"],
 		"personality": "CEO"
 	},
