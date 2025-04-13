@@ -674,6 +674,21 @@
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
 	},
+	{
+		"name": "Forced Production",
+		"uniqueTo": "Kaiser Corporation",
+		"cost": 200,
+		"requiredTech": "Guilds",
+		"uniques": [
+			"[+5 Production, -3 Happiness] [in this city] <for [10] turns>",
+			"Remove [Forced Production] [in this city] <after [10] turns>",
+			"[-1] population [in this city] <after [10] turns>",
+			"Shown while unbuilable <hidden from users>",
+			"Unbuildable <hidden from users>",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Can be purchased with [Gold] [in all cities]"]
+	},
 	
 	{
 		"name": "Classroom",
