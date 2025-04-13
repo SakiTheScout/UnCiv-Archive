@@ -579,7 +579,7 @@
 			"Only available <in cities without a [Kaiser Industries Office]> <hidden from users>",
 			"Only available <in cities without a [Kaiser Convince Store]> <hidden from users>",
 			"Only available <in cities without a [Kaiser PMC Camp]> <hidden from users>",
-			"All newly-trained [Land] units [in this city] receive the [Kaiser Constructions] promotion",
+			"All newly-trained [Land] units [in this city] receive the [Kaiser Worker] promotion",
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
@@ -598,6 +598,7 @@
 			"Only available <in cities without a [Kaiser PMC Camp]> <hidden from users>",
 			"Only available <in cities without a [Kaiser Industries Office]> <hidden from users>",
 			"Only available <in cities without a [Kaiser Constructions Office]> <hidden from users>",
+			"All newly-trained [Land] units [in this city] receive the [Kaiser Worker] promotion",
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
@@ -616,7 +617,7 @@
 			"Only available <in cities without a [Kaiser Constructions Office]> <hidden from users>",
 			"Only available <in cities without a [Kaiser PMC Camp]> <hidden from users>",
 			"Only available <in cities without a [Kaiser Convince Store]> <hidden from users>",
-			"All newly-trained [Land] units [in this city] receive the [Kaiser Constructions] promotion",
+			"All newly-trained [Land] units [in this city] receive the [Kaiser Worker] promotion",
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
@@ -816,7 +817,7 @@
 		"Only available <in cities without a [Agricultural High School]> <hidden from users>",
 		"Only available <in cities without a [Maritime High School]> <hidden from users>",
 		"Only available <in cities without a [Religious High School]> <hidden from users>"]
-			},
+	},
 	{
 		"name": "Military High School",
 		"requiredTech": "High Schools",
@@ -834,7 +835,7 @@
 		"Only available <in cities without a [Agricultural High School]> <hidden from users>",
 		"Only available <in cities without a [Maritime High School]> <hidden from users>",
 		"Only available <in cities without a [Religious High School]> <hidden from users>"]
-			},
+	},
 	{
 		"name": "Cultural High School",
 		"requiredTech": "High Schools",
