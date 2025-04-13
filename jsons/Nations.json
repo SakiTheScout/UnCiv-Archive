@@ -328,8 +328,8 @@
 		"afterPeace": "BORING. Let’s go find someone to punch.",
 		"tradeRequest": "Yo, we got stuff. You got stuff. Wanna swap or what?",
 		
-		"outerColor": [13,10,0],
-		"innerColor": [255,252,242],
+		"outerColor": [255,204,0],
+		"innerColor": [14,11,0],
 		"uniqueName": "Money is power",
 		"uniques":["[-1 Food, -1 Culture, +3 Gold] [in all cities] <upon entering a new era>",
 			"Comment [This nation is capable of bribing population or committing crimes towards it.",
