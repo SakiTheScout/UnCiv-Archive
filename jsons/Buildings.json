@@ -535,7 +535,7 @@
 		"requiredTech": "Drama and Poetry",
 		"uniques": [
 			"[+1 Faith, +2 Culture] [in all cities] <when above [-5] [Happiness]>",
-			"[+3 Faith, +4 Happiness, +5 Culture] [in thist city] <when above [-5] [Happiness]>",
+			"[+3 Faith, +4 Happiness, +5 Culture] [in this city] <when above [-5] [Happiness]>",
 			"[5]% of excess happiness converted to [Culture] <when above [-5] [Happiness]>",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Black Tortoise Promenade Market]> <hidden from users>",
@@ -555,7 +555,7 @@
 		"requiredTech": "Drama and Poetry",
 		"uniques": [
 			"[+1 Happiness, +2 Science] [in all cities] <when above [-5] [Happiness]>",
-			"[+3 Gold, +4 Happiness, +5 Science] [in thist city] <when above [-5] [Happiness]>",
+			"[+3 Gold, +4 Happiness, +5 Science] [in this city] <when above [-5] [Happiness]>",
 			"[5]% of excess happiness converted to [Science] <when above [-5] [Happiness]>",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Black Tortoise Promenade Market]> <hidden from users>",
