@@ -203,6 +203,35 @@
     }
   },
   {
+    "name": "CEO",
+    "production": 2,
+    "food": 3,
+    "gold": 10,
+    "science": 5,
+    "culture": 6,
+    "happiness": 1,
+    "faith": 1,
+    "military": 9,
+    "aggressive": 10,
+    "declareWar": 6,
+    "commerce": 10,
+    "diplomacy": 10,
+    "loyal": 1,
+    "expansion": 7,
+    "priorities": {
+      "Tradition": 10,
+      "Liberty": 1,
+      "Honor": 2,
+      "Commerce": 10,
+      "Patronage": 9,
+      "Piety": 4,
+      "Rationalism": 6,
+      "Freedom": 3,
+      "Autocracy": 10,
+      "Order": 4
+    }
+  },
+  {
     "name": "Takanashi Hoshino",
     "production": 8,
     "food": 8,
