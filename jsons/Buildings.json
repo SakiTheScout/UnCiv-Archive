@@ -566,6 +566,113 @@
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
 	},
+	{
+		"name": "Kaiser Constructions Office",
+		"uniqueTo": "Kaiser Corporation",
+		"gold": 2,
+		"happiness": -5,
+		"cost": 100,
+		"requiredTech": "Guilds",
+		"uniques": [
+			"[Gold] cost of purchasing [All] buildings [-10]%",
+			"[+1 Production] [in all cities]",
+			"Only available <in cities without a [Kaiser Industries Office]> <hidden from users>",
+			"Only available <in cities without a [Kaiser Convince Store]> <hidden from users>",
+			"Only available <in cities without a [Kaiser PMC Camp]> <hidden from users>",
+			"All newly-trained [Land] units [in this city] receive the [Kaiser Constructions] promotion",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Cannot be purchased <hidden from users>"]
+	},
+	{
+		"name": "Kaiser Convince Store",
+		"uniqueTo": "Kaiser Corporation",
+		"gold": -3,
+		"happiness": 3,
+		"food": 3,
+		"cost": 100,
+		"requiredTech": "Guilds",
+		"uniques": [
+			"[+15]% growth [in this city]",
+			"[+1 Food] [in all cities]",
+			"Only available <in cities without a [Kaiser PMC Camp]> <hidden from users>",
+			"Only available <in cities without a [Kaiser Industries Office]> <hidden from users>",
+			"Only available <in cities without a [Kaiser Constructions Office]> <hidden from users>",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Cannot be purchased <hidden from users>"]
+	},
+	{
+		"name": "Kaiser Industries Office",
+		"uniqueTo": "Kaiser Corporation",
+		"gold": 4,
+		"happiness": -8,
+		"production": 5,
+		"cost": 100,
+		"requiredTech": "Guilds",
+		"uniques": [
+			"[+50]% [Production] [in this city]",
+			"[+1 Production] [in all cities]",
+			"Only available <in cities without a [Kaiser Constructions Office]> <hidden from users>",
+			"Only available <in cities without a [Kaiser PMC Camp]> <hidden from users>",
+			"Only available <in cities without a [Kaiser Convince Store]> <hidden from users>",
+			"All newly-trained [Land] units [in this city] receive the [Kaiser Constructions] promotion",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Cannot be purchased <hidden from users>"]
+	},
+	{
+		"name": "Kaiser PMC Camp",
+		"uniqueTo": "Kaiser Corporation",
+		"gold": -5,
+		"culture": 3,
+		"cost": 100,
+		"requiredTech": "Guilds",
+		"uniques": [
+			"[3] Unit Supply",
+			"New [Military] units start with [25] XP [in this city]",
+			"[-25]% growth [in this city]",
+			"Cost increases by [40] when built",
+			"Only available <in cities without a [Kaiser Convince Store]> <hidden from users>",
+			"Only available <in cities without a [Kaiser Constructions Office]> <hidden from users>",
+			"Only available <in cities without a [Kaiser Industries Office]> <hidden from users>",
+			"All newly-trained [Land] units [in this city] receive the [Kaiser PMC] promotion",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Cannot be purchased <hidden from users>"]
+	},
+	{
+		"name": "Student Recruitment Camp",
+		"uniqueTo": "Kaiser Corporation",
+		"gold": -6,
+		"happiness": 2,
+		"cost": 100,
+		"requiredTech": "Guilds",
+		"uniques": [
+			"[-40]% Production when constructing [Military] units [in this city]",
+			"Only available <in cities with a [Kaiser PMC Camp]>",
+			"Only available <in cities without a [Robot Recruitment Camp]> <hidden from users>",
+			"All newly-trained [Land] units [in this city] receive the [Kivotos Halo] promotion",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Cannot be purchased <hidden from users>"]
+	},
+	{
+		"name": "Robot Recruitment Camp",
+		"uniqueTo": "Kaiser Corporation",
+		"gold": -6,
+		"Production": 2,
+		"cost": 100,
+		"requiredTech": "Guilds",
+		"uniques": [
+			"[+40]% Production when constructing [Military] units [in this city]",
+			"Only available <in cities with a [Kaiser PMC Camp]>",
+			"Only available <in cities without a [Student Recruitment Camp]> <hidden from users>",
+			"All newly-trained [Land] units [in this city] receive the [Kivotos Robot] promotion",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Cannot be purchased <hidden from users>"]
+	},
 	
 	{
 		"name": "Classroom",
