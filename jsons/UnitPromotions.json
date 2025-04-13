@@ -50,7 +50,34 @@
       "[+100]% Strength <vs [Ranged] units> <when defending>"],
     "column": 0,
     "row": 1},
-  {
+{
+    "name": "Kivotos Robot",
+    "uniques": [
+      "[+200]% Strength decreasing with distance from the capital",
+      "Earn [25]% of killed [Military] unit's [Strength] as [Culture]",
+      "[15] HP when healing",
+      "[-50]% maintenance costs",
+      "[-20]% Strength <when defending>"],
+    "column": 0,
+    "row": 2},
+{
+    "name": "Kaiser PMC",
+    "uniques": [
+      "[+50]% XP gained from combat",
+      "[+20]% Strength when stacked with [Kaiser Worker]",
+      "Gain [-2] [Gold] <every [1] turns>",
+      "[+100]% maintenance costs",
+      "[+15]% Strength"],
+    "column": 0,
+    "row": 3},
+{
+    "name": "Kaiser Worker",
+    "uniques": [
+      "[+50]% maintenance costs",
+      "Can build [All] improvements on tiles"],
+    "column": 0,
+    "row": 4},
+{
     "name": "Vanitas Martyrdom",
     "uniques": [
       "[+100]% Strength <when attacking>",
