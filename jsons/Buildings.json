@@ -681,8 +681,8 @@
 		"requiredTech": "Guilds",
 		"uniques": [
 			"[+5 Production, -3 Happiness] [in this city] <for [10] turns>",
-			"Remove [Forced Production] [in this city] <upon turn end>",
-			"[-1] population [in this city] <upon turn end>",
+			"Remove [Forced Production] [in this city] <every [10] turns>",
+			"[-1] population [in this city] <every [10] turns>",
 			"Shown while unbuilable <hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Unsellable <hidden from users>",
@@ -696,8 +696,8 @@
 		"requiredTech": "Guilds",
 		"uniques": [
 			"[+5 Culture, -3 Happiness] [in this city] <for [10] turns>",
-			"Remove [Forced Culture] [in this city] <upon turn end>",
-			"[-1] population [in this city] <upon turn end>",
+			"Remove [Forced Culture] [in this city] <every [10] turns>",
+			"[-1] population [in this city] <every [10] turns>",
 			"Shown while unbuilable <hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Unsellable <hidden from users>",
@@ -711,8 +711,8 @@
 		"requiredTech": "Guilds",
 		"uniques": [
 			"[+5 Science, -3 Happiness] [in this city] <for [10] turns>",
-			"Remove [Forced Science] [in this city] <upon turn end>",
-			"[-1] population [in this city] <upon turn end>",
+			"Remove [Forced Science] [in this city] <every [10] turns>",
+			"[-1] population [in this city] <every [10] turns>",
 			"Shown while unbuilable <hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Unsellable <hidden from users>",
@@ -726,8 +726,8 @@
 		"requiredTech": "Guilds",
 		"uniques": [
 			"[+5 Faith, -3 Happiness] [in this city] <for [10] turns>",
-			"Remove [Forced Faith] [in this city] <upon turn end>",
-			"[-1] population [in this city] <upon turn end>",
+			"Remove [Forced Faith] [in this city] <every [10] turns>",
+			"[-1] population [in this city] <every [10] turns>",
 			"Shown while unbuilable <hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Unsellable <hidden from users>",
@@ -741,7 +741,7 @@
 		"requiredTech": "Guilds",
 		"uniques": [
 			"[+5 Science, -5 Gold] [in this city] <for [30] turns>",
-			"Remove [Sponsor Science] [in this city] <upon turn end>",
+			"Remove [Sponsor Science] [in this city] <every [30] turns>",
 			"Shown while unbuilable <hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Unsellable <hidden from users>",
@@ -755,7 +755,7 @@
 		"requiredTech": "Guilds",
 		"uniques": [
 			"[+5 Culture, -5 Gold] [in this city] <for [30] turns>",
-			"Remove [Sponsor Culture] [in this city] <upon turn end>",
+			"Remove [Sponsor Culture] [in this city] <every [30] turns>",
 			"Shown while unbuilable <hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Unsellable <hidden from users>",
@@ -769,7 +769,7 @@
 		"requiredTech": "Guilds",
 		"uniques": [
 			"[+5 Happiness, -5 Gold] [in this city] <for [30] turns>",
-			"Remove [Sponsor Happiness] [in this city] <upon turn end>",
+			"Remove [Sponsor Happiness] [in this city] <every [10] turns>",
 			"Shown while unbuilable <hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Unsellable <hidden from users>",
@@ -783,7 +783,7 @@
 		"requiredTech": "Guilds",
 		"uniques": [
 			"[+5 Food, -5 Gold] [in this city] <for [30] turns>",
-			"Remove [Sponsor Growth] [in this city] <upon turn end>",
+			"Remove [Sponsor Growth] [in this city] <every [30] turns>",
 			"Shown while unbuilable <hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Unsellable <hidden from users>",
@@ -797,7 +797,7 @@
 		"requiredTech": "Guilds",
 		"uniques": [
 			"[+5 Faith, -5 Gold] [in this city] <for [30] turns>",
-			"Remove [Sponsor Faith] [in this city] <upon turn end>",
+			"Remove [Sponsor Faith] [in this city] <every [30] turns>",
 			"Shown while unbuilable <hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Unsellable <hidden from users>",
@@ -811,7 +811,7 @@
 		"requiredTech": "Guilds",
 		"uniques": [
 			"[+5 Gold, -1 Culture, -1 Happiness, -1 Faith, -1 Science, -1 Production] [in this city] <for [30] turns>",
-			"Remove [Sponsor Science] [in this city] <upon turn end>",
+			"Remove [Sponsor Science] [in this city] <every [30] turns>",
 			"Shown while unbuilable <hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Unsellable <hidden from users>",
@@ -825,7 +825,7 @@
 		"requiredTech": "Guilds",
 		"uniques": [
 			"[+3 Happiness, +2 Gold] [in all cities] <for [15] turns>",
-			"Remove [Civilian Executions] [in this city] <upon turn end>",
+			"Remove [Civilian Executions] [in this city] <every [15] turns>",
 			"[-3] population [in this city] <upon turn end>",
 			"Shown while unbuilable <hidden from users>",
 			"Unbuildable <hidden from users>",
