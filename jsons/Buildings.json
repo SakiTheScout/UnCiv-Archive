@@ -677,12 +677,142 @@
 	{
 		"name": "Forced Production",
 		"uniqueTo": "Kaiser Corporation",
-		"cost": 200,
+		"cost": 50,
 		"requiredTech": "Guilds",
 		"uniques": [
 			"[+5 Production, -3 Happiness] [in this city] <for [10] turns>",
-			"Remove [Forced Production] [in this city] <after [10] turns>",
-			"[-1] population [in this city] <after [10] turns>",
+			"Remove [Forced Production] [in this city] <upon turn end>",
+			"[-1] population [in this city] <upon turn end>",
+			"Shown while unbuilable <hidden from users>",
+			"Unbuildable <hidden from users>",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Can be purchased with [Gold] [in all cities]"]
+	},
+	{
+		"name": "Forced Culture",
+		"uniqueTo": "Kaiser Corporation",
+		"cost": 50,
+		"requiredTech": "Guilds",
+		"uniques": [
+			"[+5 Culture, -3 Happiness] [in this city] <for [10] turns>",
+			"Remove [Forced Culture] [in this city] <upon turn end>",
+			"[-1] population [in this city] <upon turn end>",
+			"Shown while unbuilable <hidden from users>",
+			"Unbuildable <hidden from users>",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Can be purchased with [Gold] [in all cities]"]
+	},
+	{
+		"name": "Forced Science",
+		"uniqueTo": "Kaiser Corporation",
+		"cost": 50,
+		"requiredTech": "Guilds",
+		"uniques": [
+			"[+5 Science, -3 Happiness] [in this city] <for [10] turns>",
+			"Remove [Forced Science] [in this city] <upon turn end>",
+			"[-1] population [in this city] <upon turn end>",
+			"Shown while unbuilable <hidden from users>",
+			"Unbuildable <hidden from users>",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Can be purchased with [Gold] [in all cities]"]
+	},
+	{
+		"name": "Forced Faith",
+		"uniqueTo": "Kaiser Corporation",
+		"cost": 50,
+		"requiredTech": "Guilds",
+		"uniques": [
+			"[+5 Faith, -3 Happiness] [in this city] <for [10] turns>",
+			"Remove [Forced Faith] [in this city] <upon turn end>",
+			"[-1] population [in this city] <upon turn end>",
+			"Shown while unbuilable <hidden from users>",
+			"Unbuildable <hidden from users>",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Can be purchased with [Gold] [in all cities]"]
+	},
+	{
+		"name": "Sponsor Science",
+		"uniqueTo": "Kaiser Corporation",
+		"cost": 300,
+		"requiredTech": "Guilds",
+		"uniques": [
+			"[+5 Science, -5 Gold] [in this city] <for [30] turns>",
+			"Remove [Sponsor Science] [in this city] <upon turn end>",
+			"Shown while unbuilable <hidden from users>",
+			"Unbuildable <hidden from users>",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Can be purchased with [Gold] [in all cities]"]
+	},
+	{
+		"name": "Sponsor Culture",
+		"uniqueTo": "Kaiser Corporation",
+		"cost": 300,
+		"requiredTech": "Guilds",
+		"uniques": [
+			"[+5 Culture, -5 Gold] [in this city] <for [30] turns>",
+			"Remove [Sponsor Culture] [in this city] <upon turn end>",
+			"Shown while unbuilable <hidden from users>",
+			"Unbuildable <hidden from users>",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Can be purchased with [Gold] [in all cities]"]
+	},
+	{
+		"name": "Sponsor Happiness",
+		"uniqueTo": "Kaiser Corporation",
+		"cost": 300,
+		"requiredTech": "Guilds",
+		"uniques": [
+			"[+5 Happiness, -5 Gold] [in this city] <for [30] turns>",
+			"Remove [Sponsor Happiness] [in this city] <upon turn end>",
+			"Shown while unbuilable <hidden from users>",
+			"Unbuildable <hidden from users>",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Can be purchased with [Gold] [in all cities]"]
+	},
+	{
+		"name": "Sponsor Faith",
+		"uniqueTo": "Kaiser Corporation",
+		"cost": 300,
+		"requiredTech": "Guilds",
+		"uniques": [
+			"[+5 Faith, -5 Gold] [in this city] <for [30] turns>",
+			"Remove [Sponsor Faith] [in this city] <upon turn end>",
+			"Shown while unbuilable <hidden from users>",
+			"Unbuildable <hidden from users>",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Can be purchased with [Gold] [in all cities]"]
+	},
+	{
+		"name": "Enforced Market",
+		"uniqueTo": "Kaiser Corporation",
+		"cost": 100,
+		"requiredTech": "Guilds",
+		"uniques": [
+			"[+5 Gold, -1 Culture, -1 Happiness, -1 Faith, -1 Science, -1 Production] [in this city] <for [30] turns>",
+			"Remove [Sponsor Science] [in this city] <upon turn end>",
+			"Shown while unbuilable <hidden from users>",
+			"Unbuildable <hidden from users>",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Can be purchased with [Gold] [in all cities]"]
+	},
+	{
+		"name": "Civilian Executions",
+		"uniqueTo": "Kaiser Corporation",
+		"cost": 300,
+		"requiredTech": "Guilds",
+		"uniques": [
+			"[+3 Happiness, +2 Gold] [in all cities] <for [15] turns>",
+			"Remove [Civilian Executions] [in this city] <upon turn end>",
+			"[-3] population [in this city] <upon turn end>",
 			"Shown while unbuilable <hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Unsellable <hidden from users>",
@@ -777,7 +907,8 @@
 		"uniques": ["[+20]% growth [in this city]",
 		"[+1 Happiness] per [2] population [in this city]",
 		"[+1 Science] per [3] population [in this city]",
-		"Provides [2] [Eleph]"]
+		"Provides [2] [Eleph]"
+		]
 	},
 	{
 		"name": "Middle School",
