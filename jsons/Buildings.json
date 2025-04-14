@@ -777,6 +777,20 @@
 			"Can be purchased with [Gold] [in all cities]"]
 	},
 	{
+		"name": "Sponsor Growth",
+		"uniqueTo": "Kaiser Corporation",
+		"cost": 300,
+		"requiredTech": "Guilds",
+		"uniques": [
+			"[+5 Food, -5 Gold] [in this city] <for [30] turns>",
+			"Remove [Sponsor Growth] [in this city] <upon turn end>",
+			"Shown while unbuilable <hidden from users>",
+			"Unbuildable <hidden from users>",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Can be purchased with [Gold] [in all cities]"]
+	},
+	{
 		"name": "Sponsor Faith",
 		"uniqueTo": "Kaiser Corporation",
 		"cost": 300,
