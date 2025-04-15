@@ -675,66 +675,6 @@
 			"Cannot be purchased <hidden from users>"]
 	},
 	{
-		"name": "Forced Production",
-		"uniqueTo": "Kaiser Corporation",
-		"cost": 50,
-		"requiredTech": "Guilds",
-		"uniques": [
-			"[+5 Production, -3 Happiness] [in this city] <for [10] turns>",
-			"Remove [Forced Production] [in this city] <every [10] turns>",
-			"[-1] population [in this city] <every [10] turns>",
-			"Shown while unbuilable <hidden from users>",
-			"Unbuildable <hidden from users>",
-			"Unsellable <hidden from users>",
-			"Destroyed when the city is captured",
-			"Can be purchased with [Gold] [in all cities]"]
-	},
-	{
-		"name": "Forced Culture",
-		"uniqueTo": "Kaiser Corporation",
-		"cost": 50,
-		"requiredTech": "Guilds",
-		"uniques": [
-			"[+5 Culture, -3 Happiness] [in this city] <for [10] turns>",
-			"Remove [Forced Culture] [in this city] <every [10] turns>",
-			"[-1] population [in this city] <every [10] turns>",
-			"Shown while unbuilable <hidden from users>",
-			"Unbuildable <hidden from users>",
-			"Unsellable <hidden from users>",
-			"Destroyed when the city is captured",
-			"Can be purchased with [Gold] [in all cities]"]
-	},
-	{
-		"name": "Forced Science",
-		"uniqueTo": "Kaiser Corporation",
-		"cost": 50,
-		"requiredTech": "Guilds",
-		"uniques": [
-			"[+5 Science, -3 Happiness] [in this city] <for [10] turns>",
-			"Remove [Forced Science] [in this city] <every [10] turns>",
-			"[-1] population [in this city] <every [10] turns>",
-			"Shown while unbuilable <hidden from users>",
-			"Unbuildable <hidden from users>",
-			"Unsellable <hidden from users>",
-			"Destroyed when the city is captured",
-			"Can be purchased with [Gold] [in all cities]"]
-	},
-	{
-		"name": "Forced Faith",
-		"uniqueTo": "Kaiser Corporation",
-		"cost": 50,
-		"requiredTech": "Guilds",
-		"uniques": [
-			"[+5 Faith, -3 Happiness] [in this city] <for [10] turns>",
-			"Remove [Forced Faith] [in this city] <every [10] turns>",
-			"[-1] population [in this city] <every [10] turns>",
-			"Shown while unbuilable <hidden from users>",
-			"Unbuildable <hidden from users>",
-			"Unsellable <hidden from users>",
-			"Destroyed when the city is captured",
-			"Can be purchased with [Gold] [in all cities]"]
-	},
-	{
 		"name": "Sponsor Science",
 		"uniqueTo": "Kaiser Corporation",
 		"cost": 300,
