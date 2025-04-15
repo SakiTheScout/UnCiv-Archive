@@ -703,6 +703,20 @@
 			"Can be purchased with [Gold] [in all cities]"]
 	},
 	{
+		"name": "Sponsor Production",
+		"uniqueTo": "Kaiser Corporation",
+		"cost": 300,
+		"requiredTech": "Guilds",
+		"uniques": [
+			"[+5 Production, -5 Gold] [in this city] <for [30] turns>",
+			"Remove [Sponsor Production] [in this city] <every [30] turns>",
+			"Shown while unbuilable <hidden from users>",
+			"Unbuildable <hidden from users>",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Can be purchased with [Gold] [in all cities]"]
+	},
+	{
 		"name": "Sponsor Happiness",
 		"uniqueTo": "Kaiser Corporation",
 		"cost": 300,
