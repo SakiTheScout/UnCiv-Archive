@@ -242,6 +242,17 @@
     "column": 4,
     "row": 12},
 	{
+    "name": "Sensei of SCHALE",
+    "uniques": ["Gain [-120] [Pyro] <upon damaging a [Kivotos Halo] unit> <hidden from users>",
+"[+2000000]% Strength <vs [Kivotos Halo] units> <when attacking> <with [5]% chance> <hidden from users>",
+"Can only attack [Kivotos Halo] units <hidden from users>",
+"Ranged attacks may be performed over obstacles <hidden from users>",
+"May capture killed [Kivotos Halo] units <hidden from users>",
+"[This Unit] loses the [Kivotos Halo] status <hidden from users>",
+"Comment [Sensei is able to convince students to fight on their side, for price of 120 Pyroxenites.]"],
+    "column": 15,
+    "row": 15},
+	{
 		"name": "Shock IV",
 		"prerequisites": ["Shock III"],
 		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles>"],
