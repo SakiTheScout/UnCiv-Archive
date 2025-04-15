@@ -662,7 +662,7 @@
 		"name": "Robot Recruitment Camp",
 		"uniqueTo": "Kaiser Corporation",
 		"gold": -6,
-		"Production": 2,
+		"production": 2,
 		"cost": 100,
 		"requiredTech": "Guilds",
 		"uniques": [
