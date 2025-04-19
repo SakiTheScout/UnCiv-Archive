@@ -787,6 +787,21 @@
 			"Destroyed when the city is captured",
 			"Can be purchased with [Gold] [in all cities]"]
 	},
+	{
+		"name": "Branch Corporations Council",
+		"replaces": "Student Council Room",
+		"requiredTech": "School Organisation",
+		"cost": 240,
+		"gold": 5,
+		"culture": 1,
+		"isNationalWonder": true,
+		"uniques": ["[-10]% Culture cost of adopting new Policies",
+		"[-20]% unhappiness from the number of cities",
+		"[+25]% Great Person generation [in this city]",
+		"[-5]% XP required for promotions",
+		"[+2 Gold] [in all cities]",
+		"[Gold] cost of purchasing [Civilian] units [-50]%"]
+	},
 	
 	{
 		"name": "Classroom",
