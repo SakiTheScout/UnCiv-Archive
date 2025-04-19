@@ -791,6 +791,7 @@
 		"name": "Branch Corporations Council",
 		"replaces": "Student Council Room",
 		"requiredTech": "School Organisation",
+		"uniqueTo": "Kaiser Corporation",
 		"cost": 240,
 		"gold": 5,
 		"culture": 1,
