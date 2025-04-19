@@ -765,7 +765,7 @@
 		"requiredTech": "Guilds",
 		"uniques": [
 			"[+5 Gold, -1 Culture, -1 Happiness, -1 Faith, -1 Science, -1 Production] [in this city] <for [30] turns>",
-			"Remove [Sponsor Science] [in this city] <every [30] turns>",
+			"Remove [Enforced Market] [in this city] <every [30] turns>",
 			"Shown while unbuilable <hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Unsellable <hidden from users>",
@@ -775,7 +775,7 @@
 	{
 		"name": "Civilian Executions",
 		"uniqueTo": "Kaiser Corporation",
-		"cost": 300,
+		"cost": 50,
 		"requiredTech": "Guilds",
 		"uniques": [
 			"[+3 Happiness, +2 Gold] [in all cities] <for [15] turns>",
