@@ -585,7 +585,7 @@
 			"Cannot be purchased <hidden from users>"]
 	},
 	{
-		"name": "Kaiser Convince Store",
+		"name": "Kaiser Convenience Store",
 		"uniqueTo": "Kaiser Corporation",
 		"gold": -3,
 		"happiness": 3,
