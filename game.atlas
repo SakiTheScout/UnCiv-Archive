@@ -319,7 +319,7 @@ BuildingIcons/Kaiser Industries Office
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Forced Market
+BuildingIcons/Enforced Market
   rotate: false
   xy: 0, 400
   size: 100, 100
