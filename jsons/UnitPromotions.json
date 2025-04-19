@@ -243,7 +243,7 @@
     "row": 12},
 	{
     "name": "Sensei of SCHALE",
-    "uniques": ["Gain [-120] [Eleph] <upon damaging a [Kivotos Halo] unit> <hidden from users>",
+    "uniques": ["Instantly gain [-120] [Eleph] <upon damaging a [Kivotos Halo] unit> <hidden from users>",
 "[+2000000]% Strength <vs [Kivotos Halo] units> <when attacking> <with [5]% chance> <hidden from users>",
 "Can only attack [Kivotos Halo] units <hidden from users>",
 "Ranged attacks may be performed over obstacles <hidden from users>",
