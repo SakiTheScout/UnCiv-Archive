@@ -647,7 +647,7 @@
 		"uniqueTo": "Kaiser Corporation",
 		"gold": -6,
 		"happiness": 2,
-		"cost": 100,
+		"cost": 50,
 		"requiredTech": "Guilds",
 		"uniques": [
 			"[-40]% Production when constructing [Military] units [in this city]",
@@ -663,7 +663,7 @@
 		"uniqueTo": "Kaiser Corporation",
 		"gold": -6,
 		"production": 2,
-		"cost": 100,
+		"cost": 50,
 		"requiredTech": "Guilds",
 		"uniques": [
 			"[+40]% Production when constructing [Military] units [in this city]",
@@ -677,7 +677,7 @@
 	{
 		"name": "Sponsor Science",
 		"uniqueTo": "Kaiser Corporation",
-		"cost": 300,
+		"cost": 200,
 		"requiredTech": "Guilds",
 		"uniques": [
 			"[+5 Science, -5 Gold] [in this city] <for [30] turns>",
@@ -691,7 +691,7 @@
 	{
 		"name": "Sponsor Culture",
 		"uniqueTo": "Kaiser Corporation",
-		"cost": 300,
+		"cost": 200,
 		"requiredTech": "Guilds",
 		"uniques": [
 			"[+5 Culture, -5 Gold] [in this city] <for [30] turns>",
@@ -705,7 +705,7 @@
 	{
 		"name": "Sponsor Production",
 		"uniqueTo": "Kaiser Corporation",
-		"cost": 300,
+		"cost": 200,
 		"requiredTech": "Guilds",
 		"uniques": [
 			"[+5 Production, -5 Gold] [in this city] <for [30] turns>",
@@ -719,7 +719,7 @@
 	{
 		"name": "Sponsor Happiness",
 		"uniqueTo": "Kaiser Corporation",
-		"cost": 300,
+		"cost": 200,
 		"requiredTech": "Guilds",
 		"uniques": [
 			"[+5 Happiness, -5 Gold] [in this city] <for [30] turns>",
@@ -733,7 +733,7 @@
 	{
 		"name": "Sponsor Growth",
 		"uniqueTo": "Kaiser Corporation",
-		"cost": 300,
+		"cost": 200,
 		"requiredTech": "Guilds",
 		"uniques": [
 			"[+5 Food, -5 Gold] [in this city] <for [30] turns>",
@@ -747,7 +747,7 @@
 	{
 		"name": "Sponsor Faith",
 		"uniqueTo": "Kaiser Corporation",
-		"cost": 300,
+		"cost": 200,
 		"requiredTech": "Guilds",
 		"uniques": [
 			"[+5 Faith, -5 Gold] [in this city] <for [30] turns>",
