@@ -270,6 +270,7 @@
 		"name": "HE Grenade",    
 		"uniques": [
 			"[Target Unit] takes [25] damage <upon damaging a [All] unit> <in [Fort] tiles>",
+			"[+15]% Strength <vs cities>",
 			"[Target Unit] takes [25] damage <upon damaging a [All] unit> <in [Citadel] tiles>",
 			"[This Unit] loses the [HE Grenade] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [HE Grenade Cooldown] status for [10] turn(s) <upon gaining the [Frag Grenade] status>"]},
