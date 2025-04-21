@@ -270,10 +270,10 @@
 	},
 	{
 		"name": "Frag Grenades",
-		"prerequisites": "Grenadier",
 		"uniques": [
 			"Comment [[Frag Grenade]: Deal 25 extra damage. Cooldown: 10 turns.]",
-			"[This Unit] gains the [Frag Grenade] status for [1] turn(s) <for [0] movement> <for units without [Frag Grenade Cooldown]> <hidden from users>"],
+			"[This Unit] gains the [Frag Grenade] status for [1] turn(s) <for [0] movement> <for units without [Frag Grenade Cooldown]> <hidden from users>"
+		],
 		"column": 20,
 		"row": 0
 	},
@@ -282,12 +282,14 @@
 		"uniques": [
 			"[Target Unit] takes [15] damage <upon damaging a [All] unit>",
 			"[This Unit] loses the [Frag Grenade] status <upon damaging a [All] unit>",
-			"[This Unit] gains the [Frag Grenade Cooldown] status for [10] turn(s) <upon gaining the [Frag Grenade] status>"]
+			"[This Unit] gains the [Frag Grenade Cooldown] status for [10] turn(s) <upon gaining the [Frag Grenade] status>"
+		]
 	},
 	{
 
 		"name": "Frag Grenade Cooldown",
-		"uniques": ["Comment [[Frag Grenade] is on cooldown]"]
+		"uniques": ["Comment [[Frag Grenade] is on cooldown]"
+		]
 
 	}
 ]
