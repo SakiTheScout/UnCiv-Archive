@@ -4,7 +4,7 @@
     "uniques": [
       "Can build [All] improvements on tiles",
       "[+20]% Strength <when fighting in [Friendly Land] tiles>",
-      "Gain [1]-[10] [Culture] <every [2] turns> <with [80]% chance> <when not at war>"]},
+      "Gain [1]-[10] [Culture] <when not at war>"]},
   {
     "name": "Justice Task Force",
     "uniques": [
@@ -129,8 +129,8 @@
 	  {
     "name": "Seminar",
     "uniques": [
-      "Gain [1]-[10] [Science] <every [2] turns> <when not at war>",
-      "Gain [1]-[10] [Gold] <every [2] turns> <when not at war>",
+      "Gain [1]-[10] [Science] <when not at war>",
+      "Gain [1]-[10] [Gold] <when not at war>",
       "[1] Movement <when fighting in [Friendly Land] tiles>"]},
 	{
     "name": "Veritas",
@@ -149,7 +149,7 @@
     "uniques": [
       "Earn [100]% of killed [All] unit's [Strength] as [Faith]",
       "Prevents spreading of religion to the city it is next to",
-      "Gain [1]-[10] [Faith] <every [2] turns> <when not at war>"]},
+      "Gain [1]-[10] [Faith] <when not at war>"]},
 	{
     "name": "Helmet Gang",
     "uniques": [
@@ -164,7 +164,7 @@
     "uniques": [
       "Can build [All] improvements on tiles",
       "All adjacent units heal [10] HP when healing",
-      "Gain [1]-[10] [Gold] <every [2] turns> <with [80]% chance> <when not at war>"]},
+      "Gain [1]-[10] [Gold] <when not at war>"]},
 	{
     "name": "Peking Opera",
     "uniques": [
@@ -176,7 +176,7 @@
     "uniques": [
       "No damage penalty for wounded units",
       "[-20]% Strength for enemy [Wounded] units in adjacent [All] tiles",
-      "Gain [1]-[10] [Science] <every [2] turns> <with [80]% chance> <when not at war>"]},
+      "Gain [1]-[10] [Science] <when not at war>"]},
 	{
     "name": "Genryumon",
     "uniques": [
@@ -224,5 +224,5 @@
 	{
 
 		"name": "Frag Grenade Cooldown",
-		"uniques": "Comment [[Frag Grenade] is on cooldown]"}
+		"uniques": "Comment [Frag Grenade is on cooldown]"}
 ]
