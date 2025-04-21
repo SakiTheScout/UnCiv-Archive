@@ -224,5 +224,5 @@
 	{
 
 		"name": "Frag Grenade Cooldown",
-		"uniques": "Comment [Frag Grenade is on cooldown]"}
+		"uniques": ["Comment [Frag Grenade is on cooldown]"]}
 ]
