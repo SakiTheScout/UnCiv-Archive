@@ -213,7 +213,7 @@
 		"prerequisites": ["Drill I", "Shock I"],
 		"unitTypes": ["Sword","Gunpowder"],
 		"uniques": ["Comment [Unlocks grenades.]", "[+10]% Strength"],
-		"column": 100,
+		"column": 99,
 		"row": 2},
 	{
 		"name": "Frag Grenades",
@@ -222,7 +222,7 @@
 		"uniques": [
 			"Comment [[Frag Grenade]: Deal 25 extra damage to non-armored unit. Cooldown: 10 turns.]",
 			"[This Unit] gains the [Frag Grenade] status for [1] turn(s) <for [0] movement> <for units without [Frag Grenade Cooldown]> <hidden from users>"],
-		"column": 99,
+		"column": 98,
 		"row": 3},
 	{
 		"name": "Frag Grenade",    
@@ -242,7 +242,7 @@
 		"uniques": [
 			"Comment [[AT Grenade]: Deal 25 extra damage to Armored unit. Cooldown: 10 turns.]",
 			"[This Unit] gains the [AT Grenade] status for [1] turn(s) <for [0] movement> <for units without [AT Grenade Cooldown]> <hidden from users>"],
-		"column": 100,
+		"column": 99,
 		"row": 3},
 	{
 		"name": "AT Grenade",    
@@ -262,7 +262,7 @@
 		"uniques": [
 			"Comment [[Frag Grenade]: Deal 25 extra damage to units in bunkers. Cooldown: 10 turns.]",
 			"[This Unit] gains the [HE Grenade] status for [1] turn(s) <for [0] movement> <for units without [Frag Grenade Cooldown]> <hidden from users>"],
-		"column": 101,
+		"column": 100,
 		"row": 3},
 	{
 		"name": "HE Grenade",    
