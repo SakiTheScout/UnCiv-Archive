@@ -4,9 +4,8 @@
     "uniques": [
       "Can build [All] improvements on tiles",
       "[+20]% Strength <when fighting in [Friendly Land] tiles>",
-      "Gain [1]-[10] [Culture] <every [2] turns> <with [80]% chance> <when not at war>"],
-    "column": 0,
-    "row": 8},
+      "Gain [1]-[10] [Culture] <every [2] turns> <with [80]% chance> <when not at war>"]
+  },
   {
     "name": "Justice Task Force",
     "uniques": [
