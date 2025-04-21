@@ -250,7 +250,7 @@
 "May capture killed [Kivotos Halo] units <hidden from users>",
 "[This Unit] loses the [Kivotos Halo] status <hidden from users>",
 "Comment [Sensei is able to convince students to fight on their side, for price of 120 Eleph.]"],
-    "column": 15,
+    "column": 0,
     "row": 15},
 	{
 		"name": "Shock IV",
@@ -269,12 +269,20 @@
         "row": 4
 	},
 	{
+		"name": "Grenadier",
+		"prerequisites": ["Shock I", "Drill I"],
+		"uniques": "Comment [Grants access to an arsenal of grenades]",
+		"column": 10,
+		"row": 0
+	},
+	{
 		"name": "Frag Grenades",
+		"prerequisites": "Grenadier",
 		"uniques": [
 			"Comment [[Frag Grenade]: Deal 25 extra damage. Cooldown: 10 turns.]",
 			"[This Unit] gains the [Frag Grenade] status for [1] turn(s) <for [0] movement> <for units without [Frag Grenade Cooldown]> <hidden from users>"],
-		"column": 20,
-		"row": 20
+		"column": 10,
+		"row": 1
 	},
 	{
 		"name": "Frag Grenade",    
