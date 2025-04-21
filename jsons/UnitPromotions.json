@@ -4,41 +4,32 @@
     "uniques": [
       "Can build [All] improvements on tiles",
       "[+20]% Strength <when fighting in [Friendly Land] tiles>",
-      "Gain [1]-[10] [Culture] <every [2] turns> <with [80]% chance> <when not at war>"]
-  },
+      "Gain [1]-[10] [Culture] <every [2] turns> <with [80]% chance> <when not at war>"]},
   {
     "name": "Justice Task Force",
     "uniques": [
       "[+25]% Strength <when at war>",
       "[+33]% Strength <vs [Barbarian] units>",
-      "Ignores Zone of Control"],
-    "column": 1,
-    "row": 8},
+      "Ignores Zone of Control"]},
   {
     "name": "Sister Militant",
     "uniques": [
       "Can Spread Religion",
       "Prevents spreading of religion to the city it is next to",
       "Unable to pillage tiles",
-      "May enter foreign tiles without open borders"],
-    "column": 2,
-    "row": 8},
+      "May enter foreign tiles without open borders"]},
   {
     "name": "Trinity's Vigilante Crew",
     "uniques": [
       "Can see invisible [Land] units",
       "[+20]% Strength <when defending>",
-      "[+20]% Strength when stacked with [Civilian]"],
-    "column": 3,
-    "row": 8},
+      "[+20]% Strength when stacked with [Civilian]"]},
   {
     "name": "Knight Hospitaller",
     "uniques": [
       "[+20]% Strength bonus for [Wounded] units within [3] tiles",
       "[5] HP when healing",
-      "All adjacent units heal [15] HP when healing"],
-    "column": 4,
-    "row": 8},
+      "All adjacent units heal [15] HP when healing"]},
   {
     "name": "Kivotos Halo",
     "uniques": [
@@ -46,9 +37,7 @@
       "Earn [25]% of killed [Military] unit's [Strength] as [Science]",
       "[1] Movement",
       "[1] Sight",
-      "[+100]% Strength <vs [Ranged] units> <when defending>"],
-    "column": 0,
-    "row": 1},
+      "[+100]% Strength <vs [Ranged] units> <when defending>"]},
 {
     "name": "Kivotos Robot",
     "uniques": [
@@ -56,9 +45,7 @@
       "Earn [25]% of killed [Military] unit's [Strength] as [Culture]",
       "[15] HP when healing",
       "[-50]% maintenance costs",
-      "[-20]% Strength <when defending>"],
-    "column": 0,
-    "row": 2},
+      "[-20]% Strength <when defending>"]},
 {
     "name": "Kaiser PMC",
     "uniques": [
@@ -66,137 +53,103 @@
       "[+20]% Strength when stacked with [Kaiser Worker]",
       "Gain [-2] [Gold] <every [1] turns>",
       "[+100]% maintenance costs",
-      "[+15]% Strength"],
-    "column": 0,
-    "row": 3},
+      "[+15]% Strength"]},
 {
     "name": "Kaiser Worker",
     "uniques": [
       "[+50]% maintenance costs",
-      "Can build [All] improvements on tiles"],
-    "column": 0,
-    "row": 4},
+      "Can build [All] improvements on tiles"]},
 {
     "name": "Vanitas Martyrdom",
     "uniques": [
       "[+100]% Strength <when attacking>",
       "Self-destructs when attacking",
-      "Blast radius [2]"],
-    "column": 0,
-    "row": 9},
+      "Blast radius [2]"]},
   {
     "name": "Shadowpath",
     "uniques": [
       "Withdraws before melee combat <with [50]% chance>",
       "Invisible to non-adjacent units",
-      "Ignores Zone of Control"],
-    "column": 1,
-    "row": 9},
+      "Ignores Zone of Control"]},
   {
     "name": "Silent Chorus",
     "uniques": [
       "[-20]% Strength for enemy [Wounded] units in adjacent [All] tiles",
       "Prevents spreading of religion to the city it is next to",
-      "Can see invisible [All] units"],
-    "column": 2,
-    "row": 9},
+      "Can see invisible [All] units"]},
   {
     "name": "Coming from Below",
     "uniques": [
       "[+50]% to Flank Attack bonuses",
       "May Paradrop up to [10] tiles from inside friendly territory",
-      "[1] additional attacks per turn <every [10] turns>"],
-    "column": 3,
-    "row": 9},
+      "[1] additional attacks per turn"]},
     {
     "name": "Foreclusive Task Force",
     "uniques": [
       "[+100]% Strength <vs [Barbarian] units>",
       "[3] Sight <when fighting in [Friendly Land] tiles>",
-      "Earn [100]% of killed [All] unit's [Strength] as [Culture]"],
-    "column": 4,
-    "row": 9},
+      "Earn [100]% of killed [All] unit's [Strength] as [Culture]"]},
   {
     "name": "Ultimate Judgement",
     "uniques": [
       "[+75]% Strength <vs [Kivotos Halo] units> <when attacking>",
       "[+25]% Strength <when adjacent to a [Wounded] unit> <when attacking>",
-      "Destroys tile improvements when attacking"],
-    "column": 5,
-    "row": 9},
+      "Destroys tile improvements when attacking"]},
   {
     "name": "Pandemonium Society",
     "uniques": [
       "[+33]% Strength <when fighting in [Enemy Land] tiles>",
       "No movement cost to pillage",
-      "Great General provides double combat bonus"],
-    "column": 0,
-    "row": 10},
+      "Great General provides double combat bonus"]},
   {
     "name": "Prefect Team",
     "uniques": [
       "[+33]% Strength <when fighting in [Friendly Land] tiles>",
       "[+33]% Strength <vs [Barbarian] units>",
-      "Withdraws before melee combat <with [33]% chance>"],
-    "column": 1,
-    "row": 10},
+      "Withdraws before melee combat <with [33]% chance>"]},
   {
     "name": "Hot Springs Department",
     "uniques": [
       "Can build [All] improvements on tiles",
       "Ignores terrain cost",
-      "Can pass through impassable tiles"],
-    "column": 2,
-    "row": 10},
+      "Can pass through impassable tiles"]},
   {
     "name": "Gehenna's Outlaws",
     "uniques": [
       "May enter foreign tiles without open borders",
       "[+100]% maintenance costs",
       "Earn [50]% of the damage done to [All] units as [Culture]",
-      "Earn [150]% of the damage done to [All] units as [Gold]"],
-    "column": 3,
-    "row": 10},
+      "Earn [150]% of the damage done to [All] units as [Gold]"]},
   {
     "name": "Medical Emergency Department",
     "uniques": [
       "No damage penalty for wounded units",
       "Heals [50] damage if it kills a unit",
-      "All adjacent units heal [10] HP when healing"],
-    "column": 4,
-    "row": 10},
+      "All adjacent units heal [10] HP when healing"]},
 	  {
     "name": "Seminar",
     "uniques": [
       "Gain [1]-[10] [Science] <every [2] turns> <when not at war>",
       "Gain [1]-[10] [Gold] <every [2] turns> <when not at war>",
-      "[1] Movement <when fighting in [Friendly Land] tiles>"],
-    "column": 0,
-    "row": 11},
+      "[1] Movement <when fighting in [Friendly Land] tiles>"]},
 	{
     "name": "Veritas",
     "uniques": [
       "[-25]% Strength for enemy [Wounded] units in adjacent [All] tiles",
       "[+50]% to Flank Attack bonuses",
-      "Can see invisible [All] units"],
-    "column": 1,
-    "row": 11},
+      "Can see invisible [All] units"]},
 	{
     "name": "Engineering Department",
     "uniques": [
       "Can build [All] improvements on tiles",
       "[+33]% Strength <vs [Barbarian] units>",
-      "Heals [50] damage if it kills a unit"],
-    "column": 2,
-    "row": 11},
+      "Heals [50] damage if it kills a unit"]},
 	{
     "name": "Cognitive Circle",
     "uniques": [
       "Earn [100]% of killed [All] unit's [Strength] as [Faith]",
       "Prevents spreading of religion to the city it is next to",
-      "Gain [1]-[10] [Faith] <every [2] turns> <when not at war>"],
-    "column": 3,
-    "row": 11},
+      "Gain [1]-[10] [Faith] <every [2] turns> <when not at war>"]},
 	{
     "name": "Helmet Gang",
     "uniques": [
@@ -205,41 +158,31 @@
       "[+75]% Health from pillaging tiles",
       "[-25]% Strength",
       "[+10]% Strength bonus for [Helmet Gang] units within [2] tiles",
-      "[-5] HP when healing"],
-    "column": 0,
-    "row": 12},
+      "[-5] HP when healing"]},
 	{
     "name": "Black Tortoise Promenade",
     "uniques": [
       "Can build [All] improvements on tiles",
       "All adjacent units heal [10] HP when healing",
-      "Gain [1]-[10] [Gold] <every [2] turns> <with [80]% chance> <when not at war>"],
-    "column": 1,
-    "row": 12},
+      "Gain [1]-[10] [Gold] <every [2] turns> <with [80]% chance> <when not at war>"]},
 	{
     "name": "Peking Opera",
     "uniques": [
       "Earn [100]% of killed [All] unit's [Strength] as [Culture]",
       "Withdraws before melee combat <with [33]% chance>",
-      "Prevents spreading of religion to the city it is next to"],
-    "column": 2,
-    "row": 12},
+      "Prevents spreading of religion to the city it is next to"]},
 	{
     "name": "Eastern Alchemy Society",
     "uniques": [
       "No damage penalty for wounded units",
       "[-20]% Strength for enemy [Wounded] units in adjacent [All] tiles",
-      "Gain [1]-[10] [Science] <every [2] turns> <with [80]% chance> <when not at war>"],
-    "column": 3,
-    "row": 12},
+      "Gain [1]-[10] [Science] <every [2] turns> <with [80]% chance> <when not at war>"]},
 	{
     "name": "Genryumon",
     "uniques": [
       "Can see invisible [All] units",
       "[+50]% Strength <when defending> <when fighting in [Friendly Land] tiles>",
-      "Great General provides double combat bonus"],
-    "column": 4,
-    "row": 12},
+      "Great General provides double combat bonus"]},
 	{
     "name": "Sensei of SCHALE",
     "uniques": ["Instantly gain [-120] [Eleph] <upon damaging a [Kivotos Halo] unit> <hidden from users>",
@@ -248,9 +191,7 @@
 "Ranged attacks may be performed over obstacles <hidden from users>",
 "May capture killed [Kivotos Halo] units <hidden from users>",
 "[This Unit] loses the [Kivotos Halo] status <hidden from users>",
-"Comment [Sensei is able to convince students to fight on their side, for price of 120 Eleph.]"],
-    "column": 0,
-    "row": 15},
+"Comment [Sensei is able to convince students to fight on their side, for price of 120 Eleph.]"]},
 	{
 		"name": "Shock IV",
 		"prerequisites": ["Shock III"],
@@ -271,24 +212,17 @@
 		"name": "Frag Grenades",
 		"uniques": [
 			"Comment [[Frag Grenade]: Deal 25 extra damage. Cooldown: 10 turns.]",
-			"[This Unit] gains the [Frag Grenade] status for [1] turn(s) <for [0] movement> <for units without [Frag Grenade Cooldown]> <hidden from users>"
-		],
+			"[This Unit] gains the [Frag Grenade] status for [1] turn(s) <for [0] movement> <for units without [Frag Grenade Cooldown]> <hidden from users>"],
 		"column": 20,
-		"row": 0
-	},
+		"row": 0},
 	{
 		"name": "Frag Grenade",    
 		"uniques": [
 			"[Target Unit] takes [15] damage <upon damaging a [All] unit>",
 			"[This Unit] loses the [Frag Grenade] status <upon damaging a [All] unit>",
-			"[This Unit] gains the [Frag Grenade Cooldown] status for [10] turn(s) <upon gaining the [Frag Grenade] status>"
-		]
-	},
+			"[This Unit] gains the [Frag Grenade Cooldown] status for [10] turn(s) <upon gaining the [Frag Grenade] status>"]},
 	{
 
 		"name": "Frag Grenade Cooldown",
-		"uniques": ["Comment [[Frag Grenade] is on cooldown]"
-		]
-
-	}
+		"uniques": "Comment [[Frag Grenade] is on cooldown]"}
 ]
