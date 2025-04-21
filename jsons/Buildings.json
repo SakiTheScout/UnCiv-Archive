@@ -567,6 +567,37 @@
 			"Cannot be purchased <hidden from users>"]
 	},
 	{
+		"name": "Countermeasures Committee Office",
+		"uniqueTo": "Abydos High School",
+		"gold": 2,
+		"culture": 2,
+		"cost": 40,
+		"requiredTech": "Ecology",
+		"uniques": [
+			"[+2 Gold, +2 Culture, +2 Science] [in this city] <when not at war>",
+			"Instantly consumes [100] [Desertification]",
+			"Cost increases by [40] when built",
+			"All newly-trained [Land] units [in this city] receive the [Foreclosive Task Force] promotion",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Cannot be purchased <hidden from users>"]
+	},
+	{
+		"name": "Anti-desertification Measures",
+		"uniqueTo": "Abydos High School",
+		"requiredTech": "Ecology",
+		"cost": 250,
+		"uniques": [
+			"Instantly consumes [100] [Desertification]",
+			"Remove [Anti-desertification Measures] [in this city] <every [5] turns>",
+			"Shown while unbuilable <hidden from users>",
+			"Unbuildable <hidden from users>",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Can be purchased with [Gold] [in all cities]"
+		]
+	},
+	{
 		"name": "Kaiser Constructions Office",
 		"uniqueTo": "Kaiser Corporation",
 		"gold": 2,
