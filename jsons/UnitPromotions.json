@@ -213,8 +213,8 @@
 		"prerequisites": ["Drill I", "Shock I"],
 		"unitTypes": ["Sword","Gunpowder"],
 		"uniques": ["Comment [Unlocks grenades.]", "[+10]% Strength"],
-		"column": 21,
-		"row": 3},
+		"column": 25,
+		"row": 2},
 	{
 		"name": "Frag Grenades",
 		"prerequisites": ["Grenadier"],
@@ -222,8 +222,8 @@
 		"uniques": [
 			"Comment [[Frag Grenade]: Deal 15 extra damage. Cooldown: 10 turns.]",
 			"[This Unit] gains the [Frag Grenade] status for [1] turn(s) <for [0] movement> <for units without [Frag Grenade Cooldown]> <hidden from users>"],
-		"column": 20,
-		"row": 4},
+		"column": 24,
+		"row": 3},
 	{
 		"name": "Frag Grenade",    
 		"uniques": [
