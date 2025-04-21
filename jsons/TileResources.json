@@ -4,5 +4,11 @@
 		"resourceType": "Strategic",
 		"uniques": ["Stockpiled"],
 		"revealedBy": "Halo Genesis"
+	},
+	{
+		"name": "Desertification",
+		"resourceType": "Strategic",
+		"uniques": ["Stockpiled"],
+		"revealedBy": "Ecology"
 	}
 ]
