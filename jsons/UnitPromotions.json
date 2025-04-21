@@ -220,18 +220,59 @@
 		"prerequisites": ["Grenadier"],
 		"unitTypes": ["Sword","Gunpowder"],
 		"uniques": [
-			"Comment [[Frag Grenade]: Deal 15 extra damage. Cooldown: 10 turns.]",
+			"Comment [[Frag Grenade]: Deal 25 extra damage to non-armored unit. Cooldown: 10 turns.]",
 			"[This Unit] gains the [Frag Grenade] status for [1] turn(s) <for [0] movement> <for units without [Frag Grenade Cooldown]> <hidden from users>"],
 		"column": 99,
 		"row": 3},
 	{
 		"name": "Frag Grenade",    
 		"uniques": [
-			"[Target Unit] takes [25] damage <upon damaging a [Non-[Armored]] unit>",
+			"[Target Unit] takes [25] damage <upon damaging a [non-[Armored]] unit>",
+			"[Target Unit] takes [5] damage <upon damaging a [Armored] unit>",
 			"[This Unit] loses the [Frag Grenade] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Frag Grenade Cooldown] status for [10] turn(s) <upon gaining the [Frag Grenade] status>"]},
 	{
 
 		"name": "Frag Grenade Cooldown",
-		"uniques": ["Comment [Frag Grenade is on cooldown]"]}
+		"uniques": ["Comment [Frag Grenade is on cooldown]"]},
+	{
+		"name": "AT Grenades",
+		"prerequisites": ["Grenadier"],
+		"unitTypes": ["Sword","Gunpowder"],
+		"uniques": [
+			"Comment [[AT Grenade]: Deal 25 extra damage to Armored unit. Cooldown: 10 turns.]",
+			"[This Unit] gains the [AT Grenade] status for [1] turn(s) <for [0] movement> <for units without [AT Grenade Cooldown]> <hidden from users>"],
+		"column": 100,
+		"row": 3},
+	{
+		"name": "AT Grenade",    
+		"uniques": [
+			"[Target Unit] takes [25] damage <upon damaging a [Armored] unit>",
+			"[Target Unit] takes [5] damage <upon damaging a [non-[Armored]] unit>",
+			"[This Unit] loses the [AT Grenade] status <upon damaging a [All] unit>",
+			"[This Unit] gains the [AT Grenade Cooldown] status for [10] turn(s) <upon gaining the [Frag Grenade] status>"]},
+	{
+
+		"name": "AT Grenade Cooldown",
+		"uniques": ["Comment [AT Grenade is on cooldown]"]},
+	{
+		"name": "Frag Grenades",
+		"prerequisites": ["Grenadier"],
+		"unitTypes": ["Sword","Gunpowder"],
+		"uniques": [
+			"Comment [[Frag Grenade]: Deal 25 extra damage to units in bunkers. Cooldown: 10 turns.]",
+			"[This Unit] gains the [HE Grenade] status for [1] turn(s) <for [0] movement> <for units without [Frag Grenade Cooldown]> <hidden from users>"],
+		"column": 101,
+		"row": 3},
+	{
+		"name": "HE Grenade",    
+		"uniques": [
+			"[Target Unit] takes [25] damage <upon damaging a [All] unit> <in [Fort] tiles>",
+			"[Target Unit] takes [25] damage <upon damaging a [All] unit> <in [Citadel] tiles>",
+			"[This Unit] loses the [HE Grenade] status <upon damaging a [All] unit>",
+			"[This Unit] gains the [HE Grenade Cooldown] status for [10] turn(s) <upon gaining the [Frag Grenade] status>"]},
+	{
+
+		"name": "HE Grenade Cooldown",
+		"uniques": ["Comment [HE Grenade is on cooldown]"]}
 ]
