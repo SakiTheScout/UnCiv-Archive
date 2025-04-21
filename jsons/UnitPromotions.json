@@ -227,7 +227,7 @@
 	{
 		"name": "Frag Grenade",    
 		"uniques": [
-			"[Target Unit] takes [15] damage <upon damaging a [All] unit>",
+			"[Target Unit] takes [25] damage <upon damaging a [Non-[Armored]] unit>",
 			"[This Unit] loses the [Frag Grenade] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Frag Grenade Cooldown] status for [10] turn(s) <upon gaining the [Frag Grenade] status>"]},
 	{
