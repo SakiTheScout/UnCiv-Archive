@@ -418,8 +418,8 @@
 			"[This Unit] gains the [Smoke Grenade] status for [2] turn(s) <for [1] movement> <for units without [Smoke Grenade Cooldown]> <hidden from users>"],
 		"innerColor": [1,255,255],
 		"outerColor": [1,1,1],
-		"column": 97,
-		"row": 4},
+		"column": 103,
+		"row": 3},
 	{
 		"name": "Smoke Grenade",    
 		"uniques": [
@@ -441,8 +441,8 @@
 			"[This Unit] gains the [EMP Grenade] status for [1] turn(s) <for [0] movement> <for units without [EMP Grenade Cooldown]> <hidden from users>"],
 		"innerColor": [241,246,255],
 		"outerColor": [61,130,255],
-		"column": 96,
-		"row": 4},
+		"column": 104,
+		"row": 3},
 	{
 		"name": "EMP Grenade",    
 		"uniques": [
