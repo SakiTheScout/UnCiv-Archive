@@ -461,8 +461,8 @@
 			"Only available <for [Gehenna Academy] Civilizations>",
 			"Comment [[Pyro Grenade]: Deal 10 extra damage to unit and set it on fire, extra damage to targets in bunkers. Cooldown: 10 turns.]",
 			"[This Unit] gains the [Pyro Grenade] status for [1] turn(s) <for [0] movement> <for units without [Pyro Grenade Cooldown]> <hidden from users>"],
-		"innerColor": [255,246,242],
-		"outerColor": [255,69,0],
+		"innerColor": [255,69,0],
+		"outerColor": [255,246,242],
 		"column": 105,
 		"row": 3},
 	{
@@ -482,6 +482,51 @@
 
 		"name": "Pyro Grenade Cooldown",
 		"uniques": ["Comment [Pyro Grenade is on cooldown]"]},
+	{
+		"name": "Holy Grenades",
+		"prerequisites": ["Grenadier"],
+		"unitTypes": ["Sword","Gunpowder"],
+		"uniques": [
+			"Only available <for [Trinity General School] Civilizations>",
+			"Comment [[Holy Grenade]: This unit heals 50HP. Cooldown: 10 turns.]",
+			"[This Unit] gains the [Holy Grenade] status for [1] turn(s) <for [0] movement> <for units without [Holy Grenade Cooldown]> <hidden from users>"],
+		"innerColor": [255,210,111],
+		"outerColor": [0,0,0],
+		"column": 106,
+		"row": 3},
+	{
+		"name": "Holy Grenade",    
+		"uniques": [
+			"[This Unit] heals [50]HP <upon turn end>",
+			"[This Unit] loses the [Holy Grenade] status <upon turn end>",
+			"[This Unit] gains the [Holy Grenade Cooldown] status for [10] turn(s) <upon gaining the [Holy Grenade] status>"]},
+	{
+
+		"name": "Holy Grenade Cooldown",
+		"uniques": ["Comment [Holy Grenade is on cooldown]"]},
+	{
+		"name": "Halo-Shattering Grenades",
+		"prerequisites": ["Grenadier"],
+		"unitTypes": ["Sword","Gunpowder"],
+		"uniques": [
+			"Only available <for [Arius Branch School] Civilizations>",
+			"Comment [[Halo-Shattering Grenade]: Instantly kill Kivotos Halo unit by consuming 25 Eleph. Cooldown: 20 turns.]",
+			"[This Unit] gains the [Halo-Shattering Grenade] status for [1] turn(s) <for [0] movement> <for units without [Halo-Shattering Grenade Cooldown]> <hidden from users>"],
+		"innerColor": [12,34,38],
+		"outerColor": [242,247,255],
+		"column": 99,
+		"row": 3},
+	{
+		"name": "Halo-Shattering Grenade",    
+		"uniques": [
+			"[Target Unit] takes [100] damage <upon damaging a [Kivotos Halo] unit>",
+			"Instantly consumes [25] [Eleph]",
+			"[This Unit] loses the [Halo-Shattering Grenade] status <upon damaging a [All] unit>",
+			"[This Unit] gains the [Halo-Shattering Grenade Cooldown] status for [10] turn(s) <upon gaining the [Halo-Shattering Grenade] status>"]},
+	{
+
+		"name": "Halo-Shattering Grenade Cooldown",
+		"uniques": ["Comment [Halo-Shattering Grenade is on cooldown]"]},
 	
 	{
 		"name": "Burning",
