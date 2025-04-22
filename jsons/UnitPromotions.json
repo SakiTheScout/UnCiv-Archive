@@ -403,7 +403,7 @@
 		"uniques": [
 			"[Target Unit] gains the [Stunned] status for [2] turn(s) <upon damaging a [non-[Armored]] unit>",
 			"[This Unit] loses the [Flashbang Grenade] status <upon damaging a [All] unit>",
-			"[This Unit] gains the [Flashbang Grenade Cooldown] status for [10] turn(s) <upon gaining the [Smokescreen] status>"]},
+			"[This Unit] gains the [Flashbang Grenade Cooldown] status for [10] turn(s) <upon gaining the [Flashbang Grenade] status>"]},
 	{
 
 		"name": "Flashbang Grenade Cooldown",
