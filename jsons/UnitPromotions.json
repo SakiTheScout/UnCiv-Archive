@@ -320,7 +320,7 @@
 			"[This Unit] gains the [Molotov Cocktail Cooldown] status for [10] turn(s) <upon gaining the [Molotov Cocktail] status>"]},
 	{
 
-		"name": "Incendiary Grenade Cooldown",
+		"name": "Molotov Cocktail Cooldown",
 		"uniques": ["Comment [Molotov Cocktail is on cooldown]"]},
 	
 	{
