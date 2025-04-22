@@ -252,7 +252,7 @@
 			"[+15]% Strength <vs [Armored] units>",
 			"[Target Unit] takes [5] damage <upon damaging a [non-Armored] unit>",
 			"[This Unit] loses the [AT Grenade] status <upon damaging a [All] unit>",
-			"[This Unit] gains the [AT Grenade Cooldown] status for [10] turn(s) <upon gaining the [Frag Grenade] status>"]},
+			"[This Unit] gains the [AT Grenade Cooldown] status for [10] turn(s) <upon gaining the [AT Grenade] status>"]},
 	{
 
 		"name": "AT Grenade Cooldown",
@@ -263,7 +263,7 @@
 		"unitTypes": ["Sword","Gunpowder"],
 		"uniques": [
 			"Comment [[HE Grenade]: Deal 25 extra damage to units in bunkers. Cooldown: 10 turns.]",
-			"[This Unit] gains the [HE Grenade] status for [1] turn(s) <for [0] movement> <for units without [Frag Grenade Cooldown]> <hidden from users>"],
+			"[This Unit] gains the [HE Grenade] status for [1] turn(s) <for [0] movement> <for units without [HE Grenade Cooldown]> <hidden from users>"],
 		"column": 101,
 		"row": 3},
 	{
@@ -273,9 +273,60 @@
 			"[+15]% Strength <vs cities>",
 			"[Target Unit] takes [25] damage <upon damaging a [All] unit> <in [Citadel] tiles>",
 			"[This Unit] loses the [HE Grenade] status <upon damaging a [All] unit>",
-			"[This Unit] gains the [HE Grenade Cooldown] status for [10] turn(s) <upon gaining the [Frag Grenade] status>"]},
+			"[This Unit] gains the [HE Grenade Cooldown] status for [10] turn(s) <upon gaining the [HE Grenade] status>"]},
 	{
 
 		"name": "HE Grenade Cooldown",
-		"uniques": ["Comment [HE Grenade is on cooldown]"]}
+		"uniques": ["Comment [HE Grenade is on cooldown]"]},
+	{
+		"name": "Incendiary Grenades",
+		"prerequisites": ["Grenadier"],
+		"unitTypes": ["Sword","Gunpowder"],
+		"uniques": [
+			"Comment [[Incendiary Grenade]: Deal 10 extra damage to non-armor unit and set it on fire. Cooldown: 10 turns.]",
+			"[This Unit] gains the [Incendiary Grenade] status for [1] turn(s) <for [0] movement> <for units without [Incendiary Grenade Cooldown]> <hidden from users>"],
+		"column": 98,
+		"row": 3},
+	{
+		"name": "Incendiary Grenade",    
+		"uniques": [
+			"[Target Unit] takes [10] damage <upon damaging a [non-Armored] unit>",
+			"[Target Unit] gains the [Burning] status for [5] turn(s) <upon damaging a [non-Armored] unit>",
+			"[+15]% Strength <when fighting in [Forest] tiles>",
+			"[+20]% Strength <when fighting in [Jungles] tiles>",
+			"[Target Unit] takes [5] damage <upon damaging a [Armored] unit>",
+			"[This Unit] loses the [Incendiary Grenade] status <upon damaging a [All] unit>",
+			"[This Unit] gains the [Incendiary Grenade Cooldown] status for [10] turn(s) <upon gaining the [Incendiary Grenade] status>"]},
+	{
+
+		"name": "Incendiary Grenade Cooldown",
+		"uniques": ["Comment [Incendiary Grenade is on cooldown]"]},
+	{
+		"name": "Molotov Cocktails",
+		"prerequisites": ["Grenadier"],
+		"unitTypes": ["Sword","Gunpowder"],
+		"uniques": [
+			"Comment [[Molotov Cocktail]: Set a unit on fire. Cooldown: 5 turns.]",
+			"[This Unit] gains the [Molotov Cocktail] status for [1] turn(s) <for [0] movement> <for units without [Molotov Cocktail Cooldown]> <hidden from users>"],
+		"column": 102,
+		"row": 3},
+	{
+		"name": "Molotov Cocktail",    
+		"uniques": [
+			"[Target Unit] gains the [Burning] status for [5] turn(s) <upon damaging a [All] unit>",
+			"[+15]% Strength <when fighting in [Forest] tiles>",
+			"[+20]% Strength <when fighting in [Jungles] tiles>",
+			"[This Unit] loses the [Molotov Cocktail] status <upon damaging a [All] unit>",
+			"[This Unit] gains the [Molotov Cocktail Cooldown] status for [10] turn(s) <upon gaining the [Molotov Cocktail] status>"]},
+	{
+
+		"name": "Incendiary Grenade Cooldown",
+		"uniques": ["Comment [Molotov Cocktail is on cooldown]"]},
+	
+	{
+		"name": "Burning",
+		"uniques": ["[This Unit] takes [5] damage <upon turn end>",
+					"[This Unit] loses the [Burning] status <upon ending a turn in a [Water] tile>",
+					"[This Unit] loses the [Burning] status <upon ending a turn in a [River] tile>",
+					"[-25]% Strength"]}
 ]
