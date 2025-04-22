@@ -92,7 +92,7 @@
       "Prevents spreading of religion to the city it is next to",
       "Can see invisible [All] units"],
   "outerColor": [242,247,255],
-	"innerColor": [12,34,38]},
+  "innerColor": [12,34,38]},
   {
     "name": "Coming from Below",
     "uniques": [
@@ -100,19 +100,23 @@
       "May Paradrop up to [10] tiles from inside friendly territory",
       "[1] additional attacks per turn"],
   "outerColor": [242,247,255],
-	"innerColor": [12,34,38]},
+  "innerColor": [12,34,38]},
     {
     "name": "Foreclusive Task Force",
     "uniques": [
       "[+100]% Strength <vs [Barbarian] units>",
       "[3] Sight <when fighting in [Friendly Land] tiles>",
-      "Earn [100]% of killed [All] unit's [Strength] as [Culture]"]},
+      "Earn [100]% of killed [All] unit's [Strength] as [Culture]"],
+    "outerColor": [1,255,255],
+    "innerColor": [1,1,1]},
   {
     "name": "Ultimate Judgement",
     "uniques": [
       "[+75]% Strength <vs [Kivotos Halo] units> <when attacking>",
       "[+25]% Strength <when adjacent to a [Wounded] unit> <when attacking>",
-      "Destroys tile improvements when attacking"]},
+      "Destroys tile improvements when attacking"],
+  "outerColor": [242,247,255],
+  "innerColor": [12,34,38]},
   {
     "name": "Pandemonium Society",
     "uniques": [
