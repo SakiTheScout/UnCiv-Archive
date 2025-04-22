@@ -408,6 +408,51 @@
 
 		"name": "Flashbang Grenade Cooldown",
 		"uniques": ["Comment [Flashbang Grenade is on cooldown]"]},
+	{
+		"name": "Smoke Grenade",
+		"prerequisites": ["Grenadier"],
+		"unitTypes": ["Sword","Gunpowder"],
+		"uniques": [
+			"Only available <for [Abydos High School] Civilizations>",
+			"Comment [[Smokescreen]: Hide in smoke for 2 turns. Cooldown: 10 turns.]",
+			"[This Unit] gains the [Smoke Grenade] status for [2] turn(s) <for [1] movement> <for units without [Smoke Grenade Cooldown]> <hidden from users>"],
+		"innerColor": [1,255,255],
+		"outerColor": [1,1,1]
+		"column": 97,
+		"row": 4},
+	{
+		"name": "Smoke Grenade",    
+		"uniques": [
+			"[+50]% Strength <vs [Ranged] units> <when defending>",
+			"[+25]% Strength <vs [Air] units> <when defending>",
+			"[+1000]% to Flank Attack bonuses",
+			"[This Unit] loses the [Smoke Grenade] status <upon damaging a [All] unit>",
+			"[This Unit] gains the [Smoke Grenade Cooldown] status for [10] turn(s) <upon gaining the [Smoke Grenade] status>"]},
+	{
+
+		"name": "Smoke Grenade Cooldown",
+		"uniques": ["Comment [Smoke Grenade is on cooldown]"]},
+	{
+		"name": "EMP Grenades",
+		"prerequisites": ["Grenadier"],
+		"unitTypes": ["Sword","Gunpowder"],
+		"uniques": [
+			"Comment [[EMP]: Stun armored unit for 2 turns. Cooldown: 10 turns.]",
+			"[This Unit] gains the [EMP Grenade] status for [1] turn(s) <for [0] movement> <for units without [EMP Grenade Cooldown]> <hidden from users>"],
+		"innerColor": [],
+		"outerColor": []
+		"column": 96,
+		"row": 4},
+	{
+		"name": "EMP Grenade",    
+		"uniques": [
+			"[Target Unit] gains the [Stunned] status for [2] turn(s) <upon damaging a [Armored] unit>",
+			"[This Unit] loses the [EMP Grenade] status <upon damaging a [All] unit>",
+			"[This Unit] gains the [EMP Grenade Cooldown] status for [10] turn(s) <upon gaining the [EMP Grenade] status>"]},
+	{
+
+		"name": "EMP Grenade Cooldown",
+		"uniques": ["Comment [EMP Grenade is on cooldown]"]},
 	
 	{
 		"name": "Burning",
