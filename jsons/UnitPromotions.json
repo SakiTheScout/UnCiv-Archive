@@ -497,7 +497,7 @@
 	{
 		"name": "Holy Grenade",    
 		"uniques": [
-			"[This Unit] heals [50]HP <upon turn end>",
+			"[This Unit] heals [50] HP <upon turn end>",
 			"[This Unit] loses the [Holy Grenade] status <upon turn end>",
 			"[This Unit] gains the [Holy Grenade Cooldown] status for [10] turn(s) <upon gaining the [Holy Grenade] status>"]},
 	{
