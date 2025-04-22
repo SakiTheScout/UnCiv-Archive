@@ -392,7 +392,7 @@
 		"prerequisites": ["Grenadier"],
 		"unitTypes": ["Sword","Gunpowder"],
 		"uniques": [
-			"Comment [[Flashbang Grenade]: Stun non-armored unit for 1 turns. Cooldown: 10 turns.]",
+			"Comment [[Flashbang Grenade]: Stun non-armored unit for 2 turns. Cooldown: 10 turns.]",
 			"[This Unit] gains the [Flashbang Grenade] status for [1] turn(s) <for [0] movement> <for units without [Flashbang Grenade Cooldown]> <hidden from users>"],
 		"innerColor": [245,245,245],
 		"outerColor": [0,0,0]
@@ -401,7 +401,7 @@
 	{
 		"name": "Flashbang Grenade",    
 		"uniques": [
-			"[Target Unit] gains the [Stunned] status for [1] turn(s) <upon damaging a [non-Armored] unit>",
+			"[Target Unit] gains the [Stunned] status for [2] turn(s) <upon damaging a [non-Armored] unit>",
 			"[This Unit] loses the [Flashbang Grenade] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Flashbang Grenade Cooldown] status for [10] turn(s) <upon gaining the [Smokescreen] status>"]},
 	{
@@ -417,9 +417,9 @@
 			"[-25]% Strength"]},
 	{
 		"name": "Stunned",
-		"uniques": ["[This Unit] loses [99] movement <upon turn start>",
-			"No Sight",
-			"Can only heal by pillaging",
+		"uniques": [["[This Unit] loses [99] movement <upon turn start>",
+			"[-25]% Strength",
 			"No defensive terrain bonus",
-			"[-25]% Strength"]}
+			"Can only heal by pillaging",
+			"No Sight"]}
 ]
