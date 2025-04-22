@@ -222,6 +222,8 @@
 		"uniques": [
 			"Comment [[Frag Grenade]: Deal 25 extra damage to non-armor unit. Cooldown: 10 turns.]",
 			"[This Unit] gains the [Frag Grenade] status for [1] turn(s) <for [0] movement> <for units without [Frag Grenade Cooldown]> <hidden from users>"],
+		"innerColor": [180,0,0],
+		"outerColor": [0,0,0]
 		"column": 99,
 		"row": 3},
 	{
@@ -243,6 +245,8 @@
 		"uniques": [
 			"Comment [[AT Grenade]: Deal 25 extra damage to armor unit. Cooldown: 10 turns.]",
 			"[This Unit] gains the [AT Grenade] status for [1] turn(s) <for [0] movement> <for units without [AT Grenade Cooldown]> <hidden from users>"],
+		"innerColor": [0,180,0],
+		"outerColor": [0,0,0]
 		"column": 100,
 		"row": 3},
 	{
@@ -264,6 +268,8 @@
 		"uniques": [
 			"Comment [[HE Grenade]: Deal 25 extra damage to units in bunkers. Cooldown: 10 turns.]",
 			"[This Unit] gains the [HE Grenade] status for [1] turn(s) <for [0] movement> <for units without [HE Grenade Cooldown]> <hidden from users>"],
+		"innerColor": [0,0,180],
+		"outerColor": [0,0,0]
 		"column": 101,
 		"row": 3},
 	{
@@ -285,6 +291,8 @@
 		"uniques": [
 			"Comment [[Incendiary Grenade]: Deal 10 extra damage to non-armor unit and set it on fire. Cooldown: 10 turns.]",
 			"[This Unit] gains the [Incendiary Grenade] status for [1] turn(s) <for [0] movement> <for units without [Incendiary Grenade Cooldown]> <hidden from users>"],
+		"innerColor": [255,115,0],
+		"outerColor": [0,0,0]
 		"column": 98,
 		"row": 3},
 	{
@@ -308,6 +316,8 @@
 		"uniques": [
 			"Comment [[Molotov Cocktail]: Set a unit on fire. Cooldown: 5 turns.]",
 			"[This Unit] gains the [Molotov Cocktail] status for [1] turn(s) <for [0] movement> <for units without [Molotov Cocktail Cooldown]> <hidden from users>"],
+		"innerColor": [255,180,0],
+		"outerColor": [0,0,0]
 		"column": 102,
 		"row": 3},
 	{
@@ -329,6 +339,8 @@
 		"uniques": [
 			"Comment [[Smokescreen]: Hide in smoke for 3 turns. Cooldown: 10 turns.]",
 			"[This Unit] gains the [Smokescreen] status for [3] turn(s) <for [1] movement> <for units without [Smokescreen Cooldown]> <hidden from users>"],
+		"innerColor": [180,180,180],
+		"outerColor": [0,0,0]
 		"column": 97,
 		"row": 3},
 	{
@@ -350,6 +362,8 @@
 		"uniques": [
 			"Comment [[Flashbang Grenade]: Hide in smoke for 3 turns. Cooldown: 10 turns.]",
 			"[This Unit] gains the [Flashbang Grenade] status for [1] turn(s) <for [0] movement> <for units without [Flashbang Grenade Cooldown]> <hidden from users>"],
+		"innerColor": [245,245,245],
+		"outerColor": [0,0,0]
 		"column": 96,
 		"row": 3},
 	{
