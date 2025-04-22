@@ -13,8 +13,8 @@
       "[+25]% Strength <when at war>",
       "[+33]% Strength <vs [Barbarian] units>",
       "Ignores Zone of Control"],
-	  "outerColor": [255,0,0],
-	  "innerColor": [0,0,0]},
+	  "outerColor": [0,0,0],
+	  "innerColor": [255,0,0]},
   {
     "name": "Sister Militant",
     "uniques": [
@@ -22,24 +22,24 @@
       "Prevents spreading of religion to the city it is next to",
       "Unable to pillage tiles",
       "May enter foreign tiles without open borders"],
-	  "outerColor": [255,253,249],
-	  "innerColor": [0,0,0]},
+	  "outerColor": [0,0,0],
+	  "innerColor": [255,210,111]},
   {
     "name": "Trinity's Vigilante Crew",
     "uniques": [
       "Can see invisible [Land] units",
       "[+20]% Strength <when defending>",
       "[+20]% Strength when stacked with [Civilian]"],
-	  "outerColor": [0,0,0],
-	  "innerColor": [180,180,180]},
+	  "outerColor": [200,200,200],
+	  "innerColor": [0,0,0]},
   {
     "name": "Knight Hospitaller",
     "uniques": [
       "[+20]% Strength bonus for [Wounded] units within [3] tiles",
       "[5] HP when healing",
       "All adjacent units heal [15] HP when healing"],
-	  "outerColor": [255,0,0],
-	  "innerColor": [255,210,111],},
+	  "outerColor": [255,253,249],
+	  "innerColor": [255,0,0],},
   {
     "name": "Kivotos Halo",
     "uniques": [
