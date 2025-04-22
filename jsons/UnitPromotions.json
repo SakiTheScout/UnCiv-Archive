@@ -322,6 +322,26 @@
 
 		"name": "Molotov Cocktail Cooldown",
 		"uniques": ["Comment [Molotov Cocktail is on cooldown]"]},
+	{
+		"name": "Smokescreens",
+		"prerequisites": ["Grenadier"],
+		"unitTypes": ["Sword","Gunpowder"],
+		"uniques": [
+			"Comment [[Smokescreen]: Hide in smoke for 3 turns. Cooldown: 10 turns.]",
+			"[This Unit] gains the [Smokescreen] status for [3] turn(s) <for [1] movement> <for units without [Smokescreen Cooldown]> <hidden from users>"],
+		"column": 97,
+		"row": 3},
+	{
+		"name": "Smokescreen",    
+		"uniques": [
+			"[+75]% Strength <vs [Ranged] units> <when defending>",
+			"[+25]% Strength <vs [Air] units> <when defending>",
+			"[This Unit] loses the [Smokescreen Grenade] status <when attacking>",
+			"[This Unit] gains the [Smokescreen Cooldown] status for [10] turn(s) <upon gaining the [Smokescreen] status>"]},
+	{
+
+		"name": "Smokescreen Cooldown",
+		"uniques": ["Comment [Smokescreen is on cooldown]"]},
 	
 	{
 		"name": "Burning",
