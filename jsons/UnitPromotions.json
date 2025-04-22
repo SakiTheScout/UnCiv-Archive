@@ -514,7 +514,7 @@
 			"[This Unit] gains the [Halo-Shattering Grenade] status for [1] turn(s) <for [0] movement> <for units without [Halo-Shattering Grenade Cooldown]> <hidden from users>"],
 		"innerColor": [12,34,38],
 		"outerColor": [242,247,255],
-		"column": 99,
+		"column": 107,
 		"row": 3},
 	{
 		"name": "Halo-Shattering Grenade",    
