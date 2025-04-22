@@ -453,6 +453,35 @@
 
 		"name": "EMP Grenade Cooldown",
 		"uniques": ["Comment [EMP Grenade is on cooldown]"]},
+	{
+		"name": "Pyro Grenades",
+		"prerequisites": ["Grenadier"],
+		"unitTypes": ["Sword","Gunpowder"],
+		"uniques": [
+			"Only available <for [Gehenna Academy] Civilizations>",
+			"Comment [[Pyro Grenade]: Deal 10 extra damage to unit and set it on fire, extra damage to targets in bunkers. Cooldown: 10 turns.]",
+			"[This Unit] gains the [Pyro Grenade] status for [1] turn(s) <for [0] movement> <for units without [Pyro Grenade Cooldown]> <hidden from users>"],
+		"innerColor": [255,246,242],
+		"outerColor": [255,69,0],
+		"column": 105,
+		"row": 3},
+	{
+		"name": "Pyro Grenade",    
+		"uniques": [
+			"[Target Unit] takes [5] damage <upon damaging a [All] unit>",
+			"[Target Unit] gains the [Burning] status for [3] turn(s) <upon damaging a [All] unit>",
+			"[+15]% Strength <when fighting in [Forest] tiles>",
+			"[+20]% Strength <when fighting in [Jungles] tiles>",
+			"[Target Unit] takes [20] damage <upon damaging a [All] unit> <in [Fort] tiles>",
+			"[+15]% Strength <vs cities>",
+			"[Target Unit] takes [20] damage <upon damaging a [All] unit> <in [Citadel] tiles>",
+			"[Target Unit] takes [5] damage <upon damaging a [Armored] unit>",
+			"[This Unit] loses the [Pyro Grenade] status <upon damaging a [All] unit>",
+			"[This Unit] gains the [Pyro Grenade Cooldown] status for [10] turn(s) <upon gaining the [Pyro Grenade] status>"]},
+	{
+
+		"name": "Pyro Grenade Cooldown",
+		"uniques": ["Comment [Pyro Grenade is on cooldown]"]},
 	
 	{
 		"name": "Burning",
