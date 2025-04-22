@@ -339,6 +339,43 @@
 		"cities": ["Kaiser Corporation HQ"],
 		"personality": "CEO"
 	},
+	{
+		"name": "Hyakkiyako Alliance Academy",
+		"leaderName": "Amachi Niya",
+		"adjective": ["Hyakkiyakan"],
+		"startBias": ["Plains, Forest, Mountain"],
+		"preferredVictoryType": "Cultural",
+		
+		"startIntroPart1": "Blossoms fall, street bands sing, birds fly and insects buzz. Ah, what a beautiful land it is, called Hyakkiyako. An ancient land indeed. Land of traditions, ghost stories, festivals and outstandingly pure nature. Who could ever have believed this peaceful corner of Kivotos was a merciless aggressor in days of yore?.. Hah, let's forget such nuances.",
+		"startIntroPart2": "The darkness still lurks there in mountains, it creeps closer and everyone can feel it though few can understand what exactly is happening. Will you manage to maintain this ignorant, cultured prosperity of Hyakkiyako? Or perhaps everything will fall into darkness once again?",
+		
+		"declaringWar": "The move is being made.",
+		"attacked": "I have predicted this. You can't tell just how obvious your moves are.",
+		"defeated": "But... The Great Game...",
+		"introduction": "Greetings, foreigner. I am Amachi Niya, president of Yin-yang Club, and I represent Hyakkiyako Alliance Academy's students. By the way, would you like to listen to haiku Chise has made? They are surely beautiful, and after that I recommend you to go to our festivals!",
+		
+		"neutralHello": "Hello, friend. Is music pleasant for you?",
+		"neutralLetsHearIt": "Ah, a trade offer? I can see it will improve our cultural experience.",
+		"neutralNo": "Aw, how bad I have to decline it.",
+		"neutralYes": "That's a very good deal, I shall take it.",
+
+		"hateHello": "Your end is at hand. Enjoy the music and views while you can.",
+		"hateLetsHearIt": "Speak your words so that I can forget them.",
+		"hateNo": "This offer is irrelevant to my plans.",
+		"hateYes": "...I have to agree...",
+		
+		"afterPeace": "The peace treaties are interesting. How do the fallen react to them? How do they look at those who sign them? I suppose we all will get to understand it one day.",
+		"tradeRequest": "Hello, an while enjoying a cup of green tea, would you like to hear the deal?",
+
+		"outerColor": [173,28,159],
+		"innerColor": [253,251,250],
+		"uniqueName": "Hyaku oni yoru gyō",
+		"uniques":["May buy [Military] units with [Culture] [in all cities]",
+			"May buy [All] buildings with [Culture] [in all cities]",
+			"[Land] units gain the [Kivotos Halo] promotion"],
+		"cities": ["The Great Tree", "Yin-yang Club Palace", "Hyakkiyako Trading District", "The Crab Lake", "Hyakkiyako Festival Grounds", "Hyakkiyako District 1", "Hyakkiyako District 2", "Hyakkiyako District 3", "Hyakkiyako District 4", "Hyakkiyako District 5", "Hyakkiyako District 6"],
+		"personality": "Tea Party Council"
+	},
 	
 	{
 		"name": "Wild Hunt Academy of Arts",
