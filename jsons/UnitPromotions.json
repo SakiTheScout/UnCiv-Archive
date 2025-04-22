@@ -416,8 +416,8 @@
 			"Only available <for [Abydos High School] Civilizations>",
 			"Comment [[Smoke Grenade]: Hide in smoke for 2 turns. Cooldown: 10 turns.]",
 			"[This Unit] gains the [Smoke Grenade] status for [2] turn(s) <for [1] movement> <for units without [Smoke Grenade Cooldown]> <hidden from users>"],
-		"innerColor": [1,255,255],
-		"outerColor": [1,1,1],
+		"innerColor": [1,1,1],
+		"outerColor": [1,255,255],
 		"column": 103,
 		"row": 3},
 	{
@@ -439,8 +439,8 @@
 		"uniques": [
 			"Comment [[EMP]: Stun armored unit for 2 turns. Cooldown: 10 turns.]",
 			"[This Unit] gains the [EMP Grenade] status for [1] turn(s) <for [0] movement> <for units without [EMP Grenade Cooldown]> <hidden from users>"],
-		"innerColor": [241,246,255],
-		"outerColor": [61,130,255],
+		"innerColor": [61,130,255],
+		"outerColor": [241,246,255],
 		"column": 104,
 		"row": 3},
 	{
