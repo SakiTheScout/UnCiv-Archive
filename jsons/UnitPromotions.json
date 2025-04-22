@@ -392,7 +392,7 @@
 		"prerequisites": ["Grenadier"],
 		"unitTypes": ["Sword","Gunpowder"],
 		"uniques": [
-			"Comment [[Flashbang Grenade]: Hide in smoke for 3 turns. Cooldown: 10 turns.]",
+			"Comment [[Flashbang Grenade]: Stun non-armored unit for 1 turns. Cooldown: 10 turns.]",
 			"[This Unit] gains the [Flashbang Grenade] status for [1] turn(s) <for [0] movement> <for units without [Flashbang Grenade Cooldown]> <hidden from users>"],
 		"innerColor": [245,245,245],
 		"outerColor": [0,0,0]
@@ -412,15 +412,14 @@
 	{
 		"name": "Burning",
 		"uniques": ["[This Unit] takes [5] damage <upon turn end>",
-					"[This Unit] loses the [Burning] status <upon ending a turn in a [Water] tile>",
-					"[This Unit] loses the [Burning] status <upon ending a turn in a [River] tile>",
-					"[-25]% Strength"]},
+			"[This Unit] loses the [Burning] status <upon ending a turn in a [Water] tile>",
+			"[This Unit] loses the [Burning] status <upon ending a turn in a [River] tile>",
+			"[-25]% Strength"]},
 	{
 		"name": "Stunned",
 		"uniques": ["[This Unit] loses [99] movement <upon turn start>",
 			"No Sight",
 			"Can only heal by pillaging",
 			"No defensive terrain bonus",
-			"[-100]% to Flank Attack bonuses",
 			"[-25]% Strength"]}
 ]
