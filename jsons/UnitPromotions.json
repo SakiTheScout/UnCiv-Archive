@@ -417,7 +417,7 @@
 			"[-25]% Strength"]},
 	{
 		"name": "Stunned",
-		"uniques": [["[This Unit] loses [99] movement <upon turn start>",
+		"uniques": ["[This Unit] loses [99] movement <upon turn start>",
 			"[-25]% Strength",
 			"No defensive terrain bonus",
 			"Can only heal by pillaging",
