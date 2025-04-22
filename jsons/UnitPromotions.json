@@ -336,7 +336,8 @@
 		"uniques": [
 			"[+75]% Strength <vs [Ranged] units> <when defending>",
 			"[+25]% Strength <vs [Air] units> <when defending>",
-			"[This Unit] loses the [Smokescreen Grenade] status <when attacking>",
+			"Withdraws before melee combat <with [100]% chance>",
+			"[This Unit] loses the [Smokescreen Grenade] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Smokescreen Cooldown] status for [10] turn(s) <upon gaining the [Smokescreen] status>"]},
 	{
 
