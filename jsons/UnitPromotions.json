@@ -122,32 +122,42 @@
     "uniques": [
       "[+33]% Strength <when fighting in [Enemy Land] tiles>",
       "No movement cost to pillage",
-      "Great General provides double combat bonus"]},
+      "Great General provides double combat bonus"],
+      "outerColor": [255,0,0],
+      "innerColor": [0,0,0]},
   {
     "name": "Prefect Team",
     "uniques": [
       "[+33]% Strength <when fighting in [Friendly Land] tiles>",
       "[+33]% Strength <vs [Barbarian] units>",
-      "Withdraws before melee combat <with [33]% chance>"]},
+      "Withdraws before melee combat <with [33]% chance>"],
+  "outerColor": [32,30,35],
+  "innerColor": [255,0,0]},
   {
     "name": "Hot Springs Department",
     "uniques": [
       "Can build [All] improvements on tiles",
       "Ignores terrain cost",
-      "Can pass through impassable tiles"]},
+      "Can pass through impassable tiles"],
+      "outerColor": [255,246,242],
+      "innerColor": [255,69,0]},
   {
     "name": "Gehenna's Outlaws",
     "uniques": [
       "May enter foreign tiles without open borders",
       "[+100]% maintenance costs",
       "Earn [50]% of the damage done to [All] units as [Culture]",
-      "Earn [150]% of the damage done to [All] units as [Gold]"]},
+      "Earn [150]% of the damage done to [All] units as [Gold]"],
+  "outerColor": [150,0,49],
+  "innerColor": [29,0,10]},
   {
     "name": "Medical Emergency Department",
     "uniques": [
       "No damage penalty for wounded units",
       "Heals [50] damage if it kills a unit",
-      "All adjacent units heal [10] HP when healing"]},
+      "All adjacent units heal [10] HP when healing"],
+  "outerColor": [255,248,254],
+  "innerColor": [255,132,233]},
 	  {
     "name": "Seminar",
     "uniques": [
