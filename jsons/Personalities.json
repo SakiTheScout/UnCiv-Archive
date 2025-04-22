@@ -28,6 +28,35 @@
       "Order": 5
     }
   },
+  {
+    "name": "Hikari and Nozomi",
+    "production": 7,
+    "food": 5,
+    "gold": 8,
+    "science": 6,
+    "culture": 5,
+    "happiness": 4,
+    "faith": 1,
+    "military": 7,
+    "aggressive": 6,
+    "declareWar": 5,
+    "commerce": 10,
+    "diplomacy": 6,
+    "loyal": 6,
+    "expansion": 10,
+    "priorities": {
+      "Tradition": 3,
+      "Liberty": 10,
+      "Honor": 4,
+      "Commerce": 6,
+      "Patronage": 8,
+      "Piety": 1,
+      "Rationalism": 6,
+      "Freedom": 6,
+      "Autocracy": 7,
+      "Order": 3
+    }
+  },
    {
     "name": "Amachi Niya",
     "production": 2,
