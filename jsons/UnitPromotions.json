@@ -74,25 +74,33 @@
     "uniques": [
       "[+100]% Strength <when attacking>",
       "Self-destructs when attacking",
-      "Blast radius [2]"]},
+      "Blast radius [2]"],
+	"outerColor": [242,247,255],
+	"innerColor": [12,34,38]},
   {
     "name": "Shadowpath",
     "uniques": [
       "Withdraws before melee combat <with [50]% chance>",
       "Invisible to non-adjacent units",
-      "Ignores Zone of Control"]},
+      "Ignores Zone of Control"],
+	  "outerColor": [242,247,255],
+	  "innerColor": [12,34,38]},
   {
     "name": "Silent Chorus",
     "uniques": [
       "[-20]% Strength for enemy [Wounded] units in adjacent [All] tiles",
       "Prevents spreading of religion to the city it is next to",
-      "Can see invisible [All] units"]},
+      "Can see invisible [All] units"],
+  "outerColor": [242,247,255],
+	"innerColor": [12,34,38]},
   {
     "name": "Coming from Below",
     "uniques": [
       "[+50]% to Flank Attack bonuses",
       "May Paradrop up to [10] tiles from inside friendly territory",
-      "[1] additional attacks per turn"]},
+      "[1] additional attacks per turn"],
+  "outerColor": [242,247,255],
+	"innerColor": [12,34,38]},
     {
     "name": "Foreclusive Task Force",
     "uniques": [
