@@ -473,6 +473,7 @@
 		"prerequisites": ["Grenadier"],
 		"unitTypes": ["Sword","Gunpowder"],
 		"uniques": [
+			"Only available <for [Millennium Science School] Civilizations>",
 			"Comment [[EMP]: Stun armored unit for 2 turns. Cooldown: 10 turns.]",
 			"[This Unit] gains the [EMP Grenade] status for [1] turn(s) <for [0] movement> <for units without [EMP Grenade Cooldown]> <hidden from users>"],
 		"innerColor": [61,130,255],
