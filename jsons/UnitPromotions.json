@@ -621,5 +621,5 @@
 		"name": "General Schooling",
 		"uniques":["Gain [1]-[5] [Science] <when not at war> <upon turn start>", "Gain [1]-[5] [Culture] <when not at war> <upon turn start>", "Gain [1]-[5] [Gold] <when not at war> <upon turn start>", "[+10]% XP gained from combat", "Gain [-3] [Gold] <upon turn start>"],
 		"outerColor": [0,0,0],
-		"innerColor" [230,230,230]}
+		"innerColor": [230,230,230]}
 ]
