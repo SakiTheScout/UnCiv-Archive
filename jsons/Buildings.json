@@ -883,7 +883,7 @@
 		"cost": 40,
 		"requiredTech": "Drama and Poetry",
 		"uniques": [
-			"[+1 Good, +1 Happiness, +1 Culture] [in all cities]",
+			"[+1 Gold, +1 Happiness, +1 Culture] [in all cities]",
 			"[+20]% [Culture] [in this city]",
 			"[+1 Gold] <for every [3] [Culture]> [in this city]",
 			"Cost increases by [40] when built",
