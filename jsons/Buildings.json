@@ -1262,6 +1262,19 @@
 		"Only available <in cities without a [Merchant High School]> <hidden from users>"]
 	},
 	{
+		"name": "Railroad Contract",
+		"uniqueTo": "Highlander Railroad Academy",
+		"cost": 250,
+		"requiredTech": "High Schools",
+		"uniques": [
+			"Gain control over [All Road] tiles in a [30]-tile radius",
+			"Shown while unbuilable <hidden from users>",
+			"Unbuildable <hidden from users>",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Can be purchased with [Gold] [in all cities]"]
+	},
+	{
 		"name": "Agricultural High School",
 		"requiredTech": "High Schools",
 		"cost": 350,
