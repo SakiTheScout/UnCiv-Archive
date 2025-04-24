@@ -229,7 +229,7 @@
     "name": "Yin-yang Club",
     "uniques": [
       "[+33]% Strength <when fighting in [Friendly Land] tiles>",
-      "Gain [1]-[10] [Golden Age points] <when not at war> <upon turn start>",
+      "Instantly gain [1] [Golden Age points] <when not at war> <upon turn start>",
       "Gain [1]-[10] [Culture] <when not at war> <upon turn start>"]},
 	{
     "name": "Hyakkaryouran Conflict Resolution Council",
