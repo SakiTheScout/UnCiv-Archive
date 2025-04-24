@@ -616,8 +616,8 @@
 	{
 		"name": "Railroad Schooling",
 		"uniques":["Can build [All Road] improvements on tiles","Double movement in [All Road]", "Gain [-1] [Gold] <upon turn start>"],
-		"outerColor": [0,0,0],
-		"innerColor": [0,127,255]},
+		"outerColor": [33,68,98],
+		"innerColor": [229,224,220]},
 	{
 		"name": "Engineering Schooling",
 		"uniques":["Can build [Land] improvements at a [+25]% rate", "Can pass through impassable tiles", "Gain [-1] [Gold] <upon turn start>"],
