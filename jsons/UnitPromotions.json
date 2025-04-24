@@ -106,7 +106,8 @@
     "uniques": [
       "[+100]% Strength <vs [Barbarian] units>",
       "[2] Sight <when fighting in [Friendly Land] tiles>",
-      "Earn [100]% of killed [All] unit's [Strength] as [Culture]"],
+      "Earn [100]% of killed [All] unit's [Strength] as [Culture]",
+      "Instantly consumes [2] [Desertification] <upon turn start>"],
     "outerColor": [1,255,255],
     "innerColor": [1,1,1]},
   {
