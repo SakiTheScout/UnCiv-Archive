@@ -4,7 +4,7 @@
     "uniques": [
       "Can build [All] improvements on tiles",
       "[+20]% Strength <when fighting in [Friendly Land] tiles>",
-      "Gain [1]-[10] [Culture] <when not at war>"],
+      "Gain [1]-[10] [Culture] <when not at war> <upon turn start>"],
 	  "outerColor": [255,253,249],
 	  "innerColor": [255,210,111]},
   {
@@ -51,7 +51,7 @@
 {
     "name": "Kivotos Robot",
     "uniques": [
-      "[+200]% Strength decreasing with distance from the capital",
+      "[+100]% Strength decreasing with distance from the capital",
       "Earn [25]% of killed [Military] unit's [Strength] as [Culture]",
       "[15] HP when healing",
       "[-50]% maintenance costs",
@@ -61,7 +61,7 @@
     "uniques": [
       "[+50]% XP gained from combat",
       "[+20]% Strength when stacked with [Kaiser Worker]",
-      "Gain [-2] [Gold] <every [1] turns>",
+      "Gain [-2] [Gold] <upon turn start>",
       "[+100]% maintenance costs",
       "[+15]% Strength"]},
 {
@@ -105,7 +105,7 @@
     "name": "Foreclusive Task Force",
     "uniques": [
       "[+100]% Strength <vs [Barbarian] units>",
-      "[3] Sight <when fighting in [Friendly Land] tiles>",
+      "[2] Sight <when fighting in [Friendly Land] tiles>",
       "Earn [100]% of killed [All] unit's [Strength] as [Culture]"],
     "outerColor": [1,255,255],
     "innerColor": [1,1,1]},
@@ -161,8 +161,8 @@
 	  {
     "name": "Seminar",
     "uniques": [
-      "Gain [1]-[10] [Science] <when not at war>",
-      "Gain [1]-[10] [Gold] <when not at war>",
+      "Gain [1]-[10] [Science] <when not at war> <upon turn start>",
+      "Gain [1]-[10] [Gold] <when not at war> <upon turn start>",
       "[1] Movement <when fighting in [Friendly Land] tiles>"]},
 	{
     "name": "Veritas",
@@ -181,7 +181,7 @@
     "uniques": [
       "Earn [100]% of killed [All] unit's [Strength] as [Faith]",
       "Prevents spreading of religion to the city it is next to",
-      "Gain [1]-[10] [Faith] <when not at war>"]},
+      "Gain [1]-[10] [Faith] <when not at war> <upon turn start>"]},
 	{
     "name": "Helmet Gang",
     "uniques": [
@@ -196,7 +196,7 @@
     "uniques": [
       "Can build [All] improvements on tiles",
       "All adjacent units heal [10] HP when healing",
-      "Gain [1]-[10] [Gold] <when not at war>"]},
+      "Gain [1]-[10] [Gold] <when not at war> <upon turn start>"]},
 	{
     "name": "Peking Opera",
     "uniques": [
@@ -208,7 +208,7 @@
     "uniques": [
       "No damage penalty for wounded units",
       "[-20]% Strength for enemy [Wounded] units in adjacent [All] tiles",
-      "Gain [1]-[10] [Science] <when not at war>"]},
+      "Gain [1]-[10] [Science] <when not at war> <upon turn start>"]},
 	{
     "name": "Genryumon",
     "uniques": [
@@ -224,6 +224,41 @@
 "May capture killed [Kivotos Halo] units <hidden from users>",
 "[This Unit] loses the [Kivotos Halo] status <hidden from users>",
 "Comment [Sensei is able to convince students to fight on their side, for price of 120 Eleph.]"]},
+	{
+    "name": "Yin-yang Club",
+    "uniques": [
+      "[+33]% Strength <when fighting in [Friendly Land] tiles>",
+      "Gain [1]-[10] [Golden Age points] <when not at war> <upon turn start>",
+      "Gain [1]-[10] [Culture] <when not at war> <upon turn start>"]},
+	{
+    "name": "Hyakkaryouran Conflict Resolution Council",
+    "uniques": [
+      "[+20]% Strength bonus for [Hyakkaryouran Conflict Resolution Council] units within [1] tiles",
+      "[+33]% Strength <vs [Barbarian] units>",
+      "No damage penalty for wounded units"]},
+	{
+    "name": "Festival Management Committee",
+    "uniques": [
+      "Can build [All] improvements on tiles",
+      "Gain [1]-[10] [Faith] <when not at war> <upon turn start>",
+      "Gain [1]-[10] [Culture] <when not at war> <upon turn start>"]},
+	{
+    "name": "Etiquette Training Society",
+    "uniques": [
+      "[+33]% XP gained from combat",
+      "Gain [1]-[10] [Science] <when not at war> <upon turn start>"]},
+	{
+    "name": "Ninjutsu Research Club",
+    "uniques": [
+      "Ignores Zone of Control",
+      "Invisible to non-adjacent units",
+      "Ignores terrain cost"]},
+	{
+    "name": "Street Ghost Troupe",
+    "uniques": [
+      "[+50]% to Flank Attack bonuses",
+      "[-15]% Strength for enemy [Land] units in adjacent [All] tiles",
+      "[+20]% Strength <when fighting in [Enemy Land] tiles>"]},
 	{
 		"name": "Shock IV",
 		"prerequisites": ["Shock III"],
