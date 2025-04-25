@@ -74,7 +74,7 @@
 		"turnsToBuild": 6,
 		"gold": 1,
 		"techRequired": "Calendar",
-		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]", "Turn this tile into a [Desert] tile <for [Abydos High School] Civilizations> <upon entering the [Atomic era]> <Upon turn start> <with [25]% chance> <hidden from users>"],
+		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]", "Turn this tile into a [Desert] tile <for [Abydos High School] Civilizations> <upon entering the [Atomic era]> <upon turn start> <with [25]% chance> <hidden from users>"],
 		"shortcutKey": "P"
 	},
 	{
