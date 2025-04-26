@@ -10,5 +10,11 @@
 		"resourceType": "Strategic",
 		"uniques": ["Stockpiled"],
 		"revealedBy": "Ecology"
+	},
+	{
+		"name": "Political Instability",
+		"resourceType": "Strategic",
+		"uniques": ["Stockpiled"],
+		"revealedBy": "Ecology"
 	}
 ]
