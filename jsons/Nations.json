@@ -21,7 +21,7 @@
 
 		"hateHello": "You don't deserve greetings, barbarian...",
 		"hateLetsHearIt": "What is that you were going to say, scum?",
-		"hateNo": "We refuse, be gome.",
+		"hateNo": "We refuse, be gone.",
 		"hateYes": "...We have to agree...",
 		
 		"afterPeace": "The slaughter is over, we shall be leaving.",
@@ -375,6 +375,42 @@
 			"[Land] units gain the [Kivotos Halo] promotion"],
 		"cities": ["The Great Tree", "Yin-yang Club Palace", "Hyakkiyako Trading District", "The Crab Lake", "Hyakkiyako Festival Grounds", "Hyakkiyako District 1", "Hyakkiyako District 2", "Hyakkiyako District 3", "Hyakkiyako District 4", "Hyakkiyako District 5", "Hyakkiyako District 6"],
 		"personality": "Amachi Niya"
+	},
+	{
+		"name": "Red Winter Federal Academy",
+		"leaderName": "Secretariat",
+		"adjective": ["Red Winter"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Red Winter Federal Academy's students have always been considered the most stoic, stong-willed and free-spirited in entirety of Kivotos. True it is, because nobody else could have survived in permafrost wastelands where everything tries to kill you. But as for us, it may be... Inconvenient.",
+		"startIntroPart2": "Alright, Head Secretary of Red Winter. I suppose you already wonder why there is a crowd gathered outside the main building yelling something. Well, that's your first obstacle: they want pudding for breakfast AND for dinner. Students of Red Winter constantly riot and it's up to you wether you satisfy their demands or repress them.",
+		
+		"declaringWar": ["I, Renkawa Cherino, Beautifier of Lands, declare WAR upon you!"],
+		"attacked": ["Huh?! This early in the morning?!!"],
+		"defeated": ["You may have conquered Red Winter Federal Academy, but not its students!"],
+		"introduction": ["I am Renkawa Cherino, president of Red Winter Federal Academy, Chief Beautification Officer, Chief of Sanitation, Main Secretary, Athletics Club Captain, Head of all Prefects and Maven of Meal Service!"],
+		
+		"neutralHello": ["Greetings, comrade!"],
+		"neutralLetsHearIt": ["What would you like to offer to me, Renkawa Cherino, Main Secretary, Atheltics Club President,..."],
+		"neutralNo": ["Well, I think it will be irrelevant for me."],
+		"neutralYes": ["Wahh! I accept this offer!"],
+
+		"hateHello": ["Why are you alive?!"],
+		"hateLetsHearIt": ["Spit it out before I PURGE you!"],
+		"hateNo": ["As if I would have ever accepted it, me, Renkawa Cherino, Chief Beautification Officer,..."],
+		"hateYes": "...We have to agree...",
+		
+		"afterPeace": "The slaughter is over, we shall be leaving.",
+		"tradeRequest": "We have prepared a deal to you, would you agree?",
+
+		"outerColor": [255,255,255],
+		"innerColor": [204,0,0],
+		"uniqueName": "Revolutionary spirits:",
+		"uniques":["Comment [Political tensions may lead to revolutions! Watch out!]",
+			"[Land] units gain the [Kivotos Halo] promotion"],
+		"cities": ["Red Winter Main Corpus", "Red Winter Factory Plant City", "The Squre of Mustache Revolution", "Red Winter Trading Square", "Red Winter Communal Dormitories Area", "The Black Bear Town", "The Brown Owl Town", "The White Deer Town", "Red Winter Industrial District 1", "Red Winter Industrial District 2", "Red Winter Industrial District 3"],
+		"personality": "Tea Party Council"
 	},
 	
 	{
