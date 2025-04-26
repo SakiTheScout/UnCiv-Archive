@@ -64,5 +64,27 @@
                     "Free Technology"]
             }
         ]
+  },
+  {
+    "name": "Political Stagnation",
+    "text": "Political stability caused by your reign has provoked stagnation of students' spirits! They are losing their identity as Red Winter students! We must do something before they started to flee!",
+    "choices": [
+     {"text": "It is as it should be.",
+      "uniques": ["[-10]% [Production] [in all cities] <when below [0] [Political Instability]", "[-10]% [Faith] [in all cities] <when below [0] [Political Instability]", "[-10]% [Gold] [in all cities] <when below [0] [Political Instability]", "[-10]% Growth [in all cities] <when below [0] [Political Instability]", "[-10]% [Culture] [in all cities] <when below [0] [Political Instability]", "[-10]% [Science] [in all cities] <when below [0] [Political Instability]","Rebel units may spawn <for [10] turns>", "[-1] population [in all cities]"]},
+     {"text": "Let's do something stupid now!",
+     "uniques": "Instantly provides [250] [Political Instability]"}]
+    ]
+  },
+  {
+    "name": "Political Stasis",
+    "text": "Political stability caused by your reign has provoked stagnation of students' spirits! They are losing their identity as Red Winter students! We must do something before they started to flee! It is a dire situation now!",
+    "choices": [
+     {"text": "It is as it should be!..",
+      "uniques": ["[-100]% [Production] [in all cities] <when below [0] [Political Instability]", "[-100]% [Faith] [in all cities] <when below [0] [Political Instability]", "[-100]% [Gold] [in all cities] <when below [0] [Political Instability]", "[-100]% Growth [in all cities] <when below [0] [Political Instability]", "[-100]% [Culture] [in all cities] <when below [0] [Political Instability]", "[-100]% [Science] [in all cities] <when below [0] [Political Instability]","Rebel units may spawn <for [100] turns>", "[-10] population [in all cities]"]},
+     {"text": "Let's do something stupid, NOW!",
+     "uniques": "Instantly provides [1000] [Political Instability]"}]
+  },
+  {
+    "name":
   }
 ]
