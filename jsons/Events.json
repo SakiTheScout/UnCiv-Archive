@@ -170,4 +170,22 @@
        {"text": "Give them alcohol.",
         "uniques": ["[-20]% [Production] [in all cities] <for [5] turns>", "[-10]% [Gold] [in all cities] <for [5] turns>", "[+100]% Happiness [in all cities] <for [5] turns>"]}
   },
+  {
+    "name": "Riot in Cafeteria!",
+    "text": "Main Secretary! Workers in cafeteria started a riot! What do we do?",
+    "choices": [
+      {"text": "Punish! Purge!",
+        "uniques": ["[+20]% [Food] [in all cities] <for [5] turns>", "[-50]% Happiness [in all cities] <for [5] turns>", "Instantly provides [50] [Political Instability]"]},
+      {"text": "Ignore them, they are having their fun.",
+        "uniques": ["[-30]% [Food] [in all cities] <for [5] turns>", "[-10]% [Gold] [in all cities] <for [5] turns>", "[-10]% [Science] [in all cities] <for [5] turns>", "Instantly provides [100] [Political Instability]"]},
+       {"text": "Give them alcohol.",
+        "uniques": ["[-20]% [Food] [in all cities] <for [5] turns>", "[-10]% [Gold] [in all cities] <for [5] turns>", "[+100]% Happiness [in all cities] <for [5] turns>"]}
+  },
+  {
+    "name": "Revolution!",
+    "text": "Main Secretary! Students came out on... REVOLUTION! We can't do anything!",
+    "choices": [
+      {"text": "You! You are now responsible for everything! I... I have important things to do!",
+        "uniques": ["Nullifies Growth [cityFilter] <for [10] turns>", "Nullifies [Gold] [in all cities] <for [10] turns>", "Nullifies [Production] [in all cities] <for [10] turns>", "Nullifies [Culture] [in all cities] <for [10] turns>", "Nullifies [Science] [in all cities] <for [10] turns>", "Nullifies [Faith] [in all cities] <for [10] turns>", "Nullifies [Food] [in all cities] <for [10] turns>", "[-50]% Strength <for [10] turns>", "[-100]% Happiness [in all cities] <for [10] turns>", "Instantly consumes [500] [Political Instability]"]}]
+  }
 ]
