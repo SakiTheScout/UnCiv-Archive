@@ -177,4 +177,3 @@
     "choices": [
       {"text": "You! You are now responsible for everything! I... I have important things to do!",
         "uniques": ["Nullifies Growth [cityFilter] <for [10] turns>", "Nullifies [Gold] [in all cities] <for [10] turns>", "Nullifies [Production] [in all cities] <for [10] turns>", "Nullifies [Culture] [in all cities] <for [10] turns>", "Nullifies [Science] [in all cities] <for [10] turns>", "Nullifies [Faith] [in all cities] <for [10] turns>", "Nullifies [Food] [in all cities] <for [10] turns>", "[-50]% Strength <for [10] turns>", "[-100]% Happiness [in all cities] <for [10] turns>", "Instantly consumes [500] [Political Instability]"]}]
-]
