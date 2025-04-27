@@ -127,8 +127,9 @@
       {"text": "Purge them all!",
         "uniques": ["[+1 Happiness] [in all cities]", "[+25]% [Production] [in all cities] <for [5] turns>", "[+25]% [Gold] [in all cities] <for [5] turns>", "[+25]% [Culture] [in all cities] <for [5] turns>", "Instantly provides [100] [Political Instability]"]},
        {"text": "Help priests!",
-        "uniques": ["[+1 Faith] [in all cities]", "[+50]% [Faith] [in all cities] <for [5] turns>", "[-50]% [Science] [in all cities] <for [5] turns>", "[-10]% [Production] [in all cities] <for [5] turns>", "[-10]% [Gold] [in all cities] <for [5] turns>", "[-10]% [Culture] [in all cities] <for [5] turns>", "Instantly consumes [50] [Political Instability]"]}},
-  {
+        "uniques": ["[+1 Faith] [in all cities]", "[+50]% [Faith] [in all cities] <for [5] turns>", "[-50]% [Science] [in all cities] <for [5] turns>", "[-10]% [Production] [in all cities] <for [5] turns>", "[-10]% [Gold] [in all cities] <for [5] turns>", "[-10]% [Culture] [in all cities] <for [5] turns>", "Instantly consumes [50] [Political Instability]"]},
+    ]},
+    {
     "name": "More Money!",
     "text": "Main Secretary! Students came out to protest for market freedom! But cultural students came out to suppress them! It turns into a full-scale civil war! What do we do?",
     "choices": [
