@@ -88,11 +88,12 @@
     "text": "Main Secretary! Students came out to protest... Over nothing at all! They just say they want to come out and protest because of boredom! What do we do?",
     "choices": [
       {"text": "Punish them and force to work!",
-        "uniques": ["[+20]% [Production] [in all cities] <for [5] turns>", "[+20]% [Gold] [in all cities] <for [5] turns>", "[+20]% [Science] [in all cities] <for [5] turns>", "[-33]% Happiness [in all cities] <for [5] turns>", "Instantly provides [50] [Political Instability]"]},
+      "uniques":["[+20]% [Production] [in all cities] <for [5] turns>", "[+20]% [Gold] [in all cities] <for [5] turns>", "[+20]% [Science] [in all cities] <for [5] turns>", "[-33]% Happiness [in all cities] <for [5] turns>", "Instantly provides [50] [Political Instability]"]},
       {"text": "Ignore them, they are having their fun.",
-        "uniques": ["[-10]% [Production] [in all cities] <for [5] turns>", "[-10]% [Gold] [in all cities] <for [5] turns>", "[-10]% [Science] [in all cities] <for [5] turns>", "[+25]% Happiness [in all cities] <for [5] turns>"]},
-       {"text": "They have all the fun? I want too!",
-        "uniques": ["[-20]% [Production] [in all cities] <for [5] turns>", "[-20]% [Gold] [in all cities] <for [5] turns>", "[-20]% [Science] [in all cities] <for [5] turns>", "[+100]% Happiness [in all cities] <for [5] turns>", "Instantly consumes [30] [Political Instability]"]}},
+      "uniques":["[-10]% [Production] [in all cities] <for [5] turns>", "[-10]% [Gold] [in all cities] <for [5] turns>", "[-10]% [Science] [in all cities] <for [5] turns>", "[+25]% Happiness [in all cities] <for [5] turns>"]},
+      {"text": "They have all the fun? I want too!",
+      "uniques":["[-20]% [Production] [in all cities] <for [5] turns>", "[-20]% [Gold] [in all cities] <for [5] turns>", "[-20]% [Science] [in all cities] <for [5] turns>", "[+100]% Happiness [in all cities] <for [5] turns>", "Instantly consumes [30] [Political Instability]"]}
+    ]},
   {
     "name": "More Rights!",
     "text": "Main Secretary! Students came out to protest for more rights! What do we do?",
