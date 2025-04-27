@@ -159,4 +159,15 @@
       {"text": "We can't do anything but to submit...",
         "uniques": ["[-10]% [Production] [in all cities] <for [5] turns>", "[-10]% [Gold] [in all cities] <for [5] turns>", "[-10]% [Science] [in all cities] <for [5] turns>", "[-10]% [Culture] [in all cities] <for [5] turns>", "[-10]% [Faith] [in all cities] <for [5] turns>", "Instantly provides [50] [Political Instability]"]}
   },
+  {
+    "name": "Riot on Factory!",
+    "text": "Main Secretary! Workers on factory started a riot! What do we do?",
+    "choices": [
+      {"text": "Punish them and force to work!",
+        "uniques": ["[+20]% [Production] [in all cities] <for [5] turns>", "[-50]% Happiness [in all cities] <for [5] turns>", "Instantly provides [50] [Political Instability]"]},
+      {"text": "Ignore them, they are having their fun.",
+        "uniques": ["[-30]% [Production] [in all cities] <for [5] turns>", "[-10]% [Gold] [in all cities] <for [5] turns>", "[-10]% [Science] [in all cities] <for [5] turns>", "Instantly provides [100] [Political Instability]"]},
+       {"text": "Give them alcohol.",
+        "uniques": ["[-20]% [Production] [in all cities] <for [5] turns>", "[-10]% [Gold] [in all cities] <for [5] turns>", "[+100]% Happiness [in all cities] <for [5] turns>"]}
+  },
 ]
