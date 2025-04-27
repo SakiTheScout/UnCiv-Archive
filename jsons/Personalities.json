@@ -29,6 +29,35 @@
     }
   },
   {
+    "name": "Renkawa Cherino",
+    "production": 10,
+    "food": 8,
+    "gold": 7,
+    "science": 6,
+    "culture": 5,
+    "happiness": 6,
+    "faith": 4,
+    "military": 7,
+    "aggressive": 4,
+    "declareWar": 3,
+    "commerce": 6,
+    "diplomacy": 7,
+    "loyal": 8,
+    "expansion": 6,
+    "priorities": {
+      "Tradition": 7,
+      "Liberty": 4,
+      "Honor": 6,
+      "Commerce": 7,
+      "Patronage": 5,
+      "Piety": 4,
+      "Rationalism": 6,
+      "Freedom": 3,
+      "Autocracy": 4,
+      "Order": 8
+    }
+  },
+  {
     "name": "Hikari and Nozomi",
     "production": 7,
     "food": 5,
