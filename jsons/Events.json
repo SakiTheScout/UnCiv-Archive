@@ -102,7 +102,7 @@
       {"text": "Ignore them, what could they do?..",
         "uniques": ["[-100]% [Production] [in all cities] <for [5] turns>", "[-100]% [Gold] [in all cities] <for [5] turns>", "[-100]% [Science] [in all cities] <for [5] turns>", "[+25]% Happiness [in all cities] <for [5] turns>"]},
        {"text": "Fine, give them more rights...",
-        "uniques": ["Gain [1] [Happiness] <for every [5] [Population]> [in all cities]", "[-10]% [Production] [in all cities]", "[-10]% [Gold] [in all cities]", "[-10]% [Science] [in all cities]", "[+50]% Happiness [in all cities]", "Instantly consumes [70] [Political Instability]"]}},
+        "uniques": ["Gain [1] [Happiness] <for every [5] [Population]> [in all cities]", "[-10]% [Production] [in all cities]", "[-10]% [Gold] [in all cities]", "[-10]% [Science] [in all cities]", "[+50]% Happiness [in all cities]", "Instantly consumes [70] [Political Instability]"]}]},
   {
     "name": "More Science!",
     "text": "Main Secretary! Students came out to protest for science improvement! But religious students came out to suppress them! It turns into a full-scale civil war! What do we do?",
