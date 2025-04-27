@@ -149,16 +149,18 @@
       {"text": "Fine, give them more money...",
         "uniques": ["[1] [Happiness] [in all cities] <for every [1] [Population]> <for [10] turns>", "[-1] [Gold] [in all cities] <for every [1] [Population]>", "Instantly consumes [150] [Political Instability]"]},
        {"text": "Ignore them.",
-        "uniques": ["[-20]% [Production] [in all cities] <for [5] turns>", "[-20]% [Gold] [in all cities] <for [5] turns>", "[-20]% [Science] [in all cities] <for [5] turns>", "[-100]% Happiness [in all cities] <for [5] turns>", "Instantly provides [150] [Political Instability]"]}},
-  {
+        "uniques": ["[-20]% [Production] [in all cities] <for [5] turns>", "[-20]% [Gold] [in all cities] <for [5] turns>", "[-20]% [Science] [in all cities] <for [5] turns>", "[-100]% Happiness [in all cities] <for [5] turns>", "Instantly provides [150] [Political Instability]"]}
+    ]},
+    {
     "name": "Workers Strike!",
     "text": "Main Secretary! Labour Union has organised a workers strike! What do we do?",
     "choices": [
       {"text": "Purge them! Purge them all!",
         "uniques": ["[-3] population [in all cities]", "[-100]% [Production] [in all cities] <for [5] turns>", "[-100]% [Gold] [in all cities] <for [5] turns>", "[-100]% [Science] [in all cities] <for [5] turns>", "[-100]% [Happiness] [in all cities] <for [10] turns>", "Instantly consumes [100] [Political Instability]"]},
       {"text": "We can't do anything but to submit...",
-        "uniques": ["[-10]% [Production] [in all cities] <for [5] turns>", "[-10]% [Gold] [in all cities] <for [5] turns>", "[-10]% [Science] [in all cities] <for [5] turns>", "[-10]% [Culture] [in all cities] <for [5] turns>", "[-10]% [Faith] [in all cities] <for [5] turns>", "Instantly provides [50] [Political Instability]"]}},
-  {
+        "uniques": ["[-10]% [Production] [in all cities] <for [5] turns>", "[-10]% [Gold] [in all cities] <for [5] turns>", "[-10]% [Science] [in all cities] <for [5] turns>", "[-10]% [Culture] [in all cities] <for [5] turns>", "[-10]% [Faith] [in all cities] <for [5] turns>", "Instantly provides [50] [Political Instability]"]}
+    ]},
+    {
     "name": "Riot on Factory!",
     "text": "Main Secretary! Workers on factory started a riot! What do we do?",
     "choices": [
@@ -167,8 +169,9 @@
       {"text": "Ignore them, they are having their fun.",
         "uniques": ["[-30]% [Production] [in all cities] <for [5] turns>", "[-10]% [Gold] [in all cities] <for [5] turns>", "[-10]% [Science] [in all cities] <for [5] turns>", "Instantly provides [100] [Political Instability]"]},
        {"text": "Give them alcohol.",
-        "uniques": ["[-20]% [Production] [in all cities] <for [5] turns>", "[-10]% [Gold] [in all cities] <for [5] turns>", "[+100]% Happiness [in all cities] <for [5] turns>"]}},
-  {
+        "uniques": ["[-20]% [Production] [in all cities] <for [5] turns>", "[-10]% [Gold] [in all cities] <for [5] turns>", "[+100]% Happiness [in all cities] <for [5] turns>"]}
+    ]},
+    {
     "name": "Riot in Cafeteria!",
     "text": "Main Secretary! Workers in cafeteria started a riot! What do we do?",
     "choices": [
@@ -177,10 +180,11 @@
       {"text": "Ignore them, they are having their fun.",
         "uniques": ["[-30]% [Food] [in all cities] <for [5] turns>", "[-10]% [Gold] [in all cities] <for [5] turns>", "[-10]% [Science] [in all cities] <for [5] turns>", "Instantly provides [100] [Political Instability]"]},
        {"text": "Give them alcohol.",
-        "uniques": ["[-20]% [Food] [in all cities] <for [5] turns>", "[-10]% [Gold] [in all cities] <for [5] turns>", "[+100]% Happiness [in all cities] <for [5] turns>"]},
-  {
+        "uniques": ["[-20]% [Food] [in all cities] <for [5] turns>", "[-10]% [Gold] [in all cities] <for [5] turns>", "[+100]% Happiness [in all cities] <for [5] turns>"]}
+    ]},
+    {
     "name": "Revolution!",
     "text": "Main Secretary! Students came out on... REVOLUTION! We can't do anything!",
     "choices": [
       {"text": "You! You are now responsible for everything! I... I have important things to do!",
-        "uniques": ["Nullifies Growth [cityFilter] <for [10] turns>", "Nullifies [Gold] [in all cities] <for [10] turns>", "Nullifies [Production] [in all cities] <for [10] turns>", "Nullifies [Culture] [in all cities] <for [10] turns>", "Nullifies [Science] [in all cities] <for [10] turns>", "Nullifies [Faith] [in all cities] <for [10] turns>", "Nullifies [Food] [in all cities] <for [10] turns>", "[-50]% Strength <for [10] turns>", "[-100]% Happiness [in all cities] <for [10] turns>", "Instantly consumes [500] [Political Instability]"]}]}
+        "uniques": ["Nullifies Growth [cityFilter] <for [10] turns>", "Nullifies [Gold] [in all cities] <for [10] turns>", "Nullifies [Production] [in all cities] <for [10] turns>", "Nullifies [Culture] [in all cities] <for [10] turns>", "Nullifies [Science] [in all cities] <for [10] turns>", "Nullifies [Faith] [in all cities] <for [10] turns>", "Nullifies [Food] [in all cities] <for [10] turns>", "[-50]% Strength <for [10] turns>", "[-100]% Happiness [in all cities] <for [10] turns>", "Instantly consumes [500] [Political Instability]"]}]}]
