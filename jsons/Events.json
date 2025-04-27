@@ -138,8 +138,9 @@
       {"text": "Purge them all!",
         "uniques": ["[+1 Happiness] [in all cities]", "[+25]% [Production] [in all cities] <for [5] turns>", "[+25]% [Faith] [in all cities] <for [5] turns>", "[+25]% [Science] [in all cities] <for [5] turns>", "Instantly provides [100] [Political Instability]"]},
        {"text": "Support market!",
-        "uniques": ["[+1 Gold] [in all cities]", "[+50]% [Gold] [in all cities] <for [5] turns>", "[-50]% [Culture] [in all cities] <for [5] turns>", "[-10]% [Production] [in all cities] <for [5] turns>", "[-10]% [Science] [in all cities] <for [5] turns>", "[-10]% [Faith] [in all cities] <for [5] turns>", "Instantly consumes [50] [Political Instability]"]}},
-  {
+        "uniques": ["[+1 Gold] [in all cities]", "[+50]% [Gold] [in all cities] <for [5] turns>", "[-50]% [Culture] [in all cities] <for [5] turns>", "[-10]% [Production] [in all cities] <for [5] turns>", "[-10]% [Science] [in all cities] <for [5] turns>", "[-10]% [Faith] [in all cities] <for [5] turns>", "Instantly consumes [50] [Political Instability]"]}
+    ]},
+        {
     "name": "Low Wages!",
     "text": "Main Secretary! Students came out to protest for wages increase! What do we do?",
     "choices": [
