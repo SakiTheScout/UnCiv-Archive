@@ -107,14 +107,25 @@
         "uniques": ["[-10]% [Production] [in all cities]", "[-10]% [Gold] [in all cities]", "[-10]% [Science] [in all cities]", "[+50]% Happiness [in all cities]", "Instantly consumes [70] [Political Instability]"]},
   },
   {
-    "name": "More Rights!",
-    "text": "Main Secretary! Students came out to protest for more rights! What do we do?",
+    "name": "More Science!",
+    "text": "Main Secretary! Students came out to protest for science improvement! But religious students came out to suppress them! It turns into a full-scale civil war! What do we do?",
     "choices": [
-      {"text": "Suppress! Purge! Punish!",
-        "uniques": ["[-50]% Happiness [in all cities] <for [5] turns>", "Instantly provides [100] [Political Instability]"]},
-      {"text": "Ignore them, what could they do?..",
-        "uniques": ["[-100]% [Production] [in all cities] <for [5] turns>", "[-100]% [Gold] [in all cities] <for [5] turns>", "[-100]% [Science] [in all cities] <for [5] turns>", "[+25]% Happiness [in all cities] <for [5] turns>"]},
-       {"text": "Fine, give them more rights...",
-        "uniques": ["[-10]% [Production] [in all cities]", "[-10]% [Gold] [in all cities]", "[-10]% [Science] [in all cities]", "[+50]% Happiness [in all cities]", "Instantly consumes [70] [Political Instability]"]},
+      {"text": "Help scientists!",
+        "uniques": ["Free Technology", "Instantly consumes [50] [Political Instability]"]},
+      {"text": "Purge them all!",
+        "uniques": ["[+25]% [Production] [in all cities] <for [5] turns>", "[+25]% [Gold] [in all cities] <for [5] turns>", "[+25]% [Science] [in all cities] <for [5] turns>", "Instantly provides [100] [Political Instability]"]},
+       {"text": "Help priests!",
+        "uniques": ["Gain a free [Follower] belief", "Instantly consumes [50] [Political Instability]"]},
+  },
+  {
+    "name": "More Science!",
+    "text": "Main Secretary! Students came out to protest for science improvement! But religious students came out to suppress them! It turns into a full-scale civil war! What do we do?",
+    "choices": [
+      {"text": "Help scientists!",
+        "uniques": ["Free Technology", "Instantly consumes [50] [Political Instability]"]},
+      {"text": "Purge them all!",
+        "uniques": ["[+25]% [Production] [in all cities] <for [5] turns>", "[+25]% [Gold] [in all cities] <for [5] turns>", "[+25]% [Science] [in all cities] <for [5] turns>", "Instantly provides [100] [Political Instability]"]},
+       {"text": "Help priests!",
+        "uniques": ["Gain a free [Follower] belief", "Instantly consumes [50] [Political Instability]"]},
   },
 ]
