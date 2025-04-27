@@ -81,7 +81,7 @@
      {"text": "It is as it should be!..",
       "uniques": ["[-100]% [Production] [in all cities] <when below [0] [Political Instability]", "[-100]% [Faith] [in all cities] <when below [0] [Political Instability]", "[-100]% [Gold] [in all cities] <when below [0] [Political Instability]", "[-100]% Growth [in all cities] <when below [0] [Political Instability]", "[-100]% [Culture] [in all cities] <when below [0] [Political Instability]", "[-100]% [Science] [in all cities] <when below [0] [Political Instability]","Rebel units may spawn <for [100] turns>", "[-10] population [in all cities]"]},
      {"text": "Let's do something stupid, NOW!",
-     "uniques": "Instantly provides [1000] [Political Instability]"}]
+     "uniques": ["Instantly provides [1000] [Political Instability]"]}]
   },
   {
     "name": "Pointless Protests!",
