@@ -65,7 +65,7 @@
     "text": "Political stability caused by your reign has provoked stagnation of students' spirits! They are losing their identity as Red Winter students! We must do something before they started to flee!",
     "choices": [
      {"text": "It is as it should be.",
-       "uniques":["Gain a free [Political Stagnation] [in capital] <hidden from users>", "Instantly provides [1] [Stagnation Points] <hidden from users>"]},
+       "uniques":["Gain a free [Political Stagnation] [in capital] <hidden from users>", "Instantly provides [1] [Stagnation Point] <hidden from users>"]},
      {"text": "Let's do something stupid now!",
      "uniques": ["Gain [-200]-[-400] [Gold] <hidden from users>", "Instantly provides [250] [Political Instability] <hidden from users>"]}]
   },
@@ -74,7 +74,7 @@
     "text": "Political stability caused by your reign has provoked stagnation of students' spirits! They are losing their identity as Red Winter students! We must do something before they started to flee! It is a dire situation now!",
     "choices": [
      {"text": "It is as it should be!..",
-      "uniques": ["Instantly provides [10] [Stagnation Points] <hidden from users>"]},
+      "uniques": ["Instantly provides [10] [Stagnation Point] <hidden from users>"]},
      {"text": "Let's do something stupid, NOW!",
      "uniques": ["Gain [-400]-[-800] [Good] <hidden from users>", "Instantly provides [1000] [Political Instability] <hidden from users>"]}]
   },
