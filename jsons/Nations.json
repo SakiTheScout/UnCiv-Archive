@@ -424,7 +424,7 @@
 		"Triggers a [More Money!] event <upon turn start> <when between [100] and [500] [Political Instability]> <with [10]% chance> <hidden from users>",
 		"Triggers a [Revolution!] event <upon turn start> <when above [500] [Political Instability]> <with [25]% chance> <hidden from users>",
 		"Triggers a [Political Stagnation!] event <upon turn start> <when between [0] and [-100] [Political Instability]> <with [50]% chance> <hidden from users>",
-		"Triggers a [Political Stasis!] event <upon turn start> <when below [-100] [Political Instability]>"],
+		"Triggers a [Political Stasis!] event <upon turn start> <when below [-100] [Political Instability]> <hidden from users>"],
 		"cities": ["Red Winter Main Corpus", "Red Winter Factory Plant City", "The Squre of Mustache Revolution", "Red Winter Trading Square", "Red Winter Communal Dormitories Area", "The Black Bear Town", "The Brown Owl Town", "The White Deer Town", "Red Winter Industrial District 1", "Red Winter Industrial District 2", "Red Winter Industrial District 3"],
 		"personality": "Rankawa Cherino"
 	},
