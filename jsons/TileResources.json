@@ -18,7 +18,7 @@
 		"revealedBy": "Ecology"
 	},
 	{
-		"name": "Stagnation Points",
+		"name": "Stagnation Point",
 		"resourceType": "Strategic",
 		"uniques": ["Stockpiled"]
 	}
