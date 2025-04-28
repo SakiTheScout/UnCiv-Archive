@@ -416,7 +416,7 @@
 		"Instantly provides [55] [Political Instability] <upon founding a city> <hidden from users>",
 		"Provides [1] [Political Instability] <for every [Cities]> <when below [0] Happiness> <hidden from users>",
 		"Provides [-1] [Political Instability] <for every [Cities]> <when above [0] Happiness> <hidden from users>",
-		"Provides [-5] [Political Instability] [in all cities] <during We Love The King Day> <hidden from users>",
+		"Provides [-5] [Political Instability] <during We Love The King Day> <hidden from users>",
 		"Provides [-10] [Political Instability] <during a Golden Age> <hidden from users>",
 		"Triggers a [More Science!] event <upon turn start> <when between [100] and [500] [Political Instability]> <with [10]% chance> <hidden from users>",
 		"Triggers a [More Culture!] event <upon turn start> <when between [100] and [500] [Political Instability]> <with [10]% chance> <hidden from users>",
