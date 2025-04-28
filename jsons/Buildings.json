@@ -1301,7 +1301,7 @@
 	{
 		"name": "Political Stagnation",
 		"cost": 1,
-		"uniques": ["[-10]% [Production] [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "[-10]% [Faith] [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "[-10]% [Gold] [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "[-10]% Growth [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "[-10]% [Culture] [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "[-10]% [Science] [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "Rebel units may spawn <when below [0] [Political Instability]>", "Unsellable"]
+		"uniques": ["[-10]% [Production] [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "[-10]% [Faith] [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "[-10]% [Gold] [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "[-10]% growth [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "[-10]% [Culture] [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "[-10]% [Science] [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "Rebel units may spawn <when below [0] [Political Instability]>", "Unsellable"]
 	},
 	{
 		"name": "Revolution",
