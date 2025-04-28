@@ -530,7 +530,7 @@
 			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Halo-Shattering Grenade] status>"]},
 	{
 
-		"name": "Halo-Shattering Grenade Cooldown",
+		"name": "Grenade Cooldown",
 		"uniques": ["Comment [Grenade is on cooldown]"]},
 	
 	{
