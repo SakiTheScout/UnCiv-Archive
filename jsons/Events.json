@@ -65,7 +65,7 @@
     "text": "Political stability caused by your reign has provoked stagnation of students' spirits! They are losing their identity as Red Winter students! We must do something before they started to flee!",
     "choices": [
      {"text": "It is as it should be.",
-       "uniques":["Gain a free [Political Stagnation] [in the capital] <hidden from users>", "Instantly provides [1] [Stagnation Points] <hidden from users>"]},
+       "uniques":["Gain a free [Political Stagnation] [in capital] <hidden from users>", "Instantly provides [1] [Stagnation Points] <hidden from users>"]},
      {"text": "Let's do something stupid now!",
      "uniques": ["Gain [-200]-[-400] [Gold] <hidden from users>", "Instantly provides [250] [Political Instability] <hidden from users>"]}]
   },
@@ -159,4 +159,4 @@
     "text": "Main Secretary! Students came out on... REVOLUTION! We can't do anything!",
     "choices": [
       {"text": "You! You are now responsible for everything! I... I have important things to do!",
-        "uniques": ["Gain a free [Revolution] [in the capital] <hidden from users>"]}}]
+        "uniques": ["Gain a free [Revolution] [in capital] <hidden from users>"]}}]
