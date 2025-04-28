@@ -1296,5 +1296,11 @@
 		"Only available <in cities without a [Merchant High School]> <hidden from users>",
 		"Only available <in cities without a [Maritime High School]> <hidden from users>",
 		"Only available <in cities without a [Religious High School]> <hidden from users>"]
+	},
+
+	{
+		"name": "Political Stagnation",
+		"cost": 1,
+		"uniques": ["[-10]% [Production] [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "[-10]% [Faith] [in all cities] <when below [0] [Political Instability]>", "[-10]% [Gold] [in all cities] <when below [0] [Political Instability]>", "[-10]% Growth [in all cities] <when below [0] [Political Instability]>", "[-10]% [Culture] [in all cities] <when below [0] [Political Instability]>", "[-10]% [Science] [in all cities] <when below [0] [Political Instability]>","Rebel units may spawn <when below [0] [Political Instability]>", "[-1] population [in all cities]"]
 	}
 ]
