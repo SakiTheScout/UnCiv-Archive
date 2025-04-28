@@ -66,7 +66,7 @@
         ]
   },
   {
-    "name": "Political Stagnation",
+    "name": "Political Stagnation!",
     "text": "Political stability caused by your reign has provoked stagnation of students' spirits! They are losing their identity as Red Winter students! We must do something before they started to flee!",
     "choices": [
      {"text": "It is as it should be.",
@@ -75,7 +75,7 @@
      "uniques": ["Instantly provides [250] [Political Instability]"]}]
   },
   {
-    "name": "Political Stasis",
+    "name": "Political Stasis!",
     "text": "Political stability caused by your reign has provoked stagnation of students' spirits! They are losing their identity as Red Winter students! We must do something before they started to flee! It is a dire situation now!",
     "choices": [
      {"text": "It is as it should be!..",
