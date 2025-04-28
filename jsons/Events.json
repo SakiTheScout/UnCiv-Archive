@@ -76,7 +76,7 @@
      {"text": "It is as it should be!..",
       "uniques": ["Instantly provides [10] [Stagnation Point] <hidden from users>"]},
      {"text": "Let's do something stupid, NOW!",
-     "uniques": ["Gain [-400]-[-800] [Good] <hidden from users>", "Instantly provides [1000] [Political Instability] <hidden from users>"]}]
+     "uniques": ["Gain [-400]-[-800] [Gold] <hidden from users>", "Instantly provides [1000] [Political Instability] <hidden from users>"]}]
   },
   {
     "name": "More Science!",
