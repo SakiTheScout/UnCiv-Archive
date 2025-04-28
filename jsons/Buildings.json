@@ -1302,5 +1302,10 @@
 		"name": "Political Stagnation",
 		"cost": 1,
 		"uniques": ["[-10]% [Production] [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "[-10]% [Faith] [in all cities] <when below [0] [Political Instability]>", "[-10]% [Gold] [in all cities] <when below [0] [Political Instability]>", "[-10]% Growth [in all cities] <when below [0] [Political Instability]>", "[-10]% [Culture] [in all cities] <when below [0] [Political Instability]>", "[-10]% [Science] [in all cities] <when below [0] [Political Instability]>","Rebel units may spawn <when below [0] [Political Instability]>", "[-1] population [in all cities]"]
+	},
+	{
+		"name": "Revolution",
+		"cost": 1,
+		"uniques": ["Nullifies growth [in all cities]", "Nullifies [Gold] [in all cities]", "Nullifies [Production] [in all cities]", "Nullifies [Culture] [in all cities]", "Nullifies [Science] [in all cities]", "Nullifies [Faith] [in all cities]", "Nullifies [Food] [in all cities]", "[-100]% Happiness [in all cities]", "Consumes [50] [Political Instability]", "Remove [Revolution] [in this city] <upon turn start> <when below [Political Instability]>"]
 	}
 ]
