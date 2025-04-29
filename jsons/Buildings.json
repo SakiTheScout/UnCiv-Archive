@@ -34,7 +34,7 @@
 			"Only available <in cities without a [Sanctus Facrion Hall]> <hidden from users>",
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
-			"Cannot be purchased <hidden from users"]
+			"Cannot be purchased <hidden from users>"]
 	},
 	{
 		"name": "Pater Faction Hall",
@@ -49,7 +49,7 @@
 			"Only available <in cities without a [Sanctus Faction Hall]> <hidden from users>",
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
-			"Cannot be purchased <hidden from users"]
+			"Cannot be purchased <hidden from users>"]
 	},
 	{
 		"name": "Sanctus Faction Hall",
@@ -64,7 +64,7 @@
 			"Only available <in cities without a [Pater Faction Hall]> <hidden from users>",
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
-			"Cannot be purchased <hidden from users"]
+			"Cannot be purchased <hidden from users>"]
 	},
 	{
 		"name": "Justice Realisation Committee Stronghold",
