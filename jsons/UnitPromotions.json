@@ -3,8 +3,22 @@
     "name": "Tea Party",
     "uniques": [
       "Can build [All] improvements on tiles",
-      "[+20]% Strength <when fighting in [Friendly Land] tiles>",
-      "Gain [1]-[10] [Culture] <when not at war> <upon turn start>"],
+      "[+20]% Strength <when fighting in [Friendly Land] tiles>"],
+	  "outerColor": [255,253,249],
+	  "innerColor": [255,210,111]},
+  {
+    "name": "Filius Faction",
+    "uniques": ["[+1]% Strength", "Gain [1]-[10] [Gold] <upon turn start>","Gain [1]-[10] [Gold] <when not at war> <upon turn start>", "Gain [-1] [Gold] <upon turn start>"],
+	  "outerColor": [255,253,249],
+	  "innerColor": [255,210,111]},
+  {
+    "name": "Pater Faction",
+    "uniques": ["[+1]% Strength", "Gain [1]-[10] [Culture] <upon turn start>","Gain [1]-[10] [Culture] <when not at war> <upon turn start>", "Gain [-1] [Gold] <upon turn start>"],
+	  "outerColor": [255,253,249],
+	  "innerColor": [255,210,111]},
+  {
+    "name": "Sanctus Faction",
+    "uniques": ["[+1]% Strength", "Gain [1]-[10] [Science] <upon turn start>","Gain [1]-[10] [Science] <when not at war> <upon turn start>", "Gain [-1] [Gold] <upon turn start>"],
 	  "outerColor": [255,253,249],
 	  "innerColor": [255,210,111]},
   {
