@@ -39,7 +39,7 @@
 	{
 		"name": "Pater Faction Hall",
 		"uniqueTo": "Trinity General School",
-		"Culture": 1,
+		"culture": 1,
 		"cost": 10,
 		"requiredTech": "Civil Service",
 		"uniques": [
