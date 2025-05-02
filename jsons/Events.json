@@ -67,7 +67,7 @@
      {"text": "It is as it should be.",
        "uniques":["Gain a free [Political Stagnation] [in capital] <hidden from users>", "Instantly provides [1] [Stagnation Point] <hidden from users>"]},
      {"text": "Let's do something stupid now!",
-     "uniques": ["Gain [-200]-[-400] [Gold] <hidden from users>", "Instantly provides [250] [Political Instability] <hidden from users>"]}]
+     "uniques": ["Gain [-400]-[-200] [Gold] <hidden from users>", "Instantly provides [250] [Political Instability] <hidden from users>"]}]
   },
   {
     "name": "Political Stasis!",
@@ -76,7 +76,7 @@
      {"text": "It is as it should be!..",
       "uniques": ["Instantly provides [10] [Stagnation Point] <hidden from users>"]},
      {"text": "Let's do something stupid, NOW!",
-     "uniques": ["Gain [-400]-[-800] [Gold] <hidden from users>", "Instantly provides [1000] [Political Instability] <hidden from users>"]}]
+     "uniques": ["Gain [-800]-[-400] [Gold] <hidden from users>", "Instantly provides [1000] [Political Instability] <hidden from users>"]}]
   },
   {
     "name": "More Science!",
