@@ -77,7 +77,7 @@
 		"strength": 75,
 		"cost": 340,
 		"requiredTech": "Combined Arms",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Consumes [1] [Iron]", "Consumes [1] Oil"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Consumes [1] [Iron]", "Consumes [1] [Oil]"],
 		"attackSound": "tankshot"
 	},
   {
@@ -87,7 +87,7 @@
 		"strength": 100,
 		"cost": 400,
 		"requiredTech": "Combined Arms",
-		"uniques": ["Can move after attacking","No defensive terrain bonus", "Consumes [2] [Iron]", "Consumes [1] Oil"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus", "Consumes [2] [Iron]", "Consumes [1] [Oil]"],
 		"attackSound": "tankshot"
 	},
   {
@@ -97,7 +97,7 @@
 		"strength": 150,
 		"cost": 460,
 		"requiredTech": "Combined Arms",
-		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Consumes [3] [Iron]", "Consumes [2] Oil"],
+		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Consumes [3] [Iron]", "Consumes [2] [Oil]"],
 		"attackSound": "tankshot"
 	},
   {"name": "Tank", "unitType": "Armored", "movement": 5, "strength": 70, "cost": 375, "requiredTech": "Combined Arms", "requiredResource": "Oil", "upgradesTo": "Modern Armor","uniques": ["Unavailable", "Can move after attacking","No defensive terrain bonus", "Never appears as a Barbarian unit"],"attackSound": "tankshot"}
