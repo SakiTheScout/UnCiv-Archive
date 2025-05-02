@@ -59,8 +59,8 @@
     "uniques": [
       "[+10]% XP gained from combat",
       "Earn [25]% of killed [Military] unit's [Strength] as [Science]",
-      "[1] Movement",
-      "[1] Sight",
+      "[1] Movement <for [Gunpowder, Sword] units>",
+      "[1] Sight <for [Gunpowder, Sword] units>",
       "[+100]% Strength <vs [Ranged] units> <when defending>"]},
 {
     "name": "Kivotos Robot",
