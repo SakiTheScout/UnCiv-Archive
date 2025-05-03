@@ -29,6 +29,36 @@
 		"attackSound": "shot",
     "uniques": ["Comment [Heavy infantry unit.]", "[+25]% Strength <when defending>"]
 	},
+	{
+		"name": "Scout Bikes",
+		"unitType": "Scout",
+		"movement": 6,
+		"strength": 65,
+		"cost": 320,
+		"requiredTech": "Combustion",
+		"attackSound": "shot",
+    "uniques": ["[-25]% Strength <when defending>", "[+15]% Strength <vs [Siege] units>"]
+	},
+  {
+		"name": "Attack Bikes",
+		"unitType": "Gunpowder",
+		"movement": 4,
+		"strength": 65,
+		"cost": 375,
+		"requiredTech": "Combustion",
+		"attackSound": "shot",
+    "uniques": ["[+15]% Strength <vs [Siege] units>"]
+	},
+  {
+		"name": "Assault Bikes",
+		"unitType": "Armored",
+		"movement": 3,
+		"strength": 65,
+		"cost": 420,
+		"requiredTech": "Combustion",
+		"attackSound": "shot",
+    "uniques": ["[+25]% Strength <when defending>", "[+15]% Strength <vs [Siege] units>"]
+	},
   {
 		"name": "Light Artillery",
 		"unitType": "Siege",
