@@ -8,18 +8,17 @@
 	{
 		"name": "Desertification",
 		"resourceType": "Strategic",
-		"uniques": ["Stockpiled"],
+		"uniques": ["Stockpiled", "Not shown in world screen <for [non-[Abydos High School]] Civilizations>"],
 		"revealedBy": "Ecology"
 	},
 	{
 		"name": "Political Instability",
 		"resourceType": "Strategic",
-		"uniques": ["Stockpiled"],
-		"revealedBy": "Ecology"
+		"uniques": ["Stockpiled", "Not shown in world screen <for [non-[Red Winter Federal Academy]] Civilizations>"]
 	},
 	{
 		"name": "Stagnation Point",
 		"resourceType": "Strategic",
-		"uniques": ["Stockpiled"]
+		"uniques": ["Stockpiled", "Not shown in world screen <for [non-[Red Winter Federal Academy]] Civilizations>"]
 	}
 ]
