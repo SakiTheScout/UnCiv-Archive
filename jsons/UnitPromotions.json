@@ -3,29 +3,29 @@
     "name": "Tea Party",
     "uniques": [
       "Can build [All] improvements on tiles",
-      "[+20]% Strength <when fighting in [Friendly Land] tiles>"],
+      "[+10]% Strength <when fighting in [Friendly Land] tiles>"],
 	  "outerColor": [255,253,249],
 	  "innerColor": [255,210,111]},
   {
     "name": "Filius Faction",
-    "uniques": ["[+1]% Strength", "Gain [1]-[10] [Gold] <upon turn start>","Gain [1]-[10] [Gold] <when not at war> <upon turn start>", "Gain [-1] [Gold] <upon turn start>"],
+    "uniques": ["[+5]% Strength", "[+15]% Strength <when fighting in [Friendly Land] tiles>","Gain [1]-[10] [Gold] <when not at war> <upon turn start>", "Gain [-1] [Gold] <upon turn start>"],
 	  "outerColor": [255,253,249],
 	  "innerColor": [255,210,111]},
   {
     "name": "Pater Faction",
-    "uniques": ["[+1]% Strength", "Gain [1]-[10] [Culture] <upon turn start>","Gain [1]-[10] [Culture] <when not at war> <upon turn start>", "Gain [-1] [Gold] <upon turn start>"],
+    "uniques": ["[+5]% Strength", "[+15]% Strength <when fighting in [Enemy Land] tiles>","Gain [1]-[10] [Culture] <when at war> <upon turn start>", "Gain [-1] [Gold] <upon turn start>"],
 	  "outerColor": [255,253,249],
 	  "innerColor": [255,210,111]},
   {
     "name": "Sanctus Faction",
-    "uniques": ["[+1]% Strength", "Gain [1]-[10] [Science] <upon turn start>","Gain [1]-[10] [Science] <when not at war> <upon turn start>", "Gain [-1] [Gold] <upon turn start>"],
+    "uniques": ["[+5]% Strength", "Gain [1]-[10] [Science] <upon turn start>","Gain [1]-[10] [Faith] <upon turn start>", "Gain [-1] [Gold] <upon turn start>"],
 	  "outerColor": [255,253,249],
 	  "innerColor": [255,210,111]},
   {
     "name": "Justice Task Force",
     "uniques": [
       "[+25]% Strength <when at war>",
-      "[+33]% Strength <vs [Barbarian] units>",
+      "[+33]% Strength <vs [Barbarian, Gehenna Academy, Helmet Gang] units>",
       "Ignores Zone of Control"],
 	  "outerColor": [0,0,0],
 	  "innerColor": [255,0,0]},
@@ -34,7 +34,6 @@
     "uniques": [
       "Can Spread Religion",
       "Prevents spreading of religion to the city it is next to",
-      "Unable to pillage tiles",
       "May enter foreign tiles without open borders"],
 	  "outerColor": [0,0,0],
 	  "innerColor": [255,210,111]},
@@ -49,8 +48,8 @@
   {
     "name": "Knight Hospitaller",
     "uniques": [
-      "[+20]% Strength bonus for [Wounded] units within [3] tiles",
-      "[5] HP when healing",
+      "[+20]% Strength bonus for [Wounded] units within [2] tiles",
+      "[10] HP when healing",
       "All adjacent units heal [15] HP when healing"],
 	  "outerColor": [255,253,249],
 	  "innerColor": [255,0,0],},
