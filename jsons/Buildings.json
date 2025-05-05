@@ -616,6 +616,7 @@
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
 	},
+	// Abydos High School
 	{
 		"name": "Countermeasures Committee Office",
 		"uniqueTo": "Abydos High School",
@@ -937,7 +938,7 @@
 		"uniques": [
 			"[+1 Gold, +1 Happiness, +1 Culture] [in all cities]",
 			"[+20]% [Culture] [in this city]",
-			"[+1 Gold] <for every [3] [Culture]> [in this city]",
+			"[+2 Gold, -1 Faith, -1 Production] <for every [3] [Culture]> <in this city>",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Hyakkaryouran Conflict Resolution Council House]> <hidden from users>",
 			"Only available <in cities without a [Yin-yang Club House]> <hidden from users>",
@@ -1001,7 +1002,7 @@
 			"[-3]% [Production] [in all cities]",
 			"[+3]% [Faith] [in all cities]",
 			"[+3]% [Culture] [in all cities]",
-			"[+1 Culture] <for every [3] [Gold]> [in this city]",
+			"[+2 Culture, -1 Gold, -1 Production] <for every [3] [Gold]> <in this city>",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Hyakkaryouran Conflict Resolution Council House]> <hidden from users>",
 			"Only available <in cities without a [Festival Management Committee House]> <hidden from users>",
