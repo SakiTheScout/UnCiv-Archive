@@ -41,4 +41,8 @@
         "[-80]% Strength <for [All] units> <when between [-2200] and [-1601] [Gold]",
         "[-90]% Strength <for [All] units> <when between [-3000] and [-2201] [Gold]",
         "[-100]% Strength <for [All] units> <when below [-3000] [Gold]",
+        "[-20]% XP required for promotions",
+        "[+50]% XP gained from combat",
+        "[+300]% Yield from pillaging tiles",
+        "[50]% Health from pillaging tiles",
         "[-1] Sight <for [Embarked] units>"]}
