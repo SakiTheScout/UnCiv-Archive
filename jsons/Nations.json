@@ -468,7 +468,7 @@
 	{
 		"name": "Barbarians",
 		"outerColor": [0,0,0],
-        "innerColor": [200,0,0],
-		"uniques": ["Excluded from map editor"]
+                "innerColor": [200,0,0],
+		"uniques": ["Excluded from map editor", "No movement cost to pillage", "[Melee] units gain the [Blood for the Blood God] promotion <every [8] turns> <with [10]% chance>"]
 	}
 ]
