@@ -635,7 +635,7 @@
 			"[This Unit] takes [15] damage <upon turn start> <for units without [Blood God's Blessing]>",
 			"[This Unit] gains the [Blood God's Blessing] status for [8] turn(s) <upon damaging a [All] unit>"],
 	"outerColor": [100,0,0],
-	"innerColor": [255,0,0]},},
+	"innerColor": [255,0,0]},
 	{
 		"name": "Blood God's Blessing",
 		"uniques": ["Comment [Blood God is satisfied.]"]}
