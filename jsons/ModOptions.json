@@ -2,6 +2,6 @@
 	"modUrl": "https://github.com/SakiTheScout/UnCiv-Archive",
 	"author": "SakiTheScout",
 	"constants": {
-		"maxXPfromBarbarians": 100
+		"maxXPfromBarbarians": 999999
 	}
 }
