@@ -1,4 +1,5 @@
 [
+	// Trinity
   {
     "name": "Tea Party",
     "uniques": [
@@ -25,7 +26,7 @@
     "name": "Justice Task Force",
     "uniques": [
       "[+25]% Strength <when at war>",
-      "[+33]% Strength <vs [Barbarian, Gehenna Academy, Helmet Gang] units>",
+      "[+33]% Strength <vs [Barbarian] units>",
       "Ignores Zone of Control"],
 	  "outerColor": [0,0,0],
 	  "innerColor": [255,0,0]},
@@ -48,18 +49,19 @@
   {
     "name": "Knight Hospitaller",
     "uniques": [
-      "[+20]% Strength bonus for [Wounded] units within [2] tiles",
+      "[+15]% Strength <when adjacent to a [{Friendly} {Wounded}] unit>",
       "[10] HP when healing",
       "All adjacent units heal [15] HP when healing"],
 	  "outerColor": [255,253,249],
 	  "innerColor": [255,0,0],},
+	// Neutral
   {
     "name": "Kivotos Halo",
     "uniques": [
       "[+10]% XP gained from combat",
       "Earn [25]% of killed [Military] unit's [Strength] as [Science]",
-      "[1] Movement <for [non-[Siege], non-[Armored], non-[Cavalry]] units>",
-      "[1] Sight <for [non-[Siege], non-[Armored], non-[Cavalry]] units>",
+      "[1] Movement <for [{non-[Siege]} {non-[Armored]} {non-[Cavalry]}] units>",
+      "[1] Sight <for [{non-[Siege]} {non-[Armored]} {non-[Cavalry]}] units>",
       "[+100]% Strength <vs [Ranged] units> <when defending>"]},
 {
     "name": "Kivotos Robot",
@@ -69,6 +71,7 @@
       "[15] HP when healing",
       "[-50]% maintenance costs",
       "[-20]% Strength <when defending>"]},
+	// Kaiser
 {
     "name": "Kaiser PMC",
     "uniques": [
@@ -82,6 +85,7 @@
     "uniques": [
       "[+50]% maintenance costs",
       "Can build [All] improvements on tiles"]},
+	// Arius
 {
     "name": "Vanitas Martyrdom",
     "uniques": [
@@ -114,6 +118,15 @@
       "[1] additional attacks per turn"],
   "outerColor": [242,247,255],
   "innerColor": [12,34,38]},
+	{
+    "name": "Ultimate Judgement",
+    "uniques": [
+      "[+75]% Strength <vs [Kivotos Halo] units> <when attacking>",
+      "[+25]% Strength <when adjacent to a [Wounded] unit> <when attacking>",
+      "Destroys tile improvements when attacking"],
+  "outerColor": [242,247,255],
+  "innerColor": [12,34,38]},
+	// Abydos
     {
     "name": "Foreclusive Task Force",
     "uniques": [
@@ -123,14 +136,7 @@
       "Instantly consumes [2] [Desertification] <upon turn start>"],
     "outerColor": [1,255,255],
     "innerColor": [1,1,1]},
-  {
-    "name": "Ultimate Judgement",
-    "uniques": [
-      "[+75]% Strength <vs [Kivotos Halo] units> <when attacking>",
-      "[+25]% Strength <when adjacent to a [Wounded] unit> <when attacking>",
-      "Destroys tile improvements when attacking"],
-  "outerColor": [242,247,255],
-  "innerColor": [12,34,38]},
+	// Gehenna
   {
     "name": "Pandemonium Society",
     "uniques": [
@@ -172,6 +178,7 @@
       "All adjacent units heal [10] HP when healing"],
   "outerColor": [255,248,254],
   "innerColor": [255,132,233]},
+	// Millennium
 	  {
     "name": "Seminar",
     "uniques": [
@@ -196,6 +203,7 @@
       "Earn [100]% of killed [All] unit's [Strength] as [Faith]",
       "Prevents spreading of religion to the city it is next to",
       "Gain [1]-[10] [Faith] <when not at war> <upon turn start>"]},
+	// Helmet Gang
 	{
     "name": "Helmet Gang",
     "uniques": [
@@ -205,6 +213,7 @@
       "[-25]% Strength",
       "[+10]% Strength bonus for [Helmet Gang] units within [2] tiles",
       "[-5] HP when healing"]},
+	// Shanhaijing 
 	{
     "name": "Black Tortoise Promenade",
     "uniques": [
@@ -229,6 +238,7 @@
       "Can see invisible [All] units",
       "[+50]% Strength <when defending> <when fighting in [Friendly Land] tiles>",
       "Great General provides double combat bonus"]},
+	// GSC
 	{
     "name": "Sensei of SCHALE",
     "uniques": ["Instantly gain [-120] [Eleph] <upon damaging a [Kivotos Halo] unit> <hidden from users>",
@@ -238,6 +248,7 @@
 "May capture killed [Kivotos Halo] units <hidden from users>",
 "[This Unit] loses the [Kivotos Halo] status <hidden from users>",
 "Comment [Sensei is able to convince students to fight on their side, for price of 120 Eleph.]"]},
+	// Hyakkiyako
 	{
     "name": "Yin-yang Club",
     "uniques": [
@@ -289,6 +300,7 @@
         "column": 5,
         "row": 4
 	},
+	// Grenades
 	{
 		"name": "Grenadier",
 		"prerequisites": ["Drill I", "Shock I"],
@@ -341,7 +353,7 @@
 		"prerequisites": ["Grenadier"],
 		"unitTypes": ["Sword","Gunpowder"],
 		"uniques": [
-			"Comment [[HE Grenade]: Deal 25 extra damage to units in bunkers. Cooldown: 10 turns.]",
+			"Comment [[HE Grenade]: Deal 30 extra damage to units in bunkers. Cooldown: 10 turns.]",
 			"[+1]% Strength",
 			"[This Unit] gains the [HE Grenade] status for [1] turn(s) <for [0] movement> <for units without [Grenade Cooldown]> <hidden from users>"],
 		"innerColor": [0,0,180],
@@ -351,9 +363,9 @@
 	{
 		"name": "HE Grenade",    
 		"uniques": [
-			"[Target Unit] takes [25] damage <upon damaging a [All] unit> <in [Fort] tiles>",
+			"[Target Unit] takes [30] damage <upon damaging a [All] unit> <in [Fort] tiles>",
 			"[+15]% Strength <vs cities>",
-			"[Target Unit] takes [25] damage <upon damaging a [All] unit> <in [Citadel] tiles>",
+			"[Target Unit] takes [30] damage <upon damaging a [All] unit> <in [Citadel] tiles>",
 			"[This Unit] loses the [HE Grenade] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [HE Grenade] status>"]},
 	{
@@ -361,7 +373,7 @@
 		"prerequisites": ["Grenadier"],
 		"unitTypes": ["Sword","Gunpowder"],
 		"uniques": [
-			"Comment [[Incendiary Grenade]: Deal 10 extra damage to non-armor unit and set it on fire. Cooldown: 10 turns.]",
+			"Comment [[Incendiary Grenade]: Deal 15 extra damage to non-armor unit and set it on fire. Cooldown: 10 turns.]",
 			"[+1]% Strength",
 			"[This Unit] gains the [Incendiary Grenade] status for [1] turn(s) <for [0] movement> <for units without [Grenade Cooldown]> <hidden from users>"],
 		"innerColor": [255,115,0],
@@ -371,10 +383,10 @@
 	{
 		"name": "Incendiary Grenade",    
 		"uniques": [
-			"[Target Unit] takes [10] damage <upon damaging a [non-[Armored]] unit>",
-			"[Target Unit] gains the [Burning] status for [5] turn(s) <upon damaging a [non-Armored] unit>",
+			"[Target Unit] takes [15] damage <upon damaging a [non-[Armored]] unit>",
+			"[Target Unit] gains the [Burning] status for [5] turn(s) <upon damaging a [non-[Armored]] unit>",
 			"[+15]% Strength <when fighting in [Forest] tiles>",
-			"[+20]% Strength <when fighting in [Jungles] tiles>",
+			"[+20]% Strength <when fighting in [Jungle] tiles>",
 			"[Target Unit] takes [5] damage <upon damaging a [Armored] unit>",
 			"[This Unit] loses the [Incendiary Grenade] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Incendiary Grenade] status>"]},
@@ -395,7 +407,7 @@
 		"uniques": [
 			"[Target Unit] gains the [Burning] status for [5] turn(s) <upon damaging a [All] unit>",
 			"[+15]% Strength <when fighting in [Forest] tiles>",
-			"[+20]% Strength <when fighting in [Jungles] tiles>",
+			"[+20]% Strength <when fighting in [Jungle] tiles>",
 			"[This Unit] loses the [Molotov Cocktail] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Molotov Cocktail] status>"]},
 	{
@@ -495,7 +507,7 @@
 			"[Target Unit] takes [5] damage <upon damaging a [All] unit>",
 			"[Target Unit] gains the [Burning] status for [3] turn(s) <upon damaging a [All] unit>",
 			"[+15]% Strength <when fighting in [Forest] tiles>",
-			"[+20]% Strength <when fighting in [Jungles] tiles>",
+			"[+20]% Strength <when fighting in [Jungle] tiles>",
 			"[Target Unit] takes [20] damage <upon damaging a [All] unit> <in [Fort] tiles>",
 			"[+15]% Strength <vs cities>",
 			"[Target Unit] takes [20] damage <upon damaging a [All] unit> <in [Citadel] tiles>",
@@ -545,7 +557,7 @@
 
 		"name": "Grenade Cooldown",
 		"uniques": ["Comment [Grenade is on cooldown]"]},
-	
+	// Status effects
 	{
 		"name": "Burning",
 		"uniques": ["[This Unit] takes [5] damage <upon turn end>",
@@ -559,7 +571,7 @@
 			"No defensive terrain bonus",
 			"Can only heal by pillaging",
 			"No Sight"]},
-	
+	// High Schools
 	{
 		"name": "Agricultural Schooling",
 		"uniques":["[+5]% Strength", "Can build [Farm] improvements at a [+50]% rate", "Can build [Plantation] improvements at a [+50]% rate", "Gain [-1] [Gold] <upon turn start>"],
