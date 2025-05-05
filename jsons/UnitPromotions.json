@@ -625,8 +625,8 @@
 	{
 		"name": "Blood for the Blood God",    
 		"uniques": [
-			"[+50] Strength <when attacking> <for units with [Blood God's Blessing]>",
-			"[-25] Strength <when defending>",
+			"[+50]% Strength <when attacking> <for units with [Blood God's Blessing]>",
+			"[-25]% Strength <when defending>",
 			"[This Unit] gains [2] movement <upon defeating a [All] unit>",
 			"[1] additional attacks per turn <upon defeating a [All] unit> <for [1] turns>",
 			"No damage penalty for wounded units",
