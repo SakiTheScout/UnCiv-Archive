@@ -464,5 +464,11 @@
 		"outerColor": [255,255,255],
 		"innerColor": [255,220,0],
 		"cities": ["Olympian Sports School Main Building"]
-		}
+		},
+	{
+		"name": "Barbarians",
+		"outerColor": [0,0,0],
+        "innerColor": [200,0,0],
+		"uniques": ["Excluded from map editor"]
+	}
 ]
