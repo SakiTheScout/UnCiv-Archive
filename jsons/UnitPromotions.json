@@ -49,7 +49,7 @@
   {
     "name": "Knight Hospitaller",
     "uniques": [
-      "[+15]% Strength <when adjacent to a [{Friendly} {Wounded}] unit>",
+      "[+33]% Strength <when adjacent to a [Wounded] unit>",
       "[10] HP when healing",
       "All adjacent units heal [15] HP when healing"],
 	  "outerColor": [255,253,249],
@@ -608,7 +608,7 @@
 		"innerColor": [0,127,255]},
 	{
 		"name": "Railroad Schooling",
-		"uniques":["[+5]% Strength", "Can build [All Road] improvements on tiles","Double movement in [Railroad]","Double movement in [Road]","Gain [-1] [Gold] <upon turn start>"],
+		"uniques":["[+5]% Strength", "Can build [All Road] improvements on tiles", "Ignores terrain cost <in [Railroad] tiles>", "Gain [-1] [Gold] <upon turn start>"],
 		"outerColor": [33,68,98],
 		"innerColor": [229,224,220]},
 	{
