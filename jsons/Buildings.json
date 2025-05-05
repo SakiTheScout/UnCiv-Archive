@@ -1,4 +1,5 @@
 [
+	//Trinity General School
 	{
 		"name": "Tea Party Plaza",
 		"uniqueTo": "Trinity General School",
@@ -154,6 +155,7 @@
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
 	},
+	// Arius Branch School
 	{
 		"name": "Lodge of Martyrs",
 		"uniqueTo": "Arius Branch School",
@@ -269,6 +271,7 @@
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
 	},
+	// Gehenna Academy
 	{
 		"name": "Pandemonium Society Office",
 		"uniqueTo": "Gehenna Academy",
@@ -383,6 +386,7 @@
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
 	},
+	// Millennium Science School
 	{
 		"name": "Seminar Branch Office",
 		"uniqueTo": "Millennium Science School",
@@ -549,6 +553,7 @@
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
 	},
+	// Shanhaijing Second Senior School
 	{
 		"name": "Black Tortoise Promenade Market",
 		"uniqueTo": "Shanhaijing Second Senior School",
@@ -642,6 +647,7 @@
 			"Can be purchased with [Gold] [in all cities]"
 		]
 	},
+	// Kaiser Corporation
 	{
 		"name": "Kaiser Constructions Office",
 		"uniqueTo": "Kaiser Corporation",
@@ -879,6 +885,7 @@
 		"[+2 Gold] [in all cities]",
 		"[Gold] cost of purchasing [Civilian] units [-50]%"]
 	},
+	// Hyakkiyako Alliance Academy
 	{
 		"name": "Yin-yang Club House",
 		"uniqueTo": "Hyakkiyako Alliance Academy",
@@ -1006,7 +1013,7 @@
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
 	},
-	
+	// Universal
 	{
 		"name": "Classroom",
 		"requiredTech": "Early Schooling",
@@ -1282,6 +1289,41 @@
 		"Only available <in cities without a [Merchant High School]> <hidden from users>"]
 	},
 	{
+		"name": "Agricultural High School",
+		"requiredTech": "High Schools",
+		"cost": 350,
+		"culture": 2,
+		"food": 4,
+		"specialistSlots": {"Merchant":1, "Scientist":1},
+		"maintenance": 10,
+		"requiredBuilding": "Middle School",
+		"uniques": ["[+1 Food] from [Farm] tiles [in this city]",
+		"[+2 Food] from [Plantation] tiles [in this city]",
+		"[+2 Food] from every specialist [in this city]",
+		"Provides [5] [Eleph]",
+		"All newly-trained [Land] units [in this city] receive the [Agricultural Schooling] promotion",
+		"Only available <in cities without a [Engineering High School]> <hidden from users>",
+		"Only available <in cities without a [Military High School]> <hidden from users>",
+		"Only available <in cities without a [Scientific High School]> <hidden from users>",
+		"Only available <in cities without a [Cultural High School]> <hidden from users>",
+		"Only available <in cities without a [General High School]> <hidden from users>",
+		"Only available <in cities without a [Merchant High School]> <hidden from users>",
+		"Only available <in cities without a [Maritime High School]> <hidden from users>",
+		"Only available <in cities without a [Religious High School]> <hidden from users>"]
+	},
+	// Red Winter Federal Academy
+	{
+		"name": "Political Stagnation",
+		"cost": 1,
+		"uniques": ["[-10]% [Production] [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "[-10]% [Faith] [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "[-10]% [Gold] [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "[-10]% growth [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "[-10]% [Culture] [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "[-10]% [Science] [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "Rebel units may spawn <when below [0] [Political Instability]>", "Unsellable", "Cannot be purchased", "Unbuildable"]
+	},
+	{
+		"name": "Revolution",
+		"cost": 1,
+		"uniques": ["Nullifies Growth [in all cities]", "Nullifies [Gold] [in all cities]", "Nullifies [Production] [in all cities]", "Nullifies [Culture] [in all cities]", "Nullifies [Science] [in all cities]", "Nullifies [Faith] [in all cities]", "Nullifies [Food] [in all cities]", "Consumes [50] [Political Instability]", "Remove [Revolution] [in this city] <upon turn start> <when below [100] [Political Instability]>", "Unsellable", "Cannot be purchased", "Unbuildable"]
+	},
+	// Highlander Railroad Academy
+	{
 		"name": "Railroad High School",
 		"requiredTech": "High Schools",
 		"uniqueTo": "Highlander Railroad Academy",
@@ -1318,39 +1360,5 @@
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
 			"Can be purchased with [Gold] [in all cities]"]
-	},
-	{
-		"name": "Agricultural High School",
-		"requiredTech": "High Schools",
-		"cost": 350,
-		"culture": 2,
-		"food": 4,
-		"specialistSlots": {"Merchant":1, "Scientist":1},
-		"maintenance": 10,
-		"requiredBuilding": "Middle School",
-		"uniques": ["[+1 Food] from [Farm] tiles [in this city]",
-		"[+2 Food] from [Plantation] tiles [in this city]",
-		"[+2 Food] from every specialist [in this city]",
-		"Provides [5] [Eleph]",
-		"All newly-trained [Land] units [in this city] receive the [Agricultural Schooling] promotion",
-		"Only available <in cities without a [Engineering High School]> <hidden from users>",
-		"Only available <in cities without a [Military High School]> <hidden from users>",
-		"Only available <in cities without a [Scientific High School]> <hidden from users>",
-		"Only available <in cities without a [Cultural High School]> <hidden from users>",
-		"Only available <in cities without a [General High School]> <hidden from users>",
-		"Only available <in cities without a [Merchant High School]> <hidden from users>",
-		"Only available <in cities without a [Maritime High School]> <hidden from users>",
-		"Only available <in cities without a [Religious High School]> <hidden from users>"]
-	},
-
-	{
-		"name": "Political Stagnation",
-		"cost": 1,
-		"uniques": ["[-10]% [Production] [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "[-10]% [Faith] [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "[-10]% [Gold] [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "[-10]% growth [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "[-10]% [Culture] [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "[-10]% [Science] [in all cities] <for every [Stagnation Point]> <when below [0] [Political Instability]>", "Rebel units may spawn <when below [0] [Political Instability]>", "Unsellable", "Cannot be purchased", "Unbuildable"]
-	},
-	{
-		"name": "Revolution",
-		"cost": 1,
-		"uniques": ["Nullifies Growth [in all cities]", "Nullifies [Gold] [in all cities]", "Nullifies [Production] [in all cities]", "Nullifies [Culture] [in all cities]", "Nullifies [Science] [in all cities]", "Nullifies [Faith] [in all cities]", "Nullifies [Food] [in all cities]", "Consumes [50] [Political Instability]", "Remove [Revolution] [in this city] <upon turn start> <when below [100] [Political Instability]>", "Unsellable", "Cannot be purchased", "Unbuildable"]
 	}
 ]
