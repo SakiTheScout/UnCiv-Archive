@@ -288,8 +288,8 @@
 	{
     "name": "Red Winter Secretariat",
     "uniques": [
-      "[+33]% Strength < in [Snow] tiles>",
-      "[+33]% Strength < in [Tundra] tiles>",
+      "[+33]% Strength <in [Snow] tiles>",
+      "[+33]% Strength <in [Tundra] tiles>",
       "[+25]% Strength <when adjacent to a [Red Winter Secretariat] unit>",
       "Great General provides double combat bonus"],
 	  "outerColor": [255,253,249],
