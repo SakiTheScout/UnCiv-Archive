@@ -284,6 +284,41 @@
       "[+50]% to Flank Attack bonuses",
       "[-15]% Strength for enemy [Land] units in adjacent [All] tiles",
       "[+20]% Strength <when fighting in [Enemy Land] tiles>"]},
+	// Red Winter Federal Academy
+	{
+    "name": "Red Winter Secretariat",
+    "uniques": [
+      "[+33]% Strength < in [Snow] tiles>",
+      "[+33]% Strength < in [Tundra] tiles>",
+      "[+25]% Strength <when adjacent to a [Red Winter Secretariat] unit>",
+      "Great General provides double combat bonus"],
+	  "outerColor": [255,253,249],
+	  "innerColor": [255,210,111]},
+	{
+    "name": "Labour Liberation Party",
+    "uniques": [
+      "Can build [All] improvements on tiles",
+      "[+25]% Strength when stacked with [Civilian]",
+      "May enter foreign tiles without open borders"],
+	  "outerColor": [255,253,249],
+	  "innerColor": [255,210,111]},
+	{
+    "name": "Knowledge Liberation Front",
+    "uniques": [
+      "Gain [1]-[10] [Science] <upon turn start>",
+      "Withdraws before melee combat <with [33]% chance>",
+      "Can see invisible [All] units"],
+	  "outerColor": [255,253,249],
+	  "innerColor": [255,210,111]},
+	{
+    "name": "Publishing Department",
+    "uniques": [
+      "[+25]% Strength bonus for [Wounded] units within [1] tiles",
+      "Prevents spreading of religion to the city it is next to",
+      "[-25]% Strength for enemy [Wounded] units in adjacent [Land] tiles"],
+	  "outerColor": [255,253,249],
+	  "innerColor": [255,210,111]},
+	// Neutral
 	{
 		"name": "Shock IV",
 		"prerequisites": ["Shock III"],
