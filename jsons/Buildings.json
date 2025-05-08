@@ -531,6 +531,7 @@
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
 	},
+	// Shanhaijing Second Senior School
 	{
 		"name": "Genryumon Quarters",
 		"uniqueTo": "Shanhaijing Second Senior School",
@@ -553,7 +554,6 @@
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
 	},
-	// Shanhaijing Second Senior School
 	{
 		"name": "Black Tortoise Promenade Market",
 		"uniqueTo": "Shanhaijing Second Senior School",
@@ -1342,6 +1342,24 @@
 			"Cannot be purchased <hidden from users>"]
 	},
 	{
+		"name": "Secretariat Propaganda Tower",
+		"uniqueTo": "Red Winter Federal Academy",
+		"gold": -1,
+		"science": -1,
+		"faith": 1,
+		"culture": 1,
+		"cost": 50,
+		"requiredTech": "Industrialization",
+		"uniques": [
+			"[+1 Happiness] <in cities with a [Secretariat Palace]>",
+			"[-1 Happiness] <in cities without a [Secretariat Palace]>",
+			"Consumes [2] [Political Instability]",
+			"Only available <if [Secretariat Palace] is constructed in at least [4] of [in all cities] cities>",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Cannot be purchased <hidden from users>"]
+	},
+	{
 		"name": "Labour Party Factory",
 		"uniqueTo": "Red Winter Federal Academy",
 		"gold": -3,
@@ -1364,6 +1382,24 @@
 			"Only available <in cities without a [Publishing Department Typography]> <hidden from users>",
 			"Only available <in cities without a [Knowledge Liberation Front Library]> <hidden from users>",
 			"All newly-trained [Land] units [in this city] receive the [Labour Liberation Party] promotion",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Cannot be purchased <hidden from users>"]
+	},
+	{
+		"name": "Labour Party Agitarion Stage",
+		"uniqueTo": "Red Winter Federal Academy",
+		"gold": -1,
+		"culture": -1,
+		"production": 1,
+		"happiness": 1,
+		"cost": 50,
+		"requiredTech": "Industrialization",
+		"uniques": [
+			"[+1 Production] <in cities with a [Labour Party Factory]>",
+			"[-1 Happiness] <in cities without a [Labour Party Factory]>",
+			"Provides [2] [Political Instability]",
+			"Only available <if [Labour Party Factory] is constructed in at least [4] of [in all cities] cities>",
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
@@ -1396,6 +1432,24 @@
 			"Cannot be purchased <hidden from users>"]
 	},
 	{
+		"name": "Knowledge Liberation Front Market",
+		"uniqueTo": "Red Winter Federal Academy",
+		"gold": 1,
+		"science": 1,
+		"faith": -1,
+		"production": -1,
+		"cost": 50,
+		"requiredTech": "Industrialization",
+		"uniques": [
+			"[+1 Gold] <in cities with a [Knowledge Liberation Front Library]>",
+			"[-1 Happiness] <in cities without a [Knowledge Liberation Front Library]>",
+			"Provides [2] [Political Instability]",
+			"Only available <if [Knowledge Liberation Front Library] is constructed in at least [4] of [in all cities] cities>",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Cannot be purchased <hidden from users>"]
+	},
+	{
 		"name": "Publishing Department Typography",
 		"uniqueTo": "Red Winter Federal Academy",
 		"gold": -5,
@@ -1418,6 +1472,24 @@
 			"Only available <in cities without a [Labour Party Factory]> <hidden from users>",
 			"Only available <in cities without a [Knowledge Liberation Front Library]> <hidden from users>",
 			"All newly-trained [Land] units [in this city] receive the [Publishing Department] promotion",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Cannot be purchased <hidden from users>"]
+	},
+	{
+		"name": "Secretariat Propaganda Tower",
+		"uniqueTo": "Red Winter Federal Academy",
+		"gold": 1,
+		"science": -1,
+		"production": -1,
+		"culture": 1,
+		"cost": 50,
+		"requiredTech": "Industrialization",
+		"uniques": [
+			"[+1 Culture] <in cities with a [Publishing Department Typography]>",
+			"[-1 Happiness] <in cities without a [Publishing Department Typography]>",
+			"Provides [2] [Political Instability]",
+			"Only available <if [Publishing Department Typography] is constructed in at least [4] of [in all cities] cities>",
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
