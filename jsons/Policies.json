@@ -108,8 +108,8 @@
             {
                 "name": "Remembrancer Order",
                 "uniques": [
-                    "[+5]% [Science] <for every [[Faith] Building] <in all cities>",
-                    "[+1 Science] <for every [10] [Faith]> <in all cities>",
+                    "[+5]% [Science] <for every [[Faith] Buildings] <in all cities>",
+                    "[+1 Science] <for every [10] [Faith]>",
                     "[+1 Science] from all [Faith] buildings"
                 ],
                 "row": 1,
@@ -118,7 +118,7 @@
             {
                 "name": "Faith and Duty",
                 "uniques": [
-                    "[+20]% [Production] <when consteucting [Military] units> <when at war>",
+                    "[+20]% [Production] <when constructing [Military] units> <when at war>",
                     "[+1 Happiness] <for every [10] [[Religious Schooling] Units]>",
                     "[+15]% Strength <when defending> <for [Religious Schooling] units>"
                 ],
@@ -128,7 +128,7 @@
             {
                 "name": "Holy Reign",
                 "uniques": [
-                    "[+1 Faith, +1 Gold] [in capital] <for every [10] [Population]>",
+                    "[+1 Faith, +1 Gold] per [10] population [in all cities]",
                     "[+3 Faith] from every [Religious High School]",
                     "[50]% of excess happiness converted to [Faith]"
                 ],
@@ -150,7 +150,7 @@
                 "name": "Religious Culture",
                 "uniques": [
                     "[+2 Culture] from every [Religious High School]",
-                    "[+1 Culture, +1 Gold] from all [Culture] buildings",
+                    "[+1 Culture, +1 Gold] from all [Faith] buildings",
                     "[+1 Culture, +1 Faith] per [5] population [in holy cities] <when not at war>"
                 ],
                 "requires": ["Holy Reign", "Faith and Duty"],
@@ -171,7 +171,7 @@
                 "name": "Purity and Zeal Complete",
                 "uniques": [
                     "Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
-                    "[+1 Culture] <for every [10] [Faith]> <in all cities>",
+                    "[+1 Culture] <for every [10] [Faith]>",
                     "Gain a free [Enhancer] belief"
                 ]
             }
