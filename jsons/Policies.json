@@ -1,0 +1,93 @@
+[
+  {
+        "name": "Rites of Warfare",
+        "era": "Medieval era",
+        "priorities": {
+            "Neutral": 0,
+            "Cultural": 0,
+            "Diplomatic": 0,
+            "Domination": 10,
+            "Scientific": 0
+        },
+        "uniques": [
+            "[+1 Culture] from every [Barracks]",
+            "[+1 Culture] from every [Armory]",
+            "[+1 Culture] from every [Military Academy]",
+            "[+3 Culture] from every [Military High School]"
+        ],
+        "policies": [
+            {
+                "name": "Initiation Rites",
+                "uniques": [
+                    "[-15]% Production when constructing [Military] units [in all cities]",
+                    "New [Military] units start with [10] XP [in all cities]",
+                    "[+1 Faith, +1 Culture] from every [Castle]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Strong Leadership",
+                "uniques": [
+                    "[+3 Happiness] from every [Military High School]",
+                    "[+1 Happiness] <for every [10] [[Military Schooling] Units]>",
+                    "[+15]% Strength <when attacking> <for [Military Schooling] units>"
+                ],
+                "row": 1,
+                "column": 2
+            },
+            {
+                "name": "Warrior-King",
+                "uniques": [
+                    "[+1 Faith, +1 Gold, +1 Science, +1 Production, +1 Happiness, +1 Culture] [in capital] <for every [10] [[Military Schooling] Units]>",
+                    "[1] Movement <in [Friendly Land] tiles>",
+                    "[+50]% Strength for cities <with a garrison> <when attacking>"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "War Propaganda",
+                "uniques": [
+                    "[+10]% growth [in all cities] <when at war>",
+                    "[+2 Happiness] [in all cities] <when at war>",
+                    "[-1 Happiness] [in all cities] <when not at war>"
+                ],
+                "requires": ["Initiation Rites", "Strong Leadership"],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Aggressive Culture",
+                "uniques": [
+                    "Earn [50]% of killed [Military] unit's [Strength] as [Culture]",
+                    "[+20]% Strength <for [Military Schooling] units> <during a Golden Age>",
+                    "[+1 Culture, +1 Happiness] per [3] population [in capital] <when at war>"
+                ],
+                "requires": ["Strong Leadership", "Warrior-King"],
+                "row": 2,
+                "column": 2
+            },
+            {
+              "name": "Military Industrial Focus",
+              "uniques": [
+                "[+3 Production] from every [Military High School]",
+                "[+1 Production] from every [Barracks]",
+                "[+1 Production] from every [Armory]",
+                "[+1 Production] from every [Military Academy]"
+              ],
+              "requires": ["Warrior-King"],
+              "row": 2,
+              "column": 3
+            },
+            {
+                "name": "Rites of Warfare Complete",
+                "uniques": [
+                    "Empire enters golden age",
+                    "[200]% Yield from pillaging tiles",
+                    "Earn [50]% of killed [Military] unit's [Strength] as [Gold]"
+                ]
+            }
+        ]
+    }
+]
