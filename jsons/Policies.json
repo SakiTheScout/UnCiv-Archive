@@ -108,7 +108,7 @@
             {
                 "name": "Remembrancer Order",
                 "uniques": [
-                    "[+5]% [Science] [in all cities] <for every [[Faith] Buildings]",
+                    "[+5]% [Science] [in all cities] <for every [[Faith] Buildings]>",
                     "[+1 Science] <for every [10] [Faith]>",
                     "[+1 Science] from all [Faith] buildings"
                 ],
@@ -118,7 +118,7 @@
             {
                 "name": "Faith and Duty",
                 "uniques": [
-                    "[+20]% [Production] when constructing [Military] units [in all cities] <when at war>",
+                    "[+20]% Production when constructing [Military] units [in all cities] <when at war>",
                     "[+1 Happiness] <for every [10] [[Religious Schooling] Units]>",
                     "[+15]% Strength <when defending> <for [Religious Schooling] units>"
                 ],
