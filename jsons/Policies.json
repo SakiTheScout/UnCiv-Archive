@@ -89,5 +89,92 @@
                 ]
             }
         ]
-    }
+    },
+  {
+        "name": "Purity and Zeal",
+        "era": "Medieval era",
+        "priorities": {
+            "Neutral": 10,
+            "Cultural": 0,
+            "Diplomatic": 0,
+            "Domination": 0,
+            "Scientific": 0
+        },
+        "uniques": [
+            "Gain a free [Follower] belief",
+            "[Faith] cost of purchasing items in cities [-25]%",
+        ],
+        "policies": [
+            {
+                "name": "Remembrancer Order",
+                "uniques": [
+                    "[+5]% [Science] <for every [[Faith] Building] <in all cities>",
+                    "[+1 Science] <for every [10] [Faith]> <in all cities>",
+                    "[+1 Science] from all [Faith] buildings"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Faith and Duty",
+                "uniques": [
+                    "[+20]% [Production] <when consteucting [Military] units> <when at war>",
+                    "[+1 Happiness] <for every [10] [[Religious Schooling] Units]>",
+                    "[+15]% Strength <when defending> <for [Religious Schooling] units>"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Holy Reign",
+                "uniques": [
+                    "[+1 Faith, +1 Gold] [in capital] <for every [10] [Population]>",
+                    "[+3 Faith] from every [Religious High School]",
+                    "[50]% of excess happiness converted to [Faith]"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Purge the Heresy",
+                "uniques": [
+                    "[+33]% Strength <vs [Barbarian] units>",
+                    "[+2 Happiness] <in cities following our religion>",
+                    "[-2 Happiness] <in cities not following a [your] religion>"
+                ],
+                "requires": ["Remembrancer Order", "Holy Reign"],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Religious Culture",
+                "uniques": [
+                    "[+2 Culture] from every [Religious High School]",
+                    "[+1 Culture, +1 Gold] from all [Culture] buildings",
+                    "[+1 Culture, +1 Faith] per [5] population [in holy cities] <when not at war>"
+                ],
+                "requires": ["Holy Reign", "Faith and Duty"],
+                "row": 2,
+                "column": 3
+            },
+            {
+              "name": "Light in the Dark",
+              "uniques": [
+                "[+20]% [Happiness] [in all cities]",
+                "[100]% of excess happiness converted to [Gold]"
+              ],
+              "requires": ["Purge the Heresy", "Religious Culture"],
+              "row": 3,
+              "column": 2
+            },
+            {
+                "name": "Purity and Zeal Complete",
+                "uniques": [
+                    "Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
+                    "[+1 Culture] <for every [10] [Faith]> <in all cities>",
+                    "Gain a free [Enhancer] belief"
+                ]
+            }
+        ]
+  }
 ]
