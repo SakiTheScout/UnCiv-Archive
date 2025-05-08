@@ -34,7 +34,7 @@
                     "[+15]% Strength <when attacking> <for [Military Schooling] units>"
                 ],
                 "row": 1,
-                "column": 2
+                "column": 3
             },
             {
                 "name": "Warrior-King",
@@ -44,7 +44,7 @@
                     "[+50]% Strength for cities <with a garrison> <when attacking>"
                 ],
                 "row": 1,
-                "column": 3
+                "column": 5
             },
             {
                 "name": "War Propaganda",
@@ -66,7 +66,7 @@
                 ],
                 "requires": ["Strong Leadership", "Warrior-King"],
                 "row": 2,
-                "column": 2
+                "column": 3
             },
             {
               "name": "Military Industrial Focus",
@@ -78,7 +78,7 @@
               ],
               "requires": ["Warrior-King"],
               "row": 2,
-              "column": 3
+              "column": 5
             },
             {
                 "name": "Rites of Warfare Complete",
