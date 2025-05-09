@@ -318,13 +318,14 @@
       "[-25]% Strength for enemy [Wounded] units in adjacent [Land] tiles"],
 	  "outerColor": [255,253,249],
 	  "innerColor": [255,210,111]},
+	// GSC
        {
     "name": "Special Response Team",
     "uniques": [
       "Invisible to non-adjacent units",
       "May Paradrop up to [10] tiles from inside friendly territory",
       "[+50]% XP gained from combat",
-      "Instantly provides [1] [Golden Age points <upon turn start>"],
+      "Instantly provides [1] [Golden Age points] <upon turn start>"],
   "outerColor": [15,25,50],
   "innerColor": [255,255,255]},
 	{
@@ -333,7 +334,7 @@
       "[+20]% Strength when stacked with [Civilian]",
       "[+20]% Strength <when fighting in [Friendly Land] tiles>",
       "[1] Movement <when fighting in [Friendly Land] tiles>",
-      "Instantly provides [1] [Golden Age points <upon turn start>"],
+      "Instantly provides [1] [Golden Age points] <upon turn start>"],
   "outerColor": [10,30,60],
   "innerColor": [255,215,0]},
 	{
@@ -342,7 +343,7 @@
       "Can see invisible [Land] units",
       "May enter foreign tiles without open borders",
       "[1] Sight",
-      "Instantly provides [1] [Golden Age points <upon turn start>"],
+      "Instantly provides [1] [Golden Age points] <upon turn start>"],
   "outerColor": [20,40,80],
   "innerColor": [255,200,0]},
 	// Neutral
