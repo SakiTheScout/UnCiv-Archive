@@ -91,7 +91,7 @@
     "uniques": [
       "[+100]% Strength <when attacking>",
       "Self-destructs when attacking",
-      "Blast radius [2]"],
+      "Blast radius [1]"],
 	"outerColor": [242,247,255],
 	"innerColor": [12,34,38]},
   {
@@ -318,6 +318,30 @@
       "[-25]% Strength for enemy [Wounded] units in adjacent [Land] tiles"],
 	  "outerColor": [255,253,249],
 	  "innerColor": [255,210,111]},
+       {
+    "name": "Special Response Team",
+    "uniques": [
+      "[+20]% Strength <when fighting in [Enemy Land] tiles>",
+      "May Paradrop up to [10] tiles from inside friendly territory",
+      "[+50]% XP gained from combat"],
+  "outerColor": [15,25,50],
+  "innerColor": [255,255,255]},
+	{
+    "name": "Kivotos Police",
+    "uniques": [
+      "[+20]% Strength when stacked with [Civilian]",
+      "[+20]% Strength <when fighting in [Friendly Land] tiles>",
+      "[1] Movement <when fighting in [Friendly Land] tiles>"],
+  "outerColor": [10,30,60],
+  "innerColor": [255,215,0]},
+	{
+    "name": "Kronos News Club",
+    "uniques": [
+      "Can see invisible [Land] units",
+      "May enter foreign tiles without open borders",
+      "[1] Sight"],
+  "outerColor": [20,40,80],
+  "innerColor": [255,200,0]},
 	// Neutral
 	{
 		"name": "Shock IV",
