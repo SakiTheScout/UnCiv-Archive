@@ -1625,7 +1625,7 @@
 		"Only available <in cities without a [SRT Special Academy]> <hidden from users>"]
 	},
 	{
-		"name": "Kronos Jouralism School",
+		"name": "Kronos Journalism School",
 		"requiredTech": "High Schools",
 		"uniqueTo": "General Student Council",
 		"cost": 350,
