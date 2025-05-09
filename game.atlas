@@ -333,3 +333,24 @@ BuildingIcons/Kaiser Convenience Store
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Red Winter Federal Academy
+  rotate: false
+  xy: 200, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/Hyakkiyako Alliance Academy
+  rotate: false
+  xy: 300, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+NationIcons/General Student Council
+  rotate: false
+  xy: 400, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
