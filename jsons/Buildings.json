@@ -1137,7 +1137,11 @@
 		"Only available <in cities without a [General High School]> <hidden from users>",
 		"Only available <in cities without a [Agricultural High School]> <hidden from users>",
 		"Only available <in cities without a [Maritime High School]> <hidden from users>",
-		"Only available <in cities without a [Religious High School]> <hidden from users>"]
+		"Only available <in cities without a [Religious High School]> <hidden from users>",
+		"Only available <in cities without a [Valkyrie Police School]> <hidden from users>",
+		"Only available <in cities without a [SRT Special Academy]> <hidden from users>",
+		"Only available <in cities without a [Kronos Journalism School]> <hidden from users>",
+		"Only available <in cities without a [Railroad High School]> <hidden from users>"]
 	},
 	{
 		"name": "Engineering High School",
@@ -1159,7 +1163,11 @@
 		"Only available <in cities without a [General High School]> <hidden from users>",
 		"Only available <in cities without a [Agricultural High School]> <hidden from users>",
 		"Only available <in cities without a [Maritime High School]> <hidden from users>",
-		"Only available <in cities without a [Religious High School]> <hidden from users>"]
+		"Only available <in cities without a [Religious High School]> <hidden from users>",
+		"Only available <in cities without a [Valkyrie Police School]> <hidden from users>",
+		"Only available <in cities without a [SRT Special Academy]> <hidden from users>",
+		"Only available <in cities without a [Kronos Journalism School]> <hidden from users>",
+		"Only available <in cities without a [Railroad High School]> <hidden from users>"]
 	},
 	{
 		"name": "Military High School",
@@ -1178,7 +1186,11 @@
 		"Only available <in cities without a [General High School]> <hidden from users>",
 		"Only available <in cities without a [Agricultural High School]> <hidden from users>",
 		"Only available <in cities without a [Maritime High School]> <hidden from users>",
-		"Only available <in cities without a [Religious High School]> <hidden from users>"]
+		"Only available <in cities without a [Religious High School]> <hidden from users>",
+		"Only available <in cities without a [Valkyrie Police School]> <hidden from users>",
+		"Only available <in cities without a [SRT Special Academy]> <hidden from users>",
+		"Only available <in cities without a [Kronos Journalism School]> <hidden from users>",
+		"Only available <in cities without a [Railroad High School]> <hidden from users>"]
 	},
 	{
 		"name": "Cultural High School",
@@ -1199,7 +1211,11 @@
 		"Only available <in cities without a [General High School]> <hidden from users>",
 		"Only available <in cities without a [Agricultural High School]> <hidden from users>",
 		"Only available <in cities without a [Maritime High School]> <hidden from users>",
-		"Only available <in cities without a [Religious High School]> <hidden from users>"]
+		"Only available <in cities without a [Religious High School]> <hidden from users>",
+		"Only available <in cities without a [Valkyrie Police School]> <hidden from users>",
+		"Only available <in cities without a [SRT Special Academy]> <hidden from users>",
+		"Only available <in cities without a [Kronos Journalism School]> <hidden from users>",
+		"Only available <in cities without a [Railroad High School]> <hidden from users>"]
 	},
 	{
 		"name": "Merchant High School",
@@ -1220,7 +1236,11 @@
 		"Only available <in cities without a [General High School]> <hidden from users>",
 		"Only available <in cities without a [Agricultural High School]> <hidden from users>",
 		"Only available <in cities without a [Maritime High School]> <hidden from users>",
-		"Only available <in cities without a [Religious High School]> <hidden from users>"]
+		"Only available <in cities without a [Religious High School]> <hidden from users>",
+		"Only available <in cities without a [Valkyrie Police School]> <hidden from users>",
+		"Only available <in cities without a [SRT Special Academy]> <hidden from users>",
+		"Only available <in cities without a [Kronos Journalism School]> <hidden from users>",
+		"Only available <in cities without a [Railroad High School]> <hidden from users>"]
 	},
 	{
 		"name": "General High School",
@@ -1243,7 +1263,11 @@
 		"Only available <in cities without a [Cultural High School]> <hidden from users>",
 		"Only available <in cities without a [Agricultural High School]> <hidden from users>",
 		"Only available <in cities without a [Maritime High School]> <hidden from users>",
-		"Only available <in cities without a [Religious High School]> <hidden from users>"]
+		"Only available <in cities without a [Religious High School]> <hidden from users>",
+		"Only available <in cities without a [Valkyrie Police School]> <hidden from users>",
+		"Only available <in cities without a [SRT Special Academy]> <hidden from users>",
+		"Only available <in cities without a [Kronos Journalism School]> <hidden from users>",
+		"Only available <in cities without a [Railroad High School]> <hidden from users>"]
 	},
 	{
 		"name": "Maritime High School",
@@ -1264,7 +1288,11 @@
 		"Only available <in cities without a [General High School]> <hidden from users>",
 		"Only available <in cities without a [Agricultural High School]> <hidden from users>",
 		"Only available <in cities without a [Merchant High School]> <hidden from users>",
-		"Only available <in cities without a [Religious High School]> <hidden from users>"]
+		"Only available <in cities without a [Religious High School]> <hidden from users>",
+		"Only available <in cities without a [Valkyrie Police School]> <hidden from users>",
+		"Only available <in cities without a [SRT Special Academy]> <hidden from users>",
+		"Only available <in cities without a [Kronos Journalism School]> <hidden from users>",
+		"Only available <in cities without a [Railroad High School]> <hidden from users>"]
 	},
 	{
 		"name": "Religious High School",
@@ -1287,7 +1315,11 @@
 		"Only available <in cities without a [General High School]> <hidden from users>",
 		"Only available <in cities without a [Agricultural High School]> <hidden from users>",
 		"Only available <in cities without a [Maritime High School]> <hidden from users>",
-		"Only available <in cities without a [Merchant High School]> <hidden from users>"]
+		"Only available <in cities without a [Merchant High School]> <hidden from users>",
+		"Only available <in cities without a [Valkyrie Police School]> <hidden from users>",
+		"Only available <in cities without a [SRT Special Academy]> <hidden from users>",
+		"Only available <in cities without a [Kronos Journalism School]> <hidden from users>",
+		"Only available <in cities without a [Railroad High School]> <hidden from users>"]
 	},
 	{
 		"name": "Agricultural High School",
@@ -1310,7 +1342,11 @@
 		"Only available <in cities without a [General High School]> <hidden from users>",
 		"Only available <in cities without a [Merchant High School]> <hidden from users>",
 		"Only available <in cities without a [Maritime High School]> <hidden from users>",
-		"Only available <in cities without a [Religious High School]> <hidden from users>"]
+		"Only available <in cities without a [Religious High School]> <hidden from users>",
+		"Only available <in cities without a [Valkyrie Police School]> <hidden from users>",
+		"Only available <in cities without a [SRT Special Academy]> <hidden from users>",
+		"Only available <in cities without a [Kronos Journalism School]> <hidden from users>",
+		"Only available <in cities without a [Railroad High School]> <hidden from users>"]
 	},
 	// Red Winter Federal Academy
 	{
@@ -1542,5 +1578,72 @@
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
 			"Can be purchased with [Gold] [in all cities]"]
+	},
+	// General Student Council
+	{
+		"name": "SRT Special Academy",
+		"requiredTech": "High Schools",
+		"uniqueTo": "General Student Council",
+		"cost": 350,
+		"maintenance": 7,
+		"requiredBuilding": "Middle School",
+		"uniques": ["New [Military] units start with [30] XP [in this city]",
+		"[+50]% Production when constructing [Military] units [in this city]",
+		"Provides [5] [Eleph]",
+		"All newly-trained [Land] units [in this city] receive the [Military Schooling] promotion",
+		"Only available <in cities without a [Engineering High School]> <hidden from users>",
+		"Only available <in cities without a [Scientific High School]> <hidden from users>",
+		"Only available <in cities without a [Cultural High School]> <hidden from users>",
+		"Only available <in cities without a [Merchant High School]> <hidden from users>",
+		"Only available <in cities without a [General High School]> <hidden from users>",
+		"Only available <in cities without a [Agricultural High School]> <hidden from users>",
+		"Only available <in cities without a [Maritime High School]> <hidden from users>",
+		"Only available <in cities without a [Religious High School]> <hidden from users>",
+		"Only available <in cities without a [Valkyrie Police School]> <hidden from users>",
+		"Only available <in cities without a [Kronos Journalism School]> <hidden from users>"]
+	},
+	{
+		"name": "Valkyrie Police School",
+		"requiredTech": "High Schools",
+		"uniqueTo": "General Student Council",
+		"cost": 350,
+		"maintenance": 7,
+		"requiredBuilding": "Middle School",
+		"uniques": ["New [Military] units start with [30] XP [in this city]",
+		"[+50]% Production when constructing [Military] units [in this city]",
+		"Provides [5] [Eleph]",
+		"All newly-trained [Land] units [in this city] receive the [Military Schooling] promotion",
+		"Only available <in cities without a [Engineering High School]> <hidden from users>",
+		"Only available <in cities without a [Scientific High School]> <hidden from users>",
+		"Only available <in cities without a [Cultural High School]> <hidden from users>",
+		"Only available <in cities without a [Merchant High School]> <hidden from users>",
+		"Only available <in cities without a [General High School]> <hidden from users>",
+		"Only available <in cities without a [Agricultural High School]> <hidden from users>",
+		"Only available <in cities without a [Maritime High School]> <hidden from users>",
+		"Only available <in cities without a [Religious High School]> <hidden from users>",
+		"Only available <in cities without a [Kronos Journalism School]> <hidden from users>",
+		"Only available <in cities without a [SRT Special Academy]> <hidden from users>"]
+	},
+	{
+		"name": "Kronos Jouralism School",
+		"requiredTech": "High Schools",
+		"uniqueTo": "General Student Council",
+		"cost": 350,
+		"maintenance": 7,
+		"requiredBuilding": "Middle School",
+		"uniques": ["New [Military] units start with [30] XP [in this city]",
+		"[+50]% Production when constructing [Military] units [in this city]",
+		"Provides [5] [Eleph]",
+		"All newly-trained [Land] units [in this city] receive the [Military Schooling] promotion",
+		"Only available <in cities without a [Engineering High School]> <hidden from users>",
+		"Only available <in cities without a [Scientific High School]> <hidden from users>",
+		"Only available <in cities without a [Cultural High School]> <hidden from users>",
+		"Only available <in cities without a [Merchant High School]> <hidden from users>",
+		"Only available <in cities without a [General High School]> <hidden from users>",
+		"Only available <in cities without a [Agricultural High School]> <hidden from users>",
+		"Only available <in cities without a [Maritime High School]> <hidden from users>",
+		"Only available <in cities without a [Religious High School]> <hidden from users>",
+		"Only available <in cities without a [Valkyrie Police School]> <hidden from users>",
+		"Only available <in cities without a [SRT Special Academy]> <hidden from users>"]
 	}
 ]
