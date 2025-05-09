@@ -431,6 +431,55 @@
 		"cities": ["Red Winter Main Corpus", "Red Winter Factory Plant City", "The Squre of Mustache Revolution", "Red Winter Trading Square", "Red Winter Communal Dormitories Area", "The Black Bear Town", "The Brown Owl Town", "The White Deer Town", "Red Winter Industrial District 1", "Red Winter Industrial District 2", "Red Winter Industrial District 3"],
 		"personality": "Rankawa Cherino"
 	},
+	{
+		"name": "General Student Council",
+		"leaderName": "Nanagami Rin",
+		"adjective": ["Kivotosan"],
+		"startBias": ["Grassland"],
+		"preferredVictoryType": "Diplomatic",
+		
+		"startIntroPart1": "General Student Council has been established in order to organise the independent schools and prevent downfall of Kivotos. It served this purpose all these years and only the Great Schools could match its influence. We enforced our laws, demands and edicts upon all lesser schools this entire time. But recently, GSC president went missing which caused political collapse in Kivotos. Great Schools lost their shores, lesser schools stopped following our orders, terrorists, criminals and large corporations crawled out of their cracks.",
+		"startIntroPart2": "Vice President Nanagani Rin, you have been elected to be the Acting President of General Student Council. You now hold in your hands almost ultimate authority and rights, but will you have strength and power to act upon your plans? Will you unite Kivotos and calm thos chaos, or fall to foes ineer or outer? Time will show us.",
+		
+		"declaringWar": "",
+		"attacked": "",
+		"defeated": "",
+		"introduction": "",
+		
+		"neutralHello": "",
+		"neutralLetsHearIt": "",
+		"neutralNo": "",
+		"neutralYes": "",
+
+		"hateHello": "",
+		"hateLetsHearIt": "",
+		"hateNo": "",
+		"hateYes": "",
+		
+		"afterPeace": "",
+		"tradeRequest": "",
+
+		"outerColor": [0,178,255],
+		"innerColor": [242, 251, 245],
+		"uniqueName": "The Academy City",
+		"uniques":["Resting point for Influence with City-States is increased by [5] <for every [Cities]>",
+			"Comment [Every High School grants +1 Culture and Science and has halved maintenance.]",
+			"[-25]% maintenance cost for buildings [in all cities]",
+			"[+1 Culture, +1 Science] from every [Scientific High School] <hidden from users>",
+			"[+1 Culture, +1 Science] from every [Religious High School] <hidden from users>",
+			"[+1 Culture, +1 Science] from every [Military High School] <hidden from users>",
+			"[+1 Culture, +1 Science] from every [Engineering High School] <hidden from users>",
+			"[+1 Culture, +1 Science] from every [Cultural High School] <hidden from users>",
+			"[+1 Culture, +1 Science] from every [Merchant High School] <hidden from users>",
+			"[+1 Culture, +1 Science] from every [General High School] <hidden from users>",
+			"[+1 Culture, +1 Science] from every [Maritime High School] <hidden from users>",
+			"[+1 Culture, +1 Science] from every [Agricultural High School] <hidden from users>",
+			"[+1 Culture, +1 Science] from every [Valkyrie Police School] <hidden from users>",
+			"[+1 Culture, +1 Science] from every [SRT Special Academy] <hidden from users>",
+			"[Land] units gain the [Kivotos Halo] promotion"],
+		"cities": ["Shanhaijing Main Special Area", "Shanhaijing Downtown 1", "Shanhaijing Downtown 2", "Shanhaijing Downtown 3", "Shanhaijing Outskirts 1", "Shanhaijing Outskirts 2", "Shanhaijing Outskirts 3", "Shanhaijing Outskirts 4", "Shanhaijing Wildlands 1", "Shanhaijing Wildlands 2", "Shanhaijing Wildlands 3"],
+		"personality": "Nanagami Rin"
+	},
 	
 	{
 		"name": "Wild Hunt Academy of Arts",
