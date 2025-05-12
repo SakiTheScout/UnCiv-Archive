@@ -130,5 +130,42 @@
 		"uniques": ["Can move after attacking", "No defensive terrain bonus", "Consumes [3] [Iron]", "Consumes [2] [Oil]"],
 		"attackSound": "tankshot"
 	},
-  {"name": "Tank", "unitType": "Armored", "movement": 1, "strength": 1, "cost": 1, "uniques": ["Unavailable", "Will not be displayed in Civilopedia", "Never appears as a Barbarian unit"],"attackSound": "tankshot"}
+	{
+		"name": "Light Machine Gun",
+		"unitType": "Ranged Gunpowder",
+		"range": 1,
+		"movement": 2,
+		"strength": 50,
+		"rangedStrength": 70,
+		"cost": 375,
+		"requiredTech": "Ballistics",
+		"uniques": ["[+25]% Strength <vs [Gunpowder] units> <when attacking>"],
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Medium Machine Gun",
+		"unitType": "Ranged Gunpowder",
+		"range": 1,
+		"movement": 2,
+		"strength": 50,
+		"rangedStrength": 80,
+		"cost": 420,
+		"requiredTech": "Ballistics",
+		"uniques": ["[+50]% Strength <vs [Gunpowder] units> <when attacking>", "Must set up to ranged attack"],
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Heavy Machine Gun",
+		"unitType": "Ranged Gunpowder",
+		"range": 1,
+		"movement": 1,
+		"strength": 50,
+		"rangedStrength": 90,
+		"cost": 450,
+		"requiredTech": "Ballistics",
+		"uniques": ["[+50]% Strength <vs [Gunpowder] units> <when attacking>","[+25]% Strength <vs [Armored] units> <when attacking>", "Must set up to ranged attack"],
+		"attackSound": "machinegun"
+	},
+  {"name": "Tank", "unitType": "Armored", "movement": 1, "strength": 1, "cost": 1, "uniques": ["Unavailable", "Will not be displayed in Civilopedia", "Never appears as a Barbarian unit"],"attackSound": "tankshot"},
+  {"name": "Machine Gun", "unitType": "Armored", "movement": 1, "strength": 1, "cost": 1, "uniques": ["Unavailable", "Will not be displayed in Civilopedia", "Never appears as a Barbarian unit"],"attackSound": "tankshot"}
 ]
