@@ -10,10 +10,12 @@
             "Scientific": 0
         },
         "uniques": [
+            "School Policy",
             "[+1 Culture] from every [Barracks]",
             "[+1 Culture] from every [Armory]",
             "[+1 Culture] from every [Military Academy]",
-            "[+3 Culture] from every [Military High School]"
+            "[+3 Culture] from every [Military High School]",
+            "Only available <before adopting [School Policy]>"
         ],
         "policies": [
             {
@@ -101,8 +103,10 @@
             "Scientific": 0
         },
         "uniques": [
+            "School Policy",
             "Gain a free [Follower] belief",
             "[Faith] cost of purchasing items in cities [-25]%",
+            "Only available <before adopting [School Policy]>"
         ],
         "policies": [
             {
@@ -188,8 +192,10 @@
             "Scientific": 0
         },
         "uniques": [
+            "School Policy",
             "Enables conversion of city production to [Culture]",
-            "[+1 Happiness, +1 Science, +1 Gold, +1 Faith] per [4] social policies adopted"
+            "[+1 Happiness, +1 Science, +1 Gold, +1 Faith] per [4] social policies adopted",
+            "Only available <before adopting [School Policy]>"
         ],
         "policies": [
             {
