@@ -109,7 +109,7 @@
                 "name": "Remembrancer Order",
                 "uniques": [
                     "[+5]% [Science] [in all cities] <for every [[Faith] Buildings]>",
-                    "[+1 Science] <for every [10] [Faith]>",
+                    "[+1 Science] per every [10] [Faith]",
                     "[+1 Science] from all [Faith] buildings"
                 ],
                 "row": 1,
@@ -171,10 +171,98 @@
                 "name": "Purity and Zeal Complete",
                 "uniques": [
                     "Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
-                    "[+1 Culture] <for every [10] [Faith]>",
+                    "[+1 Culture] per every [10] [Faith]",
                     "Gain a free [Enhancer] belief"
                 ]
             }
         ]
-  }
+  },
+  {
+        "name": "Cultural Legacy",
+        "era": "Medieval era",
+        "priorities": {
+            "Neutral": 0,
+            "Cultural": 10,
+            "Diplomatic": 0,
+            "Domination": 0,
+            "Scientific": 0
+        },
+        "uniques": [
+            "Enables conversion of city production to [Culture]",
+            "[+1 Happiness, +1 Science, +1 Gold, +1 Faith] per [4] social policies adopted"
+        ],
+        "policies": [
+            {
+                "name": "Tourism Business",
+                "uniques": [
+                    "[+1 Gold] per every [5] [Culture]",
+                    "[Gold] cost of purchasing [Culture] buildings [-15]%",
+                    "[+1 Gold, +1 Culture] from all [Culture] buildings"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Maintained Traditions",
+                "uniques": [
+                    "[+20]% [Culture] from every [Cultural High School]",
+                    "[+1 Culture] <for every [10] [[Cultural Schooling] Units]>",
+                    "[+50]% [Culture] from City-States"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Cultural Diversity",
+                "uniques": [
+                    "[+3 Culture] from each Trade Route",
+                    "[+2 Culture] per [4] population [in all cities]",
+                    "[+1 Happiness] per every [5] [Culture]"
+                ],
+                "requires": ["Tourism Business"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Festivals Preservation",
+                "uniques": [
+                    "Comment [Increased yield from festivals]",
+                    "[-25]% unhappiness from the number of cities",
+                    "[50]% of excess happiness converted to [Culture]"
+                ],
+                "requires": ["Maintained Traditions"],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Sovereign Culture",
+                "uniques": [
+                    "Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
+                    "[-15]% Culture cost of adopting new Policies",
+                    "[+3 Culture] per [6] population [in capital]"
+                ],
+                "requires": ["Cultural Diversity", "Festivals Preservation"],
+                "row": 3,
+                "column": 3
+            },
+            {
+              "name": "Tourism Centre",
+              "uniques": [
+                "[+3 Gold] from every [Cultural High School]",
+                "[+25]% Production towards any buildings that already exist in the Capital"
+              ],
+              "requires": ["Festivals Preservation"],
+              "row": 3,
+              "column": 5
+            },
+            {
+                "name": "Cultural Legacy Complete",
+                "uniques": [
+                    "[+2 Culture] from every specialist [in all cities]",
+                    "[3] population in a random city",
+                    "[-20]% City-State Influence degradation"
+                ]
+            }
+        ]
+    }
 ]
