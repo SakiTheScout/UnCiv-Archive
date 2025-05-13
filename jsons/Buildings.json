@@ -1390,7 +1390,7 @@
 	{
 		"name": "Revolution",
 		"cost": 1,
-		"uniques": ["Nullifies Growth [in all cities]", "Nullifies [Gold] [in all cities]", "Nullifies [Production] [in all cities]", "Nullifies [Culture] [in all cities]", "Nullifies [Science] [in all cities]", "Nullifies [Faith] [in all cities]", "Nullifies [Food] [in all cities]", "Instantly consumes [75] [Political Instability] <upon turn start> <when above [100] [Political Instability]>", "Remove [Revolution] [in this city] <every [10] turns> <upon turn start>", "Unsellable", "Cannot be purchased", "Unbuildable"]
+		"uniques": ["Nullifies Growth [in all cities] <when above [100] [Political Instability]", "Nullifies [Gold] [in all cities] <when above [100] [Political Instability]>", "Nullifies [Production] [in all cities] <when above [100] [Political Instability]>", "Nullifies [Culture] [in all cities] <when above [100] [Political Instability]>", "Nullifies [Science] [in all cities] <when above [100] [Political Instability]>", "Nullifies [Faith] [in all cities] <when above [100] [Political Instability]>", "Nullifies [Food] [in all cities] <when above [100] [Political Instability]>", "Instantly consumes [75] [Political Instability] <upon turn start> <when above [100] [Political Instability]>", "Unsellable", "Cannot be purchased", "Unbuildable"]
 	},
 	// Highlander Railroad Academy
 	{
