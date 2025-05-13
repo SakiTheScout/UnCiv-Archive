@@ -456,23 +456,23 @@
 		"startIntroPart1": "General Student Council has been established in order to organise the independent schools and prevent downfall of Kivotos. It served this purpose all these years and only the Great Schools could match its influence. We enforced our laws, demands and edicts upon all lesser schools this entire time. But recently, GSC president went missing which caused political collapse in Kivotos. Great Schools lost their shores, lesser schools stopped following our orders, terrorists, criminals and large corporations crawled out of their cracks.",
 		"startIntroPart2": "Vice President Nanagani Rin, you have been elected to be the Acting President of General Student Council. You now hold in your hands almost ultimate authority and rights, but will you have strength and power to act upon your plans? Will you unite Kivotos and calm thos chaos, or fall to foes ineer or outer? Time will show us.",
 		
-		"declaringWar": "",
-		"attacked": "",
-		"defeated": "",
-		"introduction": "",
+		"declaringWar": "You are an obstacle to solving our crisis.",
+		"attacked": "How dare you?..",
+		"defeated": "Will history remember me?.. Better not...",
+		"introduction": "Greetings, I am the acting president of General Student Council, Nanagani Rin. I expect your cooperation so that we will be able to build thriving and healthy society.",
 		
-		"neutralHello": "",
-		"neutralLetsHearIt": "",
-		"neutralNo": "",
-		"neutralYes": "",
+		"neutralHello": "Greetings. Good to see someone mature around.",
+		"neutralLetsHearIt": "Very well, let's hear your offer out.",
+		"neutralNo": "Sorry, but our plans didn't include spending on this trade.",
+		"neutralYes": "I will assign this matter in no time.",
 
-		"hateHello": "",
-		"hateLetsHearIt": "",
-		"hateNo": "",
-		"hateYes": "",
+		"hateHello": "What do you want here?",
+		"hateLetsHearIt": "What could this be, huh?",
+		"hateNo": "No, it's rejected.",
+		"hateYes": "I... have to agree.",
 		
-		"afterPeace": "",
-		"tradeRequest": "",
+		"afterPeace": "Time of war has ended, it is time to rebuild now.",
+		"tradeRequest": "Would you like to sign this offer?",
 
 		"outerColor": [0,178,255],
 		"innerColor": [242, 251, 245],
@@ -481,7 +481,7 @@
 			"[-25]% maintenance cost for buildings [in all cities]",
 			"[+1 Culture, +1 Science] from every [High School]",
 			"[Land] units gain the [Kivotos Halo] promotion"],
-		"cities": ["Shanhaijing Main Special Area", "Shanhaijing Downtown 1", "Shanhaijing Downtown 2", "Shanhaijing Downtown 3", "Shanhaijing Outskirts 1", "Shanhaijing Outskirts 2", "Shanhaijing Outskirts 3", "Shanhaijing Outskirts 4", "Shanhaijing Wildlands 1", "Shanhaijing Wildlands 2", "Shanhaijing Wildlands 3"],
+		"cities": ["Sanctum Tower", "D.U. Shiratori", "D.U. Utnapishtim", "D.U. District 1", "D.U. District 2", "D.U. District 3", "D.U. District 4", "D.U. District 5", "D.U. Rural Area 1", "D.U. Rural Area 2", "D.U. Rural Area 3"],
 		"personality": "Nanagami Rin"
 	},
 	
