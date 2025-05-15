@@ -13,7 +13,7 @@
             "[+1 Culture] from every [Barracks]",
             "[+1 Culture] from every [Armory]",
             "[+1 Culture] from every [Military Academy]",
-            "[+3 Culture] from every [Military High School]",
+            "[+2 Culture] from every [Military High School]",
             "Only available <before adopting [Cultural Legacy]>",
             "Only available <before adopting [Purity and Zeal]>"
         ],
@@ -41,7 +41,7 @@
             {
                 "name": "Warrior-King",
                 "uniques": [
-                    "[+1 Faith, +1 Gold, +1 Science, +1 Production, +1 Happiness, +1 Culture] [in capital] <for every [10] [[Military Schooling] Units]>",
+                    "[+1 Faith, +1 Gold, +1 Science, +1 Production, +1 Happiness, +1 Culture] [in capital] <for every [15] [[Military Schooling] Units]>",
                     "[1] Movement <in [Friendly Land] tiles>",
                     "[+50]% Strength for cities <with a garrison> <when attacking>"
                 ],
@@ -73,7 +73,7 @@
             {
               "name": "Military Industrial Focus",
               "uniques": [
-                "[+3 Production] from every [Military High School]",
+                "[+2 Production] from every [Military High School]",
                 "[+1 Production] from every [Barracks]",
                 "[+1 Production] from every [Armory]",
                 "[+1 Production] from every [Military Academy]"
@@ -133,7 +133,7 @@
                 "name": "Holy Reign",
                 "uniques": [
                     "[+1 Faith, +1 Gold] per [10] population [in all cities]",
-                    "[+3 Faith] from every [Religious High School]",
+                    "[+2 Faith] from every [Religious High School]",
                     "[50]% of excess happiness converted to [Faith]"
                 ],
                 "row": 1,
@@ -153,8 +153,8 @@
             {
                 "name": "Religious Culture",
                 "uniques": [
-                    "[+2 Culture] from every [Religious High School]",
-                    "[+1 Culture, +1 Gold] from all [Faith] buildings",
+                    "[+1 Culture, +1 Faith] from every [Religious High School]",
+                    "[+1 Culture] from all [Faith] buildings",
                     "[+1 Culture, +1 Faith] per [5] population [in holy cities] <when not at war>"
                 ],
                 "requires": ["Holy Reign", "Faith and Duty"],
@@ -193,7 +193,7 @@
         },
         "uniques": [
             "Enables conversion of city production to [Culture]",
-            "[+1 Happiness, +1 Science, +1 Gold, +1 Faith] per [4] social policies adopted",
+            "[+1 Happiness, +1 Science, +1 Gold, +1 Faith] per [5] social policies adopted",
             "Only available <before adopting [Purity and Zeal]>",
             "Only available <before adopting [Rites of Warfare]>"
         ],
@@ -201,9 +201,9 @@
             {
                 "name": "Tourism Business",
                 "uniques": [
-                    "[+1 Gold] per every [5] [Culture]",
-                    "[Gold] cost of purchasing [Culture] buildings [-15]%",
-                    "[+1 Gold, +1 Culture] from all [Culture] buildings"
+                    "[+1 Gold] per every [6] [Culture]",
+                    "[Gold] cost of purchasing [Culture] buildings [-10]%",
+                    "[+1 Gold] from all [Culture] buildings"
                 ],
                 "row": 1,
                 "column": 1
@@ -211,8 +211,8 @@
             {
                 "name": "Maintained Traditions",
                 "uniques": [
-                    "[+20]% [Culture] from every [Cultural High School]",
-                    "[+1 Culture] <for every [10] [[Cultural Schooling] Units]>",
+                    "[+15]% [Culture] from every [Cultural High School]",
+                    "[+1 Culture] <for every [7] [[Cultural Schooling] Units]>",
                     "[+50]% [Culture] from City-States"
                 ],
                 "row": 1,
@@ -221,9 +221,9 @@
             {
                 "name": "Cultural Diversity",
                 "uniques": [
-                    "[+3 Culture] from each Trade Route",
-                    "[+2 Culture] per [4] population [in all cities]",
-                    "[+1 Happiness] per every [5] [Culture]"
+                    "[+2 Culture] from each Trade Route",
+                    "[+2 Culture] per [6] population [in all cities]",
+                    "[+1 Happiness] per every [10] [Culture]"
                 ],
                 "requires": ["Tourism Business"],
                 "row": 2,
@@ -233,7 +233,7 @@
                 "name": "Festivals Preservation",
                 "uniques": [
                     "Comment [Increased yield from festivals]",
-                    "[-25]% unhappiness from the number of cities",
+                    "[-20]% unhappiness from the number of cities",
                     "[50]% of excess happiness converted to [Culture]"
                 ],
                 "requires": ["Maintained Traditions"],
@@ -244,8 +244,8 @@
                 "name": "Sovereign Culture",
                 "uniques": [
                     "Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
-                    "[-15]% Culture cost of adopting new Policies",
-                    "[+3 Culture] per [6] population [in capital]"
+                    "[-10]% Culture cost of adopting new Policies",
+                    "[+3 Culture] per [8] population [in capital]"
                 ],
                 "requires": ["Cultural Diversity", "Festivals Preservation"],
                 "row": 3,
@@ -255,7 +255,7 @@
               "name": "Tourism Centre",
               "uniques": [
                 "[+3 Gold] from every [Cultural High School]",
-                "[+25]% Production towards any buildings that already exist in the Capital"
+                "[+15]% Production towards any buildings that already exist in the Capital"
               ],
               "requires": ["Festivals Preservation"],
               "row": 3,
@@ -264,8 +264,8 @@
             {
                 "name": "Cultural Legacy Complete",
                 "uniques": [
-                    "[+2 Culture] from every specialist [in all cities]",
-                    "[3] population in a random city",
+                    "[+1 Culture] from every specialist [in all cities]",
+                    "[2] population in a random city",
                     "[-20]% City-State Influence degradation"
                 ]
             }
