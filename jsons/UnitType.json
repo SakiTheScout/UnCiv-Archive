@@ -1,6 +1,6 @@
 [
   {
-        "name": "Melee",
+        "name": "Sword",
         "movementType": "Land",
         "uniques": ["[This Unit] gains the [Blood for the Blood God] promotion <upon defeating a [All] unit> <with [1]% chance>"]
     }
