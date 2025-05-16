@@ -367,7 +367,7 @@
 	{
 		"name": "Grenadier",
 		"prerequisites": ["Drill I", "Shock I"],
-		"unitTypes": ["Sword","Gunpowder"],
+		"unitTypes": ["Gunpowder"],
 		"uniques": ["Comment [Unlocks grenades.]", "[+10]% Strength"],
 		"column": 100,
 		"row": 2},
