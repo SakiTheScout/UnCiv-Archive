@@ -10,3 +10,24 @@ TileSets/FantasyHex/Tiles/Village
   orig: 32, 36
   offset: 0, 0
   index: -1
+TileSets/FantasyHex/Tiles/Town
+  rotate: false
+  xy: 0, 0
+  size: 32, 36
+  orig: 32, 36
+  offset: 0, 36
+  index: -1
+TileSets/FantasyHex/Tiles/City
+  rotate: false
+  xy: 0, 0
+  size: 32, 36
+  orig: 32, 36
+  offset: 32, 0
+  index: -1
+TileSets/FantasyHex/Tiles/Megapolis
+  rotate: false
+  xy: 0, 0
+  size: 32, 36
+  orig: 32, 36
+  offset: 32, 36
+  index: -1
