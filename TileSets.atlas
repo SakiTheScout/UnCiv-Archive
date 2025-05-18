@@ -1,0 +1,5 @@
+Tilesets.png
+size: 64, 80
+format: RGBA8888
+filter: MipMapLinearLinear, MipMapLinearLinear
+repeat: none
