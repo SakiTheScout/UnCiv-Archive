@@ -1,12 +1,12 @@
 Tilesets.png
-size: 64, 80
+size: 64, 72
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
 TileSets/FantasyHex/Tiles/Village
   rotate: false
   xy: 0, 0
-  size: 32, 40
-  orig: 32, 40
+  size: 32, 36
+  orig: 32, 36
   offset: 0, 0
   index: -1
