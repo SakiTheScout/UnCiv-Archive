@@ -3,3 +3,10 @@ size: 64, 80
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
+TileSets/FantasyHex/Tiles/Village
+  rotate: false
+  xy: 0, 0
+  size: 32, 40
+  orig: 32, 40
+  offset: 0, 0
+  index: -1
