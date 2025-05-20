@@ -334,7 +334,7 @@
 		"techRequired": "Electronics",
 		"uniques": [
 			"[+1 Gold, +1 Production] <for every adjacent [Improvement]>",
-			"[+2 Gold, +1 Culture, +1 Science, +1 Happiness, +1 Production] <for every adjacent [Great improvements]>",
+			"[+2 Gold, +1 Culture, +1 Science, +1 Happiness, +1 Production] <for every adjacent [Great Improvement]>",
 			"[+1 Production] <for every adjacent [All Road]>"
 		]
 	},
