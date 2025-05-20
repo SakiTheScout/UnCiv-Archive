@@ -318,8 +318,8 @@
 			"[+1 Happiness, +1 Science, +1 Production] <with [6] to [6] neighboring [Mine] tiles>",
 			"[+1 Happiness, +1 Science, +1 Production] <with [3] to [6] neighboring [Quarry] tiles>",
 			"[+1 Happiness, +1 Science, +1 Production] <with [6] to [6] neighboring [Quarry] tiles>",
-			"[+1 Happiness, +1 Science, +1 Production] <with [3] to [6] neighboring [Oil Well] tiles>",
-			"[+1 Happiness, +1 Science, +1 Production] <with [6] to [6] neighboring [Oil Well] tiles>",
+			"[+1 Happiness, +1 Science, +1 Production] <with [3] to [6] neighboring [Oil well] tiles>",
+			"[+1 Happiness, +1 Science, +1 Production] <with [6] to [6] neighboring [Oil well] tiles>",
 			"[+1 Happiness, +1 Science, +1 Production, +1 Culture] <for every adjacent [Manufactory]>"
 		]
 	},
@@ -334,13 +334,13 @@
 		"techRequired": "Electronics",
 		"uniques": [
 			"[+1 Gold, +1 Production] <for every adjacent [Improvement]>",
-			"[+2 Gold, +1 Culture, +1 Science, +1 Happiness, +1 Production] <for every adjacent [Great Improvements]>",
+			"[+2 Gold, +1 Culture, +1 Science, +1 Happiness, +1 Production] <for every adjacent [Great improvements]>",
 			"[+1 Production] <for every adjacent [All Road]>"
 		]
 	},
 	{
 		"name": "Megapolis",
-		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Flood plains"],
+		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Tundra"],
 		"turnsToBuild": 30,
 		"culture": 5,
 		"gold": 5,
