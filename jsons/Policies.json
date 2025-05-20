@@ -15,6 +15,7 @@
             "[+1 Culture] from every [Military Academy]",
             "[+2 Culture] from every [Military High School]",
             "Only available <before adopting [Cultural Legacy]>",
+            "Only available <before adopting [Scholar Pioneers]",
             "Only available <before adopting [Purity and Zeal]>"
         ],
         "policies": [
@@ -106,6 +107,7 @@
             "Gain a free [Follower] belief",
             "[Faith] cost of purchasing items in cities [-25]%",
             "Only available <before adopting [Rites of Warfare]>",
+            "Only available <before adopting [Scholar Pioneers]",
             "Only available <before adopting [Cultural Legacy]>"
         ],
         "policies": [
@@ -182,6 +184,98 @@
         ]
   },
   {
+        "name": "Scholar Pioneers",
+        "era": "Medieval era",
+        "priorities": {
+            "Neutral": 0,
+            "Cultural": 0,
+            "Diplomatic": 0,
+            "Domination": 0,
+            "Scientific": 10
+        },
+        "uniques": [
+            "Each city founded increases Science cost of Technologies [33]% less than normal",
+            "Upon capturing a city, receive [100%] times its [Gold] production as [Science] immediately",
+            "Only available <before adopting [Cultural Legacy]>",
+            "Only available <before adopting [Rites of Warfare]>",
+            "Only available <before adopting [Purity and Zeal]>"
+        ],
+        "policies": [
+            {
+                "name": "Exploration Fleets",
+                "uniques": [
+                    "[2] Sight <for [Water] units>",
+                    "Can see over obstacles <for [Water] units>",
+                    "Gain [250]-[500] [Science] <upon discovering a Natural Wonder>"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Combat Research",
+                "uniques": [
+                    "Earn [75]% of killed [Military] unit's [Strength] as [Faith]",
+                    "[+33]% XP gained from combat <for [Scientific Schooling] units>",
+                    "[+2 Science] <for every [10] [[Scientific Schooling] Units]>"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "Industrial Espionage",
+                "uniques": [
+                    "Gain an extra spy",
+                    "Promotes all spies [1] time(s)",
+                    "[+1 Science, +1 Production] from each Trade Route"
+                ],
+                "requires": ["Exploration Fleets"],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Advanced Engineering",
+                "uniques": [
+                    "[+15]% [Production] from every [Scientific High School]",
+                    "[+3 Production] from every [Scientific High School]"
+                ],
+                "requires": ["Exploration Fleets", "Industrial Espionage"],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": "Scientific Atheism",
+                "uniques": [
+                    "[+1 Science, -1 Faith] <for every [Faith]>",
+                    "[-1 Happiness] [in all cities in which the majority religion is an enhanced religion]",
+                    "[+1 Science] per [5] population [in all cities]",
+                    "[+1 Science] from every specialist [in all cities]"
+                ],
+                "requires": ["Industrial Espionage"],
+                "row": 3,
+                "column": 3
+            },
+            {
+              "name": "Temples of Science",
+              "uniques": [
+                "[+1 Happiness, +1 Gold] from all [Science] buildings",
+                "[+50]% Great Person generation [in all cities] <in cities with a [Scientific High School]>",
+                "Science gained from research agreements [+50]%"
+              ],
+              "requires": ["Combat Research", "Industrial Espionage"],
+              "row": 3,
+              "column": 5
+            },
+            {
+                "name": "Scholar Pioneers Complete",
+                "uniques": [
+                    "Free Technology",
+                    "[+3 Science] for every known Natural Wonder",
+                    "Provides the cheapest [Science] building in your first [4] cities for free"
+                ]
+            }
+        ]
+    },
+  {
         "name": "Cultural Legacy",
         "era": "Medieval era",
         "priorities": {
@@ -195,6 +289,7 @@
             "Enables conversion of city production to [Culture]",
             "[+1 Happiness, +1 Science, +1 Gold, +1 Faith] per [5] social policies adopted",
             "Only available <before adopting [Purity and Zeal]>",
+            "Only available <before adopting [Scholar Pioneers]",
             "Only available <before adopting [Rites of Warfare]>"
         ],
         "policies": [
