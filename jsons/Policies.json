@@ -195,7 +195,7 @@
         },
         "uniques": [
             "Each city founded increases Science cost of Technologies [33]% less than normal",
-            "Upon capturing a city, receive [100%] times its [Gold] production as [Science] immediately",
+            "Upon capturing a city, receive [25] times its [Gold] production as [Science] immediately",
             "Only available <before adopting [Cultural Legacy]>",
             "Only available <before adopting [Rites of Warfare]>",
             "Only available <before adopting [Purity and Zeal]>"
