@@ -15,7 +15,7 @@
             "[+1 Culture] from every [Military Academy]",
             "[+2 Culture] from every [Military High School]",
             "Only available <before adopting [Cultural Legacy]>",
-            "Only available <before adopting [Scholar Pioneers]",
+            "Only available <before adopting [Scholar Pioneers]>",
             "Only available <before adopting [Purity and Zeal]>"
         ],
         "policies": [
@@ -107,7 +107,7 @@
             "Gain a free [Follower] belief",
             "[Faith] cost of purchasing items in cities [-25]%",
             "Only available <before adopting [Rites of Warfare]>",
-            "Only available <before adopting [Scholar Pioneers]",
+            "Only available <before adopting [Scholar Pioneers]>",
             "Only available <before adopting [Cultural Legacy]>"
         ],
         "policies": [
@@ -205,7 +205,7 @@
                 "name": "Exploration Fleets",
                 "uniques": [
                     "[2] Sight <for [Water] units>",
-                    "Can see over obstacles <for [Water] units>",
+                    "[2] Sight <for [Embarked] units>",
                     "Gain [250]-[500] [Science] <upon discovering a Natural Wonder>"
                 ],
                 "row": 1,
@@ -289,7 +289,7 @@
             "Enables conversion of city production to [Culture]",
             "[+1 Happiness, +1 Science, +1 Gold, +1 Faith] per [5] social policies adopted",
             "Only available <before adopting [Purity and Zeal]>",
-            "Only available <before adopting [Scholar Pioneers]",
+            "Only available <before adopting [Scholar Pioneers]>",
             "Only available <before adopting [Rites of Warfare]>"
         ],
         "policies": [
