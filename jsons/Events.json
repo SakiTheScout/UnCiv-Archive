@@ -27,6 +27,28 @@
             }
         ]
     },
+
+{
+        "name": "Festival!",
+        "text": "The time to hold festivals has arrived! Let's choose topic for a school-wide fistival!",
+        "choices": [
+            {
+                "text": "Science!",
+                "uniques": [
+                    "Gain [40]-[80] [Culture] <(modified by game speed)>",
+                    "[+15]% [Science] [in all cities] <for [5] turns>",
+                    "[+10]% [Science] [in all cities] <for [5] turns>",
+                ]
+            },
+            {
+                "text": "Skip the event",
+                "uniques": [
+                    "Comment [This time we can't afford to hold a festival.]"
+                ]
+            }
+        ]
+    },
+  
   {
         "name": "Chief Elections",
         "text": "Today, we elect a chief who will lead the entire gang! They will be...",
