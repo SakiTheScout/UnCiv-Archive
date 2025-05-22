@@ -36,8 +36,63 @@
                 "text": "Science!",
                 "uniques": [
                     "Gain [40]-[80] [Culture] <(modified by game speed)>",
-                    "[+15]% [Science] [in all cities] <for [5] turns>",
-                    "[+10]% [Science] [in all cities] <for [5] turns>",
+                    "Gain [-150] [Gold] <(modified by game speed)>",
+                    "[+15]% [Science] [in all cities] <for [5] turns> <before adopting [Festivals Preservation]>",
+                    "[+25]% [Science] [in all cities] <for [5] turns> <after adopting [Festivals Preservation]>"
+                ]
+            },
+          {
+                "text": "Culture!",
+                "uniques": [
+                    "Gain [40]-[80] [Culture] <(modified by game speed)>",
+                    "Gain [-150] [Gold] <(modified by game speed)>",
+                    "[+15]% [Culture] [in all cities] <for [5] turns> <before adopting [Festivals Preservation]>",
+                    "[+25]% [Culture] [in all cities] <for [5] turns> <after adopting [Festivals Preservation]>"
+                ]
+            },
+          {
+                "text": "Gold!",
+                "uniques": [
+                    "Gain [40]-[80] [Culture] <(modified by game speed)>",
+                    "Gain [-150] [Gold] <(modified by game speed)>",
+                    "[+15]% [Gold] [in all cities] <for [5] turns> <before adopting [Festivals Preservation]>",
+                    "[+25]% [Gold] [in all cities] <for [5] turns> <after adopting [Festivals Preservation]>"
+                ]
+            },
+          {
+                "text": "Production!",
+                "uniques": [
+                    "Gain [40]-[80] [Culture] <(modified by game speed)>",
+                    "Gain [-150] [Gold] <(modified by game speed)>",
+                    "[+15]% [Production] [in all cities] <for [5] turns> <before adopting [Festivals Preservation]>",
+                    "[+25]% [Production] [in all cities] <for [5] turns> <after adopting [Festivals Preservation]>"
+                ]
+            },
+          {
+                "text": "Happiness!",
+                "uniques": [
+                    "Gain [40]-[80] [Culture] <(modified by game speed)>",
+                    "Gain [-150] [Gold] <(modified by game speed)>",
+                    "[+15]% [Happiness] [in all cities] <for [5] turns> <before adopting [Festivals Preservation]>",
+                    "[+25]% [Happiness] [in all cities] <for [5] turns> <after adopting [Festivals Preservation]>"
+                ]
+            },
+          {
+                "text": "Food!",
+                "uniques": [
+                    "Gain [40]-[80] [Culture] <(modified by game speed)>",
+                    "Gain [-150] [Gold] <(modified by game speed)>",
+                    "[+15]% [Food] [in all cities] <for [5] turns> <before adopting [Festivals Preservation]>",
+                    "[+25]% [Food] [in all cities] <for [5] turns> <after adopting [Festivals Preservation]>"
+                ]
+            },
+          {
+                "text": "Martial Arts!",
+                "uniques": [
+                    "Gain [40]-[80] [Culture] <(modified by game speed)>",
+                    "Gain [-150] [Gold] <(modified by game speed)>",
+                    "New [Land] units start with [10] XP [in all cities] <for [5] turns> <before adopting [Festivals Preservation]>",
+                    "New [Land] units start with [15] XP [in all cities] <for [5] turns> <after adopting [Festivals Preservation]>"
                 ]
             },
             {
