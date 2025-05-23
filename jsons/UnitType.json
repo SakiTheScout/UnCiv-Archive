@@ -3,44 +3,5 @@
         "name": "Sword",
         "movementType": "Land",
         "uniques": ["[This Unit] gains the [Blood for the Blood God] promotion <upon defeating a [All] unit> <with [1]% chance>"]
-    },
-  {
-        "name": "Line",
-        "movementType": "Land",
-        "uniques": ["[+20]% Strength <vs [Assault] units>"]
-  },
-  {
-        "name": "Support",
-        "movementType": "Land",
-        "uniques": ["[+20]% Strength <vs [Line] units>"]
-  },
-  {
-        "name": "Assault",
-        "movementType": "Land",
-        "uniques": ["[+20]% Strength <vs [Support] units>"]
-  },
-  {
-        "name": "Veteran",
-        "movementType": "Land",
-        "uniques": ["[-25] XP gained from combat", "[+33]% Strength"]
-  },
-  {
-        "name": "Command",
-        "movementType": "Land",
-        "uniques": ["[+15]% Strength bonus for [Land] units within [1] tiles"]
-  },
-  {
-        "name": "Light",
-        "movementType": "Land",
-        "uniques": ["[-25]% Strength <when defending>", "[1] Movement", "[1] Sight"]
-  },
-  {
-        "name": "Medium",
-        "movementType": "Land"
-  },
-  {
-        "name": "Heavy",
-        "movementType": "Land",
-        "uniques": ["[+25]% Strength <when defending>", "[-1] Movement", "[-1] Sight"]
-  },
+    }
 ]
