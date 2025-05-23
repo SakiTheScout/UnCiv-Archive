@@ -1,7 +1,7 @@
 [
   {
 		"name": "Light Infantry",
-		"unitType": "Gunpowder",
+		"unitType": ["Line", "Light"],
 		"movement": 3,
 		"strength": 70,
 		"cost": 320,
@@ -11,7 +11,7 @@
 	},
   {
 		"name": "Infantry",
-		"unitType": "Gunpowder",
+		"unitType": ["Line", "Medium"]
 		"movement": 2,
 		"strength": 70,
 		"cost": 375,
@@ -21,7 +21,7 @@
 	},
   {
 		"name": "Heavy Infantry",
-		"unitType": "Gunpowder",
+		"unitType": ["Line", "Heavy"],
 		"movement": 1,
 		"strength": 70,
 		"cost": 420,
