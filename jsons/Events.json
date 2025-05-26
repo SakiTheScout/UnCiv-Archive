@@ -242,7 +242,7 @@
         "[-1]% [Production] [in all cities] <for [5] turns> <hidden from users>",
         "[-1]% [Faith] [in all cities] <for [5] turns> <hidden from users>",
         "[+2]% [Happiness] [in all cities] <for [5] turns> <hidden from users>",
-        "Gain a free Social Policy <with [5]% chance> <hidden from users>"]},
+        "Free Social Policy <with [5]% chance> <hidden from users>"]},
       {"text": "Purge them all!",
         "uniques": ["Instantly consumes [60] [Political Instability] <hidden from users>",
         "[+2]% [Faith] [in all cities] <for [5] turns> <hidden from users>",
@@ -262,7 +262,7 @@
         "[-1]% [Production] [in all cities] <for [5] turns> <hidden from users>",
         "[-2]% [Faith] [in all cities] <for [5] turns> <hidden from users>",
         "[+2]% [Happiness] [in all cities] <for [5] turns> <hidden from users>",
-        "[+3] from each Trade Route <for [5] turns> <hidden from users>"]}]},
+        "[+3 Gold] from each Trade Route <for [5] turns> <hidden from users>"]}]},
   {
     "name": "More Culture!",
     "text": "Main Secretary! Students came out to protest for cultural policies! But merchant students came out to suppress them! It turns into a full-scale civil war! What do we do?",
