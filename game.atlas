@@ -354,3 +354,24 @@ NationIcons/General Student Council
   orig: 100, 100
   offset: 0, 0
   index: -1
+ResourceIcons/Political Instability
+  rotate: false
+  xy: 500, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Desertification
+  rotate: false
+  xy: 600, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Eleph
+  rotate: false
+  xy: 700, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
