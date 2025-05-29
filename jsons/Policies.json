@@ -16,6 +16,7 @@
             "[+2 Culture] from every [Military High School]",
             "Only available <before adopting [Cultural Legacy]>",
             "Only available <before adopting [Scholar Pioneers]>",
+            "Only available <before adopting [Industrial Paradigm]>",
             "Only available <before adopting [Purity and Zeal]>"
         ],
         "policies": [
@@ -108,6 +109,7 @@
             "[Faith] cost of purchasing items in cities [-25]%",
             "Only available <before adopting [Rites of Warfare]>",
             "Only available <before adopting [Scholar Pioneers]>",
+            "Only available <before adopting [Industrial Paradigm]>",
             "Only available <before adopting [Cultural Legacy]>"
         ],
         "policies": [
@@ -198,6 +200,7 @@
             "Upon capturing a city, receive [25] times its [Gold] production as [Science] immediately",
             "Only available <before adopting [Cultural Legacy]>",
             "Only available <before adopting [Rites of Warfare]>",
+            "Only available <before adopting [Industrial Paradigm]>",
             "Only available <before adopting [Purity and Zeal]>"
         ],
         "policies": [
@@ -290,6 +293,7 @@
             "[+1 Happiness, +1 Science, +1 Gold, +1 Faith] per [5] social policies adopted",
             "Only available <before adopting [Purity and Zeal]>",
             "Only available <before adopting [Scholar Pioneers]>",
+            "Only available <before adopting [Industrial Paradigm]>",
             "Only available <before adopting [Rites of Warfare]>"
         ],
         "policies": [
