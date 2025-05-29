@@ -365,5 +365,96 @@
                 ]
             }
         ]
+    },
+  {
+        "name": "Industrial Paradigm",
+        "era": "Medieval era",
+        "priorities": {
+            "Neutral": 10,
+            "Cultural": 0,
+            "Diplomatic": 0,
+            "Domination": 0,
+            "Scientific": 0
+        },
+        "uniques": [
+            "[+2 Production, +1 Science] from every [Town]",
+            "[+15]% [Production] from every [Production]",
+            "Only available <before adopting [Cultural Legacy]>",
+            "Only available <before adopting [Rites of Warfare]>",
+            "Only available <before adopting [Scholar Pioneers]>",
+            "Only available <before adopting [Purity and Zeal]>"
+        ],
+        "policies": [
+            {
+                "name": "Mechanization",
+                "uniques": [
+                    "[+15]% Production when constructing [Military] units [in all cities]",
+                    "[+3 Science] from every [Engineering High School]",
+                    "[+3 Happiness] from every [Engineering High School]"
+                ],
+                "row": 1,
+                "column": 3
+            },
+            {
+                "name": "Foreign Workforce",
+                "uniques": [
+                    "[+3]% [Production] [in all cities] <upon declaring friendship>",
+                    "[+2 Production] from each Trade Route",
+                    "[+25]% spy effectiveness [in foreign cities]",
+                    "[+25]% enemy spy effectiveness [in your cities]"
+                ],
+                "requires": ["Mechanization"],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Leading by Example",
+                "uniques": [
+                    "[+2 Happiness, +2 Production, +2 Science, +2 Culture] per [8] population [in all cities]",
+                    "[+1 Production, +1 Happiness] from every specialist [in all cities]",
+                    "[+25]% [Production] <during a Golden Age>"
+                ],
+                "requires": ["Mechanization"],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Bonus for Overtime",
+                "uniques": [
+                    "[+100]% of excess happiness converted to [Production]",
+                    "[-50]% of excess happiness converted to [Gold]"
+                ],
+                "requires": ["Mechanization"],
+                "row": 2,
+                "column": 5
+            },
+            {
+                "name": "Work Ethics",
+                "uniques": [
+                    "[+1 Happiness, +1 Culture] from every [Production]"
+                ],
+                "requires": ["Foreign Workforce", "Leading by Example"],
+                "row": 3,
+                "column": 2
+            },
+            {
+              "name": "Educated Professionals",
+              "uniques": [
+                "[+3 Culture] from every [Engineering High School]",
+                "[+3 Gold] from every [Engineering High School]"
+              ],
+              "requires": ["Foreign Workforce", "Bonus for Overtime"],
+              "row": 3,
+              "column": 4
+            },
+            {
+                "name": "Industrial Paradigm Complete",
+                "uniques": [
+                    "[-25]% Food consumption by specialists [in all cities]",
+                    "Quantity of strategic resources produced by the empire +[+25]%",
+                    "[+1 Happiness] <for every [10] [[Engineering Schooling] Units]>"
+                ]
+            }
+        ]
     }
 ]
