@@ -371,6 +371,97 @@
         ]
     },
   {
+        "name": "Agricultural Revolution",
+        "era": "Medieval era",
+        "priorities": {
+            "Neutral": 10,
+            "Cultural": 0,
+            "Diplomatic": 0,
+            "Domination": 0,
+            "Scientific": 0
+        },
+        "uniques": [
+            "[+15]% growth [in capital]",
+            "[+10]% growth [in all cities]",
+            "Only available <before adopting [Cultural Legacy]>",
+            "Only available <before adopting [Scholar Pioneers]>",
+            "Only available <before adopting [Industrial Paradigm]>",
+            "Only available <before adopting [Purity and Zeal]>"
+        ],
+        "policies": [
+            {
+                "name": "Farmind Business",
+                "uniques": [
+                    "[+1 Gold] from all [Food] buildings",
+                    "[+3 Gold, +1 Science] <for every [10] [[Agricultural Schooling] Units]>",
+                    "[+4 Gold] from every [Agricultural High School]"
+                ],
+                "row": 1,
+                "column": 2
+            },
+            {
+                "name": "Intensive Agriculture",
+                "uniques": [
+                    "[+1 Food] from [Farm] tiles [in all cities] <every [30] turns>",
+                    "[+10]% [Food] from every [Farm]",
+                    "Allied City-States provide [Food] equal to [+50]% of what they produce for themselves"
+                ],
+                "row": 1,
+                "column": 4
+            },
+            {
+                "name": "Food Export",
+                "uniques": [
+                    "[-2 Food, +3 Gold] [in all cities] <for every [Remaining [All] Civilizations]>",
+                    "[-1 Food, +2 Gold] [in all cities] <for every [Remaining [All] Civilizations]> <when not at war>",
+                    "[+1 Food, +2 Gold] from each Trade Routes"
+                ],
+                "requires": ["Farmind Business"],
+                "row": 2,
+                "column": 2
+            },
+            {
+                "name": "Agricultural Technology",
+                "uniques": [
+                    "[+2 Science, -1 Gold] from every [Agricultural High School]",
+                    "[+1 Science] from all [Food] buildings",
+                    "[+15]% [Science] from every [Agricultural High School]"
+                ],
+                "requires": ["Farmind Business", "Intensive Agriculture"],
+                "row": 2,
+                "column": 4
+            },
+            {
+                "name": "Culture of the Farmlands",
+                "uniques": [
+                    "[+1 Culture] from [Farm] tiles [in all cities]",
+                    "[+2 Culture] from every [Agricultural High School]"
+                ],
+                "requires": ["Agricultural Technology", "Food Export"],
+                "row": 3,
+                "column": 2
+            },
+            {
+              "name": "Rural Privilege",
+              "uniques": [
+                "[+2 Gold, +2 Happiness, +1 Science, +1 Culture] from [Village] tiles [in all cities]",
+                "[10] HP when healing <in [Village] tiles>"
+              ],
+              "requires": ["Agricultural Technology"],
+              "row": 3,
+              "column": 4
+            },
+            {
+                "name": "Agricultural Revolution Complete",
+                "uniques": [
+                    "[+1 Culture] <for every [10] [[Agricultural Schooling] Units]>",
+                    "[2] population in a random city",
+                    "Free Great Person"
+                ]
+            }
+        ]
+    },
+  {
         "name": "Industrial Paradigm",
         "era": "Medieval era",
         "priorities": {
