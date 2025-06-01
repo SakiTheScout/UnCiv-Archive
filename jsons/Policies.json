@@ -414,7 +414,7 @@
                 "uniques": [
                     "[-2 Food, +3 Gold] [in all cities] <for every [Remaining [All] Civilizations]>",
                     "[-1 Food, +2 Gold] [in all cities] <for every [Remaining [All] Civilizations]> <when not at war>",
-                    "[+1 Food, +2 Gold] from each Trade Routes"
+                    "[+1 Food, +2 Gold] from each Trade Route"
                 ],
                 "requires": ["Farmind Business"],
                 "row": 2,
