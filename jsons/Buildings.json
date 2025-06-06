@@ -1017,7 +1017,7 @@
 		"maintenance": 1,
 		"uniques": ["[Gold] cost of purchasing items in cities [-5]%",
 		"[-5]% maintenance on road & railroads",
-		"[-2]% maintenance cost for buildings [in all cities]",
+		"[-2]% maintenance cost for [All] buildings [in all cities]",
 		"Only available <if [Student Council Room] is constructed>",
 		"Provides [1] [Eleph]"]
 	},
@@ -1266,7 +1266,7 @@
 			"Resting point for Influence with City-States is increased by [10]",
 			"[+50]% enemy spy effectiveness [in this city]",
 			"Provides [10] [Political Instability]",
-			"[-33]% maintenance cost for buildings [in this city]",
+			"[-33]% maintenance cost for [All] buildings [in this city]",
 			"[+15]% Production when constructing [All] buildings [in this city]",
 			"Cost increases by [100] when built",
 			"Only available <in cities without a [Club]>",
