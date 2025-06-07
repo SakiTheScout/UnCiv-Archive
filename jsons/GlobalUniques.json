@@ -45,4 +45,9 @@
         "[+50]% XP gained from combat",
         "[+300]% Yield from pillaging tiles",
         "[50]% Health from pillaging tiles",
-        "[-1] Sight <for [Embarked] units>"]}
+        "[-1] Sight <for [Embarked] units>",
+        "Provides [1] [HQ limit] <for every [3] [[Troops] units]>",
+        "Provides [1] [FA limit] <for every [1] [[HQ] units]>",
+        "Provides [1] [E limit] <for every [1] [[HQ] units]>",
+        "Provides [1] [HS limit] <for every [1] [[HQ] units]>",
+        "Provides [1] [LoW limit] <for every [3] [[HQ] units]>"]}
