@@ -466,7 +466,7 @@ UnitIcons/Heavy Machine Gun
   offset: 0, 0
   index: -1
 
-Tilesets.png
+TileSets.png
 size: 64, 72
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
