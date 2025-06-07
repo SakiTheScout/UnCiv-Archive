@@ -3,5 +3,41 @@
         "name": "Sword",
         "movementType": "Land",
         "uniques": ["[This Unit] gains the [Blood for the Blood God] promotion <upon defeating a [All] unit> <with [1]% chance>"]
-    }
+    },
+   {
+        "name": "Infantry",
+        "movementType": "Land",
+        "uniques": [
+          "[This Unit] gains the [Blood for the Blood God] promotion <upon defeating a [All] unit> <with [1]% chance>"]
+   },
+   {
+        "name": "Ranged Infantry",
+        "movementType": "Land",
+        "uniques": []
+   },
+  {
+        "name": "Towed",
+        "movementType": "Land",
+        "uniques": []
+  },
+  {
+        "name": "Bike",
+        "movementType": "Land",
+        "uniques": []
+  },
+  {
+        "name": "Light Armor",
+        "movementType": "Land",
+        "uniques": []
+  },
+  {
+        "name": "Medium Armor",
+        "movementType": "Land",
+        "uniques": []
+  },
+  {
+        "name": "Heavy Armor",
+        "movementType": "Land",
+        "uniques": []
+  }
 ]
