@@ -20,5 +20,30 @@
 		"name": "Stagnation Point",
 		"resourceType": "Strategic",
 		"uniques": ["Stockpiled", "Not shown on world screen <for [non-[Red Winter Federal Academy]] Civilizations>"]
+	},
+	{
+		"name": "HQ limit",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen"]
+	},
+	{
+		"name": "HS limit",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen"]
+	},
+	{
+		"name": "FA limit",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen"]
+	},
+	{
+		"name": "LoW limit",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen"]
+	},
+	{
+		"name": "E limit",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen"]
 	}
 ]
