@@ -433,7 +433,10 @@
 	{
 		"name": "Frag Grenade",    
 		"uniques": [
-			"[Target Unit] takes [25] damage <upon damaging a [non-[Armored]] unit>",
+			"[Target Unit] takes [25] damage <upon damaging a [Infantry] unit>",
+			"[Target Unit] takes [15] damage <upon damaging a [Bike] unit>",
+			"[Target Unit] takes [25] damage <upon damaging a [Ranged Infantry] unit>",
+			"[Target Unit] takes [15] damage <upon damaging a [Towed] unit>",
 			"[+15]% Strength <vs [non-[Armored]] units>",
 			"[Target Unit] takes [5] damage <upon damaging a [Armored] unit>",
 			"[This Unit] loses the [Frag Grenade] status <upon damaging a [All] unit>",
@@ -443,7 +446,7 @@
 		"prerequisites": ["Grenadier"],
 		"unitTypes": ["Infantry"],
 		"uniques": [
-			"Comment [[AT Grenade]: Deal 25 extra damage to armor unit. Cooldown: 10 turns.]",
+			"Comment [[AT Grenade]: Deal ~25 extra damage to armor unit. Cooldown: 10 turns.]",
 			"[+1]% Strength",
 			"[This Unit] gains the [AT Grenade] status for [1] turn(s) <for [0] movement> <for units without [Grenade Cooldown]> <hidden from users>"],
 		"innerColor": [0,180,0],
@@ -453,7 +456,9 @@
 	{
 		"name": "AT Grenade",    
 		"uniques": [
-			"[Target Unit] takes [25] damage <upon damaging a [Armored] unit>",
+			"[Target Unit] takes [35] damage <upon damaging a [Light Armor] unit>",
+			"[Target Unit] takes [25] damage <upon damaging a [Medium Armor] unit>",
+			"[Target Unit] takes [15] damage <upon damaging a [Heavy Armor] unit>",
 			"[+15]% Strength <vs [Armored] units>",
 			"[Target Unit] takes [5] damage <upon damaging a [non-[Armored]] unit>",
 			"[This Unit] loses the [AT Grenade] status <upon damaging a [All] unit>",
@@ -493,8 +498,8 @@
 	{
 		"name": "Incendiary Grenade",    
 		"uniques": [
-			"[Target Unit] takes [15] damage <upon damaging a [non-[Armored]] unit>",
-			"[Target Unit] gains the [Burning] status for [5] turn(s) <upon damaging a [non-[Armored]] unit>",
+			"[Target Unit] takes [15] damage <upon damaging a [{non-[Light Armor]} {non-[Medium Armor]} {non-[Heavy Armor]}] unit>",
+			"[Target Unit] gains the [Burning] status for [5] turn(s) <upon damaging a [All] unit>",
 			"[+15]% Strength <when fighting in [Forest] tiles>",
 			"[+20]% Strength <when fighting in [Jungle] tiles>",
 			"[Target Unit] takes [5] damage <upon damaging a [Armored] unit>",
@@ -555,7 +560,7 @@
 	{
 		"name": "Flashbang Grenade",    
 		"uniques": [
-			"[Target Unit] gains the [Stunned] status for [2] turn(s) <upon damaging a [non-[Armored]] unit>",
+			"[Target Unit] gains the [Stunned] status for [2] turn(s) <upon damaging a [{non-[Light Armor]} {non-[Medium Armor]} {non-[Heavy Armor]}] unit>",
 			"[This Unit] loses the [Flashbang Grenade] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Flashbang Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Flashbang Grenade] status> <for [Specialist Infantry] units>"]},
 	{
@@ -595,7 +600,9 @@
 	{
 		"name": "EMP Grenade",    
 		"uniques": [
-			"[Target Unit] gains the [Stunned] status for [2] turn(s) <upon damaging a [Armored] unit>",
+			"[Target Unit] gains the [Stunned] status for [2] turn(s) <upon damaging a [Light Armor] unit>",
+			"[Target Unit] gains the [Stunned] status for [2] turn(s) <upon damaging a [Medium Armor] unit>",
+			"[Target Unit] gains the [Stunned] status for [2] turn(s) <upon damaging a [Heavy Armor] unit>",
 			"[This Unit] loses the [EMP Grenade] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [EMP Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [EMP Grenade] status> <for [Specialist Infantry] units>"]},
 		{
@@ -621,7 +628,7 @@
 			"[Target Unit] takes [20] damage <upon damaging a [All] unit> <in [Fort] tiles>",
 			"[+15]% Strength <vs cities>",
 			"[Target Unit] takes [20] damage <upon damaging a [All] unit> <in [Citadel] tiles>",
-			"[Target Unit] takes [5] damage <upon damaging a [Armored] unit>",
+			"[Target Unit] takes [5] damage <upon damaging a [Light Armor] unit>",
 			"[This Unit] loses the [Pyro Grenade] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Pyro Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Pyro Grenade] status> <for [Specialist Infantry] units>"]},
 	{
