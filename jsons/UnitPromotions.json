@@ -367,14 +367,14 @@
 	{
 		"name": "Grenadier",
 		"prerequisites": ["Drill I", "Shock I"],
-		"unitTypes": ["Gunpowder"],
+		"unitTypes": ["Infantry"],
 		"uniques": ["Comment [Unlocks grenades.]", "[+10]% Strength"],
 		"column": 100,
 		"row": 2},
 	{
 		"name": "Frag Grenades",
 		"prerequisites": ["Grenadier"],
-		"unitTypes": ["Gunpowder"],
+		"unitTypes": ["Infantry"],
 		"uniques": [
 			"Comment [[Frag Grenade]: Deal 25 extra damage to non-armor unit. Cooldown: 10 turns.]",
 			"[+1]% Strength",
@@ -390,11 +390,11 @@
 			"[+15]% Strength <vs [non-[Armored]] units>",
 			"[Target Unit] takes [5] damage <upon damaging a [Armored] unit>",
 			"[This Unit] loses the [Frag Grenade] status <upon damaging a [All] unit>",
-			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Frag Grenade] status>"]},
+			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Frag Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Frag Grenade] status> <for [Specialist Infantry] units>"]},
 	{
 		"name": "AT Grenades",
 		"prerequisites": ["Grenadier"],
-		"unitTypes": ["Gunpowder"],
+		"unitTypes": ["Infantry"],
 		"uniques": [
 			"Comment [[AT Grenade]: Deal 25 extra damage to armor unit. Cooldown: 10 turns.]",
 			"[+1]% Strength",
@@ -414,7 +414,7 @@
 	{
 		"name": "HE Grenades",
 		"prerequisites": ["Grenadier"],
-		"unitTypes": ["Sword","Gunpowder"],
+		"unitTypes": ["Infantry"],
 		"uniques": [
 			"Comment [[HE Grenade]: Deal 30 extra damage to units in bunkers. Cooldown: 10 turns.]",
 			"[+1]% Strength",
@@ -434,7 +434,7 @@
 	{
 		"name": "Incendiary Grenades",
 		"prerequisites": ["Grenadier"],
-		"unitTypes": ["Gunpowder"],
+		"unitTypes": ["Infantry"],
 		"uniques": [
 			"Comment [[Incendiary Grenade]: Deal 15 extra damage to non-armor unit and set it on fire. Cooldown: 10 turns.]",
 			"[+1]% Strength",
@@ -456,7 +456,7 @@
 	{
 		"name": "Molotov Cocktails",
 		"prerequisites": ["Grenadier"],
-		"unitTypes": ["Sword","Gunpowder"],
+		"unitTypes": ["Infantry"],
 		"uniques": [
 			"Comment [[Molotov Cocktail]: Set a unit on fire. Cooldown: 5 turns.]",
 			"[+1]% Strength",
@@ -476,7 +476,7 @@
 	{
 		"name": "Smokescreens",
 		"prerequisites": ["Grenadier"],
-		"unitTypes": ["Gunpowder"],
+		"unitTypes": ["Infantry"],
 		"uniques": [
 			"Comment [[Smokescreen]: Hide in smoke for 3 turns. Cooldown: 10 turns.]",
 			"[+1]% Strength",
@@ -496,7 +496,7 @@
 	{
 		"name": "Flashbang Grenades",
 		"prerequisites": ["Grenadier"],
-		"unitTypes": ["Gunpowder"],
+		"unitTypes": ["Infantry"],
 		"uniques": [
 			"Comment [[Flashbang Grenade]: Stun non-armored unit for 2 turns. Cooldown: 10 turns.]",
 			"[+1]% Strength",
@@ -514,7 +514,7 @@
 	{
 		"name": "Smoke Grenades",
 		"prerequisites": ["Grenadier"],
-		"unitTypes": ["Gunpowder"],
+		"unitTypes": ["Infantry"],
 		"uniques": [
 			"Only available <for [Abydos High School] Civilizations>",
 			"[+1]% Strength",
@@ -529,13 +529,13 @@
 		"uniques": [
 			"[+50]% Strength <vs [Ranged] units> <when defending>",
 			"[+25]% Strength <vs [Air] units> <when defending>",
-			"[+1000]% to Flank Attack bonuses",
+			"[+200]% to Flank Attack bonuses",
 			"[This Unit] loses the [Smoke Grenade] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Smoke Grenade] status>"]},
 	{
 		"name": "EMP Grenades",
 		"prerequisites": ["Grenadier"],
-		"unitTypes": ["Gunpowder"],
+		"unitTypes": ["Infantry"],
 		"uniques": [
 			"Only available <for [Millennium Science School] Civilizations>",
 			"[+1]% Strength",
@@ -554,7 +554,7 @@
 		{
 		"name": "Pyro Grenades",
 		"prerequisites": ["Grenadier"],
-		"unitTypes": ["Gunpowder"],
+		"unitTypes": ["Infantry"],
 		"uniques": [
 			"Only available <for [Gehenna Academy] Civilizations>",
 			"[+1]% Strength",
@@ -580,7 +580,7 @@
 	{
 		"name": "Holy Grenades",
 		"prerequisites": ["Grenadier"],
-		"unitTypes": ["Sword","Gunpowder"],
+		"unitTypes": ["Infantry"],
 		"uniques": [
 			"Only available <for [Trinity General School] Civilizations>",
 			"[+1]% Strength",
@@ -599,7 +599,7 @@
 	{
 		"name": "Halo-Shattering Grenades",
 		"prerequisites": ["Grenadier"],
-		"unitTypes": ["Gunpowder"],
+		"unitTypes": ["Infantry"],
 		"uniques": [
 			"Only available <for [Arius Branch School] Civilizations>",
 			"[+1]% Strength",
