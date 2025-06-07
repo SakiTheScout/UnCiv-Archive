@@ -216,7 +216,7 @@
 		"rangedStrength": 70,
 		"cost": 375,
 		"requiredTech": "Ballistics",
-		"uniques": ["[+25]% Strength <vs [Infatry] units> <when attacking>"],
+		"uniques": ["[+25]% Strength <vs [Infantry] units> <when attacking>"],
 		"attackSound": "machinegun"
 	},
 	{
@@ -240,7 +240,7 @@
 		"rangedStrength": 90,
 		"cost": 450,
 		"requiredTech": "Ballistics",
-		"uniques": ["[+25]% Strength <vs [Infantry] units> <when attacking>", "[+25]% Strength <vs [Light Armored] units> <when attacking>", "Must set up to ranged attack"],
+		"uniques": ["[+25]% Strength <vs [Infantry] units> <when attacking>", "[+25]% Strength <vs [Light Armor] units> <when attacking>", "Must set up to ranged attack"],
 		"attackSound": "machinegun"
 	},
   {"name": "Tank", "unitType": "Armored", "movement": 1, "strength": 1, "cost": 1, "uniques": ["Unavailable", "Will not be displayed in Civilopedia", "Never appears as a Barbarian unit"],"attackSound": "tankshot"},
