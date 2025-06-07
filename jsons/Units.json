@@ -7,7 +7,8 @@
 		"cost": 320,
 		"requiredTech": "Plastics",
 		"attackSound": "shot",
-    "uniques": ["Comment [Fast infantry unit.]", "[-25]% Strength <when defending>"]
+    "uniques": ["Troops",
+	    "Comment [Fast infantry unit.]", "[-25]% Strength <when defending>"]
 	},
   {
 		"name": "Infantry",
@@ -17,7 +18,8 @@
 		"cost": 375,
 		"requiredTech": "Plastics",
 		"attackSound": "shot",
-    "uniques": ["Comment [Generalist infantry unit.]"]
+    "uniques": ["Troops",
+	    "Comment [Generalist infantry unit.]"]
 	},
   {
 		"name": "Heavy Infantry",
@@ -27,7 +29,41 @@
 		"cost": 420,
 		"requiredTech": "Plastics",
 		"attackSound": "shot",
-    "uniques": ["Comment [Heavy infantry unit.]", "[+25]% Strength <when defending>"]
+    "uniques": ["Troops",
+	    "Comment [Heavy infantry unit.]", "[+25]% Strength <when defending>"]
+	},
+	{
+		"name": "Scout Infantry",
+		"unitType": "Infantry",
+		"movement": 3,
+		"strength": 60,
+		"cost": 350,
+		"requiredTech": "Plastics",
+		"attackSound": "shot",
+    "uniques": ["Troops",
+	    "Comment [Scout infantry unit.]", "[-25]% Strength <when defending>", "Ignores terrain cost"]
+	},
+  {
+		"name": "Specialist Infantry",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 70,
+		"cost": 400,
+		"requiredTech": "Plastics",
+		"attackSound": "shot",
+    "uniques": ["Troops",
+	    "Comment [Grenade-focused infantry unit.]"]
+	},
+  {
+		"name": "Assault Infantry",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 70,
+		"cost": 400,
+		"requiredTech": "Plastics",
+		"attackSound": "shot",
+    "uniques": ["Troops",
+	    "Comment [Infantry unit specialising in assaults.]", "[+25]% Strength <when fighting in [Fort] tiles>", "[+25]% Strength <when fighting in [Citadel] tiles>", "Ignores Zone of Control"]
 	},
 	{
 		"name": "Scout Bikes",
