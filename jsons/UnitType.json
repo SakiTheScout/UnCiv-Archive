@@ -13,31 +13,31 @@
    {
         "name": "Ranged Infantry",
         "movementType": "Land",
-        "uniques": []
+        "uniques": ["[-15]% Strength <when defending>"]
    },
   {
         "name": "Towed",
         "movementType": "Land",
-        "uniques": []
+        "uniques": ["[-25]% Strength <when defending>"]
   },
   {
         "name": "Bike",
         "movementType": "Land",
-        "uniques": []
+        "uniques": ["[+25]% to Flank Attack bonuses", "No defensive terrain bonus", "Can move after attacking"]
   },
   {
         "name": "Light Armor",
         "movementType": "Land",
-        "uniques": []
+        "uniques": ["Can move after attacking", "No defensive terrain bonus"]
   },
   {
         "name": "Medium Armor",
         "movementType": "Land",
-        "uniques": []
+        "uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty"]
   },
   {
         "name": "Heavy Armor",
         "movementType": "Land",
-        "uniques": []
+        "uniques": ["No defensive terrain bonus", "Rough terrain penalty"]
   }
 ]
