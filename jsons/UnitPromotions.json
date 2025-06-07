@@ -457,7 +457,7 @@
 			"[+15]% Strength <vs [Armored] units>",
 			"[Target Unit] takes [5] damage <upon damaging a [non-[Armored]] unit>",
 			"[This Unit] loses the [AT Grenade] status <upon damaging a [All] unit>",
-			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [AT Grenade] status>"]},
+			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [AT Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [AT Grenade] status> <for [Specialist Infantry] units>"]},
 	{
 		"name": "HE Grenades",
 		"prerequisites": ["Grenadier"],
@@ -477,7 +477,7 @@
 			"[+15]% Strength <vs cities>",
 			"[Target Unit] takes [30] damage <upon damaging a [All] unit> <in [Citadel] tiles>",
 			"[This Unit] loses the [HE Grenade] status <upon damaging a [All] unit>",
-			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [HE Grenade] status>"]},
+			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [HE Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [HE Grenade] status> <for [Specialist Infantry] units>"]},
 	{
 		"name": "Incendiary Grenades",
 		"prerequisites": ["Grenadier"],
@@ -499,7 +499,7 @@
 			"[+20]% Strength <when fighting in [Jungle] tiles>",
 			"[Target Unit] takes [5] damage <upon damaging a [Armored] unit>",
 			"[This Unit] loses the [Incendiary Grenade] status <upon damaging a [All] unit>",
-			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Incendiary Grenade] status>"]},
+			 "[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Incendiary Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Incendiary Grenade] status> <for [Specialist Infantry] units>"]},
 	{
 		"name": "Molotov Cocktails",
 		"prerequisites": ["Grenadier"],
@@ -519,7 +519,7 @@
 			"[+15]% Strength <when fighting in [Forest] tiles>",
 			"[+20]% Strength <when fighting in [Jungle] tiles>",
 			"[This Unit] loses the [Molotov Cocktail] status <upon damaging a [All] unit>",
-			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Molotov Cocktail] status>"]},
+			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Molotov Cocktail] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Molotov Cocktail] status> <for [Specialist Infantry] units>"]},
 	{
 		"name": "Smokescreens",
 		"prerequisites": ["Grenadier"],
@@ -539,7 +539,7 @@
 			"[+25]% Strength <vs [Air] units> <when defending>",
 			"Withdraws before melee combat <with [80]% chance>",
 			"[This Unit] loses the [Smokescreen] status <upon damaging a [All] unit>",
-			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Smokescreen] status>"]},
+			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Smokescreen] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Smokescreen] status> <for [Specialist Infantry] units>"]},
 	{
 		"name": "Flashbang Grenades",
 		"prerequisites": ["Grenadier"],
@@ -557,7 +557,7 @@
 		"uniques": [
 			"[Target Unit] gains the [Stunned] status for [2] turn(s) <upon damaging a [non-[Armored]] unit>",
 			"[This Unit] loses the [Flashbang Grenade] status <upon damaging a [All] unit>",
-			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Flashbang Grenade] status>"]},
+			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Flashbang Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Flashbang Grenade] status> <for [Specialist Infantry] units>"]},
 	{
 		"name": "Smoke Grenades",
 		"prerequisites": ["Grenadier"],
@@ -578,7 +578,7 @@
 			"[+25]% Strength <vs [Air] units> <when defending>",
 			"[+200]% to Flank Attack bonuses",
 			"[This Unit] loses the [Smoke Grenade] status <upon damaging a [All] unit>",
-			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Smoke Grenade] status>"]},
+			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Smoke Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Smoke Grenade] status> <for [Specialist Infantry] units>"]},
 	{
 		"name": "EMP Grenades",
 		"prerequisites": ["Grenadier"],
@@ -597,7 +597,7 @@
 		"uniques": [
 			"[Target Unit] gains the [Stunned] status for [2] turn(s) <upon damaging a [Armored] unit>",
 			"[This Unit] loses the [EMP Grenade] status <upon damaging a [All] unit>",
-			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [EMP Grenade] status>"]},
+			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [EMP Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [EMP Grenade] status> <for [Specialist Infantry] units>"]},
 		{
 		"name": "Pyro Grenades",
 		"prerequisites": ["Grenadier"],
@@ -623,7 +623,7 @@
 			"[Target Unit] takes [20] damage <upon damaging a [All] unit> <in [Citadel] tiles>",
 			"[Target Unit] takes [5] damage <upon damaging a [Armored] unit>",
 			"[This Unit] loses the [Pyro Grenade] status <upon damaging a [All] unit>",
-			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Pyro Grenade] status>"]},
+			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Pyro Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Pyro Grenade] status> <for [Specialist Infantry] units>"]},
 	{
 		"name": "Holy Grenades",
 		"prerequisites": ["Grenadier"],
@@ -642,7 +642,7 @@
 		"uniques": [
 			"[This Unit] heals [50] HP <upon turn end>",
 			"[This Unit] loses the [Holy Grenade] status <upon turn end>",
-			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Holy Grenade] status>"]},
+		        "[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Holy Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Holy Grenade] status> <for [Specialist Infantry] units>"]},
 	{
 		"name": "Halo-Shattering Grenades",
 		"prerequisites": ["Grenadier"],
@@ -662,7 +662,7 @@
 			"[Target Unit] takes [100] damage <upon damaging a [Kivotos Halo] unit>",
 			"Instantly consumes [25] [Eleph]",
 			"[This Unit] loses the [Halo-Shattering Grenade] status <upon damaging a [All] unit>",
-			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Halo-Shattering Grenade] status>"]},
+			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Halo-Shattering Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Halo-Shattering Grenade] status> <for [Specialist Infantry] units>"]},
 	{
 		"name": "Grenade Cooldown",
 		"uniques": ["Comment [Grenade is on cooldown]"]},
