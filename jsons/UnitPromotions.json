@@ -708,7 +708,7 @@
 		"uniques": ["Comment [Bulk of an army, necessary to have to unlock other units in force organisation.]"]},
 	{
 		"name": "HQ",
-		"uniques": ["Comment [Head of an army, 1 for every 3 [Troops] units.]", "Limited to [1] per Civilization <for every [[Troops] units/3]> <hidden from users>"]},
+		"uniques": ["Comment [Head of an army, 1 for every 3 [Troops] units.]", "Limited to [1] per Civilization <for every [[Troops] units / 3]> <hidden from users>"]},
 	{
 		"name": "Fast Attack",
 		"uniques": ["Comment [Speed of an army, 1 for every [HQ].]", "Limited to [1] per Civilization <for every [[HQ] units]> <hidden from users>"]},
@@ -720,5 +720,5 @@
 		"uniques": ["Comment [Backbone of an army, 1 for every [HQ].]", "Limited to [1] per Civilization <for every [[HQ] units] <hidden from users>"]},
 	{
 		"name": "Lord of War",
-		"uniques": ["Comment [Apocalypse today, requires to have 6 [Troops], 3 [HQ], 3 [Elite], 3 [Fire Support] and 3 [Fast Attack].]", "Limited to [1] per Civilization <for every [(([Troops] units/6)+([Elite] units/3)+([HQ] units/3)+([Fast Attack] units/3)+([Heavy Support] units/3))/5]> <hidden from users>"]},
+		"uniques": ["Comment [Apocalypse today, requires to have 6 [Troops], 3 [HQ], 3 [Elite], 3 [Fire Support] and 3 [Fast Attack].]", "Limited to [1] per Civilization <for every [(([Troops] units / 6) + ([Elite] units / 3) + ([HQ] units / 3) + ([Fast Attack] units / 3) + ([Heavy Support] unitsb/ 3)) / 5]> <hidden from users>"]},
 ]
