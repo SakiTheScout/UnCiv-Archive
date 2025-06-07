@@ -375,6 +375,13 @@ ResourceIcons/Eleph
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Civilian Executions
+  rotate: false
+  xy: 800, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 
 Units.png
 size: 600,100
