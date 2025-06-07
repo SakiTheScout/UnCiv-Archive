@@ -6,9 +6,9 @@
 		"strength": 70,
 		"cost": 320,
 		"requiredTech": "Plastics",
+	        "promotions": "Troops",
 		"attackSound": "shot",
-    "uniques": ["Troops",
-	    "Comment [Fast infantry unit.]", "[-25]% Strength <when defending>"]
+    "uniques": ["Comment [Fast infantry unit.]", "[-25]% Strength <when defending>"]
 	},
   {
 		"name": "Infantry",
@@ -17,9 +17,9 @@
 		"strength": 70,
 		"cost": 375,
 		"requiredTech": "Plastics",
+	        "promotions": "Troops",
 		"attackSound": "shot",
-    "uniques": ["Troops",
-	    "Comment [Generalist infantry unit.]"]
+    "uniques": ["Comment [Generalist infantry unit.]"]
 	},
   {
 		"name": "Heavy Infantry",
@@ -28,9 +28,9 @@
 		"strength": 70,
 		"cost": 420,
 		"requiredTech": "Plastics",
+	        "promotions": "Troops",
 		"attackSound": "shot",
-    "uniques": ["Troops",
-	    "Comment [Heavy infantry unit.]", "[+25]% Strength <when defending>"]
+    "uniques": ["Comment [Heavy infantry unit.]", "[+25]% Strength <when defending>"]
 	},
 	{
 		"name": "Scout Infantry",
@@ -40,8 +40,8 @@
 		"cost": 350,
 		"requiredTech": "Plastics",
 		"attackSound": "shot",
-    "uniques": ["Troops",
-	    "Comment [Scout infantry unit.]", "[-25]% Strength <when defending>", "Ignores terrain cost"]
+		"promotions": "Troops",
+    "uniques": ["Comment [Scout infantry unit.]", "[-25]% Strength <when defending>", "Ignores terrain cost"]
 	},
   {
 		"name": "Specialist Infantry",
@@ -50,9 +50,9 @@
 		"strength": 70,
 		"cost": 400,
 		"requiredTech": "Plastics",
+	        "promotions": "Troops",
 		"attackSound": "shot",
-    "uniques": ["Troops",
-	    "Comment [Grenade-focused infantry unit.]"]
+    "uniques": ["Comment [Grenade-focused infantry unit.]"]
 	},
   {
 		"name": "Assault Infantry",
@@ -61,9 +61,9 @@
 		"strength": 70,
 		"cost": 400,
 		"requiredTech": "Plastics",
+	        "promotions": "Troops",
 		"attackSound": "shot",
-    "uniques": ["Troops",
-	    "Comment [Infantry unit specialising in assaults.]", "[+25]% Strength <when fighting in [Fort] tiles>", "[+25]% Strength <when fighting in [Citadel] tiles>", "Ignores Zone of Control"]
+    "uniques": ["Comment [Infantry unit specialising in assaults.]", "[+25]% Strength <when fighting in [Fort] tiles>", "[+25]% Strength <when fighting in [Citadel] tiles>", "Ignores Zone of Control"]
 	},
 	{
 		"name": "Scout Bikes",
