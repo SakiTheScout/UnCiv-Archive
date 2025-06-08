@@ -53,7 +53,7 @@
       "[10] HP when healing",
       "All adjacent units heal [15] HP when healing"],
 	  "outerColor": [255,253,249],
-	  "innerColor": [255,0,0],},
+	  "innerColor": [255,0,0]},
 	// Neutral
   {
     "name": "Kivotos Halo",
