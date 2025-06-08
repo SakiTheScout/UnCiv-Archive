@@ -756,6 +756,62 @@
 	{
 		"name": "Blood God's Blessing",
 		"uniques": ["Comment [Blood God is satisfied.]"]},
+	// Orders
+	{
+		"name": "Order: Bring it down!",
+		"unitTypes": ["Infantry"],
+		"uniques": [
+			"Comment [[Bring it down!]: Mark a unit so it takes more damage.]",
+			"[This Unit] gains the [Bring it down!] status for [1] turn(s) <for [0] movement> <for units without [Order Cooldown]> <hidden from users>"],
+		"innerColor": [100,100,50],
+		"outerColor": [0,0,0],
+		"column": 110,
+		"row": 0},
+	{
+		"name": "Bring it down!",    
+		"uniques": [
+			"[Target Unit] gains the [Marked] status for [1] turn(s) <upon damaging a [All] unit>",
+			"[This Unit] loses the [Bring it down!] status <upon damaging a [All] unit>",
+			"[This Unit] gains the [Order Cooldown] status for [1] turn(s) <upon gaining the [Bring it down!] status> <for [HQ] units>"]},
+	{
+		"name": "Marked",
+		"uniques": ["[-75]% Strength <when defending>"]},
+	{
+		"name": "Order: Move! Move! Move!",
+		"unitTypes": ["Infantry"],
+		"uniques": [
+			"Comment [[Move! Move! Move!]: Adjacent [Infantry] units gain +1 Move.]",
+			"[This Unit] gains the [Move! Move! Move!] status for [1] turn(s) <for [0] movement> <for units without [Order Cooldown]> <hidden from users>"],
+		"innerColor": [50,100,100],
+		"outerColor": [0,0,0],
+		"column": 111,
+		"row": 0},
+	{
+		"name": "Move! Move! Move!",    
+		"uniques": [
+			"",
+			"[This Unit] loses the [Move! Move! Move!] status <upon turn end>",
+			"[This Unit] gains the [Order Cooldown] status for [1] turn(s) <upon gaining the [Bring it down!] status> <for [HQ] units>"]},
+	{
+		"name": "Order: Dig in!",
+		"unitTypes": ["Infantry"],
+		"uniques": [
+			"Comment [[Dig in!]: Adjacent [Infantry] units dig in against ranged attacks.]",
+			"[This Unit] gains the [Dig in!] status for [1] turn(s) <for [0] movement> <for units without [Order Cooldown]> <hidden from users>"],
+		"innerColor": [100,100,50],
+		"outerColor": [0,0,0],
+		"column": 110,
+		"row": 0},
+	{
+		"name": "Dig in!",    
+		"uniques": [
+			"[+50]% Strength bonus for [Infantry] units within [1] tiles <vs [Ranged] units> <when defending>",
+			"[This Unit] loses the [Dig in!] status <upon turn start>",
+			"[This Unit] gains the [Order Cooldown] status for [1] turn(s) <upon gaining the [Dig in!] status> <for [HQ] units>"]},
+	
+	{
+		"name": "Order Cooldown",
+		"uniques": ["Comment [Order is on cooldown]"]},
 	// Force Organisation
 	{
 		"name": "Troops",
