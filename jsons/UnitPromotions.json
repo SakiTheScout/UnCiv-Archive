@@ -799,7 +799,7 @@
 			"[This Unit] gains the [Dig in!] status for [1] turn(s) <for [0] movement> <for units without [Order Cooldown]> <hidden from users>"],
 		"innerColor": [100,50,100],
 		"outerColor": [0,0,0],
-		"column": 110,
+		"column": 112,
 		"row": 0},
 	{
 		"name": "Dig in!",    
