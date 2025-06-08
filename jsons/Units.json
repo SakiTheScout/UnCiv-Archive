@@ -6,7 +6,7 @@
 		"strength": 70,
 		"cost": 320,
 		"requiredTech": "Plastics",
-	        "promotions": "Troops",
+	        "promotions": ["Troops"],
 		"attackSound": "shot",
     "uniques": ["Comment [Fast infantry unit.]", "[-25]% Strength <when defending>"]
 	},
@@ -17,7 +17,7 @@
 		"strength": 70,
 		"cost": 375,
 		"requiredTech": "Plastics",
-	        "promotions": "Troops",
+	        "promotions": ["Troops"],
 		"attackSound": "shot",
     "uniques": ["Comment [Generalist infantry unit.]"]
 	},
@@ -28,7 +28,7 @@
 		"strength": 70,
 		"cost": 420,
 		"requiredTech": "Plastics",
-	        "promotions": "Troops",
+	        "promotions": ["Troops"],
 		"attackSound": "shot",
     "uniques": ["Comment [Heavy infantry unit.]", "[+25]% Strength <when defending>"]
 	},
@@ -51,7 +51,7 @@
 		"cost": 350,
 		"requiredTech": "Plastics",
 		"attackSound": "shot",
-		"promotions": "Troops",
+		"promotions": ["Troops"],
     "uniques": ["Comment [Scout infantry unit.]", "[-25]% Strength <when defending>", "Ignores terrain cost"]
 	},
   {
@@ -61,7 +61,7 @@
 		"strength": 70,
 		"cost": 400,
 		"requiredTech": "Plastics",
-	        "promotions": "Troops",
+	        "promotions": ["Troops"],
 		"attackSound": "shot",
     "uniques": ["Comment [Grenade-focused infantry unit.]"]
 	},
@@ -72,7 +72,7 @@
 		"strength": 70,
 		"cost": 400,
 		"requiredTech": "Plastics",
-	        "promotions": "Troops",
+	        "promotions": ["Troops"],
 		"attackSound": "shot",
     "uniques": ["Comment [Infantry unit specialising in assaults.]", "[+25]% Strength <when fighting in [Fort] tiles>", "[+25]% Strength <when fighting in [Citadel] tiles>", "Ignores Zone of Control"]
 	},
