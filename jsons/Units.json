@@ -33,6 +33,17 @@
     "uniques": ["Comment [Heavy infantry unit.]", "[+25]% Strength <when defending>"]
 	},
 	{
+		"name": "Infantry Command Squad",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 60,
+		"cost": 450,
+		"requiredTech": "Electronics",
+	        "promotions": ["HQ", "Order: Move! Move! Move!", "Order: Bring it down!", "Order: Dig in!"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Field commander and retinue, giving orders to infantry units.]"]
+	},
+	{
 		"name": "Scout Infantry",
 		"unitType": "Infantry",
 		"movement": 3,
