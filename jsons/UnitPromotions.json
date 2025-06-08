@@ -789,7 +789,6 @@
 	{
 		"name": "Move! Move! Move!",    
 		"uniques": [
-			"",
 			"[This Unit] loses the [Move! Move! Move!] status <upon turn end>",
 			"[This Unit] gains the [Order Cooldown] status for [1] turn(s) <upon gaining the [Bring it down!] status> <for [HQ] units>"]},
 	{
@@ -798,7 +797,7 @@
 		"uniques": [
 			"Comment [[Dig in!]: Adjacent [Infantry] units dig in against ranged attacks.]",
 			"[This Unit] gains the [Dig in!] status for [1] turn(s) <for [0] movement> <for units without [Order Cooldown]> <hidden from users>"],
-		"innerColor": [100,100,50],
+		"innerColor": [100,50,100],
 		"outerColor": [0,0,0],
 		"column": 110,
 		"row": 0},
