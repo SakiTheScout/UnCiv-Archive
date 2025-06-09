@@ -760,6 +760,7 @@
 	{
 		"name": "Order: Bring it down!",
 		"unitTypes": ["Infantry"],
+		"prerequisites": ["HQ"],
 		"uniques": [
 			"Comment [[Bring it down!]: Mark a unit so it takes more damage.]",
 			"[This Unit] gains the [Bring it down!] status for [1] turn(s) <for [0] movement> <for units without [Order Cooldown]> <hidden from users>"],
@@ -779,6 +780,7 @@
 	{
 		"name": "Order: Move! Move! Move!",
 		"unitTypes": ["Infantry"],
+		"prerequisites": ["HQ"],
 		"uniques": [
 			"Comment [[Move! Move! Move!]: Adjacent [Infantry] units gain +1 Move.]",
 			"[This Unit] gains the [Move! Move! Move!] status for [1] turn(s) <for [0] movement> <for units without [Order Cooldown]> <hidden from users>"],
@@ -790,10 +792,11 @@
 		"name": "Move! Move! Move!",    
 		"uniques": [
 			"[This Unit] loses the [Move! Move! Move!] status <upon turn end>",
-			"[This Unit] gains the [Order Cooldown] status for [1] turn(s) <upon gaining the [Bring it down!] status> <for [HQ] units>"]},
+			"[This Unit] gains the [Order Cooldown] status for [1] turn(s) <upon gaining the [Move! Move! Move!] status> <for [HQ] units>"]},
 	{
 		"name": "Order: Dig in!",
 		"unitTypes": ["Infantry"],
+		"prerequisites": ["HQ"],
 		"uniques": [
 			"Comment [[Dig in!]: Adjacent [Infantry] units dig in against ranged attacks.]",
 			"[This Unit] gains the [Dig in!] status for [1] turn(s) <for [0] movement> <for units without [Order Cooldown]> <hidden from users>"],
