@@ -44,6 +44,39 @@
     "uniques": ["Comment [Field commander and retinue, giving orders to infantry units.]"]
 	},
 	{
+		"name": "Infantry Champion",
+		"unitType": "Infantry",
+		"movement": 3,
+		"strength": 70,
+		"cost": 550,
+		"requiredTech": "Combined Arms",
+	        "promotions": ["HQ"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Solitary operative aiming to hunt down HQ units on the battlefield.]", "Ignores Zone of Control", "[+100]% Strength <vs [HQ] units> <when attacking>"]
+	},
+	{
+		"name": "Field Captain",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 70,
+		"cost": 500,
+		"requiredTech": "Radar",
+	        "promotions": ["HQ", "Order: Bring it down!"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Experienced field officer leading troops with inspiring and fearsome aura.]", "[-25]% Strength for enemy [{Wounded} {Infantry}] units in adjacent [All] tiles", "[+15]% Strength bonus for [{Wounded} {Infantry}] units within [2] tiles"]
+	},
+	{
+		"name": "Field Surgeon",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 60,
+		"cost": 475,
+		"requiredTech": "Pharmaceuticals",
+	        "promotions": ["HQ"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Like an angel of salvation, this person comes to give wounded their remedy.]", "All adjacent units heal [25] HP when healing", "[+15]% Strength bonus for [{Wounded} {Infantry}] units within [1] tiles"]
+	},
+	{
 		"name": "Scout Infantry",
 		"unitType": "Infantry",
 		"movement": 3,
@@ -74,7 +107,7 @@
 		"requiredTech": "Plastics",
 	        "promotions": ["Troops"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Infantry unit specialising in assaults.]", "[+25]% Strength <when fighting in [Fort] tiles>", "[+25]% Strength <when fighting in [Citadel] tiles>", "Ignores Zone of Control"]
+    "uniques": ["Comment [Infantry unit specialising in assaults.]", "[+25]% Strength <when fighting in [Fort] tiles>", "[+50]% Strength <when fighting in [Citadel] tiles>", "Ignores Zone of Control"]
 	},
 	{
 		"name": "Scout Bikes",
