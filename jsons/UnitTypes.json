@@ -40,5 +40,10 @@
         "name": "Heavy Armor",
         "movementType": "Land",
         "uniques": ["No defensive terrain bonus", "Rough terrain penalty"]
+  },
+  {
+        "name": "Superheavy Armor",
+        "movementType": "Land",
+        "uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-2] Movement <in [Jungle] tiles>", "[-1] Movement <in [Forest] tiles>", "[-2] Movement <in [Marsh] tiles>"]
   }
 ]
