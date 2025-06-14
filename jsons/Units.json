@@ -258,6 +258,19 @@
 		"attackSound": "tankshot"
 	},
 	{
+		"name": "Superheavy Tank",
+		"unitType": "Superheavy Armor",
+		"movement": 3,
+		"strength": 400,
+		"rangedStrength": 300,
+		"range": 2,
+		"cost": 1000,
+		"requiredTech": "Robotics",
+		"uniques": ["Consumes [3] [Iron]", "Consumes [4] [Aluminium]", "Consumes [4] [Oil]", "Consumes [1] [Uranium]", "Unavailable <when number of [LoW limit] is less than [1]> <hidden from users>"],
+	        "promotions": ["Lord of War"],
+		"attackSound": "tankshot"
+	},
+	{
 		"name": "Light Machine Gun",
 		"unitType": "Ranged Infantry",
 		"range": 1,
