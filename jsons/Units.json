@@ -129,7 +129,7 @@
 		"requiredTech": "Combustion",
 	        "promotions": ["Fast Attack"],
 		"attackSound": "shot",
-    "uniques": ["[+15]% Strength <vs [Siege] units>", "Consumes [1] [FA limit] <hidden from users>"]
+    "uniques": ["[+15]% Strength <vs [Siege] units>", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"]
 	},
   {
 		"name": "Assault Bikes",
