@@ -41,7 +41,7 @@
 		"requiredTech": "Electronics",
 	        "promotions": ["HQ", "Order: Move! Move! Move!", "Order: Bring it down!", "Order: Dig in!"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Field commander and retinue, giving orders to infantry units.]"]
+    "uniques": ["Comment [Field commander and retinue, giving orders to infantry units.]", "Consumes [1] [HQ limit] <hidden from users>"]
 	},
 	{
 		"name": "Infantry Champion",
@@ -52,7 +52,7 @@
 		"requiredTech": "Combined Arms",
 	        "promotions": ["HQ"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Solitary operative aiming to hunt down HQ units on the battlefield.]", "Ignores Zone of Control", "[+100]% Strength <vs [HQ] units> <when attacking>"]
+    "uniques": ["Comment [Solitary operative aiming to hunt down HQ units on the battlefield.]", "Ignores Zone of Control", "[+100]% Strength <vs [HQ] units> <when attacking>", "Consumes [1] [HQ limit] <hidden from users>"]
 	},
 	{
 		"name": "Field Captain",
@@ -63,7 +63,7 @@
 		"requiredTech": "Radar",
 	        "promotions": ["HQ", "Order: Bring it down!"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Experienced field officer leading troops with inspiring and fearsome aura.]", "[-25]% Strength for enemy [{Wounded} {Infantry}] units in adjacent [All] tiles", "[+15]% Strength bonus for [Infantry] units within [2] tiles"]
+    "uniques": ["Comment [Experienced field officer leading troops with inspiring and fearsome aura.]", "[-25]% Strength for enemy [{Wounded} {Infantry}] units in adjacent [All] tiles", "[+15]% Strength bonus for [Infantry] units within [2] tiles", "Consumes [1] [HQ limit] <hidden from users>"]
 	},
 	{
 		"name": "Field Surgeon",
@@ -74,7 +74,7 @@
 		"requiredTech": "Pharmaceuticals",
 	        "promotions": ["HQ"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Like an angel of salvation, this person comes to give wounded their remedy.]", "All adjacent units heal [25] HP when healing", "[+15]% Strength bonus for [{Wounded} {Infantry}] units within [1] tiles"]
+    "uniques": ["Comment [Like an angel of salvation, this person comes to give wounded their remedy.]", "All adjacent units heal [25] HP when healing", "[+15]% Strength bonus for [{Wounded} {Infantry}] units within [1] tiles", "Consumes [1] [HQ limit] <hidden from users>"]
 	},
 	{
 		"name": "Scout Infantry",
@@ -118,7 +118,7 @@
 		"requiredTech": "Combustion",
 		"promotions": ["Fast Attack"],
 		"attackSound": "shot",
-    "uniques": ["[-25]% Strength <when defending>", "[+15]% Strength <vs [Siege] units>"]
+    "uniques": ["[-25]% Strength <when defending>", "[+15]% Strength <vs [Siege] units>", "Consumes [1] [FA limit] <hidden from users>"]
 	},
   {
 		"name": "Attack Bikes",
@@ -129,7 +129,7 @@
 		"requiredTech": "Combustion",
 	        "promotions": ["Fast Attack"],
 		"attackSound": "shot",
-    "uniques": ["[+15]% Strength <vs [Siege] units>"]
+    "uniques": ["[+15]% Strength <vs [Siege] units>", "Consumes [1] [FA limit] <hidden from users>"]
 	},
   {
 		"name": "Assault Bikes",
@@ -140,7 +140,7 @@
 		"requiredTech": "Combustion",
 	        "promotions": ["Fast Attack"],
 		"attackSound": "shot",
-    "uniques": ["[+25]% Strength <when defending>", "[+15]% Strength <vs [Siege] units>"]
+    "uniques": ["[+25]% Strength <when defending>", "[+15]% Strength <vs [Siege] units>", "Consumes [1] [FA limit] <hidden from users>"]
 	},
   {
 		"name": "Light Artillery",
@@ -151,7 +151,7 @@
 		"range": 2,
 		"cost": 320,
 		"requiredTech": "Dynamite",
-		"uniques": ["[+150]% Strength <vs cities> <when attacking>","No defensive terrain bonus"],
+		"uniques": ["[+150]% Strength <vs cities> <when attacking>","No defensive terrain bonus", "Consumes [1] [FS limit] <hidden from users>"],
 		"promotions": ["Indirect Fire", "Fire Support"],
 		"attackSound": "artillery"
 	},
@@ -165,7 +165,7 @@
 		"cost": 375,
 		"requiredTech": "Dynamite",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
-			"Must set up to ranged attack"],
+			"Must set up to ranged attack", "Consumes [1] [FS limit] <hidden from users>"],
 		"promotions": ["Indirect Fire", "Fire Support"],
 		"attackSound": "artillery"
 	},
@@ -179,7 +179,7 @@
 		"cost": 420,
 		"requiredTech": "Dynamite",
 		"uniques": ["[+250]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
-			"Must set up to ranged attack","[-1] Sight"],
+			"Must set up to ranged attack","[-1] Sight", "Consumes [1] [FS limit] <hidden from users>"],
 		"promotions": ["Indirect Fire", "Fire Support"],
 		"attackSound": "artillery"
 	},
@@ -192,7 +192,7 @@
 		"range": 2,
 		"cost": 300,
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["[+50]% Strength <vs [Infantry] units> <when attacking>"],
+		"uniques": ["[+50]% Strength <vs [Infantry] units> <when attacking>", "Consumes [1] [E limit] <hidden from users>"],
 		"promotions": ["Indirect Fire", "Elite"],
 		"attackSound": "artillery"
 	},
@@ -206,7 +206,7 @@
 		"cost": 350,
 		"requiredTech": "Replaceable Parts",
 		"uniques": ["[+100]% Strength <vs [Infantry] units> <when attacking>","No defensive terrain bonus",
-			"Must set up to ranged attack"],
+			"Must set up to ranged attack", "Consumes [1] [FS limit] <hidden from users>"],
 		"promotions": ["Indirect Fire", "Fire Support"],
 		"attackSound": "artillery"
 	},
@@ -220,7 +220,7 @@
 		"cost": 390,
 		"requiredTech": "Replaceable Parts",
 		"uniques": ["[+150]% Strength <vs [Infantry] units> <when attacking>","No defensive terrain bonus",
-			"Must set up to ranged attack","[-1] Sight"],
+			"Must set up to ranged attack","[-1] Sight", "Consumes [1] [FS limit] <hidden from users>"],
 		"promotions": ["Indirect Fire", "Fire Support"],
 		"attackSound": "artillery"
 	},
@@ -231,7 +231,7 @@
 		"strength": 75,
 		"cost": 340,
 		"requiredTech": "Combined Arms",
-		"uniques": ["Consumes [1] [Iron]", "Consumes [1] [Oil]"],
+		"uniques": ["Consumes [1] [Iron]", "Consumes [1] [Oil]", "Consumes [1] [FA limit] <hidden from users>"],
 	        "promotions": ["Fast Attack"],
 		"attackSound": "tankshot"
 	},
@@ -242,7 +242,7 @@
 		"strength": 100,
 		"cost": 400,
 		"requiredTech": "Combined Arms",
-		"uniques": ["Consumes [2] [Iron]", "Consumes [1] [Oil]"],
+		"uniques": ["Consumes [2] [Iron]", "Consumes [1] [Oil]", "Consumes [1] [FS limit] <hidden from users>"],
 	        "promotions": ["Fire Support"],
 		"attackSound": "tankshot"
 	},
@@ -253,7 +253,7 @@
 		"strength": 150,
 		"cost": 460,
 		"requiredTech": "Combined Arms",
-		"uniques": ["Consumes [3] [Iron]", "Consumes [2] [Oil]"],
+		"uniques": ["Consumes [3] [Iron]", "Consumes [2] [Oil]", "Consumes [1] [FS limit] <hidden from users>"],
 	        "promotions": ["Fire Support"],
 		"attackSound": "tankshot"
 	},
@@ -266,7 +266,7 @@
 		"rangedStrength": 70,
 		"cost": 375,
 		"requiredTech": "Ballistics",
-		"uniques": ["[+25]% Strength <vs [Infantry] units> <when attacking>"],
+		"uniques": ["[+25]% Strength <vs [Infantry] units> <when attacking>", "Consumes [1] [E limit] <hidden from users>"],
 		"promotions": ["Elite"],
 		"attackSound": "machinegun"
 	},
@@ -279,7 +279,7 @@
 		"rangedStrength": 80,
 		"cost": 420,
 		"requiredTech": "Ballistics",
-		"uniques": ["[+50]% Strength <vs [Infantry] units> <when attacking>", "Must set up to ranged attack"],
+		"uniques": ["[+50]% Strength <vs [Infantry] units> <when attacking>", "Must set up to ranged attack", "Consumes [1] [E limit] <hidden from users>"],
 		"promotions": ["Elite"],
 		"attackSound": "machinegun"
 	},
@@ -292,7 +292,7 @@
 		"rangedStrength": 90,
 		"cost": 450,
 		"requiredTech": "Ballistics",
-		"uniques": ["[+25]% Strength <vs [Infantry] units> <when attacking>", "[+25]% Strength <vs [Light Armor] units> <when attacking>", "Must set up to ranged attack"],
+		"uniques": ["[+25]% Strength <vs [Infantry] units> <when attacking>", "[+25]% Strength <vs [Light Armor] units> <when attacking>", "Must set up to ranged attack", "Consumes [1] [FS limit] <hidden from users>"],
 		"promotions": ["Fire Support"],
 		"attackSound": "machinegun"
 	},
