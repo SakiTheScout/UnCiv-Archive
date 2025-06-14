@@ -152,7 +152,7 @@
 		"cost": 320,
 		"requiredTech": "Dynamite",
 		"uniques": ["[+150]% Strength <vs cities> <when attacking>","No defensive terrain bonus"],
-		"promotions": ["Indirect Fire", "Heavy Support"],
+		"promotions": ["Indirect Fire", "Fire Support"],
 		"attackSound": "artillery"
 	},
   {
@@ -166,7 +166,7 @@
 		"requiredTech": "Dynamite",
 		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
 			"Must set up to ranged attack"],
-		"promotions": ["Indirect Fire", "Heavy Support"],
+		"promotions": ["Indirect Fire", "Fire Support"],
 		"attackSound": "artillery"
 	},
   {
@@ -180,7 +180,7 @@
 		"requiredTech": "Dynamite",
 		"uniques": ["[+250]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
 			"Must set up to ranged attack","[-1] Sight"],
-		"promotions": ["Indirect Fire", "Heavy Support"],
+		"promotions": ["Indirect Fire", "Fire Support"],
 		"attackSound": "artillery"
 	},
 	{
@@ -207,7 +207,7 @@
 		"requiredTech": "Replaceable Parts",
 		"uniques": ["[+100]% Strength <vs [Infantry] units> <when attacking>","No defensive terrain bonus",
 			"Must set up to ranged attack"],
-		"promotions": ["Indirect Fire", "Heavy Support"],
+		"promotions": ["Indirect Fire", "Fire Support"],
 		"attackSound": "artillery"
 	},
   {
@@ -221,7 +221,7 @@
 		"requiredTech": "Replaceable Parts",
 		"uniques": ["[+150]% Strength <vs [Infantry] units> <when attacking>","No defensive terrain bonus",
 			"Must set up to ranged attack","[-1] Sight"],
-		"promotions": ["Indirect Fire", "Heavy Support"],
+		"promotions": ["Indirect Fire", "Fire Support"],
 		"attackSound": "artillery"
 	},
   {
@@ -243,7 +243,7 @@
 		"cost": 400,
 		"requiredTech": "Combined Arms",
 		"uniques": ["Consumes [2] [Iron]", "Consumes [1] [Oil]"],
-	        "promotions": ["Heavy Support"],
+	        "promotions": ["Fire Support"],
 		"attackSound": "tankshot"
 	},
   {
@@ -254,7 +254,7 @@
 		"cost": 460,
 		"requiredTech": "Combined Arms",
 		"uniques": ["Consumes [3] [Iron]", "Consumes [2] [Oil]"],
-	        "promotions": ["Heavy Support"],
+	        "promotions": ["Fire Support"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -293,7 +293,7 @@
 		"cost": 450,
 		"requiredTech": "Ballistics",
 		"uniques": ["[+25]% Strength <vs [Infantry] units> <when attacking>", "[+25]% Strength <vs [Light Armor] units> <when attacking>", "Must set up to ranged attack"],
-		"promotions": ["Heavy Support"],
+		"promotions": ["Fire Support"],
 		"attackSound": "machinegun"
 	},
   {"name": "Tank", "unitType": "Armored", "movement": 1, "strength": 1, "cost": 1, "uniques": ["Unavailable", "Will not be displayed in Civilopedia", "Never appears as a Barbarian unit"],"attackSound": "tankshot"},
