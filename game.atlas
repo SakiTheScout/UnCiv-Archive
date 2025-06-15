@@ -384,7 +384,7 @@ BuildingIcons/Civilian Executions
   index: -1
 
 Units.png
-size: 600,100
+size: 600,300
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -447,6 +447,27 @@ UnitIcons/Infantry
 UnitIcons/Heavy Infantry
   rotate: false
   xy: 200, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Assault Infantry 
+  rotate: false
+  xy: 0, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Scout Infantry
+  rotate: false
+  xy: 100, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Specialist Infantry
+  rotate: false
+  xy: 200, 200
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
