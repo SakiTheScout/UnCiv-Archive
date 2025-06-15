@@ -309,6 +309,43 @@
 		"promotions": ["Fire Support"],
 		"attackSound": "machinegun"
 	},
+	{
+		"name": "Anti-Tank Rifle",
+		"unitType": "Ranged Infantry",
+		"movement": 2,
+		"strength": 60,
+		"cost": 370,
+		"requiredTech": "Ballistics",
+		"uniques": ["[+90]% Strength <vs [Light Armor] units>", "[+80]% Strength <vs [Medium Armor] units>", "[+70]% Strength <vs [Heavy Armor] units>", "[+60]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
+		"promotions": ["Elite"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Anti-Tank Gun",
+		"unitType": "Towed",
+		"range": 1,
+		"movement": 2,
+		"strength": 50,
+		"rangedStrength": 80
+		"cost": 425,
+		"requiredTech": "Ballistics",
+		"promotions": ["Elite"],
+		"uniques": ["[+100]% Strength <vs [Light Armor] units>", "[+90]% Strength <vs [Medium Armor] units>", "[+80]% Strength <vs [Heavy Armor] units>", "[+70]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Heavy Anti-Tank Gun",
+		"unitType": "Towed",
+		"range": 2,
+		"movement": 1,
+		"strength": 60,
+		"rangedStrength": 115
+		"cost": 450,
+		"requiredTech": "Ballistics",
+		"promotions": ["Fire Support"],
+		"uniques": ["[+110]% Strength <vs [Light Armor] units>", "[+100]% Strength <vs [Medium Armor] units>", "[+90]% Strength <vs [Heavy Armor] units>", "[+80]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
+		"attackSound": "tankshot"
+	},
   {"name": "Tank", "unitType": "Armored", "movement": 1, "strength": 1, "cost": 1, "uniques": ["Unavailable", "Will not be displayed in Civilopedia", "Never appears as a Barbarian unit"],"attackSound": "tankshot"},
   {"name": "Machine Gun", "unitType": "Armored", "movement": 1, "strength": 1, "cost": 1, "uniques": ["Unavailable", "Will not be displayed in Civilopedia", "Never appears as a Barbarian unit"],"attackSound": "tankshot"}
 ]
