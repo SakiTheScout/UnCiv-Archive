@@ -695,7 +695,7 @@
 			"[-40]% Production when constructing [Military] units [in this city]",
 			"Only available <in cities with a [Kaiser PMC Camp]>",
 			"Only available <in cities without a [Robot Recruitment Camp]> <hidden from users>",
-			"All newly-trained [Land] units [in this city] receive the [Kivotos Halo] promotion",
+			"All newly-trained [Infantry] units [in this city] receive the [Kivotos Halo] promotion",
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
@@ -711,7 +711,7 @@
 			"[+40]% Production when constructing [Military] units [in this city]",
 			"Only available <in cities with a [Kaiser PMC Camp]>",
 			"Only available <in cities without a [Student Recruitment Camp]> <hidden from users>",
-			"All newly-trained [Land] units [in this city] receive the [Kivotos Robot] promotion",
+			"All newly-trained [Infantry] units [in this city] receive the [Kivotos Robot] promotion",
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
