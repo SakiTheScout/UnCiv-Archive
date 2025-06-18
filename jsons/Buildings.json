@@ -1496,11 +1496,12 @@
 			"Only available <in [Capital] cities>",
 			"Instantly consumes [1] [Edict Counter] <upon turn end>",
 			"Instantly provides [10] [Edict Counter]",
+			"Remove [Edict of Science] [in this city] <upon turn start> <when [0] [Edict Counter]",
 			"Shown while unbuilable <hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
-			"Can be purchased with [Culture]"]
+			"Can be purchased with [Culture] [in capital]"]
 	},
 	{
 		"name": "Edict of Culture",
