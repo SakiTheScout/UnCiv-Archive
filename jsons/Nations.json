@@ -488,7 +488,7 @@
 		"innerColor": [242, 251, 245],
 		"uniqueName": "The Academy City",
 		"uniques":["Resting point for Influence with City-States is increased by [5] <for every [Cities]>",
-			"[-25]% maintenance cost for buildings [in all cities]",
+			"[-33]% maintenance cost for [High School] buildings [in all cities]",
 			"[+1 Culture, +1 Science] from every [High School]",
 			"[Infantry] units gain the [Kivotos Halo] promotion"],
 		"cities": ["Sanctum Tower", "D.U. Shiratori", "D.U. Utnapishtim", "D.U. District 1", "D.U. District 2", "D.U. District 3", "D.U. District 4", "D.U. District 5", "D.U. Rural Area 1", "D.U. Rural Area 2", "D.U. Rural Area 3"],
