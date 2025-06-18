@@ -43,7 +43,7 @@
     "uniques": [
       "Can see invisible [Land] units",
       "[+20]% Strength <when defending>",
-      "[+20]% Strength when stacked with [Civilian]"],
+      "[+20]% Strength <when stacked with a [Civilian] unit>"],
 	  "outerColor": [200,200,200],
 	  "innerColor": [0,0,0]},
   {
@@ -76,7 +76,7 @@
     "name": "Kaiser PMC",
     "uniques": [
       "[+50]% XP gained from combat",
-      "[+20]% Strength when stacked with [Kaiser Worker]",
+      "[+20]% Strength <when stacked with a [Civilian] unit>",
       "Gain [-2] [Gold] <upon turn start>",
       "[+100]% maintenance costs",
       "[+15]% Strength"]},
@@ -238,16 +238,7 @@
       "Can see invisible [All] units",
       "[+50]% Strength <when defending> <when fighting in [Friendly Land] tiles>",
       "Great General provides double combat bonus"]},
-	// GSC
-	{
-    "name": "Sensei of SCHALE",
-    "uniques": ["Instantly gain [-120] [Eleph] <upon damaging a [Kivotos Halo] unit> <hidden from users>",
-"[+2000000]% Strength <vs [Kivotos Halo] units> <when attacking> <with [5]% chance> <hidden from users>",
-"Can only attack [Kivotos Halo] units <hidden from users>",
-"Ranged attacks may be performed over obstacles <hidden from users>",
-"May capture killed [Kivotos Halo] units <hidden from users>",
-"[This Unit] loses the [Kivotos Halo] status <hidden from users>",
-"Comment [Sensei is able to convince students to fight on their side, for price of 120 Eleph.]"]},
+	
 	// Hyakkiyako
 	{
     "name": "Yin-yang Club",
@@ -298,7 +289,7 @@
     "name": "Labour Liberation Party",
     "uniques": [
       "Can build [All] improvements on tiles",
-      "[+25]% Strength when stacked with [Civilian]",
+      "[+25]% Strength <when stacked with a [Civilian] unit>",
       "May enter foreign tiles without open borders"],
 	  "outerColor": [255,253,249],
 	  "innerColor": [255,210,111]},
@@ -331,7 +322,7 @@
 	{
     "name": "Kivotos Police",
     "uniques": [
-      "[+20]% Strength when stacked with [Civilian]",
+      "[+20]% Strength <when stacked with a [Civilian] unit",
       "[+20]% Strength <when fighting in [Friendly Land] tiles>",
       "[1] Movement <when fighting in [Friendly Land] tiles>",
       "Instantly gain [1] [Golden Age points] <upon turn start>"],
