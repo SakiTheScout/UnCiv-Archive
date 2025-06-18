@@ -322,7 +322,7 @@
 	{
     "name": "Kivotos Police",
     "uniques": [
-      "[+20]% Strength <when stacked with a [Civilian] unit",
+      "[+20]% Strength <when stacked with a [Civilian] unit>",
       "[+20]% Strength <when fighting in [Friendly Land] tiles>",
       "[1] Movement <when fighting in [Friendly Land] tiles>",
       "Instantly gain [1] [Golden Age points] <upon turn start>"],
