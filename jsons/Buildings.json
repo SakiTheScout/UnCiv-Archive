@@ -1496,7 +1496,7 @@
 			"Only available <in [Capital] cities>",
 			"Instantly consumes [1] [Edict Counter] <upon turn end>",
 			"Instantly provides [10] [Edict Counter]",
-			"Remove [Edict of Science] [in this city] <upon turn start> <when [0] [Edict Counter]>",
+			"Remove [Edict of Science] [in this city] <upon turn start> <when below [1] [Edict Counter]>",
 			"Shown while unbuilable <hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Unsellable <hidden from users>",
