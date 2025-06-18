@@ -17,6 +17,11 @@
 		"uniques": ["Stockpiled", "Not shown on world screen <for [non-[Red Winter Federal Academy]] Civilizations>"]
 	},
 	{
+		"name": "Edict Counter",
+		"resourceType": "Strategic",
+		"uniques": ["Stockpiled", "Not shown on world screen <for [non-[General Student Council]] Civilizations>"]
+	},
+	{
 		"name": "Stagnation Point",
 		"resourceType": "Strategic",
 		"uniques": ["Stockpiled", "Not shown on world screen <for [non-[Red Winter Federal Academy]] Civilizations>"]
