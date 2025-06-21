@@ -297,12 +297,12 @@
 		"uniques": [
 			"[+1 Happiness, +1 Culture, +1 Production] <with [3] to [6] neighboring [Farm] tiles>",
 			"[+1 Happiness, +1 Culture, +1 Production] <with [6] to [6] neighboring [Farm] tiles>",
-			"[+1 Happiness, +1 Culture, +1 Production] <with [3] to [6] neighboring [Plantation] tiles>",
-			"[+1 Happiness, +1 Culture, +1 Production] <with [6] to [6] neighboring [Plantation] tiles>",
-			"[+1 Happiness, +1 Culture, +1 Production] <with [3] to [6] neighboring [Pasture] tiles>",
-			"[+1 Happiness, +1 Culture, +1 Production] <with [6] to [6] neighboring [Pasture] tiles>",
-			"[+1 Happiness, +1 Culture, +1 Production] <with [3] to [6] neighboring [Fishing Boats] tiles>",
-			"[+1 Happiness, +1 Culture, +1 Production] <with [6] to [6] neighboring [Fishing Boats] tiles>"
+			"[+1 Happiness, +1 Culture, +1 Production] <with [1] to [2] neighboring [Plantation] tiles>",
+			"[+1 Happiness, +1 Culture, +1 Production] <with [2] to [2] neighboring [Plantation] tiles>",
+			"[+1 Happiness, +1 Culture, +1 Production] <with [2] to [4] neighboring [Pasture] tiles>",
+			"[+1 Happiness, +1 Culture, +1 Production] <with [4] to [4] neighboring [Pasture] tiles>",
+			"[+1 Happiness, +1 Culture, +1 Production] <with [2] to [4] neighboring [Fishing Boats] tiles>",
+			"[+1 Happiness, +1 Culture, +1 Production] <with [2] to [4] neighboring [Fishing Boats] tiles>"
 		]
 	},
 	{
@@ -316,11 +316,11 @@
 		"uniques": [
 			"[+1 Happiness, +1 Science, +1 Production] <with [3] to [6] neighboring [Mine] tiles>",
 			"[+1 Happiness, +1 Science, +1 Production] <with [6] to [6] neighboring [Mine] tiles>",
-			"[+1 Happiness, +1 Science, +1 Production] <with [3] to [6] neighboring [Quarry] tiles>",
-			"[+1 Happiness, +1 Science, +1 Production] <with [6] to [6] neighboring [Quarry] tiles>",
-			"[+1 Happiness, +1 Science, +1 Production] <with [3] to [6] neighboring [Oil well] tiles>",
-			"[+1 Happiness, +1 Science, +1 Production] <with [6] to [6] neighboring [Oil well] tiles>",
-			"[+1 Happiness, +1 Science, +1 Production, +1 Culture] <for every adjacent [Manufactory]>"
+			"[+1 Happiness, +1 Science, +1 Production] <with [1] to [2] neighboring [Quarry] tiles>",
+			"[+1 Happiness, +1 Science, +1 Production] <with [2] to [2] neighboring [Quarry] tiles>",
+			"[+1 Happiness, +1 Science, +1 Production] <with [1] to [2] neighboring [Oil well] tiles>",
+			"[+1 Happiness, +1 Science, +1 Production] <with [2] to [2] neighboring [Oil well] tiles>",
+			"[+1 Happiness, +1 Science, +1 Production, +1 Culture] <for every adjacent [Great Improvement]>"
 		]
 	},
 	{
@@ -348,6 +348,8 @@
 		"uniques": [
 			"[+3 Gold, +1 Production, +1 Culture, +1 Science] <for every adjacent [Town]>",
 			"[+5 Gold, +2 Culture, +1 Science, +2 Happiness, +2 Production] <for every adjacent [City]>",
+			"[+5 Gold, +3 Culture, +2 Science, +3 Happiness, +2 Production] <for every adjacent [Megapolis]>",
+			"[+2 Gold] <for every adjacent [All Road]>",
 			"[+3 Food] <for every adjacent [Village]>"
 		]
 	}
