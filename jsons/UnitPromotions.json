@@ -805,6 +805,20 @@
 	{
 		"name": "Order Cooldown",
 		"uniques": ["Comment [Order is on cooldown]"]},
+	// Features
+	{
+    "name": "Animal Features",
+    "uniques": ["[+10]% Strength <when attacking>", "[-5]% Strength <when defending>", "[+5]% Strength <when fighting in [Forest] tiles>", "[+5]% Strength <when fighting in [Jungle] tiles>"]},
+	{
+    "name": "Elven Features",
+    "uniques": ["[-15]% Strength", "[This Unit] gains [1] XP <upon turn start> <with [50]% chance>"]},
+	{
+    "name": "Angelic Features",
+    "uniques": ["[+15]% Strength <when fighting in [Friendly] tiles>", "[-10]% Strength <when fighting in [Enemy] tiles>", "[This Unit] heals [5] HP <upon turn start> <when fighting in [Friendly] tiles>"]},
+	{
+    "name": "Animal Features",
+    "uniques": ["[-15]% Strength for enemy [Wounded] units in adjacent [All] tiles", "[Target Unit] takes [5] damage <upon damaging a [non-[Wounded]] unit>"]},
+	
 	// Force Organisation
 	{
 		"name": "Troops",
