@@ -522,7 +522,7 @@
             {
                 "name": "Bonus for Overtime",
                 "uniques": [
-                    "[+100]% of excess happiness converted to [Production]",
+                    "[+2 Production, +2 Science, +2 Culture] from [Town] tiles [in all cities]",
                     "[-50]% of excess happiness converted to [Gold]"
                 ],
                 "requires": ["Mechanization"],
