@@ -202,7 +202,7 @@
 	{
 		"name": "Underground Shrine",
 		"uniqueTo": "Arius Branch School",
-		"Science": 2,
+		"science": 2,
 		"cost": 40,
 		"requiredTech": "Civil Service",
 		"uniques": [
