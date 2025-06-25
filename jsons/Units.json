@@ -96,7 +96,7 @@
 		"requiredTech": "Plastics",
 	        "promotions": ["Troops"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Grenade-focused infantry unit.]"]
+    "uniques": ["Comment [Grenade-focused infantry unit with reduced cooldown.]"]
 	},
   {
 		"name": "Assault Infantry",
@@ -107,7 +107,40 @@
 		"requiredTech": "Plastics",
 	        "promotions": ["Troops"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Infantry unit specialising in assaults.]", "[+25]% Strength <when fighting in [Fort] tiles>", "[+50]% Strength <when fighting in [Citadel] tiles>", "Ignores Zone of Control"]
+    "uniques": ["Comment [Infantry unit specialising in assaults on reinforced positions.]", "[+25]% Strength <when fighting in [Fort] tiles>", "[+50]% Strength <when fighting in [Citadel] tiles>", "Ignores Zone of Control"]
+	},
+	{
+		"name": "Raider Infantry",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 70,
+		"cost": 420,
+		"requiredTech": "Pharmaceuticals",
+	        "promotions": ["Elite"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Infantry unit that excels at dealing with wounded enemy units with an aura of fear.]", "[-25]% Strength for enemy [{Wounded} {Infantry}] units in adjacent [All] tiles", "[+25]% Strength <vs [Wounded] units> <when attacking>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
+	},
+	{
+		"name": "Infiltrator Infantry",
+		"unitType": "Infantry",
+		"movement": 3,
+		"strength": 70,
+		"cost": 420,
+		"requiredTech": "Pharmaceuticals",
+	        "promotions": ["Elite"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Light infantry that infiltrates enemy positions.]", "[-25]% Strength <when defending>", "Invisible to non-adjacent units", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
+	},
+	{
+		"name": "Veteran Infantry",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 90,
+		"cost": 450,
+		"requiredTech": "Plastics",
+	        "promotions": ["Elite"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Elite infantry unit made of experienced troops and as such excelling in all kinds of regular warfare.]", "[+25]% Strength <vs [Ranged] units> <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
 	},
 	{
 		"name": "Scout Bikes",
