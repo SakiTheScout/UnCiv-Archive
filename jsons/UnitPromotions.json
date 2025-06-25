@@ -825,17 +825,17 @@
 		"uniques": ["Comment [Bulk of an army, necessary to have to unlock other units in force organisation.]"]},
 	{
 		"name": "HQ",
-		"uniques": ["Comment [Head of an army, 1 for every 3 [Troops] units.]", "Consumes [1] [HQ limit] <hidden from users>"]},
+		"uniques": ["Comment [Head of an army, 1 for every 3 [Troops] units.]", "Consumes [1] [HQ limit] <hidden from users>", "[+100]% maintenance costs", "[-25]% XP gained from combat"]},
 	{
 		"name": "Fast Attack",
-		"uniques": ["Comment [Speed of an army, 1 for every [HQ].]", "Consumes [1] [FA limit] <hidden from users>"]},
+		"uniques": ["Comment [Speed of an army, 1 for every [HQ].]", "Consumes [1] [FA limit] <hidden from users>", "[+25]% maintenance costs", "[-15]% XP gained from combat"]},
 	{
 		"name": "Fire Support",
-		"uniques": ["Comment [Punch of an army, 1 for every [HQ].]", "Consumes [1] [FS limit] <hidden from users>"]},
+		"uniques": ["Comment [Punch of an army, 1 for every [HQ].]", "Consumes [1] [FS limit] <hidden from users>", "[+75]% maintenance costs", "[-15]% XP gained from combat"]},
 	{
 		"name": "Elite",
-		"uniques": ["Comment [Backbone of an army, 1 for every [HQ].]", "Consumes [1] [E limit] <hidden from users>"]},
+		"uniques": ["Comment [Backbone of an army, 1 for every [HQ].]", "Consumes [1] [E limit] <hidden from users>", "[+50]% maintenance costs", "[-25]% XP gained from combat"]},
 	{
 		"name": "Lord of War",
-		"uniques": ["Comment [Apocalypse today, requires to have 3 [HQ].]", "Consumes [1] [LoW limit] <hidden from users>"]}
+		"uniques": ["Comment [Apocalypse today, requires to have 3 [HQ].]", "Consumes [1] [LoW limit] <hidden from users>", "[+250]% maintenance costs", "[-100]% XP gained from combat"]}
 ]
