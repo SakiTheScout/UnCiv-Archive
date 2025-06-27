@@ -13,7 +13,7 @@
         "[-40]% [Culture] [in all cities] <when between [-20] and [-11] [Happiness]>",
         "[-60]% [Culture] [in all cities] <when between [-30] and [-21] [Happiness]>",
         "[-80]% [Culture] [in all cities] <when between [-40] and [-31] [Happiness]>",
-        "Nullifies [Culture] [in all cities] <when below [-40] Happiness>",
+        "Nullifies [Culture] [in all cities] <when below [-40] [Happiness]>",
         "[-20]% [Science] [in all cities] <when between [-10] and [-1] [Happiness]>",
         "[-40]% [Science] [in all cities] <when between [-20] and [-11] [Happiness]>",
         "[-60]% [Science] [in all cities] <when between [-30] and [-21] [Happiness]>",
