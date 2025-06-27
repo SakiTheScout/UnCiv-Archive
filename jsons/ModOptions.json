@@ -5,6 +5,18 @@
 		"maxXPfromBarbarians": 999999
 	},
 	"uniques": [
-		"Suppress warning [colors do not contrast enough]"
+		"Suppress warning [Filius Faction's colors do not contrast enough - it is unreadable!]",
+		"Suppress warning [Pater Faction's colors do not contrast enough - it is unreadable!]",
+		"Suppress warning [Sanctus Faction's colors do not contrast enough - it is unreadable!]",
+		"Suppress warning [Gehenna's Outlaws's colors do not contrast enough - it is unreadable!]",
+		"Suppress warning [Medical Emergency Department's colors do not contrast enough - it is unreadable!]",
+		"Suppress warning [Red Winter Secretariat's colors do not contrast enough - it is unreadable!]",
+		"Suppress warning [Labour Liberation Party's colors do not contrast enough - it is unreadable!]",
+		"Suppress warning [Knowledge Liberation Front's colors do not contrast enough - it is unreadable!]",
+		"Suppress warning [Publishing Department's colors do not contrast enough - it is unreadable!]",
+		"Suppress warning [Frag Grenades's colors do not contrast enough - it is unreadable!]",
+		"Suppress warning [HE Grenades's colors do not contrast enough - it is unreadable!]",
+		"Suppress warning [Maritime Schooling's colors do not contrast enough - it is unreadable!]",
+		"Suppress warning [Order: Dig in!'s colors do not contrast enough - it is unreadable!]"
 	]
 }
