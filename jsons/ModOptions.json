@@ -3,5 +3,8 @@
 	"author": "SakiTheScout",
 	"constants": {
 		"maxXPfromBarbarians": 999999
-	}
+	},
+	"uniques": [
+		"Suppress warning [colors do not contrast enough]"
+	]
 }
