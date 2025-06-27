@@ -44,6 +44,17 @@
     "uniques": ["Comment [Field commander and retinue, giving orders to infantry units.]", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"]
 	},
 	{
+		"name": "Infantry Lieutenant",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 60,
+		"cost": 380,
+		"requiredTech": "Electronics",
+	        "promotions": ["HQ", "Order: Bring it down!", "Order: Dig in!"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Not very experienced field commander, giving orders to infantry units.]", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"]
+	},
+	{
 		"name": "Infantry Champion",
 		"unitType": "Infantry",
 		"movement": 3,
