@@ -31,7 +31,7 @@
 		"innerColor": [255,210,111],
 		"uniqueName": "Trinity Unification",
 		"uniques":["[+1 Happiness] from every [Luxury resource]",
-			"[Infantry] units gain the [Angelic Features] promotion <with [35]% chance> <for units without [{Animal Features} {Human Features}]> <hidden from users>",
+			"[Infantry] units gain the [Angelic Features] promotion <with [35]% chance> <for [non-[{Animal Features} {Human Features}]] units> <hidden from users>",
 			"[Infantry] units gain the [Animal Features] promotion <with [15]% chance> <for units without [{Angelic Features} {Human Features}]> <hidden from users>",
 			"[Infantry] units gain the [Human Features] promotion <for units without [{Animal Features} {Angelic Features}]> <hidden from users>",
 			"[Infantry] units gain the [Kivotos Halo] promotion <hidden from users>",
