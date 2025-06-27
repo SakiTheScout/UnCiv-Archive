@@ -818,6 +818,9 @@
 	{
     "name": "Animal Features",
     "uniques": ["[-15]% Strength for enemy [Wounded] units in adjacent [All] tiles", "[Target Unit] takes [5] damage <upon damaging a [non-[Wounded]] unit>"]},
+	{
+    "name": "Human Features",
+    "uniques": ["Comment [It is a feature to have no features.]"]},
 	
 	// Force Organisation
 	{
