@@ -552,7 +552,7 @@
                 "name": "Industrial Paradigm Complete",
                 "uniques": [
                     "[-25]% Food consumption by specialists [in all cities]",
-                    "[+25]% [{Strategic} {non-[Stagnation Point]} {non-[Edict Counter]} {non-[Political Instability]} {non-[Desertification]} {non-[E limit]} {non-[HQ limit]} {non-[FS limit]} {non-[FA limit]} {non-[LoW limit]}] resource production",
+                    "[+25]% [Strategic] resource production",
                     "[+1 Happiness] <for every [10] [[Engineering Schooling] Units]>"
                 ]
             }
