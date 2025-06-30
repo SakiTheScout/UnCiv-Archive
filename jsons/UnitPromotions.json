@@ -825,7 +825,7 @@
     "[This Unit] loses the [Human Features] promotion <upon gaining the [Angelic Features] promotion> <hidden from users>",
     "[This Unit] loses the [Human Features] promotion <upon gaining the [Demonic Features] promotion> <hidden from users>",
     "[This Unit] loses the [Human Features] promotion <upon gaining the [Elven Features] promotion> <hidden from users>",
-    "[This Unit] gains the [Demonic Features] promotion <upon entering a [All] tile> <once> <with [45]% chance> <for [Gehenna Academy] Civilizations> <hidden from users>"]},
+    "[This Unit] gains the [Demonic Features] promotion <upon turn start> <once> <with [45]% chance> <for [Gehenna Academy] Civilizations> <hidden from users>"]},
 	
 	// Force Organisation
 	{
