@@ -529,7 +529,7 @@ TileSets/FantasyHex/Tiles/Megapolis
   index: -1
 
 UnitPromotions.png
-size: 700,100
+size: 600,300
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
