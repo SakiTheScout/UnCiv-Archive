@@ -816,7 +816,7 @@
     "name": "Angelic Features",
     "uniques": ["[+15]% Strength <when fighting in [Friendly] tiles>", "[-10]% Strength <when fighting in [Enemy] tiles>", "[This Unit] heals [5] HP <upon turn start> <when fighting in [Friendly] tiles>"]},
 	{
-    "name": "Animal Features",
+    "name": "Demonic Features",
     "uniques": ["[-15]% Strength for enemy [Wounded] units in adjacent [All] tiles", "[Target Unit] takes [5] damage <upon damaging a [non-[Wounded]] unit>"]},
 	{
     "name": "Human Features",
