@@ -182,7 +182,7 @@
 		"outerColor": [33,68,98],
 		"innerColor": [229,224,220],
 		"uniqueName": "Railroad Masters",
-		"uniques":["Independent School",
+		"uniques":["Lesser School",
 			"[+3 Gold, +3 Production, +3 Culture] from each Trade Route",
 			"[+100]% Culture cost of natural border growth [in all cities]",
 			"[-50]% construction time for [All Road] improvements"],
