@@ -527,6 +527,7 @@ TileSets/FantasyHex/Tiles/Megapolis
   orig: 32, 36
   offset: 32, 36
   index: -1
+
 UnitPromotions.png
 size: 700,100
 format: RGBA8888
