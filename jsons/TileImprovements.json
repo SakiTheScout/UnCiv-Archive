@@ -295,14 +295,15 @@
 		"science": 1,
 		"techRequired": "Civil Service",
 		"uniques": [
+			"Cannot be built on [All] tiles <with [1] to [6] neighboring [Village] tiles>",
 			"[+1 Happiness, +1 Culture, +1 Production] <with [3] to [6] neighboring [Farm] tiles>",
 			"[+1 Happiness, +1 Culture, +1 Production] <with [6] to [6] neighboring [Farm] tiles>",
-			"[+1 Happiness, +1 Culture, +1 Production] <with [1] to [2] neighboring [Plantation] tiles>",
-			"[+1 Happiness, +1 Culture, +1 Production] <with [2] to [2] neighboring [Plantation] tiles>",
-			"[+1 Happiness, +1 Culture, +1 Production] <with [2] to [4] neighboring [Pasture] tiles>",
-			"[+1 Happiness, +1 Culture, +1 Production] <with [4] to [4] neighboring [Pasture] tiles>",
-			"[+1 Happiness, +1 Culture, +1 Production] <with [2] to [4] neighboring [Fishing Boats] tiles>",
-			"[+1 Happiness, +1 Culture, +1 Production] <with [2] to [4] neighboring [Fishing Boats] tiles>"
+			"[+1 Happiness, +1 Culture, +1 Production] <with [1] to [6] neighboring [Plantation] tiles>",
+			"[+1 Happiness, +1 Culture, +1 Production] <with [2] to [6] neighboring [Plantation] tiles>",
+			"[+1 Happiness, +1 Culture, +1 Production] <with [2] to [6] neighboring [Pasture] tiles>",
+			"[+1 Happiness, +1 Culture, +1 Production] <with [4] to [6] neighboring [Pasture] tiles>",
+			"[+1 Happiness, +1 Culture, +1 Production] <with [2] to [6] neighboring [Fishing Boats] tiles>",
+			"[+1 Happiness, +1 Culture, +1 Production] <with [4] to [6] neighboring [Fishing Boats] tiles>"
 		]
 	},
 	{
@@ -314,12 +315,13 @@
 		"science": 2,
 		"techRequired": "Industrialization",
 		"uniques": [
+			"Cannot be built on [All] tiles <with [1] to [6] neighboring [Town] tiles>",
 			"[+1 Happiness, +1 Science, +1 Production] <with [3] to [6] neighboring [Mine] tiles>",
 			"[+1 Happiness, +1 Science, +1 Production] <with [6] to [6] neighboring [Mine] tiles>",
-			"[+1 Happiness, +1 Science, +1 Production] <with [1] to [2] neighboring [Quarry] tiles>",
-			"[+1 Happiness, +1 Science, +1 Production] <with [2] to [2] neighboring [Quarry] tiles>",
-			"[+1 Happiness, +1 Science, +1 Production] <with [1] to [2] neighboring [Oil well] tiles>",
-			"[+1 Happiness, +1 Science, +1 Production] <with [2] to [2] neighboring [Oil well] tiles>",
+			"[+1 Happiness, +1 Science, +1 Production] <with [1] to [6] neighboring [Quarry] tiles>",
+			"[+1 Happiness, +1 Science, +1 Production] <with [2] to [6] neighboring [Quarry] tiles>",
+			"[+1 Happiness, +1 Science, +1 Production] <with [1] to [6] neighboring [Oil well] tiles>",
+			"[+1 Happiness, +1 Science, +1 Production] <with [2] to [6] neighboring [Oil well] tiles>",
 			"[+1 Happiness, +1 Science, +1 Production, +1 Culture] <for every adjacent [Great Improvement]>"
 		]
 	},
@@ -333,6 +335,7 @@
 		"gold": 2,
 		"techRequired": "Electronics",
 		"uniques": [
+			"Cannot be built on [All] tiles <with [1] to [6] neighboring [City] tiles>",
 			"[+1 Gold, +1 Production] <for every adjacent [Improvement]>",
 			"[+2 Gold, +1 Culture, +1 Science, +1 Happiness, +1 Production] <for every adjacent [Great Improvement]>",
 			"[+1 Production] <for every adjacent [All Road]>"
@@ -346,6 +349,7 @@
 		"gold": 5,
 		"techRequired": "Telecommunications",
 		"uniques": [
+			"Cannot be built on [All] tiles <with [1] to [6] neighboring [Megapolis] tiles>",
 			"[+3 Gold, +1 Production, +1 Culture, +1 Science] <for every adjacent [Town]>",
 			"[+5 Gold, +2 Culture, +1 Science, +2 Happiness, +2 Production] <for every adjacent [City]>",
 			"[+5 Gold, +3 Culture, +2 Science, +3 Happiness, +2 Production] <for every adjacent [Megapolis]>",
