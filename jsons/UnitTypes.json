@@ -45,5 +45,10 @@
         "name": "Superheavy Armor",
         "movementType": "Land",
         "uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-2] Movement <in [Jungle] tiles>", "[-1] Movement <in [Forest] tiles>", "[-2] Movement <in [Marsh] tiles>"]
+  },
+  {
+        "name": "Hero",
+        "movementType": "Land",
+        "uniques": ["Withdraws before melee combat <with [25]% chance>", "[+100]% Strength <vs [Ranged] units> <when defending>", "[+100]% Strength <when defending>", "Instantly consumes [5] [Eleph] <upon turn start>", "Instantly consumes [360] [Eleph]"]
   }
 ]
