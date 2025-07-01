@@ -1529,7 +1529,7 @@
 		"science": 2,
 		"culture": 3,
 		"isNationalWonder": true,
-		"uniques": ["Only available <if [High School] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [50] per owned city", "Free [Sensei of SCHALE] appears"],
+		"uniques": ["Only available <if [Middle School] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [50] per owned city", "Free [Sensei of SCHALE] appears"],
 		"requiredTech": "School Logistics II"
 	},
 	{
