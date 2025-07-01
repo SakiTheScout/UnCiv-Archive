@@ -1525,6 +1525,7 @@
 	{
 		"name": "SCHALE Tower",
 		"cost": 200,
+		"uniqueTo": "General Student Council",
 		"science": 2,
 		"culture": 3,
 		"isNationalWonder": true,
