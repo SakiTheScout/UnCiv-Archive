@@ -18,7 +18,8 @@
             "Only available <before adopting [Scholar Pioneers]>",
             "Only available <before adopting [Industrial Paradigm]>",
             "Only available <before adopting [Purity and Zeal]>",
-            "Only available <before adopting [Agricultural Revolution]>"
+            "Only available <before adopting [Agricultural Revolution]>",
+            "Only available <before adopting [Schools Hegemony]>"
         ],
         "policies": [
             {
@@ -96,6 +97,99 @@
         ]
     },
   {
+        "name": "Schools Hegemony",
+        "era": "Medieval era",
+        "priorities": {
+            "Neutral": 5,
+            "Cultural": 5,
+            "Diplomatic": 5,
+            "Domination": 5,
+            "Scientific": 5
+        },
+        "uniques": [
+            "[+10]% [Culture] <in cities with a [High School]",
+            "Resting point for Influence with City-States is increased by [5]",
+            "Only available <before adopting [Cultural Legacy]>",
+            "Only available <before adopting [Scholar Pioneers]>",
+            "Only available <before adopting [Industrial Paradigm]>",
+            "Only available <before adopting [Purity and Zeal]>",
+            "Only available <before adopting [Agricultural Revolution]>",
+            "Only available <before adopting [Rites of Warfare]>"
+        ],
+        "policies": [
+            {
+                "name": "Schools Represention",
+                "uniques": [
+                    "[+1 Happiness] from every [High School]",
+                    "[+10]% Yield from every [High School]"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Unified Purpose",
+                "uniques": [
+                    "[+25]% Production towards any buildings that already exist in the Capital",
+                    "Resting point for Influence with City-States is increased by [5]",
+                    "[+1 Production] from every [High School]"
+                ],
+                "requires": ["Schools Representation"],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Trading Interconnections",
+                "uniques": [
+                    "[+20]% [Gold] from Trade Routes",
+                    "[+20]% [Production] from Trade Routes",
+                    "Resting point for Influence with City-States is increased by [5]"
+                ],
+                "requires": ["Schools Representation"],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "United Defence",
+                "uniques": [
+                    "[+15]% Strength <when fighting in [Friendly] tiles>",
+                    "[1] Unit Supply per city"
+                ],
+                "requires": ["Unified Purpose"],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": "Shared Market",
+                "uniques": [
+                    "[Gold] cost of purchasing items in cities [-10]%",
+                    "[25]% of excess happiness converted to [Gold]",
+                    "[-33]% City-State Influence degradation"
+                ],
+                "requires": ["Trading Interconnections"],
+                "row": 3,
+                "column": 3
+            },
+            {
+              "name": "School-based Economics",
+              "uniques": [
+                "[+3 Gold] from every [High School]",
+                "[+10]% [Gold] <in cities with a [High School]"
+              ],
+              "requires": ["Trading Interconnections"],
+              "row": 3,
+              "column": 5
+            },
+            {
+                "name": "Schools Hegemony Complete",
+                "uniques": [
+                    "Empire enters golden age",
+                    "[+1 Science] from every [High School]",
+                    "Free Great Person"
+                ]
+            }
+        ]
+    },
+  {
         "name": "Purity and Zeal",
         "era": "Medieval era",
         "priorities": {
@@ -112,7 +206,8 @@
             "Only available <before adopting [Scholar Pioneers]>",
             "Only available <before adopting [Industrial Paradigm]>",
             "Only available <before adopting [Cultural Legacy]>",
-            "Only available <before adopting [Agricultural Revolution]>"
+            "Only available <before adopting [Agricultural Revolution]>",
+            "Only available <before adopting [Schools Hegemony]>"
         ],
         "policies": [
             {
@@ -204,7 +299,8 @@
             "Only available <before adopting [Rites of Warfare]>",
             "Only available <before adopting [Industrial Paradigm]>",
             "Only available <before adopting [Purity and Zeal]>",
-            "Only available <before adopting [Agricultural Revolution]>"
+            "Only available <before adopting [Agricultural Revolution]>",
+            "Only available <before adopting [Schools Hegemony]>"
         ],
         "policies": [
             {
@@ -298,7 +394,8 @@
             "Only available <before adopting [Scholar Pioneers]>",
             "Only available <before adopting [Industrial Paradigm]>",
             "Only available <before adopting [Rites of Warfare]>",
-            "Only available <before adopting [Agricultural Revolution]>"
+            "Only available <before adopting [Agricultural Revolution]>",
+            "Only available <before adopting [Schools Hegemony]>"
         ],
         "policies": [
             {
@@ -391,7 +488,8 @@
             "Only available <before adopting [Scholar Pioneers]>",
             "Only available <before adopting [Industrial Paradigm]>",
             "Only available <before adopting [Purity and Zeal]>",
-            "Only available <before adopting [Rites of Warfare]>"
+            "Only available <before adopting [Rites of Warfare]>",
+            "Only available <before adopting [Schools Hegemony]>"
         ],
         "policies": [
             {
@@ -483,7 +581,8 @@
             "Only available <before adopting [Rites of Warfare]>",
             "Only available <before adopting [Scholar Pioneers]>",
             "Only available <before adopting [Purity and Zeal]>",
-            "Only available <before adopting [Agricultural Revolution]>"
+            "Only available <before adopting [Agricultural Revolution]>",
+            "Only available <before adopting [Schools Hegemony]>"
         ],
         "policies": [
             {
