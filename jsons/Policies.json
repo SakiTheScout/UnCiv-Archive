@@ -107,7 +107,7 @@
             "Scientific": 5
         },
         "uniques": [
-            "[+10]% [Culture] <in cities with a [High School]",
+            "[+10]% [Culture] <in cities with a [High School]>",
             "Resting point for Influence with City-States is increased by [5]",
             "Only available <before adopting [Cultural Legacy]>",
             "Only available <before adopting [Scholar Pioneers]>",
@@ -118,7 +118,7 @@
         ],
         "policies": [
             {
-                "name": "Schools Represention",
+                "name": "Schools Representation",
                 "uniques": [
                     "[+1 Happiness] from every [High School]",
                     "[+10]% Yield from every [High School]"
@@ -173,7 +173,7 @@
               "name": "School-based Economics",
               "uniques": [
                 "[+3 Gold] from every [High School]",
-                "[+10]% [Gold] <in cities with a [High School]"
+                "[+10]% [Gold] <in cities with a [High School]>"
               ],
               "requires": ["Trading Interconnections"],
               "row": 3,
