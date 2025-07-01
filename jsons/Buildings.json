@@ -591,6 +591,49 @@
 			"Can be purchased with [Gold] [in all cities]"
 		]
 	},
+	{
+		"name": "Abydos Obelisk",
+                "replaces": "Monument",
+		"uniqueTo": "Abydos High School",
+		"culture": 1,
+		"science": 1,
+		"cost": 40,
+		"hurryCostModifier": 40,
+		"uniques": ["Instantly consumes [1] [Desertification] <upon turn start> <after discovering [Ecology]>"]
+	},
+	{
+	        "name": "Fortified High School",
+		"replaces": "General High School",
+		"requiredTech": "High Schools",
+		"uniqueTo": "Abydos High School",
+		"cost": 350,
+		"science": 1,
+		"cityStrength": 15,
+		"cityHealth": 100,
+		"specialistSlots": {"Artist":1, "Scientist":1, "Engineer":1},
+		"maintenance": 3,
+		"requiredBuilding": "Middle School",
+		"uniques": [
+		"High School",
+		"[+25]% Great Person generation [in this city]",
+		"[+1 Culture, +1 Production, +1 Science, -1 Gold] from every specialist [in this city]",
+		"New [Military] units start with [10] XP [in this city]",
+		"Provides [5] [Eleph]",
+		"[2] units cost no maintenance",
+		"All newly-trained [Land] units [in this city] receive the [General Schooling] promotion",
+		"Only available <in cities without a [High School]>"]
+	},
+	{
+		"name": "Stashed Arsenal",
+		"replaces": "Arsenal",
+		"uniqueTo": "Abydos High School",
+		"cost": 300,
+		"cityStrength": 20,
+		"hurryCostModifier": 25,
+		"requiredBuilding": "Castle",
+		"requiredTech": "Metallurgy",
+		"uniques": ["Destroyed when the city is captured", "[3] units cost no maintenance", "[3] Unit Supply"]
+	},
 	// Kaiser Corporation
 	{
 		"name": "Kaiser Constructions Office",
@@ -1379,7 +1422,7 @@
 		"uniques": [
 			"Instantly consumes [25] [Political Instability]",
 			"Only available <in cities without a [Edict]>",
-			"Remove [Edict of Science] [in this city] <upon turn start>",
+			"Remove [Solidarism Propaganda] [in this city] <upon turn start>",
 			"Shown while unbuilable <hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Unsellable <hidden from users>",
@@ -1394,7 +1437,7 @@
 		"uniques": [
 			"Instantly provides [25] [Political Instability]",
 			"Only available <in cities without a [Edict]>",
-			"Remove [Edict of Science] [in this city] <upon turn start>",
+			"Remove [Opposition Propaganda] [in this city] <upon turn start>",
 			"Shown while unbuilable <hidden from users>",
 			"Unbuildable <hidden from users>",
 			"Unsellable <hidden from users>",
