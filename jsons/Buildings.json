@@ -1523,6 +1523,15 @@
 		"Only available <in cities without a [High School]>"]
 	},
 	{
+		"name": "SCHALE Tower",
+		"cost": 200,
+		"science": 2,
+		"culture": 3,
+		"isNationalWonder": true,
+		"uniques": ["Only available <if [High School] is constructed in all [non-[Puppeted]] cities>", "Cost increases by [50] per owned city", "Free [Sensei of SCHALE] appears"],
+		"requiredTech": "School Logistics II"
+	},
+	{
 		"name": "Edict of Science",
 		"uniqueTo": "General Student Council",
 		"cost": 175,
