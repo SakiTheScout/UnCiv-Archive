@@ -443,8 +443,8 @@
 "Ranged attacks may be performed over obstacles <hidden from users>",
 "May capture killed [Kivotos Halo] units <hidden from users>",
 "Comment [Sensei is able to convince students to fight on their side, for price of 120 Eleph for an attempt.]"]},
-                ]
-	        },
+
+	
   {"name": "Tank", "unitType": "Armored", "movement": 1, "strength": 1, "cost": 1, "uniques": ["Unavailable", "Will not be displayed in Civilopedia", "Never appears as a Barbarian unit"],"attackSound": "tankshot"},
   {"name": "Machine Gun", "unitType": "Armored", "movement": 1, "strength": 1, "cost": 1, "uniques": ["Unavailable", "Will not be displayed in Civilopedia", "Never appears as a Barbarian unit"],"attackSound": "tankshot"}
 ]
