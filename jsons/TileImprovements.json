@@ -10,7 +10,7 @@
 			"[+1 Food, +1 Gold] <with [1] to [1] neighboring [Village] tiles>",
 			"[+1 Food] from [Fresh water] tiles <after discovering [Civil Service]>",
 			"[+1 Food] from [non-fresh water] tiles <after discovering [Fertilizer]>",
-			"Turn this tile into a [Desert] tile <for [Abydos High School] Civilizations> <when number of [Desertification] is more than [500]> <upon turn start> <with [25]% chance> <hidden from users>",
+			"Turn this tile into a [Desert] tile <for [Abydos High School] Civilizations> <when number of [Desertification] is more than [500]> <every [1] turns> <with [25]% chance> <hidden from users>",
             "Pillaging this improvement yields approximately [+18 Gold]"],
 		"shortcutKey": "F"
 	},
@@ -20,7 +20,9 @@
 		"production": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Construction",
-		"uniques": ["[+1 Production] <after discovering [Scientific Theory]>", "Pillaging this improvement yields approximately [+10 Gold]", "Turn this tile into a [Desert] tile <for [Abydos High School] Civilizations> <when number of [Desertification] is more than [500]> <upon turn start> <with [25]% chance> <hidden from users>", "[+1 Production, +1 Gold] <with [1] to [1] neighboring [Town] tiles>"],
+		"uniques": ["[+1 Production] <after discovering [Scientific Theory]>", "Pillaging this improvement yields approximately [+10 Gold]", 
+			"Turn this tile into a [Desert] tile <for [Abydos High School] Civilizations> <when number of [Desertification] is more than [500]> <every [1] turns> <with [25]% chance> <hidden from users>",
+			"[+1 Production, +1 Gold] <with [1] to [1] neighboring [Town] tiles>"],
 		"shortcutKey": "L"
 	},
 	{
@@ -29,7 +31,10 @@
 		"production": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Mining",
-		"uniques": ["[+1 Production] <after discovering [Chemistry]>", "Pillaging this improvement yields approximately [+20 Gold]", "Turn this tile into a [Desert] tile <for [Abydos High School] Civilizations> <when number of [Desertification] is more than [500]> <upon turn start> <with [25]% chance> <hidden from users>", "[+1 Production, +1 Gold] <with [1] to [1] neighboring [Town] tiles>"],
+		"uniques": ["[+1 Production] <after discovering [Chemistry]>", 
+			"Pillaging this improvement yields approximately [+20 Gold]", 
+			"Turn this tile into a [Desert] tile <for [Abydos High School] Civilizations> <when number of [Desertification] is more than [500]> <every [1] turns> <with [25]% chance> <hidden from users>", 
+			"[+1 Production, +1 Gold] <with [1] to [1] neighboring [Town] tiles>"],
 		"shortcutKey": "M"
 	},
 	{
@@ -38,7 +43,9 @@
 		"gold": 1,
 		"turnsToBuild": 7,
 		"techRequired": "Guilds",
-		"uniques": ["[+1 Gold] <after discovering [Economics]>", "Pillaging this improvement yields approximately [+20 Gold]", "Turn this tile into a [Desert] tile <for [Abydos High School] Civilizations> <when number of [Desertification] is more than [1000]> <upon turn start> <with [25]% chance> <hidden from users>"],
+		"uniques": ["[+1 Gold] <after discovering [Economics]>",
+			"Pillaging this improvement yields approximately [+20 Gold]",
+			"Turn this tile into a [Desert] tile <for [Abydos High School] Civilizations> <when number of [Desertification] is more than [1000]> <every [1] turns> <with [25]% chance> <hidden from users>"],
 		"shortcutKey": "T"
 	},
 
@@ -47,7 +54,13 @@
 		"name": "Camp",
 		"turnsToBuild": 7,
 		"techRequired": "Trapping",
-		"uniques": ["Does not need removal of [Forest]","Does not need removal of [Jungle]","[+1 Gold] <after discovering [Economics]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]", "Turn this tile into a [Desert] tile <for [Abydos High School] Civilizations> <when number of [Desertification] is more than [500]> <upon turn start> <with [25]% chance> <hidden from users>", "[+1 Food, +1 Gold] <with [1] to [1] neighboring [Village] tiles>"],
+		"uniques": ["Does not need removal of [Forest]",
+			"Does not need removal of [Jungle]",
+			"[+1 Gold] <after discovering [Economics]>",
+			"Can only be built to improve a resource",
+			"Pillaging this improvement yields approximately [+10 Gold]",
+			"Turn this tile into a [Desert] tile <for [Abydos High School] Civilizations> <when number of [Desertification] is more than [500]> <upon turn start> <with [25]% chance> <hidden from users>", 
+			"[+1 Food, +1 Gold] <with [1] to [1] neighboring [Village] tiles>"],
 		"shortcutKey": "C"
 	},
 	{
