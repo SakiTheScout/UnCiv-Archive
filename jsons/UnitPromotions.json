@@ -592,8 +592,9 @@
 		"name": "EMP Grenade",    
 		"uniques": [
 			"[Target Unit] gains the [Stunned] status for [2] turn(s) <upon damaging a [Light Armor] unit>",
-			"[Target Unit] gains the [Stunned] status for [2] turn(s) <upon damaging a [Medium Armor] unit>",
-			"[Target Unit] gains the [Stunned] status for [2] turn(s) <upon damaging a [Heavy Armor] unit>",
+			"[Target Unit] gains the [Stunned] status for [3] turn(s) <upon damaging a [Medium Armor] unit>",
+			"[Target Unit] gains the [Stunned] status for [4] turn(s) <upon damaging a [Heavy Armor] unit>",
+			"[Target Unit] gains the [Stunned] status for [5] turn(s) <upon damaging a [Superheavy Armor] unit>",
 			"[This Unit] loses the [EMP Grenade] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [EMP Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [EMP Grenade] status> <for [Specialist Infantry] units>"]},
 		{
