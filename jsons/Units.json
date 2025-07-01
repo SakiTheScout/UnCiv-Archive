@@ -426,6 +426,25 @@
 		"uniques": ["[100]% chance to intercept air attacks", "[+300]% Strength <vs [Air] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 		"attackSound": "tankshot"
 	},
+	{
+		"name": "Sensei of SCHALE",
+		"unitType": "Hero",
+		"movement": 2,
+		"strength": 30,
+		"rangedStrength": 1,
+		"range": 2,
+		"cost": 1,
+	        "promotions": ["HQ"],
+		"attackSound": "shot",
+                "uniques": ["Comment [Legendary and mysterious director of SCHALE.]",
+"Instantly consumes [120] [Eleph] <upon damaging a [Kivotos Halo] unit> <hidden from users>",
+"[Target unit] takes [100] damage <with [5]% chance> <hidden from users>",
+"Can only attack [Kivotos Halo] units <hidden from users>",
+"Ranged attacks may be performed over obstacles <hidden from users>",
+"May capture killed [Kivotos Halo] units <hidden from users>",
+"Comment [Sensei is able to convince students to fight on their side, for price of 120 Eleph for an attempt.]"]},
+                ]
+	        },
   {"name": "Tank", "unitType": "Armored", "movement": 1, "strength": 1, "cost": 1, "uniques": ["Unavailable", "Will not be displayed in Civilopedia", "Never appears as a Barbarian unit"],"attackSound": "tankshot"},
   {"name": "Machine Gun", "unitType": "Armored", "movement": 1, "strength": 1, "cost": 1, "uniques": ["Unavailable", "Will not be displayed in Civilopedia", "Never appears as a Barbarian unit"],"attackSound": "tankshot"}
 ]
