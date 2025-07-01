@@ -142,7 +142,7 @@
 		"Comment [Desertification strikes upon reaching the Atomic era!]",
 		"Provides [1] [Desertification] <for every [Cities]> <starting from the [Atomic era]> <hidden from users>",
 		"Provides [1] [Desertification] <for every [10] [Owned [Land] Tiles]> <starting from the [Atomic era]> <hidden from users>",
-		"Provides [1] [Desertification] <for every [[Production] Building]> <hidden from users> <starting from the [Aromic era]>",
+		"Provides [1] [Desertification] <for every [10] [Building]> <hidden from users> <starting from the [Aromic era]>",
 		"Provides [1] [Desertification] <for every [10] [Population]> <hidden from users>",
 		"[-1]% [Production] [in all cities] <for every [15] [Desertification]> <hidden from users>",
 		"[-1]% [Happiness] [in all cities] <for every [15] [Desertification]> <hidden from users>",
