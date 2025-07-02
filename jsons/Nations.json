@@ -304,6 +304,44 @@
 		"personality": "Council of Officers"
 	},
 	{
+		"name": "Outlaws Ironclad",
+		"leaderName": "Nakao Eru",
+		"adjective": ["Ironclad Raider"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Speed gives us strength! We have always been surviving in the wastelands, on the streets, in the desert even, only thanks to speed of our metal steeds! We ride into battle for glory and riches, with fever unmatched! None can match OUR speed!",
+		"startIntroPart2": "Lads! Speed up! I want to conquer the world and make it my bike track! Faster than falling stars! Raid! Pillage! Murder! Take whatever you can carry with you! Ebb and flow! Hahaha! Onto the Road of Fury!!",
+		
+		"declaringWar": "HAHAHAHA! I will ride you over!!",
+		"attacked": "THEY THINK THEY CAN HIT US?! CRUSH ‘EM!",
+		"defeated": "I die like I lived! Quickly and deadly!",
+		"introduction": "Woohoo! Faster!! Faster!!! You are not that fast! Bye!",
+		
+		"neutralHello": "Speak faster! What is it?",
+		"neutralLetsHearIt": "We're not outta options!",
+		"neutralNo": "Nope, you're too slow!",
+		"neutralYes": "Fine, fine! Just quit yapping!",
+		
+		"hateHello": "Oh, it’s YOU. Wanna get wrecked?",
+		"hateLetsHearIt": "You shouldn't have came in here!",
+		"hateNo": "HAHAHAHA! WHAT A NICE JOKE!!", 
+		"hateYes": "I will ride you over-... Later...",
+		
+		"afterPeace": "Haha! That was rather quick!",
+		"tradeRequest": "You! We have brought you something interesting! Decide quickly!",
+		
+		"outerColor": [],
+		"innerColor": [],
+		"uniqueName": "Road of Fury",
+		"uniques":["Organised Gang",
+			"",
+			"[Land] units gain the [Outlaws Ironclad] promotion",
+			"\"Borrows\" city names from other civilizations in the game"],
+		"cities": ["The Metal Yard"],
+		"personality": "Council of Officers"
+	},
+	{
 			"name": "Kaiser Corporation",
 		"leaderName": "CEO",
 		"adjective": ["Kaiser"],
