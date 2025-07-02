@@ -213,6 +213,15 @@
       "[-25]% Strength",
       "[+10]% Strength bonus for [Helmet Gang] units within [2] tiles",
       "[-5] HP when healing"]},
+	// Outlaws Ironclad
+	{
+    "name": "Outlaws Ironclad",
+    "uniques": [
+      "[1] Movement <for [Bike] units>",
+      "[+15]% Strength <for [Bike] units>",
+      "[-20]% Strength <for [Infantry] units>",
+      "[+50]% to Flank Attack bonuses <for [Bike] units>",
+      "[-75]% to Flank Attack bonuses <for [Infantry] units>"]},
 	// Shanhaijing 
 	{
     "name": "Black Tortoise Promenade",
