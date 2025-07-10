@@ -530,7 +530,7 @@
 		"leaderName": "Witch-Machine",
 		"adjective": ["Hellforged"],
 		"startBias": ["Snow"],
-		"preferredVictoryType": "Science",
+		"preferredVictoryType": "Scientific",
 
 		"startIntroPart1": "Archive article 38: We have been banished from Millennium. 'Monsters!' they said. 'Madmen!', 'Murderers!', 'Maniacs!'... Don't they know knowledge has a price? These were necessary sacrifices in the name of science. We have been executing upon the ideals of development. But we were misunderstood and feared as the consequence. Fools always feared the genius. So we went far, farther to the Northern Wastes, beyond the permafrost belonging to Red Winter. There, we have found abandoned mining facilities, frozen into ground vehicles, horrors beyond our imagination and bands of forsaken barbarians. There started our struggle to survive. We became something far more terrifying than things that lurked in the shadows beneath the polar skies. We have raised metal walls of logic and cold hatred.",
 		"startIntroPart2": "We have been nicknamed the Hellforge years later. We exchange the fruits of our ingenuity, unburdened by such pathetic concepts as morality and ethics, for slaves and food. Black smoke rises above our factory-fortress, a perfect amalgamation of occult and scientific. We did not forget those who betrayed us. We are returning.",
