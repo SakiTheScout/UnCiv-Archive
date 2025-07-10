@@ -525,6 +525,45 @@
 		"cities": ["Sanctum Tower", "D.U. Shiratori", "D.U. Utnapishtim", "D.U. District 1", "D.U. District 2", "D.U. District 3", "D.U. District 4", "D.U. District 5", "D.U. Rural Area 1", "D.U. Rural Area 2", "D.U. Rural Area 3"],
 		"personality": "Nanagami Rin"
 	},
+	{
+		"name": "The Hellforge",
+		"leaderName": "Witch-Machine",
+		"adjective": ["Hellforged"],
+		"startBias": ["Snow"],
+		"preferredVictoryType": "Science",
+
+		"startIntroPart1": "Archive article 38: We have been banished from Millennium. 'Monsters!' they said. 'Madmen!', 'Murderers!', 'Maniacs!'... Don't they know knowledge has a price? These were necessary sacrifices in the name of science. We have been executing upon the ideals of development. But we were misunderstood and feared as the consequence. Fools always feared the genius. So we went far, farther to the Northern Wastes, beyond the permafrost belonging to Red Winter. There, we have found abandoned mining facilities, frozen into ground vehicles, horrors beyond our imagination and bands of forsaken barbarians. There started our struggle to survive. We became something far more terrifying than things that lurked in the shadows beneath the polar skies. We have raised metal walls of logic and cold hatred.",
+		"startIntroPart2": "We have been nicknamed the Hellforge years later. We exchange the fruits of our ingenuity, unburdened by such pathetic concepts as morality and ethics, for slaves and food. Black smoke rises above our factory-fortress, a perfect amalgamation of occult and scientific. We did not forget those who betrayed us. We are returning.",
+		
+		"declaringWar": "Your extermination is the next step towards apotheosis.",
+		"attacked": "Your attempts are futile.",
+		"defeated": "How could we not calculate this outcome?..",
+		"introduction": "Your signal doesn't seem familiar. Identify. A new customer, I suppose. Welcome. You could wear a gas mask to avoid polluted air poisoning which is relevant type of illness among unaugmented personnel.",
+		
+		"neutralHello": "Look! It has many eyes and cruel personality! Did you just ask me why does this coffee machine need eyes and a flamethrower?",
+		"neutralLetsHearIt": "Let us begin our trades.",
+		"neutralNo": "This offer is not logical and thus denied.",
+		"neutralYes": "I should warn you that payment must be delivered in time.",
+
+		"hateHello": "Do not waste my time.",
+		"hateLetsHearIt": "Fine, speak.",
+		"hateNo": "Request denied.",
+		"hateYes": "It is a surprisingly logical offer.",
+		
+		"afterPeace": "Objectives achieved. Disengage.",
+		"tradeRequest": "We have prepared a deal to you, would you agree?",
+
+		"outerColor": [42,20,45],
+		"innerColor": [134,126,234],
+		"uniqueName": "Unburdened with Morality",
+		"uniques":["Organised Gang",
+			"Enemy [Infantry] units must spend [1] extra movement points when inside your territory",
+			"All newly-trained [all] units [in all cities] receive the [Tainted Augmentations] promotion",
+			"\"Borrows\" city names from other civilizations in the game",
+			"[+100]% Great Person generation [in capital]"],
+		"cities": ["Hellforge", "Trinity Inner District A1", "Trinity Inner District B2", "Trinity Inner District C3", "Trinity Inner District D4", "Trinity Inner District E5", "Trinity Inner District F6", "Trinity Inner District G7", "Trinity Inner District H8", "Trinity Inner District I9", "Trinity Inner District J10"],
+		"personality": "Tea Party Council"
+	},
 	
 	{
 		"name": "Wild Hunt Academy of Arts",
