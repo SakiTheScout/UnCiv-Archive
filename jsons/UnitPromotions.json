@@ -203,6 +203,17 @@
       "Earn [100]% of killed [All] unit's [Strength] as [Faith]",
       "Prevents spreading of religion to the city it is next to",
       "Gain [1]-[10] [Faith] <when not at war> <upon turn start>"]},
+	// Hellforge
+	{
+      "name": "Tainted Augmentations",
+      "uniques": [
+      "[1] additional attacks per turn <upon turn start> <for [3] turns> <with [50]% chance>",
+      "[1] Movement <upon turn start> <for [3] turns> <with [50]% chance>",
+      "[1] Sight <upon turn start> <for [3] turns> <with [50]% chance>",
+      "[+50]% Strength <upon turn start> <for [3] turns> <with [50]% chance>",
+      "[This Unit] heals [30] HP <upon turn start> <with [50]% chance>",
+      "[This Unit] takes [10] damage <upon turn start> <with [50]% chance>",
+      "[-10] HP when healing"]},
 	// Helmet Gang
 	{
     "name": "Helmet Gang",
