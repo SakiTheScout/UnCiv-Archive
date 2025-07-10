@@ -594,7 +594,7 @@
 	{
 		"name": "Abydos Obelisk",
                 "replaces": "Monument",
-		"uniqueTo": "Abydos High School",
+		"uniqueTo": ["Abydos High School", "Gehenna Academy"]
 		"culture": 1,
 		"science": 1,
 		"cost": 40,
