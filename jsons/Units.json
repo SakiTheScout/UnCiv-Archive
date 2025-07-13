@@ -154,7 +154,7 @@
     "uniques": ["Comment [Elite infantry unit made of experienced troops and as such excelling in all kinds of regular warfare.]", "[+25]% Strength <vs [Ranged] units> <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
 	},
 	{
-		"name": "Breachers Infantry",
+		"name": "Breacher Infantry",
 		"unitType": "Infantry",
 		"movement": 2,
 		"strength": 70,
@@ -162,7 +162,8 @@
 		"requiredTech": "Plastics",
 	        "promotions": ["Elite"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Heavy infantry unit equipped with ballistic shields that allow them to withstand brutal damage.]"]
+    "uniques": ["Comment [Heavy infantry unit equipped with ballistic shields that allow them to withstand brutal damage.]", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>",
+    "[This Unit] gains the [Ballistic Shield] status for [2] turn(s) <requires [2] movement> <for all movement> <for units without [Grenade Cooldown]> <hidden from users>"],]
 	},
 	{
 		"name": "Scout Bikes",
