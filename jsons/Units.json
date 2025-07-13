@@ -163,7 +163,7 @@
 	        "promotions": ["Elite"],
 		"attackSound": "shot",
     "uniques": ["Comment [Heavy infantry unit equipped with ballistic shields that allow them to withstand brutal damage.]", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>",
-    "[This Unit] gains the [Ballistic Shield] status for [3] turn(s) <requires [2] movement> <for all movement> <for units without [Grenade Cooldown]> <hidden from users>"],]
+    "[This Unit] gains the [Ballistic Shield] status for [3] turn(s) <requires [2] movement> <for all movement> <for units without [Grenade Cooldown]> <hidden from users>"],
 	},
 	{
 		"name": "Scout Bikes",
