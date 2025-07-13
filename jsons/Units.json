@@ -185,7 +185,7 @@
 		"requiredTech": "Radar",
 	        "promotions": ["Fast Attack"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Infantry unit intended for sudden paradrop assaults.]", "May Paradrop to [Land] tiles up to [15] tiles away <for all movement>"]
+    "uniques": ["Comment [Infantry unit intended for sudden paradrop assaults.]", "May Paradrop to [Land] tiles up to [15] tiles away", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"]
 	},
 	{
 		"name": "Scout Bikes",
