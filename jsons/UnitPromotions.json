@@ -114,7 +114,7 @@
     "name": "Coming from Below",
     "uniques": [
       "[+50]% to Flank Attack bonuses",
-      "May Paradrop up to [10] tiles from inside friendly territory",
+      "May Paradrop to [Land] tiles up to [7] tiles away",
       "[1] additional attacks per turn"],
   "outerColor": [242,247,255],
   "innerColor": [12,34,38]},
