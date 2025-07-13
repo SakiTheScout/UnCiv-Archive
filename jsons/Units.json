@@ -166,6 +166,28 @@
     "[This Unit] gains the [Ballistic Shield] status for [3] turn(s) <requires [2] movement> <for all movement> <for units without [Grenade Cooldown]> <hidden from users>"],
 	},
 	{
+		"name": "Marine Infantry",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 70,
+		"cost": 400,
+		"requiredTech": "Combined Arms",
+	        "promotions": ["Fast Attack"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Infantry intended for naval operations and rapid assaults.]", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>", "Eliminates combat penalty for attacking across a coast", "[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>", "[+50]% Strength <when attacking> <when [Embarked]>"]
+	},
+	{
+		"name": "Paratrooper Infantry",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 70,
+		"cost": 375,
+		"requiredTech": "Radar",
+	        "promotions": ["Fast Attack"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Infantry unit intended for sudden paradrop assaults.]", "May Paradrop to [Land] tiles up to [15] tiles away <for all movement>"]
+	},
+	{
 		"name": "Scout Bikes",
 		"unitType": "Bike",
 		"movement": 6,
@@ -460,5 +482,7 @@
 
 	
   {"name": "Tank", "unitType": "Armored", "movement": 1, "strength": 1, "cost": 1, "uniques": ["Unavailable", "Will not be displayed in Civilopedia", "Never appears as a Barbarian unit"],"attackSound": "tankshot"},
-  {"name": "Machine Gun", "unitType": "Armored", "movement": 1, "strength": 1, "cost": 1, "uniques": ["Unavailable", "Will not be displayed in Civilopedia", "Never appears as a Barbarian unit"],"attackSound": "tankshot"}
+  {"name": "Machine Gun", "unitType": "Armored", "movement": 1, "strength": 1, "cost": 1, "uniques": ["Unavailable", "Will not be displayed in Civilopedia", "Never appears as a Barbarian unit"],"attackSound": "tankshot"},
+{"name": "Paratrooper", "unitType": "Armored", "movement": 1, "strength": 1, "cost": 1, "uniques": ["Unavailable", "Will not be displayed in Civilopedia", "Never appears as a Barbarian unit"],"attackSound": "tankshot"},
+{"name": "Marine", "unitType": "Armored", "movement": 1, "strength": 1, "cost": 1, "uniques": ["Unavailable", "Will not be displayed in Civilopedia", "Never appears as a Barbarian unit"],"attackSound": "tankshot"},
 ]
