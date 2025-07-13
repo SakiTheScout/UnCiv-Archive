@@ -154,6 +154,17 @@
     "uniques": ["Comment [Elite infantry unit made of experienced troops and as such excelling in all kinds of regular warfare.]", "[+25]% Strength <vs [Ranged] units> <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
 	},
 	{
+		"name": "Breachers Infantry",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 70,
+		"cost": 450,
+		"requiredTech": "Plastics",
+	        "promotions": ["Elite"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Heavy infantry unit equipped with ballistic shields that allow them to withstand brutal damage.]"]
+	},
+	{
 		"name": "Scout Bikes",
 		"unitType": "Bike",
 		"movement": 6,
