@@ -1566,10 +1566,11 @@
 			"Triggers a [Edict] event",
 			"Can be purchased with [Gold] [in capital]",
 			"Shown while unbuilable <hidden from users>",
-			"Limited to [1] per Civilization",
 			"Unbuildable <hidden from users>",
 			"Unsellable <hidden from users>",
-			"Remove [Issue an Edict] [in this city] <upon turn start>"
+			"Instantly gain [10] [Edict Duration]",
+			"Instantly consumes [1] [Edict Duration] <upon turn end>",
+			"Remove [Issue an Edict] [in this city] <upon turn start> <when below [1] [Edict Duration]>"
 		]
 	},
 // Festival
@@ -1581,10 +1582,11 @@
 			"Triggers a [Festival!] event",
 			"Can be purchased with [Gold] [in capital]",
 			"Shown while unbuilable <hidden from users>",
-			"Limited to [1] per Civilization",
 			"Unbuildable <hidden from users>",
 			"Unsellable <hidden from users>",
-			"Remove [Hold a Festival!] [in this city] <upon turn start>"
+			"Instantly gain [5] [Festival Duration]",
+			"Instantly consumes [1] [Festival Duration] <upon turn end>",
+			"Remove [Hold a Festival!] [in this city] <upon turn start> <when below [1] [Festival Duration]>"
 		]
 	}
 ]
