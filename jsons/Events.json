@@ -103,6 +103,91 @@
             }
         ]
     },
+
+  {
+        "name": "Edict",
+        "text": "As you command, President. You just have to appoint what is the focus of your new Edict.",
+        "choices": [
+            {
+                "text": "Science",
+                "uniques": [
+                    "Gain [-75] [Culture] <(modified by game speed)>",
+                    "[+50]% [Science] [in all cities] <for [10] turns>",
+			              "[-10]% [Culture] [in all cities] <for [10] turns>",
+		              	"[-10]% [Production] [in all cities] <for [10] turns>",
+		              	"[-10]% [Gold] [in all cities] <for [10] turns>",
+		              	"[-10]% [Faith] [in all cities] <for [10] turns>",
+		              	"[-10]% [Food] [in all cities] <for [10] turns>",
+                ]
+            },
+          {
+                "text": "Culture",
+                "uniques": [
+                    "Gain [-75] [Culture] <(modified by game speed)>",
+                    "[-10]% [Science] [in all cities] <for [10] turns>",
+			              "[+50]% [Culture] [in all cities] <for [10] turns>",
+		              	"[-10]% [Production] [in all cities] <for [10] turns>",
+		              	"[-10]% [Gold] [in all cities] <for [10] turns>",
+		              	"[-10]% [Faith] [in all cities] <for [10] turns>",
+		              	"[-10]% [Food] [in all cities] <for [10] turns>",
+                ]
+            },
+          {
+                "text": "Economics",
+                "uniques": [
+                    "Gain [-75] [Culture] <(modified by game speed)>",
+                    "[-10]% [Science] [in all cities] <for [10] turns>",
+			              "[-10]% [Culture] [in all cities] <for [10] turns>",
+		              	"[-10]% [Production] [in all cities] <for [10] turns>",
+		              	"[+50]% [Gold] [in all cities] <for [10] turns>",
+		              	"[-10]% [Faith] [in all cities] <for [10] turns>",
+		              	"[-10]% [Food] [in all cities] <for [10] turns>",
+                ]
+            },
+          {
+                "text": "Production",
+                "uniques": [
+                    "Gain [-75] [Culture] <(modified by game speed)>",
+                    "[-10]% [Science] [in all cities] <for [10] turns>",
+			              "[-10]% [Culture] [in all cities] <for [10] turns>",
+		              	"[+50]% [Production] [in all cities] <for [10] turns>",
+		              	"[-10]% [Gold] [in all cities] <for [10] turns>",
+		              	"[-10]% [Faith] [in all cities] <for [10] turns>",
+		              	"[-10]% [Food] [in all cities] <for [10] turns>",
+                ]
+            },
+          {
+                "text": "Agriculture",
+                "uniques": [
+                    "Gain [-75] [Culture] <(modified by game speed)>",
+                    "[-10]% [Science] [in all cities] <for [10] turns>",
+			              "[-10]% [Culture] [in all cities] <for [10] turns>",
+		              	"[-10]% [Production] [in all cities] <for [10] turns>",
+		              	"[-10]% [Gold] [in all cities] <for [10] turns>",
+		              	"[-10]% [Faith] [in all cities] <for [10] turns>",
+		              	"[+50]% [Food] [in all cities] <for [10] turns>",
+                ]
+            },
+          {
+                "text": "Religion",
+                "uniques": [
+                    "Gain [-75] [Culture] <(modified by game speed)>",
+                    "[-10]% [Science] [in all cities] <for [10] turns>",
+			              "[-10]% [Culture] [in all cities] <for [10] turns>",
+		              	"[-10]% [Production] [in all cities] <for [10] turns>",
+		              	"[-10]% [Gold] [in all cities] <for [10] turns>",
+		              	"[+50]% [Faith] [in all cities] <for [10] turns>",
+		              	"[-10]% [Food] [in all cities] <for [10] turns>",
+                ]
+            },
+            {
+                "text": "Skip the event",
+                "uniques": [
+                    "Comment [If you changed your mind...]"
+                ]
+            }
+        ]
+    },
   
   {
         "name": "Chief Elections",
