@@ -105,66 +105,95 @@
     },
 
   {
-        "name": "Edict",
-        "text": "As you command, President. You just have to appoint what is the focus of your new Edict.",
+        "name": "Sponsor",
+        "text": "Indeed, president. Just sign these papers, and projects you want will be funded. Including... Interesting ones.",
         "choices": [
             {
-                "text": "Science",
+                "text": "Sponsor Science",
                 "uniques": [
-                    "Gain [-75] [Culture] <(modified by game speed)>",
-                    "[+50]% [Science] [in all cities] <for [10] turns>",
-			              "[-10]% [Culture] [in all cities] <for [10] turns>",
-		              	"[-10]% [Production] [in all cities] <for [10] turns>",
-		              	"[-10]% [Gold] [in all cities] <for [10] turns>",
-		              	"[-10]% [Faith] [in all cities] <for [10] turns>",
-		              	"[-10]% [Food] [in all cities] <for [10] turns>",
+                    "Gain [-150] [Gold] <(modified by game speed)>",
+                    "[+5 Science, -1 Gold] [in all cities] <for [30] turns>"
                 ]
             },
           {
-                "text": "Culture",
+                "text": "Sponsor Culture",
                 "uniques": [
-                    "Gain [-75] [Culture] <(modified by game speed)>",
-                    "[-10]% [Science] [in all cities] <for [10] turns>",
-			              "[+50]% [Culture] [in all cities] <for [10] turns>",
-		              	"[-10]% [Production] [in all cities] <for [10] turns>",
-		              	"[-10]% [Gold] [in all cities] <for [10] turns>",
-		              	"[-10]% [Faith] [in all cities] <for [10] turns>",
-		              	"[-10]% [Food] [in all cities] <for [10] turns>",
-                ]
+                    "Gain [-150] [Gold] <(modified by game speed)>",
+                    "[+5 Culture, -1 Gold] [in all cities] <for [30] turns>"
+		]
             },
           {
-                "text": "Economics",
+                "text": "Sponsor Production",
                 "uniques": [
-                    "Gain [-75] [Culture] <(modified by game speed)>",
-                    "[-10]% [Science] [in all cities] <for [10] turns>",
-			              "[-10]% [Culture] [in all cities] <for [10] turns>",
-		              	"[-10]% [Production] [in all cities] <for [10] turns>",
-		              	"[+50]% [Gold] [in all cities] <for [10] turns>",
-		              	"[-10]% [Faith] [in all cities] <for [10] turns>",
-		              	"[-10]% [Food] [in all cities] <for [10] turns>",
-                ]
+                    "Gain [-150] [Gold] <(modified by game speed)>",
+                    "[+5 Production, -1 Gold] [in all cities] <for [30] turns>"
+		]
             },
           {
-                "text": "Production",
+                "text": "Sponsor Faith",
                 "uniques": [
-                    "Gain [-75] [Culture] <(modified by game speed)>",
-                    "[-10]% [Science] [in all cities] <for [10] turns>",
-			              "[-10]% [Culture] [in all cities] <for [10] turns>",
-		              	"[+50]% [Production] [in all cities] <for [10] turns>",
-		              	"[-10]% [Gold] [in all cities] <for [10] turns>",
-		              	"[-10]% [Faith] [in all cities] <for [10] turns>",
-		              	"[-10]% [Food] [in all cities] <for [10] turns>",
-                ]
+                    "Gain [-150] [Gold] <(modified by game speed)>",
+                    "[+5 Faith, -1 Gold] [in all cities] <for [30] turns>"
+		]
             },
           {
-                "text": "Agriculture",
+                "text": "Sponsor Agriculture",
                 "uniques": [
-                    "Gain [-75] [Culture] <(modified by game speed)>",
-                    "[-10]% [Science] [in all cities] <for [10] turns>",
-			              "[-10]% [Culture] [in all cities] <for [10] turns>",
-		              	"[-10]% [Production] [in all cities] <for [10] turns>",
-		              	"[-10]% [Gold] [in all cities] <for [10] turns>",
-		              	"[-10]% [Faith] [in all cities] <for [10] turns>",
+                    "Gain [-150] [Gold] <(modified by game speed)>",
+                    "[+5 Food, -1 Gold] [in all cities] <for [30] turns>"
+		]
+            },
+		{
+                "text": "Sponsor Happiness",
+                "uniques": [
+                    "Gain [-150] [Gold] <(modified by game speed)>",
+                    "[+5 Happiness, -1 Gold] [in all cities] <for [30] turns>"
+		]
+            },
+          {
+                "text": "Sponsor Military",
+                "uniques": [
+                    "Gain [-350] [Gold] <(modified by game speed)>",
+                    "[in all cities] <for [30] turns>"
+		]
+            },
+		{
+                "text": "Sponsor Expansion",
+                "uniques": [
+                    "Gain [-300] [Gold] <(modified by game speed)>",
+                    "[-25]% Culture cost of natural border growth [in all cities] <for [30] turns>"
+		]
+            },
+	    {
+                "text": "Plunder Civilians",
+                "uniques": [
+                    "Gain [200]-[600] [Gold] <for every [city]> <(modified by game speed)>",
+                    "[-5 Happiness] [in all cities] <for [30] turns>"
+		]
+            },
+	    {
+                "text": "Illegal Research",
+                "uniques": [
+                    "Gain [150]-[450] [Science] <for every [city]> <(modified by game speed)>",
+                    "[-1] Population [in all cities]"
+		]
+            },
+	    {
+                "text": "Civilian Executions",
+                "uniques": [
+                    "[-5] population in a random city",
+                    "[-100]% Unhappiness from [population] [in all cities] <for [30] turns>"
+		]
+            },
+            {
+                "text": "Skip the event",
+                "uniques": [
+                    "Comment [If you changed your mind...]"
+                ]
+            }
+        ]
+    },
+
 		              	"[+50]% [Food] [in all cities] <for [10] turns>",
                 ]
             },
