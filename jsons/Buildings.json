@@ -1560,11 +1560,11 @@
 	},
 	{
 		"name": "Issue an Edict",
-		"cost": 150,
+		"cost": 1,
 		"requiredTech": "School Logistics I",
 		"uniques": [
 			"Triggers a [Edict] event",
-			"Can be purchased with [Culture] [in capital]",
+			"Can be purchased with [Gold] [in capital]",
 			"Shown while unbuilable <hidden from users>",
 			"Limited to [1] per Civilization",
 			"Unbuildable <hidden from users>",
