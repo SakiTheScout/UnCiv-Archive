@@ -719,6 +719,11 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,25,0]},
 	{
+		"name": "Police Schooling",
+		"uniques":["[+20]% Strength <in [Friendly] tiles>", "Gain [-1] [Gold] <upon turn start>"],
+		"outerColor": [0,0,0],
+		"innerColor": [117,117,0]},
+	{
 		"name": "Maritime Schooling",
 		"uniques":["[+5]% Strength", "[1] Movement point cost to embark", "Eliminates combat penalty for attacking across a coast", "Gain [-1] [Gold] <upon turn start>"],
 		"outerColor": [0,0,0],
