@@ -1569,8 +1569,7 @@
 			"Unbuildable <hidden from users>",
 			"Unsellable <hidden from users>",
 			"Instantly gain [10] [Edict Duration]",
-			"Instantly consumes [1] [Edict Duration] <upon turn end>",
-			"Remove [Issue an Edict] [in this city] <upon turn start> <when below [1] [Edict Duration]>"
+			"Instantly consumes [1] [Edict Duration] <upon turn end>"
 		]
 	},
 // Festival
@@ -1585,8 +1584,7 @@
 			"Unbuildable <hidden from users>",
 			"Unsellable <hidden from users>",
 			"Instantly gain [5] [Festival Duration]",
-			"Instantly consumes [1] [Festival Duration] <upon turn end>",
-			"Remove [Hold a Festival!] [in this city] <upon turn start> <when below [1] [Festival Duration]>"
+			"Instantly consumes [1] [Festival Duration] <upon turn end>"
 		]
 	}
 ]
