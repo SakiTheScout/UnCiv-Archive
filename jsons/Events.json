@@ -252,22 +252,22 @@
 	    {
                 "text": "Plunder Civilians",
                 "uniques": [
-                    "Gain [200]-[600] [Gold] <for every [city]> <(modified by game speed)>",
+                    "Gain [200]-[600] [Gold] <for every [Cities]> <(modified by game speed)>",
                     "[-5 Happiness] [in all cities] <for [30] turns>"
 		]
             },
 	    {
                 "text": "Illegal Research",
                 "uniques": [
-                    "Gain [150]-[450] [Science] <for every [city]> <(modified by game speed)>",
-                    "[-1] Population [in all cities]"
+                    "Gain [150]-[450] [Science] <for every [Cities]> <(modified by game speed)>",
+                    "[-1] population [in all cities]"
 		]
             },
 	    {
                 "text": "Civilian Executions",
                 "uniques": [
                     "[-5] population in a random city",
-                    "[-100]% Unhappiness from [population] [in all cities] <for [30] turns>"
+                    "[-100]% Unhappiness from [Population] [in all cities] <for [30] turns>"
 		]
             },
             {
