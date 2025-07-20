@@ -1339,7 +1339,7 @@
 		"requiredTech": "School Logistics I",
 		"uniques": [
 			"Instantly consumes [25] [Political Instability]",
-			"Only available <in cities without a [Edict]>",
+			"Only available <in cities without a [Opposition Propaganda]>",
 			"Remove [Solidarism Propaganda] [in this city] <upon turn start>",
 			"Shown while unbuilable <hidden from users>",
 			"Unbuildable <hidden from users>",
@@ -1354,7 +1354,7 @@
 		"requiredTech": "School Logistics I",
 		"uniques": [
 			"Instantly provides [25] [Political Instability]",
-			"Only available <in cities without a [Edict]>",
+			"Only available <in cities without a [Solidarism Propaganda]>",
 			"Remove [Opposition Propaganda] [in this city] <upon turn start>",
 			"Shown while unbuilable <hidden from users>",
 			"Unbuildable <hidden from users>",
