@@ -892,7 +892,7 @@
     "[This Unit] gains the [Animal Features] promotion <upon turn start> <for [0] movement> <with [10]% chance> <for [Barbarians] Civilizations> <hidden from users>",
     "[This Unit] gains the [Elven Features] promotion <upon turn start> <for [0] movement> <with [5]% chance> <for [Barbarians] Civilizations> <hidden from users>",
     "[This Unit] gains the [Angelic Features] promotion <upon turn start> <for [0] movement> <with [5]% chance> <for [Barbarians] Civilizations> <hidden from users>",
-    "[This Unit gains the [Human Features] promotion <upon turn end> <hidden from users>"
+    "[This Unit] gains the [Human Features] promotion <upon turn end> <hidden from users>"
     ]},
 	
 	// Force Organisation
