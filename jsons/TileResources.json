@@ -22,6 +22,11 @@
 		"uniques": ["Stockpiled", "Not shown on world screen <for [non-[General Student Council]] Civilizations>"]
 	},
 	{
+		"name": "Sponsor Duration",
+		"resourceType": "Strategic",
+		"uniques": ["Stockpiled", "Not shown on world screen <for [non-[Kaiser Corporation]] Civilizations>"]
+	},
+	{
 		"name": "Festival Duration",
 		"resourceType": "Strategic",
 		"uniques": ["Stockpiled"]
