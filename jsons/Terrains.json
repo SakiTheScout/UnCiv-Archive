@@ -15,5 +15,6 @@
             "Considered [Undesirable] when determining start locations <in all except [Desert] Regions>",
             "Every [13] tiles with this terrain will receive a major deposit of a strategic resource.",
 	    "[-3 Gold, -3 Food, -3 Production, -3 Science, -3 Culture, -3 Faith, -3 Happiness] <for [Abydos High School] Civilizations> <when number of [Desertification] is more than [300]>"
+		]
     	}
 ]
