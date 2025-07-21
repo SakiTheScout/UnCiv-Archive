@@ -40,8 +40,7 @@
             "Considered [Food] when determining start locations <in [Hill] Regions>",
             "Considered [Food] when determining start locations <in [Grassland] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
-            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource.",
-	    	"Turn this tile into a [Plains] tile <for [Abydos High School] Civilizations> <when above [300] [Desertification]> <upon turn start> <with [33]% chance>"]
+            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
 	    },
 	    {
 		"name": "Plains",
@@ -69,8 +68,7 @@
             "Considered [Food] when determining start locations <in [Hill] Regions>",
             "Considered [Food] when determining start locations <in [Plains] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
-            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource.",
-	    "Turn this tile into a [Desert] tile <for [Abydos High School] Civilizations> <when above [300] [Desertification]> <upon turn start> <with [33]% chance>"]
+            "Every [33] tiles with this terrain will receive a major deposit of a strategic resource."]
 	},
 	{
 		"name": "Tundra",
@@ -88,7 +86,6 @@
             "Considered [Food] when determining start locations <in [Tundra] Regions>",
             "Considered [Desirable] when determining start locations <in [Tundra] Regions>",
             "Becomes [Plains] when adjacent to [River]",
-            "Every [16] tiles with this terrain will receive a major deposit of a strategic resource.",
-	    "Turn this tile into a [Plains] tile <for [Abydos High School] Civilizations> <when above [300] [Desertification]> <upon turn start> <with [33]% chance>"]
+            "Every [16] tiles with this terrain will receive a major deposit of a strategic resource."]
 	}
 ]
