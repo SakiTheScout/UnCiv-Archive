@@ -14,11 +14,6 @@
             "Becomes [Flood plains] when adjacent to [River]",
             "Considered [Undesirable] when determining start locations <in all except [Desert] Regions>",
             "Every [13] tiles with this terrain will receive a major deposit of a strategic resource.",
-    "[-50]% [Culture] <for [Abydos High School] Civilizations> <starting from the [Atomic era]> <hidden from users>",
-    "[-50]% [Science] <for [Abydos High School] Civilizations> <starting from the [Atomic era]> <hidden from users>",
-    "[-50]% [Faith] <for [Abydos High School] Civilizations> <starting from the [Atomic era]> <hidden from users>",
-    "[-50]% [Food] <for [Abydos High School] Civilizations> <starting from the [Atomic era]> <hidden from users>",
-    "[-50]% [Production] <for [Abydos High School] Civilizations> <starting from the [Atomic era]> <hidden from users>",
-    "[-50]% [Gold] <for [Abydos High School] Civilizations> <starting from the [Atomic era]> <hidden from users>"]
-	}
+	    "[-3 Gold, -3 Food, -3 Production, -3 Science, -3 Culture, -3 Faith, -3 Happiness] <for [Abydos High School] Civilizations> <when number of [Desertification] is more than [300]>"
+    	}
 ]
