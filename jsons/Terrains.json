@@ -41,7 +41,7 @@
             "Considered [Food] when determining start locations <in [Grassland] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
             "Every [33] tiles with this terrain will receive a major deposit of a strategic resource.",
-	    	"Turn this tile into a [Plains] tile <for [Abydos High School] Civilizations> <when number of [Desertification] is more than [200]> <upon turn start> <every [1] turns> <with [33]% chance>"]
+	    	"Turn this tile into a [Plains] tile <for [Abydos High School] Civilizations> <when number of [Desertification] is more than [200]> <upon turn start> <with [33]% chance>"]
 	    },
 	    {
 		"name": "Plains",
@@ -70,7 +70,7 @@
             "Considered [Food] when determining start locations <in [Plains] Regions>",
             "Considered [Food] when determining start locations <in [Hybrid] Regions>",
             "Every [33] tiles with this terrain will receive a major deposit of a strategic resource.",
-	    "Turn this tile into a [Desert] tile <for [Abydos High School] Civilizations> <when number of [Desertification] is more than [300]> <upon turn start> <every [1] turns> <with [33]% chance>"]
+	    "Turn this tile into a [Desert] tile <for [Abydos High School] Civilizations> <when number of [Desertification] is more than [300]> <upon turn start> <with [33]% chance>"]
 	},
 	{
 		"name": "Tundra",
@@ -89,6 +89,6 @@
             "Considered [Desirable] when determining start locations <in [Tundra] Regions>",
             "Becomes [Plains] when adjacent to [River]",
             "Every [16] tiles with this terrain will receive a major deposit of a strategic resource.",
-	    "Turn this tile into a [Plains] tile <for [Abydos High School] Civilizations> <when number of [Desertification] is more than [300]> <upon turn start> <every [1] turns> <with [33]% chance>"]
+	    "Turn this tile into a [Plains] tile <for [Abydos High School] Civilizations> <when number of [Desertification] is more than [300]> <upon turn start> <with [33]% chance>"]
 	}
 ]
