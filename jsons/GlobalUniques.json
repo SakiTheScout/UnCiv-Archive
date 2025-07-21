@@ -98,5 +98,5 @@
 	"Remove [Issue an Edict] [in all cities] <upon turn start> <when below [1] [Edict Duration]>",
 	"Remove [Assign Sponsorship] [in all cities] <upon turn start> <when below [1] [Sponsorship Duration]>",
 	"Remove [Hold a Festival!] [in all cities] <upon turn start> <when below [1] [Festival Duration]>",
-	"Turn this tile into a [Desert] tile <for [Abydos High School] Civilizations> <when number of [Desertification] is more than [300]> <every [1] turns> <with [33]% chance>"
+	"Turn this tile into a [Desert] tile <for [Abydos High School] Civilizations> <when number of [Desertification] is more than [300]> <upon turn start> <every [1] turns> <with [33]% chance>"
 ]}
