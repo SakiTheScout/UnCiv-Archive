@@ -196,7 +196,7 @@
 		"requiredTech": "Combustion",
 		"promotions": ["Fast Attack"],
 		"attackSound": "shot",
-    "uniques": ["[-25]% Strength <when defending>", "[+15]% Strength <vs [Siege] units>", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"]
+    "uniques": ["Consumes [1] [Oil]", "[-25]% Strength <when defending>", "[+15]% Strength <vs [Siege] units>", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"]
 	},
   {
 		"name": "Attack Bikes",
@@ -207,7 +207,7 @@
 		"requiredTech": "Combustion",
 	        "promotions": ["Fast Attack"],
 		"attackSound": "shot",
-    "uniques": ["[+15]% Strength <vs [Siege] units>", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"]
+    "uniques": ["Consumes [1] [Oil]", "[+15]% Strength <vs [Siege] units>", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"]
 	},
   {
 		"name": "Assault Bikes",
@@ -218,7 +218,7 @@
 		"requiredTech": "Combustion",
 	        "promotions": ["Fast Attack"],
 		"attackSound": "shot",
-    "uniques": ["[+25]% Strength <when defending>", "[+15]% Strength <vs [Siege] units>", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"]
+    "uniques": ["Consumes [1] [Iron]", "Consumes [1] [Oil]", "[+25]% Strength <when defending>", "[+15]% Strength <vs [Siege] units>", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"]
 	},
   {
 		"name": "Light Artillery",
@@ -229,7 +229,7 @@
 		"range": 2,
 		"cost": 320,
 		"requiredTech": "Dynamite",
-		"uniques": ["[+150]% Strength <vs cities> <when attacking>","No defensive terrain bonus", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
+		"uniques": ["Consumes [1] [Iron]", "[+150]% Strength <vs cities> <when attacking>","No defensive terrain bonus", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 		"promotions": ["Indirect Fire", "Fire Support"],
 		"attackSound": "artillery"
 	},
@@ -242,7 +242,7 @@
 		"range": 3,
 		"cost": 375,
 		"requiredTech": "Dynamite",
-		"uniques": ["[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
+		"uniques": ["Consumes [1] [Iron]", "[+200]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
 			"Must set up to ranged attack", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 		"promotions": ["Indirect Fire", "Fire Support"],
 		"attackSound": "artillery"
@@ -256,7 +256,7 @@
 		"range": 4,
 		"cost": 420,
 		"requiredTech": "Dynamite",
-		"uniques": ["[+250]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
+		"uniques": ["Consumes [2] [Iron]", "[+250]% Strength <vs cities> <when attacking>","No defensive terrain bonus",
 			"Must set up to ranged attack","[-1] Sight", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 		"promotions": ["Indirect Fire", "Fire Support"],
 		"attackSound": "artillery"
@@ -270,7 +270,7 @@
 		"range": 2,
 		"cost": 300,
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["[+50]% Strength <vs [Infantry] units> <when attacking>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
+		"uniques": ["Consumes [1] [Iron]", "[+50]% Strength <vs [Infantry] units> <when attacking>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
 		"promotions": ["Indirect Fire", "Elite"],
 		"attackSound": "artillery"
 	},
@@ -283,7 +283,7 @@
 		"range": 2,
 		"cost": 350,
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["[+100]% Strength <vs [Infantry] units> <when attacking>","No defensive terrain bonus",
+		"uniques": ["Consumes [1] [Iron]", "[+100]% Strength <vs [Infantry] units> <when attacking>","No defensive terrain bonus",
 			"Must set up to ranged attack", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 		"promotions": ["Indirect Fire", "Fire Support"],
 		"attackSound": "artillery"
@@ -297,7 +297,7 @@
 		"range": 3,
 		"cost": 390,
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["[+150]% Strength <vs [Infantry] units> <when attacking>","No defensive terrain bonus",
+		"uniques": ["Consumes [2] [Iron]", "[+150]% Strength <vs [Infantry] units> <when attacking>","No defensive terrain bonus",
 			"Must set up to ranged attack","[-1] Sight", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 		"promotions": ["Indirect Fire", "Fire Support"],
 		"attackSound": "artillery"
@@ -408,7 +408,7 @@
 		"cost": 425,
 		"requiredTech": "Ballistics",
 		"promotions": ["Elite"],
-		"uniques": ["[+100]% Strength <vs [Light Armor] units>", "[+90]% Strength <vs [Medium Armor] units>", "[+80]% Strength <vs [Heavy Armor] units>", "[+70]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
+		"uniques": ["Consumes [1] [Iron]", "[+100]% Strength <vs [Light Armor] units>", "[+90]% Strength <vs [Medium Armor] units>", "[+80]% Strength <vs [Heavy Armor] units>", "[+70]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
 		"attackSound": "shot"
 	},
 	{
@@ -421,7 +421,7 @@
 		"cost": 450,
 		"requiredTech": "Ballistics",
 		"promotions": ["Fire Support"],
-		"uniques": ["[+110]% Strength <vs [Light Armor] units>", "[+100]% Strength <vs [Medium Armor] units>", "[+90]% Strength <vs [Heavy Armor] units>", "[+80]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
+		"uniques": ["Consumes [2] [Iron]", "[+110]% Strength <vs [Light Armor] units>", "[+100]% Strength <vs [Medium Armor] units>", "[+90]% Strength <vs [Heavy Armor] units>", "[+80]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -433,7 +433,7 @@
 		"cost": 340,
 		"requiredTech": "Ballistics",
 		"promotions": ["Fire Support"],
-		"uniques": ["[1] additional attacks per turn", "[1] extra interceptions may be made per turn", "[80]% chance to intercept air attacks", "[+300]% Strength <vs [Air] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
+		"uniques": ["Consumes [1] [Iron]", "[1] additional attacks per turn", "[1] extra interceptions may be made per turn", "[80]% chance to intercept air attacks", "[+300]% Strength <vs [Air] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 		"attackSound": "machinegun"
 	},
 	{
@@ -445,7 +445,7 @@
 		"cost": 360,
 		"requiredTech": "Ballistics",
 		"promotions": ["Fire Support"],
-		"uniques": ["[90]% chance to intercept air attacks", "[+300]% Strength <vs [Air] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
+		"uniques": ["Consumes [1] [Iron]", "[90]% chance to intercept air attacks", "[+300]% Strength <vs [Air] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 		"attackSound": "shot"
 	},
 	{
@@ -457,7 +457,7 @@
 		"cost": 400,
 		"requiredTech": "Ballistics",
 		"promotions": ["Fire Support"],
-		"uniques": ["[100]% chance to intercept air attacks", "[+300]% Strength <vs [Air] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
+		"uniques": ["Consumes [2] [Iron]", "[100]% chance to intercept air attacks", "[+300]% Strength <vs [Air] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 		"attackSound": "tankshot"
 	},
 	{
