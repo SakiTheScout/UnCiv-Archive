@@ -816,8 +816,8 @@
 		"uniques": [
 			"Club",
 			"[+1 Gold, +1 Happiness, +1 Culture] [in all cities]",
-			"[+20]% [Culture] [in this city]",
-			"[+2 Gold, -1 Faith, -1 Production] <for every [3] [Culture]> <in this city>",
+			"[+10]% [Culture] [in this city]",
+			"[+3 Gold, -1 Faith, -1 Production] from all [Culture] buildings <in this city>",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Club]>",
 			"All newly-trained [Land] units [in this city] receive the [Festival Management Committee] promotion",
