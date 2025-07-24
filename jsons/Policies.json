@@ -401,9 +401,9 @@
             {
                 "name": "Tourism Business",
                 "uniques": [
-                    "[+1 Gold] per every [6] [Culture]",
+                    "[+3 Gold] from every [Artist] specialist",
                     "[Gold] cost of purchasing [Culture] buildings [-10]%",
-                    "[+1 Gold] from all [Culture] buildings"
+                    "[+2 Gold] from all [Culture] buildings"
                 ],
                 "row": 1,
                 "column": 1
@@ -423,7 +423,7 @@
                 "uniques": [
                     "[+2 Culture] from each Trade Route",
                     "[+2 Culture] per [6] population [in all cities]",
-                    "[+1 Happiness] per every [10] [Culture]"
+                    "[+1 Happiness] <for every [10] [[Culture] Building]>"
                 ],
                 "requires": ["Tourism Business"],
                 "row": 2,
@@ -443,7 +443,7 @@
             {
                 "name": "Sovereign Culture",
                 "uniques": [
-                    "Earn [100]% of killed [Military] unit's [Strength] as [Culture]",
+                    "Earn [50]% of killed [Military] unit's [Strength] as [Culture]",
                     "[-10]% Culture cost of adopting new Policies",
                     "[+3 Culture] per [8] population [in capital]"
                 ],
@@ -465,7 +465,7 @@
                 "name": "Cultural Legacy Complete",
                 "uniques": [
                     "[+1 Culture] from every specialist [in all cities]",
-                    "[2] population in a random city",
+                    "[1] population in a random city",
                     "[-20]% City-State Influence degradation"
                 ]
             }
