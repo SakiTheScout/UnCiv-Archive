@@ -401,7 +401,7 @@
             {
                 "name": "Tourism Business",
                 "uniques": [
-                    "[+3 Gold] from every [Artist] specialist",
+                    "[+3 Gold] from every [Artist]",
                     "[Gold] cost of purchasing [Culture] buildings [-10]%",
                     "[+2 Gold] from all [Culture] buildings"
                 ],
@@ -423,7 +423,7 @@
                 "uniques": [
                     "[+2 Culture] from each Trade Route",
                     "[+2 Culture] per [6] population [in all cities]",
-                    "[+1 Happiness] <for every [10] [[Culture] Building]>"
+                    "[+1 Happiness] from all [Culture] buildings"
                 ],
                 "requires": ["Tourism Business"],
                 "row": 2,
@@ -434,7 +434,7 @@
                 "uniques": [
                     "Comment [Increased yield from festivals]",
                     "[-20]% unhappiness from the number of cities",
-                    "[50]% of excess happiness converted to [Culture]"
+                    "[25]% of excess happiness converted to [Culture]"
                 ],
                 "requires": ["Maintained Traditions"],
                 "row": 2,
