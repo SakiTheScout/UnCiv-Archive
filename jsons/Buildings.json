@@ -814,6 +814,7 @@
 		"cost": 40,
 		"requiredTech": "Drama and Poetry",
 		"uniques": [
+			"Club",
 			"[+1 Gold, +1 Happiness, +1 Culture] [in all cities]",
 			"[+20]% [Culture] [in this city]",
 			"[+2 Gold, -1 Faith, -1 Production] <for every [3] [Culture]> <in this city>",
@@ -832,6 +833,7 @@
 		"cost": 40,
 		"requiredTech": "Drama and Poetry",
 		"uniques": [
+			"Club",
 			"[+3]% [Science] [in all cities]",
 			"[+3]% [Culture] [in all cities]",
 			"Cost increases by [40] when built",
@@ -847,6 +849,7 @@
 		"cost": 40,
 		"requiredTech": "Drama and Poetry",
 		"uniques": [
+			"Club",
 			"[+3]% [Faith] [in all cities]",
 			"[+3]% [Culture] [in all cities]",
 			"New [Land] units start with [10] XP [in this city]",
@@ -864,6 +867,7 @@
 		"cost": 40,
 		"requiredTech": "Drama and Poetry",
 		"uniques": [
+			"Club",
 			"[-3]% [Happiness] [in all cities]",
 			"[-3]% [Production] [in all cities]",
 			"[+3]% [Faith] [in all cities]",
