@@ -872,7 +872,7 @@
 			"[-3]% [Production] [in all cities]",
 			"[+3]% [Faith] [in all cities]",
 			"[+3]% [Culture] [in all cities]",
-			"[+2 Culture, -1 Gold, -1 Production] <for every [3] [Gold]> <in this city>",
+			"[+2 Culture, -1 Gold, -1 Production] <for every [3] [Production]> <in this city>",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Club]> <hidden from users>",
 			"All newly-trained [Land] units [in this city] receive the [Street Ghost Troupe] promotion",
