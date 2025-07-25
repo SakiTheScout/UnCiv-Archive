@@ -590,7 +590,7 @@ TileSets/FantasyHex/Tiles/Desert
   orig: 32, 36
   offset: 32, 36
   index: -1
-TileSets/FantasyHex/Tiles/Lake
+TileSets/FantasyHex/Tiles/Lakes
   rotate: false
   xy: 64, 72
   size: 32, 36
