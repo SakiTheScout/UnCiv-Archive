@@ -77,6 +77,17 @@
     "uniques": ["Comment [Experienced field officer leading troops with inspiring and fearsome aura.]", "[-25]% Strength for enemy [{Wounded} {Infantry}] units in adjacent [All] tiles", "[+15]% Strength bonus for [Infantry] units within [2] tiles", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"]
 	},
 	{
+		"name": "Combat Engineer",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 70,
+		"cost": 425,
+		"requiredTech": "Plastics",
+	        "promotions": ["Elite"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Infantry unit that can safely move over traps, mines and obstacles, as well as to plant and remove them. Can create Foundations to then place Fortifications there.]", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
+	},
+	{
 		"name": "Field Surgeon",
 		"unitType": "Infantry",
 		"movement": 2,
