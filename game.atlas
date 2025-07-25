@@ -544,7 +544,7 @@ UnitIcons/Veteran Infantry
   index: -1
 
 TileSets.png
-size: 96, 108
+size: 128, 108
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -607,6 +607,27 @@ TileSets/FantasyHex/Tiles/Ocean
 TileSets/FantasyHex/Tiles/Coast
   rotate: false
   xy: 0, 72
+  size: 32, 36
+  orig: 32, 36
+  offset: 32, 36
+  index: -1
+TileSets/FantasyHex/Tiles/Tundra
+  rotate: false
+  xy: 96, 72
+  size: 32, 36
+  orig: 32, 36
+  offset: 32, 36
+  index: -1
+TileSets/FantasyHex/Tiles/Mountain
+  rotate: false
+  xy: 96, 64
+  size: 32, 36
+  orig: 32, 36
+  offset: 32, 36
+  index: -1
+TileSets/FantasyHex/Tiles/Snow
+  rotate: false
+  xy: 96, 36
   size: 32, 36
   orig: 32, 36
   offset: 32, 36
