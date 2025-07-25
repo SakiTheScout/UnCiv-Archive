@@ -85,7 +85,7 @@
 		"requiredTech": "Plastics",
 	        "promotions": ["Elite"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Infantry unit that can safely move over traps, mines and obstacles, as well as to plant and remove them. Can create Foundations to then place Fortifications there.]", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
+    "uniques": ["Comment [Infantry unit that can safely move over traps, mines and obstacles, as well as to plant and remove them. Can create Foundations to then place Fortifications there.]", "Can build [Defensive Improvement] improvements on tiles", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
 	},
 	{
 		"name": "Field Surgeon",
