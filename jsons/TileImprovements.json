@@ -113,13 +113,12 @@
 		"shortcutKey": "O"
 	},
 	{
-		"name": "Landmines",
+		"name": "Minefield",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": -3,
 		"gold": -3,
 		"food": -3,
-		"uniques": ["Comment [Dangerous landmines laying silently waiting for fools to step upon them.]", 
-			    "Comment [Apply [Stunned] for 2 turns to any non-[Combat Engineer] units entering this tile.]",
+		"uniques": ["Comment [Dangerous landmines laying silently waiting for fools to step upon them.]",
 			    "Will not be replaced by automated units <hidden from users>",
 			    "Unbuildable",
 			    "Can be built outside your borders",
