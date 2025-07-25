@@ -618,14 +618,14 @@ TileSets/FantasyHex/Tiles/Tundra
   orig: 32, 36
   offset: 32, 36
   index: -1
-TileSets/FantasyHex/Tiles/Mountain
+TileSets/FantasyHex/Tiles/Snow
   rotate: false
-  xy: 96, 64
+  xy: 96, 0
   size: 32, 36
   orig: 32, 36
   offset: 32, 36
   index: -1
-TileSets/FantasyHex/Tiles/Snow
+TileSets/FantasyHex/Tiles/Mountain
   rotate: false
   xy: 96, 36
   size: 32, 36
