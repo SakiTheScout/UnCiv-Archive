@@ -62,7 +62,7 @@
       "[+1] Sight",
       "[+1] Movement",
       "Earn [25]% of killed [Military] unit's [Strength] as [Science]",
-      "[This Unit] heals [15] HP <upon entering combat>"]},
+      "[This Unit] heals [15] HP <upon losing at least [1] HP in a single attack>"]},
 {
     "name": "Kivotos Robot",
     "uniques": [
