@@ -588,28 +588,28 @@ TileSets/FantasyHex/Tiles/Desert
   xy: 64, 36
   size: 32, 28
   orig: 32, 28
-  offset: 0, 0
+  offset: 32, 36
   index: -1
 TileSets/FantasyHex/Tiles/Lake
   rotate: false
   xy: 64, 72
   size: 32, 28
   orig: 32, 28
-  offset: 0, 0
+  offset: 32, 36
   index: -1
 TileSets/FantasyHex/Tiles/Ocean
   rotate: false
   xy: 32, 72
   size: 32, 28
   orig: 32, 28
-  offset: 0, 0
+  offset: 32, 36
   index: -1
 TileSets/FantasyHex/Tiles/Coast
   rotate: false
   xy: 0, 72
   size: 32, 28
   orig: 32, 28
-  offset: 0, 0
+  offset: 32, 36
   index: -1
 
 UnitPromotions.png
