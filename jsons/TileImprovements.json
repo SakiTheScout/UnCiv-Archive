@@ -259,6 +259,7 @@
 	},
 	{
 		"name": "Citadel",
+		"turnsToBuild": 20,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
 			"Great Improvement",
