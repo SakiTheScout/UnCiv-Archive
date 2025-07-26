@@ -350,6 +350,17 @@
             }
         ]
     },
+{
+        "name": "Madame of Arius",
+	"text": "Madame arrived suddenly, without any ceremonies. Only the most observant ones could have predicted the approaching darkness. Few lived after meeting her, as she preferred to command from shadows, using her emissaries and instructors. Madame brought with herself a large group of professional mercenaries, outsiders, non-students, adults from beyond Kivotos. They were rude, sadistic, unrestricted and very creative in ways to punish those who didn't follow their commands or tried to run. The Tear Square quickly turned into a place for public punishments. Madame ruled with iron fist, all hope, all faith and all traditions were discarded. 'Vanitas Vanitatum et Omnia Vanitas'. This is how motto of New Arius sounded. Our lives meant nothing in this cruel cycle of violence and despair. Madame was not human: those who returned with pale faces say that air around her smells with ozone and is cold like winter chill, that they can't see her face and her shadows, that she literally beams with power of a higher being...",
+        "choices": [
+            {
+                "text": "How can we fight something like this?..",
+		"uniques": ["Provides [1] [Counter] <for [11] turns> <hidden from users>",
+		"[-2] population [in all cities] <hidden from users>",]
+            }
+        ]
+    },
 
 	
   {
