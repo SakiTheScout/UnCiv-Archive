@@ -129,7 +129,7 @@
 		"requiredTech": "Plastics",
 	        "promotions": ["Troops"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Infantry unit specialising in assaults on reinforced positions.]", "[+25]% Strength <when fighting in [Fort] tiles>", "[+50]% Strength <when fighting in [Citadel] tiles>", "Ignores Zone of Control"]
+    "uniques": ["Comment [Infantry unit specialising in assaults on reinforced positions.]", "[+33]% Strength <when fighting in [Defensive Improvement] tiles> <when attacking>", "Ignores Zone of Control"]
 	},
 	{
 		"name": "Raider Infantry",
