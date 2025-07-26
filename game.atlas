@@ -653,6 +653,27 @@ TileSets/FantasyHex/Tiles/Trench
   orig: 32, 36
   offset: 32, 36
   index: -1
+TileSets/FantasyHex/Tiles/Jungle
+  rotate: false
+  xy: 160, 72
+  size: 32, 36
+  orig: 32, 36
+  offset: 32, 36
+  index: -1
+TileSets/FantasyHex/Tiles/Marsh
+  rotate: false
+  xy: 160, 0
+  size: 32, 36
+  orig: 32, 36
+  offset: 32, 36
+  index: -1
+TileSets/FantasyHex/Tiles/Hill
+  rotate: false
+  xy: 160, 36
+  size: 32, 36
+  orig: 32, 36
+  offset: 32, 36
+  index: -1
 
 UnitPromotions.png
 size: 600,300
