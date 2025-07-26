@@ -101,9 +101,9 @@
 		"outerColor": [242,247,255],
 		"innerColor": [12,34,38],
 		"uniqueName": "Hatred that is not ours",
-		"uniques":["Lesser School",
-		"[+75]% Strength <when fighting units from a Civilization with more Cities than you>",
-		"[-100]% Unhappiness from [Population] [in all cities] <when at war>"],
+		"uniques":["Lesser School <before discovering [Civil Service]> <hidden from users>",
+		"Comment [Lesser School with tragic fate. Will you endure?]",
+		"Triggers a [Trinity Treaty (Arius)] event <upon discovering [Civil Service]> <hidden from users>"],
 		"cities": ["Arius Basilica", "Remnants of Basilica's Downtown", "The Tear Square", "Arius District 1", "Arius District 2", "Arius District 3", "Arius District 7", "Arius District 8", "Arius District 9", "Arius District 10", "Arius District 11"],
 		"personality": "Madame Beatrice"},
 	{
