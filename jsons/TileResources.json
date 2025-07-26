@@ -19,7 +19,7 @@
 	{
 		"name": "Counter",
 		"resourceType": "Strategic",
-		"uniques": ["Stockpiled", "Not shown on world screen"]
+		"uniques": ["Stockpiled"]
 	},
 	{
 		"name": "Edict Duration",
