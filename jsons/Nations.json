@@ -106,7 +106,8 @@
 		"Triggers a [Trinity Treaty (Arius)] event <upon discovering [Civil Service] technology> <without [Counter]> <hidden from users>",
 		"Triggers a [Trinity Treaty (Arius)] event <upon turn start> <starting from the [Renaissance era]> <after turn number [2]> <without [Counter]> <hidden from users>",
 		"Triggers a [Fall of Arius] event <upon turn start> <when between [3] and [3] [Counter]> <hidden from users>",
-		"Triggers a [Fresh Start] event <upon turn start> <when between [32] and [32] [Counter]> <hidden from users>"],
+		"Triggers a [Fresh Start] event <upon turn start> <when between [32] and [32] [Counter]> <hidden from users>",
+		"Triggers a [Madame of Arius] event <upon turn start> <when between [37] and [37] [Counter]> <hidden from users>"],
 		"cities": ["Arius Basilica", "Remnants of Basilica's Downtown", "The Tear Square", "Arius District 1", "Arius District 2", "Arius District 3", "Arius District 7", "Arius District 8", "Arius District 9", "Arius District 10", "Arius District 11"],
 		"personality": "Madame Beatrice"},
 	{
