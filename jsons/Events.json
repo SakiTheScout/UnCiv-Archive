@@ -319,7 +319,7 @@
         "choices": [
             {
                 "text": "Hope they will not do something stupid...",
-		"uniques": ["Instantly gain [1] [Counter] <upon turn end <for [3] turns> <hidden from users>"]
+		"uniques": ["Instantly gain [1] [Counter] <upon turn end> <for [3] turns> <hidden from users>"]
             }
         ]
     },
