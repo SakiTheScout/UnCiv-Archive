@@ -332,6 +332,7 @@
 		"uniques": ["Provides [1] [Counter] <for [30] turns> <hidden from users>",
 		"[-80]% [Production] [in all cities] <for [30] turns> <hidden from users>",
 		"Nullifies Growth [in all cities] <for [30] turns> <hidden from users>",
+		"[-100]% [Happiness] [in all cities] <for [30] turns> <hidden from users>",
 		"[-4] population [in all cities] <hidden from users>",
 		"Rebel units may spawn <for [30] turns> <hidden from users>",
 		"Gain [-2000]-[-1000] [Gold] <hidden from users>"
@@ -339,7 +340,16 @@
             }
         ]
     },
-	
+{
+        "name": "Fresh Start",
+	"text": "After all this hardship of survival, former Arius population started recovering from the attack. Scars were deep and wounds were terrible, but they were no longer bleeding. Students have united into a communal council to distribute supplies and fend off the invaders. But scavengers whisper about shadows twitching and changing forms in the outskirts, they speak of weird lights and other... Phenomena. But for now, other things are of matter.",
+        "choices": [
+            {
+                "text": "We must survive, rumors can wait.",
+		"uniques": ["Provides [1] [Counter] <for [6] turns> <hidden from users>"]
+            }
+        ]
+    },
 
 	
   {
