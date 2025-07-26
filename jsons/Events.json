@@ -318,7 +318,19 @@
         "text": "Today, Tea Party was held with all presidents of Allied Schools were gathered. Candle lights were twitching in darkened hall before first glimpse of sun could reach it. Usual dialogue was no more here: only one person spoke. 'Gehenna Academy has always loomed over us like a shadow, a beast leaving its cave to bring destruction.' She spoke. 'We stood together for centuries, but our defences are clumbling slowly but surely. We cannot ensure safety of our schools anymore.' Words silenced all whispers for a brief moment. Everyone was tense. Then, the hall was filled with hushed words of delegates talking and thinking of the implications brought by this declaration. 'Silence!' Someone said. 'What do you suggest then?' The first speaker smiled at this question. 'We propose the solution. We erase our borders, melt together into one, strong school that will rival Gehenna Academy. I called this the Trinity Treaty.' People gasped. Whispers rose anew. Unification? Into one school? All schools here were sovereign, independent and self-sufficient. Unification was unthinkable. 'Who do you think you are?! I see what your true colors are, you hope to seize more control and power!' Yelled someone in accusation. Debates bursted with new force, like a wildfire. Honourable guards of Knights Hospitaller tightened grips on their ceremonial weaponry. 'Silence! Silence! Silence!' Yelled the speaker. 'Your accusations are empty! I only seek prosperity of everyone here! Look through the terms, all schools will be represented by separate autonomous clubs with own holds and resources, you don't have to give anything up! Give it a second thought, please!' After that, the delegates started reviewing the Treaty. Trinity Gemeral School... This name was fresh and attractive. All schools as clubs, autonomous but unite closer than ever. Democracy, balance of power, better oversight and organisation. But Arius will not be tempted. 'We reject. Better or not, Arius Branch will remain sovereign. I hope that even if you will sign this treaty, we will all remain friends.' Delegates from Arius left the hall of Tea Party under heavy side glances of other presidents.",
         "choices": [
             {
-                "text": "Hope they will not do something stupid..."
+                "text": "Hope they will not do something stupid...",
+		"uniques": ["Instantly gain [1] [Desertification] <upon turn start> <for [3] turns> <hidden from users>"]
+            }
+        ]
+    },
+{
+        "name": "Fall of Arius",
+        "text": "Rain falls with heavy drops. Clouds darken the dawn's skies. A sound of blast tears the silence apart. 'Was it thunder?'... 'No. This is artillery shell. We have been betrayed. To arms!' So began the battle for Arius. Unthinkable, despicable atrocity of newborn Trinity General School, born in blood of slain friends. By the third dusk, Arius laid in ruins and desolation. Crucified civilians stared emptily at the downpour that kept going and going, like the Gread Flood was sent by skies to wash off the sins. On fifth day, survivors, scattered and scared, came from the ruins of their homes, cold and hungry. On seventh day, General Student Council declared Arius Branch School extinct. Raiders started to flood Arius, eager to tear apart the remnants of the institution.",
+	"choices": [
+            {
+                "text": "Such is the fall of Arius Branch School... It dies alone in cold, betrayed and backstabbed...",
+		"uniques": ["Instantly gain [1] [Desertification] <upon turn start> <for [30] turns> <(modified by game speed)> <hidden from users>"
+		]
             }
         ]
     },
