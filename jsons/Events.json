@@ -325,7 +325,7 @@
     },
 {
         "name": "Fall of Arius",
-        "text": "Rain falls with heavy drops. Clouds darken the dawn's skies. A sound of blast tears the silence apart. 'Was it thunder?'... 'No. This is artillery shell. We have been betrayed. To arms!' So began the battle for Arius. Unthinkable, despicable atrocity of newborn Trinity General School, born in blood of slain friends. By the third dusk, Arius laid in ruins and desolation. Crucified civilians stared emptily at the downpour that kept going and going, like the Gread Flood was sent by skies to wash off the sins. On fifth day, survivors, scattered and scared, came from the ruins of their homes, cold and hungry. On seventh day, General Student Council declared Arius Branch School extinct. Raiders started to flood Arius, eager to tear apart the remnants of the institution.",
+        "text": "Rain falls with heavy drops. Clouds darken the dawn's skies. A sound of blast tears the silence apart. 'Was it thunder?'... 'No. This is artillery shell. We have been betrayed. To arms!' So began the battle for Arius. Unthinkable, despicable atrocity of newborn Trinity General School, born in blood of slain friends. By the third dusk, Arius District laid in ruins, the downpour kept going and going, like the Great Flood was sent by skies to wash off the sins. On fifth day, survivors, scattered and scared, came from the ruins of their homes, cold and hungry. On seventh day, General Student Council declared Arius Branch School extinct. Raiders started to flood Arius, eager to tear apart the remnants of the institution.",
 	"choices": [
             {
                 "text": "Such is the fall of Arius Branch School... It dies alone in cold, betrayed and backstabbed...",
@@ -334,7 +334,7 @@
 		"Nullifies Growth [in all cities] <for [30] turns> <hidden from users>",
 		"[-4] population [in all cities] <hidden from users>",
 		"Rebel units may spawn <for [30] turns> <hidden from users>",
-		"Gain [-2000]-[-1000] [Gold]"
+		"Gain [-2000]-[-1000] [Gold] <hidden from users>"
 		]
             }
         ]
