@@ -329,7 +329,7 @@
 	"choices": [
             {
                 "text": "Such is the fall of Arius Branch School... It dies alone in cold, betrayed and backstabbed...",
-		"uniques": ["Instantly gain [1] [Counter] <upon turn start> <for [30] turns> <hidden from users>",
+		"uniques": ["Instantly gain [1] [Counter] <upon turn end> <for [30] turns> <hidden from users>",
 		"[-80]% [Production] [in all cities] <for [30] turns> <hidden from users>",
 		"Nullifies Growth [in all cities] <for [30] turns> <hidden from users>",
 		"[-4] population [in all cities] <hidden from users>",
