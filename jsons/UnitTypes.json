@@ -10,37 +10,37 @@
         "uniques": [
           "[This Unit] gains [1] movement <when adjacent to a [Move! Move! Move!] unit>",
           "[This Unit] gains the [Blood for the Blood God] promotion <upon defeating a [All] unit> <with [1]% chance>",
-          "[This Unit] takes [25] damage <upon ending a turn in a [Minefield] tile> <for [non-[Combat Engineer]] units>"]
+          "[This Unit] takes [25] damage <upon entering a [Minefield] tile> <for [non-[Combat Engineer]] units>"]
    },
    {
         "name": "Ranged Infantry",
         "movementType": "Land",
         "uniques": ["[-15]% Strength <when defending>",
-        "[This Unit] takes [25] damage <upon ending a turn in a [Minefield] tile>"]
+        "[This Unit] takes [25] damage <upon entering a [Minefield] tile>"]
    },
   {
         "name": "Towed",
         "movementType": "Land",
         "uniques": ["[-25]% Strength <when defending>",
-        "[This Unit] takes [25] damage <upon ending a turn in a [Minefield] tile>"]
+        "[This Unit] takes [25] damage <upon entering a [Minefield] tile>"]
   },
   {
         "name": "Bike",
         "movementType": "Land",
         "uniques": ["[+25]% to Flank Attack bonuses", "No defensive terrain bonus", "Can move after attacking",
-        "[This Unit] takes [25] damage <upon ending a turn in a [Minefield] tile>"]
+        "[This Unit] takes [25] damage <upon entering a [Minefield] tile>"]
   },
   {
         "name": "Light Armor",
         "movementType": "Land",
         "uniques": ["Can move after attacking", "No defensive terrain bonus",
-        "[This Unit] takes [25] damage <upon ending a turn in a [Minefield] tile>"]
+        "[This Unit] takes [25] damage <upon entering a [Minefield] tile>"]
   },
   {
         "name": "Medium Armor",
         "movementType": "Land",
         "uniques": ["Can move after attacking", "No defensive terrain bonus", "Rough terrain penalty",
-        "[This Unit] takes [25] damage <upon ending a turn in a [Minefield] tile>"]
+        "[This Unit] takes [25] damage <upon entering a [Minefield] tile>"]
   },
   {
         "name": "Heavy Armor",
