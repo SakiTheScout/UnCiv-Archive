@@ -87,45 +87,53 @@
       "Can build [non-[Defensive Improvement]] improvements on tiles"]},
 	// Arius
 {
-    "name": "Vanitas Martyrdom",
+    "name": "1st Arius Unit",
     "uniques": [
-      "[+100]% Strength <when attacking>",
-      "Self-destructs when attacking",
-      "Blast radius [1]"],
-	"outerColor": [242,247,255],
-	"innerColor": [12,34,38]},
-  {
-    "name": "Shadowpath",
+      "[+25]% Strength <vs [Kivotos Halo] units> <when attacking>",
+      "[+15]% Strength bonus for [1st Arius Unit] units within [1] tiles",
+      "No movement cost to pillage"],
+  "outerColor": [242,247,255],
+  "innerColor": [12,34,38]},
+{
+    "name": "2nd Arius Unit",
     "uniques": [
-      "Withdraws before melee combat <with [50]% chance>",
-      "Invisible to non-adjacent units",
+      "Can move after attacking",
+      "Heals [25] damage if it kills a unit",
       "Ignores Zone of Control"],
-	  "outerColor": [242,247,255],
-	  "innerColor": [12,34,38]},
-  {
-    "name": "Silent Chorus",
-    "uniques": [
-      "[-20]% Strength for enemy [Wounded] units in adjacent [All] tiles",
-      "Prevents spreading of religion to the city it is next to",
-      "Can see invisible [All] units"],
   "outerColor": [242,247,255],
   "innerColor": [12,34,38]},
-  {
-    "name": "Coming from Below",
+{
+    "name": "3rd Arius Unit",
     "uniques": [
-      "[+50]% to Flank Attack bonuses",
-      "May Paradrop to [Land] tiles up to [7] tiles away",
-      "[1] additional attacks per turn"],
+      "May enter foreign tiles without open borders",
+      "Can see invisible [All] units",
+      "Invisible to non-adjacent units"],
   "outerColor": [242,247,255],
   "innerColor": [12,34,38]},
-	{
-    "name": "Ultimate Judgement",
+{
+    "name": "4th Arius Unit",
     "uniques": [
-      "[+75]% Strength <vs [Kivotos Halo] units> <when attacking>",
-      "[+25]% Strength <when adjacent to a [Wounded] unit> <when attacking>",
-      "Destroys tile improvements when attacking"],
+      "Withdraws before melee combat <with [25]% chance>",
+      "May Paradrop to [Land] tiles up to [6] tiles away",
+      "[+25]% Strength <vs [HQ] units> <when attacking>"],
   "outerColor": [242,247,255],
   "innerColor": [12,34,38]},
+{
+    "name": "5th Arius Unit",
+    "uniques": [
+      "[This Unit] gains the [Martyrdom] status for [1] turn(s) <for [0] movement> <for units without [Grenade Cooldown]> <hidden from users>",
+      "Ignores terrain cost",
+      "No damage penalty for wounded units"],
+  "outerColor": [242,247,255],
+  "innerColor": [12,34,38]},
+{
+        "name": "Martyrdom",    
+	"uniques": [
+		"Unable to capture cities",
+		"[+1] Movement",
+		"Self-destructs when attacking",
+		"[Target Unit] takes [30] damage <upon damaging a [All] unit>",
+		"[This Unit] gains the [Grenade Cooldown] status for [3] turn(s) <upon gaining the [Martyrdom] status>"]},
 	// Abydos
     {
     "name": "Foreclusive Task Force",
