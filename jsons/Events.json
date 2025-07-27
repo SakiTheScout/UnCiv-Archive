@@ -367,7 +367,8 @@
         "choices": [
             {
                 "text": "Vanitas Vanitatum et Omnia Vanitas!",
-		"uniques": ["Gain a free [Arius Basilica] [in capital]"]
+		"uniques": ["Gain a free [Arius Basilica] [in capital]",
+		"Provides [1] [Counter] <for [4] turns> <hidden from users>"]
             }
         ]
     },
