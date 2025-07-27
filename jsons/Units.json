@@ -1,5 +1,15 @@
 [
   {
+		"name": "Settler",
+		"unitType": "Civilian",
+		"movement": 2,
+		"cost": 106,
+		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
+			"Requires at least [2] population",
+		"Limited to [1] per Civilization <for [Lesser School] Civilizations> <hidden from users>"],
+		"hurryCostModifier": 20
+  },
+  {
 		"name": "Light Infantry",
 		"unitType": "Infantry",
 		"movement": 3,
