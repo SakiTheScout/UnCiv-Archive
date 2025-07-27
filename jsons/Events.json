@@ -361,6 +361,16 @@
             }
         ]
     },
+{
+        "name": "New Beginning",
+	"text": "Years passed. Generations of Arius students changed. Madame has brought more adults to train and equip an army. Organised with iron hand, disciplined by fear and driven by hatred that is not theirs. They are slowly preparing to act upon their dark leader's plans...",
+        "choices": [
+            {
+                "text": "Vanitas Vanitatum et Omnia Vanitas!",
+		"uniques": ["Gain a free [Arius Basilica] [in capital]"]
+            }
+        ]
+    },
 
 	
   {
