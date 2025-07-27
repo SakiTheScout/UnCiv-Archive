@@ -151,7 +151,7 @@
 		"uniqueTo": "Arius Branch School",
 		"cost": 0,
 		"uniques": ["Destroyed when the city is captured", "Unavailable",
-		"Reveal up to [all] [City Centre] within a [99999999999] tile radius",
+		"Reveal up to [all] [City Centre] within a [10000] tile radius",
 		"[-20]% [Happiness] [in all cities]",
 		"[-20]% [Production] [in all cities]",
 		"[-20]% [Faith] [in all cities]",
