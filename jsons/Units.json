@@ -484,6 +484,7 @@
 	{
 		"name": "HMG Emplacement",
 		"unitType": "Fortification",
+		"movement": 0,
 		"range": 1,
 		"strength": 50,
 		"rangedStrength": 90,
