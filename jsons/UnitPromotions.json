@@ -935,6 +935,11 @@
 	"outerColor": [255,255,255],
 	"innerColor": [0,0,0]},
 	{
+		"name": "Fortification",
+		"uniques": ["Comment [A building for war purposes.]"],
+	"outerColor": [255,255,255],
+	"innerColor": [0,0,0]},
+	{
 		"name": "Lord of War",
 		"uniques": ["Comment [Apocalypse today, requires to have 3 [HQ].]", "Consumes [1] [LoW limit] <hidden from users>", "[+250]% maintenance costs", "[-100]% XP gained from combat"],
 	"outerColor": [255,255,255],
