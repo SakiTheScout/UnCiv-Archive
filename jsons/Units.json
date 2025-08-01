@@ -490,7 +490,7 @@
 		"rangedStrength": 90,
 		"cost": 450,
 		"requiredTech": "Ballistics",
-		"uniques": ["[-10000]% Strength <in [non-[Foundation]] tiles>", "[+33]% Strength <when defending>", "Cannot move <in [Foundation] tiles>", "May Paradrop to [Foundation] tiles up to [10] tiles away <in [non-[Foundation]] tiles>", "[+25]% Strength <vs [Infantry] units> <when attacking>", "[+25]% Strength <vs [Light Armor] units> <when attacking>"],
+		"uniques": ["[+33]% Strength <when defending> <in [Foundation] tiles>", "Cannot move <in [Foundation] tiles>", "May Paradrop to [Foundation] tiles up to [10] tiles away <in [non-[Foundation]] tiles>", "[+25]% Strength <vs [Infantry] units> <when attacking>", "[+25]% Strength <vs [Light Armor] units> <when attacking>", "[This Unit] takes [50] damage <upon turn start> <in [non-[Foundation]] tiles>"],
 		"promotions": ["Fortification"],
 		"attackSound": "machinegun"
 	},
