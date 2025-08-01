@@ -482,6 +482,18 @@
 		"attackSound": "tankshot"
 	},
 	{
+		"name": "HMG Emplacement",
+		"unitType": "Fortification",
+		"range": 1,
+		"strength": 50,
+		"rangedStrength": 90,
+		"cost": 450,
+		"requiredTech": "Ballistics",
+		"uniques": ["[+33]% Strength <when defending>", "May Paradrop to [Foundation] tiles up to [10] tiles away <once>", "[+25]% Strength <vs [Infantry] units> <when attacking>", "[+25]% Strength <vs [Light Armor] units> <when attacking>"],
+		"promotions": ["Fortification"],
+		"attackSound": "machinegun"
+	},
+	{
 		"name": "Sensei of SCHALE",
 		"unitType": "Hero",
 		"movement": 2,
