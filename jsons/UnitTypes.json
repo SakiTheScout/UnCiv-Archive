@@ -57,8 +57,7 @@
   {
         "name": "Fortification",
         "movementType": "Land",
-        "uniques": ["Can be earned through combat <with [75]% chance>",
-        "Cannot move"]
+        "uniques": ["Can be earned through combat <with [75]% chance>"]
    },
   {
         "name": "Hero",
