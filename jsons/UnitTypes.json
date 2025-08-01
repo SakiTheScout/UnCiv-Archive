@@ -55,6 +55,12 @@
         "[This Unit] takes [25] damage <upon ending a turn in a [Minefield] tile>"]
   },
   {
+        "name": "Fortification",
+        "movementType": "Land",
+        "uniques": ["Can be earned through combat <with [75]% chance>",
+        "Cannot move"]
+   },
+  {
         "name": "Hero",
         "movementType": "Land",
         "uniques": ["Withdraws before melee combat <with [25]% chance>", "[+100]% Strength <vs [Ranged] units> <when defending>", "[+100]% Strength <when defending>", "Instantly consumes [5] [Eleph] <upon turn start>", "Instantly consumes [360] [Eleph]",
