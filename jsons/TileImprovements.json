@@ -121,6 +121,14 @@
 		"shortcutKey": "T"
 	},
 	{
+		"name": "Foundation",
+		"terrainsCanBeBuiltOn": ["Land"],
+		"turnsToBuild": 4,
+		"techRequired": "Masonry",
+		"uniques": ["Defensive Improvement", "Can be built outside your borders", "Unpillagable"],
+		"shortcutKey": "F"
+	},
+	{
 		"name": "Minefield",
 		"terrainsCanBeBuiltOn": ["Land", "Forest"],
 		"techRequired": "Replaceable Parts",
