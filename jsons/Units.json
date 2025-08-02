@@ -574,6 +574,44 @@
 		"attackSound": "shot"
 	},
 	{
+		"name": "Mortar Bunker",
+		"unitType": "Fortification",
+		"movement": 1,
+		"strength": 50,
+		"rangedStrength": 75,
+		"range": 2,
+		"cost": 350,
+		"requiredTech": "Replaceable Parts",
+		"uniques": ["Comment [WARNING! Fortifications must be placed on the Foundation improvement, lest they get destroyed!]", "[+66]% Strength <when defending> <in [Foundation] tiles>", "[-1] Sight", "Cannot move <in [Foundation] tiles>", "May Paradrop to [Foundation] tiles up to [10] tiles away <in [non-[Foundation]] tiles>", "[This Unit] takes [50] damage <upon turn start> <in [non-[Foundation]] tiles>", "Consumes [1] [Iron]", "[+100]% Strength <vs [Infantry] units> <when attacking>","No defensive terrain bonus"],
+		"promotions": ["Indirect Fire", "Fortification"],
+		"attackSound": "artillery"
+	},
+	{
+		"name": "Artillery Bunker",
+		"unitType": "Fortification",
+		"movement": 1,
+		"strength": 21,
+		"rangedStrength": 28,
+		"range": 3,
+		"cost": 375,
+		"requiredTech": "Dynamite",
+		"uniques": ["Consumes [1] [Iron]", "[+200]% Strength <vs cities> <when attacking>"],
+		"promotions": ["Indirect Fire", "Fortification"],
+		"attackSound": "artillery"
+	},
+	{
+		"name": "Anti-Aircraft Bunker",
+		"unitType": "Fortification",
+		"movement": 1,
+		"interceptRange": 2,
+		"strength": 70,
+		"cost": 360,
+		"requiredTech": "Ballistics",
+		"promotions": ["Fortification"],
+		"uniques": ["Comment [WARNING! Fortifications must be placed on the Foundation improvement, lest they get destroyed!]", "[+66]% Strength <when defending> <in [Foundation] tiles>", "[-1] Sight", "Cannot move <in [Foundation] tiles>", "May Paradrop to [Foundation] tiles up to [10] tiles away <in [non-[Foundation]] tiles>", "[This Unit] takes [50] damage <upon turn start> <in [non-[Foundation]] tiles>", "Consumes [1] [Iron]", "[90]% chance to intercept air attacks", "[+300]% Strength <vs [Air] units>"],
+		"attackSound": "shot"
+	},
+	{
 		"name": "Sensei of SCHALE",
 		"unitType": "Hero",
 		"movement": 2,
