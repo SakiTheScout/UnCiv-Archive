@@ -631,7 +631,7 @@
 		"rangedStrength": 50,
 		"cost": 350,
 		"requiredTech": "Ballistics",
-		"uniques": ["Cannot move <in [non-[City Centre]] tiles> <hidden from users>", "May Paradrop to [Land] tiles up to [10] tiles away <hidden from users>", "[+50]% Strength <vs [Infantry] units> <when attacking>"],
+		"uniques": ["Cannot move <in [non-[City center]] tiles> <hidden from users>", "May Paradrop to [Land] tiles up to [10] tiles away <hidden from users>", "[+50]% Strength <vs [Infantry] units> <when attacking>"],
 		"promotions": ["Fortification"],
 		"attackSound": "machinegun"
 	},
