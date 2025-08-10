@@ -41,7 +41,7 @@
   {
     "name": "Trinity's Vigilante Crew",
     "uniques": [
-      "Can see invisible [Land] units",
+      "[This Unit] gains the [Detection T1] promotion",
       "[+20]% Strength <when defending>",
       "[+20]% Strength <when stacked with a [Civilian] unit>"],
 	  "outerColor": [200,200,200],
@@ -106,8 +106,8 @@
     "name": "3rd Arius Unit",
     "uniques": [
       "May enter foreign tiles without open borders",
-      "Can see invisible [All] units",
-      "Invisible to non-adjacent units"],
+      "[This Unit] gains the [Detection T1] promotion",
+      "[This Unit] gains the [Stealth T1] promotion"],
   "outerColor": [242,247,255],
   "innerColor": [12,34,38]},
 {
@@ -198,7 +198,7 @@
     "uniques": [
       "[-25]% Strength for enemy [Wounded] units in adjacent [All] tiles",
       "[+50]% to Flank Attack bonuses",
-      "Can see invisible [All] units"]},
+      "[This Unit] gains the [Detection T1] promotion"]},
 	{
     "name": "Engineering Department",
     "uniques": [
@@ -263,7 +263,7 @@
 	{
     "name": "Genryumon",
     "uniques": [
-      "Can see invisible [All] units",
+      "[This Unit] gains the [Detection T1] promotion",
       "[+50]% Strength <when defending> <when fighting in [Friendly Land] tiles>",
       "Great General provides double combat bonus"]},
 	
@@ -295,7 +295,7 @@
     "name": "Ninjutsu Research Club",
     "uniques": [
       "Ignores Zone of Control",
-      "Invisible to non-adjacent units",
+      "[This Unit] gains the [Stealth T1] promotion",
       "Ignores terrain cost"]},
 	{
     "name": "Street Ghost Troupe",
@@ -326,7 +326,7 @@
     "uniques": [
       "Gain [1]-[10] [Science] <upon turn start>",
       "Withdraws before melee combat <with [33]% chance>",
-      "Can see invisible [All] units"],
+      "[This Unit] gains the [Detection T1] promotion"],
 	  "outerColor": [255,253,249],
 	  "innerColor": [255,210,111]},
 	{
@@ -341,7 +341,7 @@
        {
     "name": "Special Response Team",
     "uniques": [
-      "Invisible to non-adjacent units",
+      "[This Unit] gains the [Stealth T1] promotion",
       "May Paradrop to [Land] tiles up to [15] tiles away <when [non-[Wounded]]>",
       "[+50]% XP gained from combat",
       "Instantly gain [1] [Golden Age points] <upon turn start>"],
@@ -359,7 +359,7 @@
 	{
     "name": "Kronos News Club",
     "uniques": [
-      "Can see invisible [Land] units",
+      "[This Unit] gains the [Detection T1] promotion",
       "May enter foreign tiles without open borders",
       "[1] Sight",
       "Instantly gain [1] [Golden Age points] <upon turn start>"],
@@ -559,7 +559,8 @@
 		"uniques": [
 			"Comment [[Smokescreen]: Hide in smoke for 3 turns. Cooldown: 10 turns.]",
 			"[+1]% Strength",
-			"[This Unit] gains the [Smokescreen] status for [3] turn(s) <for [0] movement> <for units without [Grenade Cooldown]> <hidden from users>"],
+			"[This Unit] gains the [Smokescreen] status for [3] turn(s) <for [0] movement> <for units without [Grenade Cooldown]> <hidden from users>",
+		    "[This Unit] gains the [Stealth T1] status for [3] turn(s) <for [0] movement> <for units without [Grenade Cooldown]> <hidden from users>"],
 		"innerColor": [180,180,180],
 		"outerColor": [0,0,0],
 		"column": 97,
@@ -567,10 +568,11 @@
 	{
 		"name": "Smokescreen",    
 		"uniques": [
-			"[+75]% Strength <vs [Ranged] units> <when defending>",
-			"[+25]% Strength <vs [Air] units> <when defending>",
+			"[+60]% Strength <vs [Ranged] units> <when defending>",
+			"[+10]% Strength <vs [Air] units> <when defending>",
 			"Withdraws before melee combat <with [80]% chance>",
 			"[This Unit] loses the [Smokescreen] status <upon damaging a [All] unit>",
+			"[This Unit] loses the [Stealth T1] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Smokescreen] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Smokescreen] status> <for [Specialist Infantry] units>"]},
 	{
 		"name": "Flashbang Grenades",
@@ -907,7 +909,56 @@
     "[This Unit] gains the [Angelic Features] promotion <upon turn start> <for [0] movement> <with [5]% chance> <for [Barbarians] Civilizations> <hidden from users>",
     "[This Unit] gains the [Human Features] promotion <upon turn end> <hidden from users>"
     ]},
-	
+	// Stealth
+	{
+		"name": "Camouflage",
+		"uniques": ["Comment [Specific colour palette and scheme that allows unit to blend in with sorroundings, especially effective in forests and jungle.]",
+		"[+10]% Strength <vs [Ranged] units> <when defending>",
+		"Invisible to non-adjacent units <in [Forest] tiles>",
+		"Invisible to non-adjacent units <in [Jungle] tiles>"
+	]},
+	{
+		"name": "Stealth T1",
+		"uniques": ["Comment [Be it magic, technology or personal skills, this unit is able to blend in with sorroundings.]",
+		"[+12]% Strength <vs [Ranged] units> <when defending>",
+		"Invisible to non-adjacent units"
+	]},
+	{
+		"name": "Stealth T2",
+		"uniques": ["Comment [Be it magic, technology or personal skills, this unit is able to blend in with sorroundings well.]",
+		"[+15]% Strength <vs [Ranged] units> <when defending>",
+		"Invisible to others <in [Forest] tiles>",
+		"Invisible to others <in [Jungle] tiles>",
+		"Invisible to non-adjacent units"
+	]},
+	{
+		"name": "Stealth T3",
+		"uniques": ["Comment [Be it magic, technology or personal skills, this unit is able to blend in with sorroundings very well.]",
+		"[+20]% Strength <vs [Ranged] units> <when defending>",
+		"Invisible to others"
+	]},
+	// Detection
+	{
+		"name": "Detection T1",
+		"uniques": ["Comment [Using technology, magic or natural perception, this unit is capable of detecting infiltrated units.]",
+		"Can see invisible [Camouflage] units",
+		"Can see invisible [Stealth T1] units"
+	]},
+	{
+		"name": "Detection T2",
+		"uniques": ["Comment [Using technology, magic or natural perception, this unit is capable of detecting infiltrated units well.]",
+		"Can see invisible [Camouflage] units",
+		"Can see invisible [Stealth T1] units",
+		"Can see invisible [Stealth T2] units"
+	]},
+	{
+		"name": "Detection T3",
+		"uniques": ["Comment [Using technology, magic or natural perception, this unit is capable of detecting infiltrated units.]",
+		"Can see invisible [Camouflage] units",
+		"Can see invisible [Stealth T1] units",
+		"Can see invisible [Stealth T2] units",
+		"Can see invisible [Stealth T3] units"
+	]},
 	// Force Organisation
 	{
 		"name": "Troops",
