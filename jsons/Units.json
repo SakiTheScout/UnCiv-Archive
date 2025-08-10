@@ -109,6 +109,19 @@
     "uniques": ["Comment [Like an angel of salvation, this person comes to give wounded their remedy.]", "All adjacent units heal [25] HP when healing", "[+15]% Strength bonus for [{Wounded} {Infantry}] units within [1] tiles", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"]
 	},
 	{
+		"name": "Assassin",
+		"unitType": "Ranged Infantry",
+		"range": 3,
+		"movement": 3,
+		"strength": 60,
+		"rangedStrength": 80,
+		"cost": 480,
+		"requiredTech": "Combined Arms",
+		"uniques": ["[+200]% Strength <vs [HQ] units> <when attacking>", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"],
+		"promotions": ["HQ", "Stealth T2", "Detection T2"],
+		"attackSound": "shot"
+	},
+	{
 		"name": "Scout Infantry",
 		"unitType": "Infantry",
 		"movement": 3,
@@ -116,7 +129,7 @@
 		"cost": 350,
 		"requiredTech": "Plastics",
 		"attackSound": "shot",
-		"promotions": ["Troops"],
+		"promotions": ["Troops", "Detection T1"],
     "uniques": ["Comment [Scout infantry unit.]", "[-25]% Strength <when defending>", "Ignores terrain cost"]
 	},
   {
@@ -159,9 +172,9 @@
 		"strength": 70,
 		"cost": 420,
 		"requiredTech": "Pharmaceuticals",
-	        "promotions": ["Elite"],
+	        "promotions": ["Elite", "Stealth T2"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Light infantry that infiltrates enemy positions.]", "[-25]% Strength <when defending>", "Invisible to non-adjacent units", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
+    "uniques": ["Comment [Light infantry that infiltrates enemy positions.]", "[-25]% Strength <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
 	},
 	{
 		"name": "Veteran Infantry",
@@ -185,6 +198,19 @@
 		"attackSound": "shot",
     "uniques": ["Comment [Heavy infantry unit equipped with ballistic shields that allow them to withstand brutal damage.]", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>",
     "[This Unit] gains the [Ballistic Shield] status for [3] turn(s) <requires [2] movement> <for all movement> <for units without [Grenade Cooldown]> <hidden from users>"],
+	},
+	{
+		"name": "Sniper Infantry",
+		"unitType": "Ranged Infantry",
+		"range": 3,
+		"movement": 3,
+		"strength": 60,
+		"rangedStrength": 70,
+		"cost": 435,
+		"requiredTech": "Combined Arms",
+		"uniques": ["[+100]% Strength <vs [HQ] units> <when attacking>", "[-25]% Strength <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
+		"promotions": ["Elite", "Stealth T2"],
+		"attackSound": "shot"
 	},
 	{
 		"name": "Marine Infantry",
@@ -634,6 +660,16 @@
 		"uniques": ["Cannot move <in [non-[City center]] tiles> <hidden from users>", "May Paradrop to [Land] tiles up to [10] tiles away <hidden from users>", "[+50]% Strength <vs [Infantry] units> <when attacking>"],
 		"promotions": ["Fortification"],
 		"attackSound": "machinegun"
+	},
+	{
+		"name": "Watchtower",
+		"unitType": "Fortification",
+		"movement": 1,
+		"strength": 20,
+		"cost": 80,
+		"requiredTech": "Construction",
+		"uniques": ["Cannot move <in [non-[City center]] tiles> <hidden from users>", "May Paradrop to [Land] tiles up to [10] tiles away <hidden from users>", "Can see over obstacles", "[+2] Sight", "Cannot attack"],
+		"promotions": ["Fortification", "Detection T1"]
 	},
 	{
 		"name": "Sensei of SCHALE",
