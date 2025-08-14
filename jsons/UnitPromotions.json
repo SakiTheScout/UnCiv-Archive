@@ -214,14 +214,25 @@
 	// Hellforge
 	{
       "name": "Tainted Augmentations",
-      "uniques": [
-      "[1] additional attacks per turn <upon turn start> <for [2] turns> <with [15]% chance>",
-      "[1] Movement <upon turn start> <for [2] turns> <with [15]% chance>",
-      "[1] Sight <upon turn start> <for [2] turns> <with [15]% chance>",
-      "[+50]% Strength <upon turn start> <for [2] turns> <with [15]% chance>",
-      "[This Unit] heals [30] HP <with [10]% chance>",
-      "[This Unit] takes [10] damage <with [33]% chance>",
-      "[-10] HP when healing"]},
+      "uniques": ["[This Unit] gains the [Tainted Augmentation] status for [1] turn(s) <for all movement> <hidden from users>"]},
+	{
+		"name": "Tainted Augmentation",
+		"uniques": [
+			"[This Unit] takes [10] damage",
+			"[This Unit] takes [10] damage <with [20]% chance>",
+			"[This Unit] takes [10] damage <with [20]% chance>",
+			"[+1] Sight <with [20]% chance>",
+			"[-1] Sight <with [20]% chance>",
+			"[+1] Movement <with [20]% chance>",
+			"[-1] Movement <with [20]% chance>",
+			"[+15]% Strength <when attacking> <with [20]% chance>",
+			"[-15]% Strength <when attacking> <with [20]% chance>",
+			"[+15]% Strength <when defending> <with [20]% chance>",
+			"[-15]% Strength <when defending> <with [20]% chance>",
+			"[+1] additional attacks per turn <with [10]% chance>",
+			"[-1] additional attacks per turn <with [10]% chance>"
+		]
+	},
 	// Helmet Gang
 	{
     "name": "Helmet Gang",
