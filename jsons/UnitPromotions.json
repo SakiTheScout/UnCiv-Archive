@@ -218,19 +218,21 @@
 	{
 		"name": "Tainted Augmentation",
 		"uniques": [
-			"[This Unit] takes [10] damage",
-			"[This Unit] takes [10] damage <with [20]% chance>",
-			"[This Unit] takes [10] damage <with [20]% chance>",
-			"[+1] Sight <with [20]% chance>",
-			"[-1] Sight <with [20]% chance>",
-			"[+1] Movement <with [20]% chance>",
-			"[-1] Movement <with [20]% chance>",
-			"[+15]% Strength <when attacking> <with [20]% chance>",
-			"[-15]% Strength <when attacking> <with [20]% chance>",
-			"[+15]% Strength <when defending> <with [20]% chance>",
-			"[-15]% Strength <when defending> <with [20]% chance>",
-			"[+1] additional attacks per turn <with [10]% chance>",
-			"[-1] additional attacks per turn <with [10]% chance>"
+			"[This Unit] takes [10] damage <upon gaining the [Tainted Augmentation] status>",
+			"[This Unit] takes [10] damage <with [20]% chance> <upon gaining the [Tainted Augmentation] status>",
+			"[This Unit] takes [10] damage <with [20]% chance> <upon gaining the [Tainted Augmentation] status>",
+			"[+1] Sight <with [20]% chance> <upon gaining the [Tainted Augmentation] status>",
+			"[-1] Sight <with [20]% chance> <upon gaining the [Tainted Augmentation] status>",
+			"[+1] Movement <with [20]% chance> <upon gaining the [Tainted Augmentation] status>",
+			"[-1] Movement <with [20]% chance> <upon gaining the [Tainted Augmentation] status>",
+			"[+15]% Strength <when attacking> <with [20]% chance> <upon gaining the [Tainted Augmentation] status>",
+			"[-15]% Strength <when attacking> <with [20]% chance> <upon gaining the [Tainted Augmentation] status>",
+			"[+15]% Strength <when defending> <with [20]% chance> <upon gaining the [Tainted Augmentation] status>",
+			"[-15]% Strength <when defending> <with [20]% chance> <upon gaining the [Tainted Augmentation] status>",
+			"[+1] additional attacks per turn <with [10]% chance> <upon gaining the [Tainted Augmentation] status>",
+			"[-1] additional attacks per turn <with [10]% chance> <upon gaining the [Tainted Augmentation] status>",
+			"Gain [-200]-[-100] [Gold] <upon gaining the [Tainted Augmentation] status>",
+			"Instantly gain [-10] [Eleph] <upon gaining the [Tainted Augmentation] status>"
 		]
 	},
 	// Helmet Gang
