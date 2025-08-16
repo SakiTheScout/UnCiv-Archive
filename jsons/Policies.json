@@ -214,7 +214,7 @@
                 "name": "Remembrancer Order",
                 "uniques": [
                     "[+5]% [Science] [in all cities] <for every [[Faith] Buildings]>",
-                    "[+1 Science] per every [10] [Faith]",
+                    "[+1 Science] <for every [10] [[Faith] Per Turn]>",
                     "[+1 Science] from all [Faith] buildings"
                 ],
                 "row": 1,
@@ -276,7 +276,7 @@
                 "name": "Purity and Zeal Complete",
                 "uniques": [
                     "Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
-                    "[+1 Culture] per every [10] [Faith]",
+                    "[+1 Culture] <for every [10] [[Faith] Per Turn]",
                     "Gain a free [Enhancer] belief"
                 ]
             }
@@ -505,8 +505,8 @@
             {
                 "name": "Intensive Agriculture",
                 "uniques": [
-                    "[+1 Food] from [Farm] tiles [in all cities] <every [30] turns>",
-                    "[+10]% [Food] from every [Farm]",
+                    "[+1 Food] from [Farm] tiles [in all cities] <every [50] turns>",
+                    "[+2]% [Food] from every [Farm]",
                     "Allied City-States provide [Food] equal to [+50]% of what they produce for themselves"
                 ],
                 "row": 1,
