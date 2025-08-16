@@ -31,6 +31,7 @@
 		"innerColor": [255,210,111],
 		"uniqueName": "Trinity Unification",
 		"uniques":["Greater School",
+			"Comment [There are five main factions in Trinity General School: Tea Party, Remedial Knights, Justice Realisation Committee, Trinity's Vigilante Crew and Sisterhood. All five participate in school's Student Council meetings, have own unique traditions and domains. They will not be happy about favouritism, so you will have to find a way to balance them off.]",
 			"[+1 Happiness] from every [Luxury resource]"],
 		"cities": ["Trinity Main Plaza", "Trinity Inner District A1", "Trinity Inner District B2", "Trinity Inner District C3", "Trinity Inner District D4", "Trinity Inner District E5", "Trinity Inner District F6", "Trinity Inner District G7", "Trinity Inner District H8", "Trinity Inner District I9", "Trinity Inner District J10"],
 		"personality": "Tea Party Council"
