@@ -92,6 +92,9 @@
 	"[+30]% [Food] [in all cities] <during a Golden Age>",
 	"[+30]% [Faith] [in all cities] <during a Golden Age>",
 	"[+20]% Strength <for [all] units> <during a Golden Age>",
+
+"[-2 Happiness] <for every [{non-[Tea Party Plaza]} {[Club] Buildings}]> <when number of [{non-[Tea Party Plaza]} {[Club] Buildings}] is more than [{Tea Party Plaza} {[Club] Buildings}]> <for [Trinity General School] Civilizations>",
+	
         "Provides [1] [HQ limit] <for every [3] [[Troops] Units]>",
         "Provides [1] [FA limit] <for every [1] [[HQ] Units]>",
         "Provides [1] [E limit] <for every [1] [[HQ] Units]>",
