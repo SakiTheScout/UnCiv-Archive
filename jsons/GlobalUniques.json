@@ -93,8 +93,12 @@
 	"[+30]% [Faith] [in all cities] <during a Golden Age>",
 	"[+20]% Strength <for [all] units> <during a Golden Age>",
 
-"[-1 Happiness] <for every [[{non-[Tea Party Plaza]} {Club}] Buildings]> <when number of [[{non-[Tea Party Plaza]} {Club}] Buildings] is more than [[{Tea Party Plaza} {Club}] Buildings]> <when above [0] []> <for [Trinity General School] Civilizations>",
-	
+"[-1 Happiness] <for every [[non-[Tea Party Plaza]] Buildings]> <when number of [[{non-[Tea Party Plaza]} {Club}] Buildings] is more than [[Tea Party Plaza] Buildings]> <when above [5] [[Club] Buildings]> <for [Trinity General School] Civilizations>",
+"[-1 Happiness] <for every [[non-[Justice Realisation Committee Stronghold]] Buildings]> <when number of [[{non-[Justice Realisation Committee Stronghold]} {Club}] Buildings] is more than [[Justice Realisation Committee Stronghold] Buildings]> <when above [5] [[Club] Buildings]> <for [Trinity General School] Civilizations>",
+"[-1 Happiness] <for every [[non-[Sisterhood Cathedral]] Buildings]> <when number of [[{non-[Sisterhood Cathedral]} {Club}] Buildings] is more than [[Sisterhood Cathedral] Buildings]> <when above [5] [[Club] Buildings]> <for [Trinity General School] Civilizations>",
+"[-1 Happiness] <for every [[non-[Trinity's Vigilante Crew Keep]] Buildings]> <when number of [[{non-[Trinity's Vigilante Crew Keep]} {Club}] Buildings] is more than [[Trinity's Vigilante Crew Keep] Buildings]> <when above [5] [[Club] Buildings]> <for [Trinity General School] Civilizations>",
+"[-1 Happiness] <for every [[non-[Remedial Knights Hospital]] Buildings]> <when number of [[{non-[Remedial Knights Hospital]} {Club}] Buildings] is more than [[Remedial Knights Hospital] Buildings]> <when above [5] [[Club] Buildings]> <for [Trinity General School] Civilizations>",
+
         "Provides [1] [HQ limit] <for every [3] [[Troops] Units]>",
         "Provides [1] [FA limit] <for every [1] [[HQ] Units]>",
         "Provides [1] [E limit] <for every [1] [[HQ] Units]>",
