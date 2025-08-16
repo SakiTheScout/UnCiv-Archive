@@ -816,9 +816,9 @@
 		"requiredTech": "Drama and Poetry",
 		"uniques": [
 			"Club",
-			"[+1 Gold, +1 Happiness, +1 Culture] [in all cities]",
-			"[+10]% [Culture] [in this city]",
-			"[+3 Gold, -1 Faith, -1 Production] from all [Culture] buildings <in this city>",
+			"[+1 Gold, +1 Happiness] [in all cities]",
+			"[+5]% [Culture] [in all cities]",
+			"[+3 Gold, -1 Faith, -1 Production] <for every [[Culture] Per Turn]>",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Club]>",
 			"All newly-trained [Land] units [in this city] receive the [Festival Management Committee] promotion",
@@ -830,13 +830,13 @@
 		"name": "Etiquette Training Society House",
 		"uniqueTo": "Hyakkiyako Alliance Academy",
 		"culture": 2,
-		"science": 2,
+		"happiness": 2,
 		"cost": 40,
 		"requiredTech": "Drama and Poetry",
 		"uniques": [
 			"Club",
 			"[+3]% [Science] [in all cities]",
-			"[+3]% [Culture] [in all cities]",
+			"[+2]% [Happiness] [in all cities]",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Club]>",
 			"All newly-trained [Land] units [in this city] receive the [Etiquette Training Society] promotion",
@@ -851,7 +851,7 @@
 		"requiredTech": "Drama and Poetry",
 		"uniques": [
 			"Club",
-			"[+3]% [Faith] [in all cities]",
+			"[+2]% [Happiness] [in all cities]",
 			"[+3]% [Culture] [in all cities]",
 			"New [Land] units start with [10] XP [in this city]",
 			"[+15]% Production when constructing [Military] units [in this city]",
@@ -869,11 +869,11 @@
 		"requiredTech": "Drama and Poetry",
 		"uniques": [
 			"Club",
-			"[-3]% [Happiness] [in all cities]",
+			"[-5]% [Happiness] [in all cities]",
 			"[-3]% [Production] [in all cities]",
-			"[+3]% [Faith] [in all cities]",
-			"[+3]% [Culture] [in all cities]",
-			"[+2 Culture, -1 Gold, -1 Production] <for every [3] [Production]> <in this city>",
+			"[+5]% [Faith] [in all cities]",
+			"[+2]% [Culture] [in all cities]",
+			"[+1 Culture, -1 Gold, -1 Happiness, +1 Faith] <for every [[Production] Per Turn]>",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Club]> <hidden from users>",
 			"All newly-trained [Land] units [in this city] receive the [Street Ghost Troupe] promotion",
@@ -899,7 +899,7 @@
 		"specialistSlots": {"Scientist":1},
 		"happiness": 2,
 		"maintenance": 2,
-		"uniques": ["[+1 Science] per [3] population [in this city]",
+		"uniques": ["[+1 Science] per [4] population [in this city]",
 		"Provides [1] [Eleph]"]
 	},
 	{
@@ -967,7 +967,7 @@
 		"maintenance": 3,
 		"requiredBuilding": "Library",
 		"uniques": ["[+15]% growth [in this city]",
-		"[+1 Happiness, +1 Science] per [4] population [in this city]",
+		"[+1 Happiness, +1 Science] per [5] population [in this city]",
 		"Provides [2] [Eleph]"
 		]
 	},
@@ -976,11 +976,11 @@
 		"requiredTech": "High Schools",
 		"cost": 240,
 		"science": 1,
-		"maintenance": 3,
+		"maintenance": 4,
 		"requiredBuilding": "Elementary School",
 		"uniques": ["[+15]% Great Person generation [in this city]",
 		"New [Military] units start with [10] XP [in this city]",
-		"[+2 Science] per [4] population [in this city]",
+		"[+2 Science] per [6] population [in this city]",
 		"Provides [3] [Eleph]"]
 	},
 	{
