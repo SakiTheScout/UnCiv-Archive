@@ -49,7 +49,8 @@
         "[+300]% Yield from pillaging tiles",
         "[50]% Health from pillaging tiles",
         "[-1] Sight <for [Embarked] units>",
-        "[Infantry] units gain the [Kivotos Halo] promotion <for [Greater School] Civilizations>",
+	
+    "[Infantry] units gain the [Kivotos Halo] promotion <for [Greater School] Civilizations>",
 	"[Ranged Infantry] units gain the [Kivotos Halo] promotion <for [Greater School] Civilizations>",
 	"[-25]% Culture cost of natural border growth [in all cities] <for [Greater School] Civilizations>",
 	"[+50]% Unhappiness from [Specialists] [in all cities] <for [Greater School] Civilizations>",
@@ -70,8 +71,10 @@
 	"[-1 Food, -1 Production, -1 Culture, -1 Happiness, -1 Science, +10 Gold] [in all cities] <for [Corporation] Civilizations>",
 	"[+10]% [Gold] [in capital] <for [Corporation] Civilizations>",
 	"[+5]% [Gold] [in all cities] <upon entering a new era> <for [Corporation] Civilizations>",
-        "[Ranged Infantry] units gain the [Features] promotion",
-        "[Infantry] units gain the [Features] promotion",
+	
+    "[Ranged Infantry] units gain the [Features] promotion",
+    "[Infantry] units gain the [Features] promotion",
+	
 	"[+5]% [Gold] [in all cities] <upon entering a new era>",
 	"[+5]% [Culture] [in all cities] <upon entering a new era>",
 	"[+5]% [Food] [in all cities] <upon entering a new era>",
@@ -79,6 +82,7 @@
 	"[-5]% [Faith] [in all cities] <upon entering a new era>",
 	"[-5]% [Science] [in all cities] <upon entering a new era>",
 	"[+3 Gold, +1 Science, +2 Production, +1 Faith, +1 Food, +1 Culture] [in all cities] <upon entering a new era>",
+	
 	"[+15]% [Gold] [in capital]",
 	"[+15]% [Culture] [in capital]",
 	"[+15]% [Science] [in capital]",
@@ -93,17 +97,12 @@
 	"[+30]% [Faith] [in all cities] <during a Golden Age>",
 	"[+20]% Strength <for [all] units> <during a Golden Age>",
 
-"[-1 Happiness] <for every [[non-[Tea Party Plaza]] Buildings]> <when number of [[{non-[Tea Party Plaza]} {Club}] Buildings] is more than [[Tea Party Plaza] Buildings]> <if [Tea Party Plaza] is constructed> <if [Justice Realisation Committee Stronghold] is constructed> <if [Sisterhood Cathedral] is constructed> <if [Trinity's Vigilante Crew Keep] is constructed> <if [Remedial Knights Hospital] is constructed> <for [Trinity General School] Civilizations>",
-"[-1 Happiness] <for every [[non-[Justice Realisation Committee Stronghold]] Buildings]> <when number of [[{non-[Justice Realisation Committee Stronghold]} {Club}] Buildings] is more than [[Justice Realisation Committee Stronghold] Buildings]> <if [Tea Party Plaza] is constructed> <if [Justice Realisation Committee Stronghold] is constructed> <if [Sisterhood Cathedral] is constructed> <if [Trinity's Vigilante Crew Keep] is constructed> <if [Remedial Knights Hospital] is constructed> <for [Trinity General School] Civilizations>",
-"[-1 Happiness] <for every [[non-[Sisterhood Cathedral]] Buildings]> <when number of [[{non-[Sisterhood Cathedral]} {Club}] Buildings] is more than [[Sisterhood Cathedral] Buildings]> <if [Tea Party Plaza] is constructed> <if [Justice Realisation Committee Stronghold] is constructed> <if [Sisterhood Cathedral] is constructed> <if [Trinity's Vigilante Crew Keep] is constructed> <if [Remedial Knights Hospital] is constructed> <for [Trinity General School] Civilizations>",
-"[-1 Happiness] <for every [[non-[Trinity's Vigilante Crew Keep]] Buildings]> <when number of [[{non-[Trinity's Vigilante Crew Keep]} {Club}] Buildings] is more than [[Trinity's Vigilante Crew Keep] Buildings]> <if [Tea Party Plaza] is constructed> <if [Justice Realisation Committee Stronghold] is constructed> <if [Sisterhood Cathedral] is constructed> <if [Trinity's Vigilante Crew Keep] is constructed> <if [Remedial Knights Hospital] is constructed> <for [Trinity General School] Civilizations>",
-"[-1 Happiness] <for every [[non-[Remedial Knights Hospital]] Buildings]> <when number of [[{non-[Remedial Knights Hospital]} {Club}] Buildings] is more than [[Remedial Knights Hospital] Buildings]> <if [Tea Party Plaza] is constructed> <if [Justice Realisation Committee Stronghold] is constructed> <if [Sisterhood Cathedral] is constructed> <if [Trinity's Vigilante Crew Keep] is constructed> <if [Remedial Knights Hospital] is constructed> <for [Trinity General School] Civilizations>",
-
-        "Provides [1] [HQ limit] <for every [3] [[Troops] Units]>",
-        "Provides [1] [FA limit] <for every [1] [[HQ] Units]>",
-        "Provides [1] [E limit] <for every [1] [[HQ] Units]>",
-        "Provides [1] [FS limit] <for every [1] [[HQ] Units]>",
-        "Provides [1] [LoW limit] <for every [3] [[HQ] Units]>",
+    "Provides [1] [HQ limit] <for every [3] [[Troops] Units]>",
+    "Provides [1] [FA limit] <for every [1] [[HQ] Units]>",
+    "Provides [1] [E limit] <for every [1] [[HQ] Units]>",
+    "Provides [1] [FS limit] <for every [1] [[HQ] Units]>",
+    "Provides [1] [LoW limit] <for every [3] [[HQ] Units]>",
+	
 	"Remove [Issue an Edict] [in all cities] <upon turn start> <when below [1] [Edict Duration]>",
 	"Remove [Assign Sponsorship] [in all cities] <upon turn start> <when below [1] [Sponsorship Duration]>",
 	"Remove [Hold a Festival!] [in all cities] <upon turn start> <when below [1] [Festival Duration]>",
