@@ -57,7 +57,7 @@
   {
         "name": "Fortification",
         "movementType": "Land",
-        "uniques": ["Can be earned through combat <with [75]% chance>"]
+        "uniques": ["Can be earned through combat <with [75]% chance>", "Never appears as a Barbarian unit"]
    },
   {
         "name": "Hero",
