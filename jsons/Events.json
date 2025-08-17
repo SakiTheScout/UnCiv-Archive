@@ -35,7 +35,7 @@
             {
                 "text": "President of Filius Faction",
                 "uniques": [
-                    "Comment [Filius Faction is one of the Tea Party factions that takes care of external affairs and especially – trading. Thanks to them, Trinity is rich.]",
+                    "Comment [Filius Faction is one of the Tea Party factions that takes care of external affairs and especially – trading. Thanks to them, Trinity is rich. This faction consists of materialistic and pragmatic students who are open for new connections, which leads to conflicts with Pater faction.]",
                     "Only available <if [Filius Faction Hall] is constructed> <hidden from users>",
                     "[+3 Happiness] from all [Filius Faction Hall] buildings <for [15] turns> <hidden from users>",
 					"[-1 Happiness] from all [{non-[Tea Party Plaza]} {Club}] buildings <for [15] turns> <hidden from users>",
@@ -48,7 +48,7 @@
 			{
                 "text": "President of Pater Faction",
                 "uniques": [
-                    "Comment [Pater Faction is one of the Tea Party factions that takes care of external affairs and especially – warfare. Thanks to them, Trinity is sovereign.]",
+                    "Comment [Pater Faction is one of the Tea Party factions that takes care of external affairs and especially – warfare. Thanks to them, Trinity is sovereign. This faction mainly consists of militaristic and xenophobic students, which leads to conflicts with Filius faction.]",
                     "Only available <if [Pater Faction Hall] is constructed> <hidden from users>",
                     "[+3 Happiness] from all [Pater Faction Hall] buildings <for [15] turns> <hidden from users>",
 					"[-1 Happiness] from all [{non-[Tea Party Plaza]} {Club}] buildings <for [15] turns> <hidden from users>",
@@ -62,7 +62,7 @@
 			{
                 "text": "President of Sanctus Faction",
                 "uniques": [
-                    "Comment [Sanctus Faction is one of the Tea Party factions that takes care of external affairs and especially – diplomacy. Thanks to them, Trinity has many allies.]",
+                    "Comment [Sanctus Faction is one of the Tea Party factions that takes care of external affairs and especially – diplomacy. Thanks to them, Trinity has many allies. This faction is mostly made of philosophers and scholars and balance off other Tea Party factions.]",
                     "Only available <if [Sanctus Faction Hall] is constructed> <hidden from users>",
                     "[+3 Happiness] from all [Sanctus Faction Hall] buildings <for [15] turns> <hidden from users>",
 					"[-1 Happiness] from all [{non-[Tea Party Plaza]} {Club}] buildings <for [15] turns> <hidden from users>",
@@ -73,14 +73,27 @@
                 ]
             },
 			{
-                "text": "President-Canoness of Sisterhood",
+                "text": "Canoness of the Sisterhood",
                 "uniques": [
                     "Comment [Sisterhood is the heir organisation to Justina Council, a religious organisation from Trinity's past. Nowadays, Sisters maintain mental purity of Trinity. Or at least it is how it seems...]",
                     "Only available <if [Sisterhood Cathedral] is constructed> <hidden from users>",
                     "[+3 Happiness] from all [Sisterhood Cathedral] buildings <for [15] turns> <hidden from users>",
+					"[-1 Happiness] from all [{non-[Sisterhood Cathedral]} {Club}] buildings <for [15] turns> <hidden from users>",
 					"[+75]% spy effectiveness [in foreign cities] <for [15] turns>",
 					"[-10]% Faith cost of generating Great Prophet equivalents <for [15] turns>",
 					"[Faith] cost of purchasing items in cities [-20]% <for [15] turns>"
+                ]
+            },
+			{
+                "text": "Commander of Justice Realisation Committee",
+                "uniques": [
+                    "Comment [Justice Realisation Committee is a disciplinary club in Trinity, with more judicial and special forces nature than Trinity's Vigilante Crew. They maintain peace in Trinity and beyond, overseeing other factions as well.]",
+                    "Only available <if [Justice Realisation Committee Stronghold] is constructed> <hidden from users>",
+                    "[+3 Happiness] from all [Justice Realisation Committee Stronghold] buildings <for [15] turns> <hidden from users>",
+					"[-1 Happiness] from all [{non-[Justice Realisation Committee Stronghold]} {Club}] buildings <for [15] turns> <hidden from users>",
+					"Receive triple Gold from Barbarian encampments and pillaging Cities <for [15] turns>",
+					"[+25]% Strength <when attacking> <vs [Barbarian] units> <for [Justice Task Force] units> <for [15] turns>",
+					"[-15]% Strength for enemy [Barbarian] units in adjacent [All] tiles <for [Justice Task Force] units> <for [15] turns>"
                 ]
             },
             {
