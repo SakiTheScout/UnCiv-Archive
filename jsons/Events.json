@@ -37,7 +37,7 @@
                 "uniques": [
                     "Comment [Filius Faction is one of the Tea Party factions that takes care of external affairs and especially – trading. Thanks to them, Trinity is rich. This faction consists of materialistic and pragmatic students who are open for new connections, which leads to conflicts with Pater faction.]",
                     "Only available <if [Filius Faction Hall] is constructed> <hidden from users>",
-                    "[+3 Happiness] from all [Filius Faction Hall] buildings <for [15] turns> <hidden from users>",
+                    "[+1 Happiness] from all [Filius Faction Hall] buildings <for [15] turns> <hidden from users>",
 					"[-1 Happiness] from all [{non-[Tea Party Plaza]} {Club}] buildings <for [15] turns> <hidden from users>",
 					"[-1 Happiness] from all [{non-[Filius Faction Hall]} {Tea Party Faction}] buildings <for [15] turns> <hidden from users>",
 					"Gifts of Gold to City-States generate [15]% more Influence <for [15] turns>",
@@ -50,7 +50,7 @@
                 "uniques": [
                     "Comment [Pater Faction is one of the Tea Party factions that takes care of external affairs and especially – warfare. Thanks to them, Trinity is sovereign. This faction mainly consists of militaristic and xenophobic students, which leads to conflicts with Filius faction.]",
                     "Only available <if [Pater Faction Hall] is constructed> <hidden from users>",
-                    "[+3 Happiness] from all [Pater Faction Hall] buildings <for [15] turns> <hidden from users>",
+                    "[+1 Happiness] from all [Pater Faction Hall] buildings <for [15] turns> <hidden from users>",
 					"[-1 Happiness] from all [{non-[Tea Party Plaza]} {Club}] buildings <for [15] turns> <hidden from users>",
 					"[-1 Happiness] from all [{non-[Pater Faction Hall]} {Tea Party Faction}] buildings <for [15] turns> <hidden from users>",
 					"Great General provides double combat bonus <for [Medium Armor] units> <for [15] turns>",
@@ -64,7 +64,7 @@
                 "uniques": [
                     "Comment [Sanctus Faction is one of the Tea Party factions that takes care of external affairs and especially – diplomacy. Thanks to them, Trinity has many allies. This faction is mostly made of philosophers and scholars and balance off other Tea Party factions.]",
                     "Only available <if [Sanctus Faction Hall] is constructed> <hidden from users>",
-                    "[+3 Happiness] from all [Sanctus Faction Hall] buildings <for [15] turns> <hidden from users>",
+                    "[+1 Happiness] from all [Sanctus Faction Hall] buildings <for [15] turns> <hidden from users>",
 					"[-1 Happiness] from all [{non-[Tea Party Plaza]} {Club}] buildings <for [15] turns> <hidden from users>",
 					"[-1 Happiness] from all [{non-[Sanctus Faction Hall]} {Tea Party Faction}] buildings <for [15] turns> <hidden from users>",
 					"[-33]% City-State Influence degradation <for [15] turns>",
@@ -77,7 +77,7 @@
                 "uniques": [
                     "Comment [Sisterhood is the heir organisation to Justina Council, a religious organisation from Trinity's past. Nowadays, Sisters maintain mental purity of Trinity. Or at least it is how it seems...]",
                     "Only available <if [Sisterhood Cathedral] is constructed> <hidden from users>",
-                    "[+3 Happiness] from all [Sisterhood Cathedral] buildings <for [15] turns> <hidden from users>",
+                    "[+1 Happiness] from all [Sisterhood Cathedral] buildings <for [15] turns> <hidden from users>",
 					"[-1 Happiness] from all [{non-[Sisterhood Cathedral]} {Club}] buildings <for [15] turns> <hidden from users>",
 					"[+75]% spy effectiveness [in foreign cities] <for [15] turns>",
 					"[-10]% Faith cost of generating Great Prophet equivalents <for [15] turns>",
@@ -89,11 +89,35 @@
                 "uniques": [
                     "Comment [Justice Realisation Committee is a disciplinary club in Trinity, with more judicial and special forces nature than Trinity's Vigilante Crew. They maintain peace in Trinity and beyond, overseeing other factions as well.]",
                     "Only available <if [Justice Realisation Committee Stronghold] is constructed> <hidden from users>",
-                    "[+3 Happiness] from all [Justice Realisation Committee Stronghold] buildings <for [15] turns> <hidden from users>",
+                    "[+1 Happiness] from all [Justice Realisation Committee Stronghold] buildings <for [15] turns> <hidden from users>",
 					"[-1 Happiness] from all [{non-[Justice Realisation Committee Stronghold]} {Club}] buildings <for [15] turns> <hidden from users>",
 					"Receive triple Gold from Barbarian encampments and pillaging Cities <for [15] turns>",
 					"[+25]% Strength <when attacking> <vs [Barbarian] units> <for [Justice Task Force] units> <for [15] turns>",
 					"[-15]% Strength for enemy [Barbarian] units in adjacent [All] tiles <for [Justice Task Force] units> <for [15] turns>"
+                ]
+            },
+			{
+                "text": "Chief of Trinity's Vigilantes",
+                "uniques": [
+                    "Comment [Trinity's Vigilante Crew is the common police in Trinity, they patrol streets and help civilians. They have connections amongst all minor clubs and people trust them.]",
+                    "Only available <if [Trinity's Vigilante Crew Keep] is constructed> <hidden from users>",
+                    "[+1 Happiness] from all [Trinity's Vigilante Crew Keep] buildings <for [15] turns> <hidden from users>",
+					"[-1 Happiness] from all [{non-[Trinity's Vigilante Crew Keep]} {Club}] buildings <for [15] turns> <hidden from users>",
+					"[+20]% Production when constructing [All] buildings [in all cities] <for [15] turns>",
+					"[-25]% enemy spy effectiveness [in all cities] <for [15] turns>",
+					"[-33]% Unhappiness from [Population] [in all cities] <for [15] turns>"
+                ]
+            },
+			{
+                "text": "Chapter Mistress of Knights Hospitaller",
+                "uniques": [
+                    "Comment [Remedial Knights is the oldest faction in Trinity, they had relationships with Justina Council. They are the knightly chapter, that evolved into charity organisation manning and holding hospitals in Trinity, with knights being medics. They are renowned for being paragon of salvation and kindness.]",
+                    "Only available <if [Remedial Knights Hospital] is constructed> <hidden from users>",
+                    "[+3 Happiness] from all [Remedial Knights] buildings <for [15] turns> <hidden from users>",
+					"[-1 Happiness] from all [{non-[Remedial Knights]} {Club}] buildings <for [15] turns> <hidden from users>",
+					"When defeating a [Wounded] unit, earn [-100] Gold and recruit it <with [33]% chance> <for [15] turns>",
+					"[25]% Food is carried over after population increases [in all cities] <for [15] turns>",
+					"[+1 Culture, +1 Gold, +1 Happiness, +1 Food, +1 Production] per [10] population [in all cities] <for [15] turns>"
                 ]
             },
             {
