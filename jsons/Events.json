@@ -28,6 +28,64 @@
         ]
     },
 
+	{
+        "name": "Tea Party",
+        "text": "The Tea Party is being hosted. Who is the host?",
+        "choices": [
+            {
+                "text": "President of Filius Faction",
+                "uniques": [
+                    "Comment [Filius Faction is one of the Tea Party factions that takes care of external affairs and especially – trading. Thanks to them, Trinity is rich.]",
+                    "Only available <if [Filius Faction Hall] is constructed> <hidden from users>",
+                    "[+3 Happiness] from all [Filius Faction Hall] buildings <for [15] turns> <hidden from users>",
+					"Gifts of Gold to City-States generate [15]% more Influence <for [15] turns>",
+					"Retain [100]% of the happiness from a luxury after the last copy has been traded away <for [15] turns>",
+					"[75]% of excess happiness converted to [Gold] <for [15] turns>"
+                ]
+            },
+			{
+                "text": "President of Pater Faction",
+                "uniques": [
+                    "Comment [Pater Faction is one of the Tea Party factions that takes care of external affairs and especially – warfare. Thanks to them, Trinity is sovereign.]",
+                    "Only available <if [Pater Faction Hall] is constructed> <hidden from users>",
+                    "[+3 Happiness] from all [Pater Faction Hall] buildings <for [15] turns> <hidden from users>",
+					"Great General provides double combat bonus <for [Towed] units> <for [15] turns>",
+					"Earn [50]% of the damage done to [Military] units as [Gold] <for [15] turns>",
+					"[+20]% Strength <when attacking> <in [Foreign] tiles> <for [Military] units> <for [15] turns>",
+					"[-20]% Strength <when attacking> <in [Friendly] tiles> <for [Military] units> <for [15] turns>"
+                ]
+            },
+			{
+                "text": "President of Sanctus Faction",
+                "uniques": [
+                    "Comment [Sanctus Faction is one of the Tea Party factions that takes care of external affairs and especially – diplomacy. Thanks to them, Trinity has many allies.]",
+                    "Only available <if [Sanctus Faction Hall] is constructed> <hidden from users>",
+                    "[+3 Happiness] from all [Sanctus Faction Hall] buildings <for [15] turns> <hidden from users>",
+					"[-33]% City-State Influence degradation <for [15] turns>",
+					"Resting point for Influence with City-States is increased by [20] <for [15] turns>",
+					"[+50]% resources gifted by City-States <for [15] turns>"
+                ]
+            },
+			{
+                "text": "President-Canoness of Sisterhood",
+                "uniques": [
+                    "Comment [Sisterhood is the heir organisation to Justina Council, a religious organisation from Trinity's past. Nowadays, Sisters maintain mental purity of Trinity. Or at least it is how it seems...]",
+                    "Only available <if [Sistehood Cathedral] is constructed> <hidden from users>",
+                    "[+3 Happiness] from all [Sisterhood Cathedral] buildings <for [15] turns> <hidden from users>",
+					"[+75]% spy effectiveness [in foreign cities] <for [15] turns>",
+					"[-10]% Faith cost of generating Great Prophet equivalents <for [15] turns>",
+					"[Faith] cost of purchasing items in cities [-20]% <for [15] turns>"
+                ]
+            },
+            {
+                "text": "President of a neutral club",
+                "uniques": [
+                    "Comment [Nothing special about this club can be said...]"
+                ]
+            }
+        ]
+    },
+
 {
         "name": "Edict",
         "text": "As you command, President. You just have to appoint what is the focus of your new Edict.",
