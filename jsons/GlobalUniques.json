@@ -104,8 +104,19 @@
 	"[-1 Happiness] from every [Sisterhood Cathedral] <when number of [[Justice Realisation Committee Stronghold] Buildings] is more than [[Sisterhood Cathedral] Buildings]> <for [Trinity General School] Civilizations>",
 	"[-1 Happiness] from every [Sisterhood Cathedral] <when number of [[Tea Party Plaza] Buildings] is more than [[Sisterhood Cathedral] Buildings]> <for [Trinity General School] Civilizations>",
 	"[-1 Happiness] from every [Sisterhood Cathedral] <when number of [[Remedial Knights Hospital] Buildings] is more than [[Sisterhood Cathedral] Buildings]> <for [Trinity General School] Civilizations>",
-	"[-1 Happiness] from every [Sisterhood Cathedral] <when number of [[Trinity's Vigilante Crew Keep] Buildings] is more than [[Tea Party Plaza] Buildings]> <for [Trinity General School] Civilizations>",
-	
+	"[-1 Happiness] from every [Sisterhood Cathedral] <when number of [[Trinity's Vigilante Crew Keep] Buildings] is more than [[Sisterhood Cathedral] Buildings]> <for [Trinity General School] Civilizations>",
+	"[-1 Happiness] from every [Justice Realisation Committee Stronghold] <when number of [[Sisterhood Cathedral] Buildings] is more than [[Justice Realisation Committee Stronghold] Buildings]> <for [Trinity General School] Civilizations>",
+	"[-1 Happiness] from every [Justice Realisation Committee Stronghold] <when number of [[Tea Party Plaza] Buildings] is more than [[Justice Realisation Committee Stronghold] Buildings]> <for [Trinity General School] Civilizations>",
+	"[-1 Happiness] from every [Justice Realisation Committee Stronghold] <when number of [[Remedial Knights Hospital] Buildings] is more than [[Justice Realisation Committee Stronghold] Buildings]> <for [Trinity General School] Civilizations>",
+	"[-1 Happiness] from every [Justice Realisation Committee Stronghold] <when number of [[Trinity's Vigilante Crew Keep] Buildings] is more than [[Justice Realisation Committee Stronghold] Buildings]> <for [Trinity General School] Civilizations>",
+	"[-1 Happiness] from every [Trinity's Vigilante Crew Keep] <when number of [[Justice Realisation Committee Stronghold] Buildings] is more than [[Trinity's Vigilante Crew Keep] Buildings]> <for [Trinity General School] Civilizations>",
+	"[-1 Happiness] from every [Trinity's Vigilante Crew Keep] <when number of [[Tea Party Plaza] Buildings] is more than [[Trinity's Vigilante Crew Keep] Buildings]> <for [Trinity General School] Civilizations>",
+	"[-1 Happiness] from every [Trinity's Vigilante Crew Keep] <when number of [[Remedial Knights Hospital] Buildings] is more than [[Trinity's Vigilante Crew Keep] Buildings]> <for [Trinity General School] Civilizations>",
+	"[-1 Happiness] from every [Trinity's Vigilante Crew Keep] <when number of [[Sisterhood Cathedral] Buildings] is more than [[Trinity's Vigilante Crew Keep] Buildings]> <for [Trinity General School] Civilizations>",
+	"[-1 Happiness] from every [Remedial Knights Hospital] <when number of [[Justice Realisation Committee Stronghold] Buildings] is more than [[Remedial Knights Hospital] Buildings]> <for [Trinity General School] Civilizations>",
+	"[-1 Happiness] from every [Remedial Knights Hospital] <when number of [[Tea Party Plaza] Buildings] is more than [[Remedial Knights Hospital] Buildings]> <for [Trinity General School] Civilizations>",
+	"[-1 Happiness] from every [Remedial Knights Hospital] <when number of [[Sisterhood Cathedral] Buildings] is more than [[Remedial Knights Hospital] Buildings]> <for [Trinity General School] Civilizations>",
+	"[-1 Happiness] from every [Remedial Knights Hospital] <when number of [[Trinity's Vigilante Crew Keep] Buildings] is more than [[Remedial Knights Hospital] Buildings]> <for [Trinity General School] Civilizations>",
 	
 	
     "Provides [1] [HQ limit] <for every [3] [[Troops] Units]>",
