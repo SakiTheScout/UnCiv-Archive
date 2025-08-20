@@ -10,7 +10,8 @@
         "uniques": [
           "[This Unit] gains [1] movement <when adjacent to a [Move! Move! Move!] unit>",
           "[This Unit] gains the [Blood for the Blood God] promotion <upon defeating a [All] unit> <with [1]% chance>",
-          "[This Unit] takes [25] damage <upon entering a [Minefield] tile> <for [non-[Combat Engineer]] units>"]
+          "[This Unit] takes [25] damage <upon entering a [Minefield] tile> <for [non-[Combat Engineer]] units>",
+          "May capture killed [Fortification] units <with [75]% chance>"]
    },
    {
         "name": "Ranged Infantry",
@@ -57,7 +58,7 @@
   {
         "name": "Fortification",
         "movementType": "Land",
-        "uniques": ["Can be earned through combat <with [75]% chance>", "Never appears as a Barbarian unit"]
+        "uniques": ["Never appears as a Barbarian unit"]
    },
   {
         "name": "Hero",
