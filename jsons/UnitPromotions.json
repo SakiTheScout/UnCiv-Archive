@@ -742,9 +742,14 @@
 		"outerColor": [0,0,0],
 		"innerColor": [255,25,0]},
 	{
+		"name": "Medical Schooling",
+		"uniques":["[+5]% Strength", "[+5] HP when healing","All adjacent units heal [+5] HP when healing", "Gain [-1] [Gold] <upon turn start>"],
+		"outerColor": [255,255,255],
+		"innerColor": [255,0,0]},
+	{
 		"name": "Police Schooling",
 		"uniques":["[+20]% Strength <in [Friendly] tiles>", "Gain [-1] [Gold] <upon turn start>"],
-		"outerColor": [0,0,0],
+		"outerColor": [0,0,100],
 		"innerColor": [117,117,0]},
 	{
 		"name": "Maritime Schooling",
