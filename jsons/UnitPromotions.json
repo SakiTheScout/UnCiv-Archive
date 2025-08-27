@@ -843,7 +843,7 @@
 			"[This Unit] gains the [Order Cooldown] status for [1] turn(s) <upon gaining the [Move! Move! Move!] status> <for [HQ] units>"]},
 	{
 		"name": "Order: Dig in!",
-		"unitTypes": ["Infantry"],
+		"unitTypes": ["Infantry", "Fortification"],
 		"prerequisites": ["HQ"],
 		"uniques": [
 			"Comment [[Dig in!]: Adjacent [Infantry] units dig in against ranged attacks.]",
