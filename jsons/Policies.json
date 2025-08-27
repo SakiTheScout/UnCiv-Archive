@@ -347,8 +347,8 @@
             {
                 "name": "Scientific Atheism",
                 "uniques": [
-                    "[+1 Science, -1 Faith] <for every [Faith]>",
-                    "[-1 Happiness] [in all cities in which the majority religion is an enhanced religion]",
+                    "[+1 Science, -1 Faith] <for every [[Faith] Per Turn]>",
+                    "[-2 Happiness] [in all cities in which the majority religion is an enhanced religion]",
                     "[+1 Science] per [5] population [in all cities]",
                     "[+1 Science] from every specialist [in all cities]"
                 ],
