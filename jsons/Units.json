@@ -468,6 +468,39 @@
 		"attackSound": "tankshot"
 	},
 	{
+		"name": "Light Tank Commander",
+		"unitType": "Light Armor",
+		"movement": 6,
+		"strength": 75,
+		"cost": 370,
+		"requiredTech": "Combined Arms",
+		"uniques": ["Consumes [1] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"],
+	        "promotions": ["HQ", "Order: Deploy Smoke!", "Order: Evasive Maneuver!", "Order: Bring it Down!"],
+		"attackSound": "tankshot"
+	},
+  {
+		"name": "Medium Tank Commander",
+		"unitType": "Medium Armor",
+		"movement": 4,
+		"strength": 100,
+		"cost": 430,
+		"requiredTech": "Combined Arms",
+		"uniques": ["[+25]% Strength bonus for [Medium Armor] units within [1] tiles <when defending>", "Consumes [2] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"],
+	        "promotions": ["HQ", "Order: Deploy Smoke!", "Order: Brace for Impact!"],
+		"attackSound": "tankshot"
+	},
+  {
+		"name": "Heavy Tank Commander",
+		"unitType": "Heavy Armor",
+		"movement": 2,
+		"strength": 150,
+		"cost": 500,
+		"requiredTech": "Combined Arms",
+		"uniques": ["[+15]% Strength bonus for [Heavy Armor] units within [2] tiles <when attacking>", "[-15]% Strength for enemy [Infantry] units in adjacent [All] tiles", "Consumes [3] [Iron]", "Consumes [2] [Oil]", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"],
+	        "promotions": ["HQ", "Order: Bring it Down!"],
+		"attackSound": "tankshot"
+	},
+	{
 		"name": "Light Machine Gun",
 		"unitType": "Ranged Infantry",
 		"range": 1,
