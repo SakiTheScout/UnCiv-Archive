@@ -224,7 +224,8 @@
                     "Gain [40]-[80] [Culture] <(modified by game speed)>",
                     "Gain [-200]-[-150] [Gold] <(modified by game speed)>",
                     "[+15]% [Science] [in all cities] <for [5] turns> <before adopting [Festivals Preservation]>",
-                    "[+25]% [Science] [in all cities] <for [5] turns> <after adopting [Festivals Preservation]>"
+                    "[+25]% [Science] [in all cities] <for [5] turns> <after adopting [Festivals Preservation]>",
+					"Only available <when above [150] [Gold]> <hidden from users>"
                 ]
             },
           {
@@ -233,7 +234,8 @@
                     "Gain [40]-[80] [Culture] <(modified by game speed)>",
                     "Gain [-200]-[-150] [Gold] <(modified by game speed)>",
                     "[+15]% [Culture] [in all cities] <for [5] turns> <before adopting [Festivals Preservation]>",
-                    "[+25]% [Culture] [in all cities] <for [5] turns> <after adopting [Festivals Preservation]>"
+                    "[+25]% [Culture] [in all cities] <for [5] turns> <after adopting [Festivals Preservation]>",
+					"Only available <when above [150] [Gold]> <hidden from users>"
                 ]
             },
           {
@@ -242,7 +244,8 @@
                     "Gain [40]-[80] [Culture] <(modified by game speed)>",
                     "Gain [-200]-[-150] [Gold] <(modified by game speed)>",
                     "[+15]% [Gold] [in all cities] <for [5] turns> <before adopting [Festivals Preservation]>",
-                    "[+25]% [Gold] [in all cities] <for [5] turns> <after adopting [Festivals Preservation]>"
+                    "[+25]% [Gold] [in all cities] <for [5] turns> <after adopting [Festivals Preservation]>",
+					"Only available <when above [150] [Gold]> <hidden from users>"
                 ]
             },
           {
@@ -251,7 +254,8 @@
                     "Gain [40]-[80] [Culture] <(modified by game speed)>",
                     "Gain [-200]-[-150] [Gold] <(modified by game speed)>",
                     "[+15]% [Production] [in all cities] <for [5] turns> <before adopting [Festivals Preservation]>",
-                    "[+25]% [Production] [in all cities] <for [5] turns> <after adopting [Festivals Preservation]>"
+                    "[+25]% [Production] [in all cities] <for [5] turns> <after adopting [Festivals Preservation]>",
+					"Only available <when above [150] [Gold]> <hidden from users>"
                 ]
             },
           {
@@ -260,7 +264,8 @@
                     "Gain [40]-[80] [Culture] <(modified by game speed)>",
                     "Gain [-200]-[-150] [Gold] <(modified by game speed)>",
                     "[+15]% [Happiness] [in all cities] <for [5] turns> <before adopting [Festivals Preservation]>",
-                    "[+25]% [Happiness] [in all cities] <for [5] turns> <after adopting [Festivals Preservation]>"
+                    "[+25]% [Happiness] [in all cities] <for [5] turns> <after adopting [Festivals Preservation]>",
+					"Only available <when above [150] [Gold]> <hidden from users>"
                 ]
             },
           {
@@ -269,7 +274,8 @@
                     "Gain [40]-[80] [Culture] <(modified by game speed)>",
                     "Gain [-200]-[-150] [Gold] <(modified by game speed)>",
                     "[+15]% [Food] [in all cities] <for [5] turns> <before adopting [Festivals Preservation]>",
-                    "[+25]% [Food] [in all cities] <for [5] turns> <after adopting [Festivals Preservation]>"
+                    "[+25]% [Food] [in all cities] <for [5] turns> <after adopting [Festivals Preservation]>",
+					"Only available <when above [150] [Gold]> <hidden from users>"
                 ]
             },
           {
@@ -278,7 +284,8 @@
                     "Gain [40]-[80] [Culture] <(modified by game speed)>",
                     "Gain [-200]-[-150] [Gold] <(modified by game speed)>",
                     "New [Land] units start with [10] XP [in all cities] <for [5] turns> <before adopting [Festivals Preservation]>",
-                    "New [Land] units start with [15] XP [in all cities] <for [5] turns> <after adopting [Festivals Preservation]>"
+                    "New [Land] units start with [15] XP [in all cities] <for [5] turns> <after adopting [Festivals Preservation]>",
+					"Only available <when above [150] [Gold]> <hidden from users>"
                 ]
             },
             {
