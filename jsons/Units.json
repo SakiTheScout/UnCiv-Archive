@@ -166,6 +166,17 @@
     "uniques": ["Comment [Infantry unit that excels at dealing with wounded enemy units with an aura of fear.]", "[-25]% Strength for enemy [{Wounded} {Infantry}] units in adjacent [All] tiles", "[+25]% Strength <vs [Wounded] units> <when attacking>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
 	},
 	{
+		"name": "Defender Infantry",
+		"unitType": "Infantry",
+		"movement": 1,
+		"strength": 70,
+		"cost": 420,
+		"requiredTech": "Radar",
+	        "promotions": ["Elite", "Detection T3"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Heavy infantry unit specialized in defending friendly land.]", "[+25]% Strength <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>", "[+1] Movement <in [{Friendly} {Land}] tiles>", "[-1] Sight"]
+	},
+	{
 		"name": "Infiltrator Infantry",
 		"unitType": "Infantry",
 		"movement": 3,
