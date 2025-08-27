@@ -454,6 +454,7 @@
 		"name": "Radar Scan",    
 		"uniques": [
 			"[+10] Sight",
+			"Can see over obstacles",
 			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Radar Scan] status>"]},
 	// Grenades
 	{
