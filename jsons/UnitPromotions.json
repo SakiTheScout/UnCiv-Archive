@@ -812,7 +812,6 @@
 	// Orders
 	{
 		"name": "Order: Bring it down!",
-		"unitTypes": ["Infantry"],
 		"prerequisites": ["HQ"],
 		"uniques": [
 			"Comment [[Bring it down!]: Mark a unit so it takes more damage.]",
@@ -832,7 +831,6 @@
 		"uniques": ["[-75]% Strength <when defending>"]},
 	{
 		"name": "Order: Move! Move! Move!",
-		"unitTypes": ["Infantry"],
 		"prerequisites": ["HQ"],
 		"uniques": [
 			"Comment [[Move! Move! Move!]: Adjacent [Infantry] units gain +1 Move.]",
@@ -848,7 +846,6 @@
 			"[This Unit] gains the [Order Cooldown] status for [1] turn(s) <upon gaining the [Move! Move! Move!] status> <for [HQ] units>"]},
 	{
 		"name": "Order: Dig in!",
-		"unitTypes": ["Infantry", "Fortification"],
 		"prerequisites": ["HQ"],
 		"uniques": [
 			"Comment [[Dig in!]: Adjacent [Infantry] units dig in against ranged attacks.]",
@@ -863,7 +860,6 @@
 			"[+50]% Strength bonus for [Infantry] units within [1] tiles <vs [Ranged] units> <when defending>",
 			"[This Unit] loses the [Dig in!] status <upon turn start>",
 			"[This Unit] gains the [Order Cooldown] status for [1] turn(s) <upon gaining the [Dig in!] status> <for [HQ] units>"]},
-	
 	{
 		"name": "Order Cooldown",
 		"uniques": ["Comment [Order is on cooldown]"]},
