@@ -880,16 +880,7 @@
 			"[+33]% Strength bonus for [Heavy Armor] units within [1] tiles <vs [Ranged] units> <when defending>",
 			"[This Unit] loses the [Brace for Impact!] status <upon turn start>",
 			"[This Unit] gains the [Order Cooldown] status for [1] turn(s) <upon gaining the [Brace for Impact!] status> <for [HQ] units>"]},
-	{
-		"name": "Order: Deploy Smoke!",
-		"prerequisites": ["HQ"],
-		"uniques": [
-			"Comment [[Deploy Smoke!]: Adjacent armored units gain [Smokescreen].]",
-			"[This Unit] gains the [Move! Move! Move!] status for [1] turn(s) <for [0] movement> <for units without [Order Cooldown]> <hidden from users>"],
-		"innerColor": [100,100,100],
-		"outerColor": [0,0,0],
-		"column": 114,
-		"row": 0},
+	
 	{
 		"name": "Deploy Smoke!",    
 		"uniques": [
