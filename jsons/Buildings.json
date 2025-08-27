@@ -961,6 +961,25 @@
 		"Provides [1] [Eleph]"]
 	},
 	{
+		"name": "Concert Venue",
+		"requiredTech": "Acoustics",
+		"culture": 2,
+		"happiness": 1,
+		"maintenance": 2,
+		"uniques": ["[+1 Culture, +1 Happiness] <with [Festival Duration]>",
+		"[+10]% [Culture] [in this city] <with [Festival Duration]>",
+		"Provides [1] [Eleph]",
+		"Provides [1] [Eleph] <with [Festival Duration]>"]
+	},
+	{
+		"name": "Festival Grounds",
+		"requiredTech": "Festivals",
+		"maintenance": 2,
+		"uniques": ["[+3 Culture, +1 Gold] <with [Festival Duration]>",
+		"[+3]% [Culture] [in all cities] <with [Festival Duration]>",
+		"Provides [1] [Eleph] <with [Festival Duration]>"]
+	},
+	{
 		"name": "Elementary School",
 		"requiredTech": "High Schools",
 		"cost": 200,
