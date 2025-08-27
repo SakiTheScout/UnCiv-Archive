@@ -734,6 +734,19 @@
 		"attackSound": "machinegun"
 	},
 	{
+		"name": "HQ Bunker",
+		"unitType": "Fortification",
+		"range": 1,
+		"movement": 1,
+		"strength": 50,
+		"rangedStrength": 80,
+		"cost": 500,
+		"requiredTech": "Ballistics",
+		"uniques": ["Comment [WARNING! Fortifications must be placed on the Foundation improvement, lest they get destroyed!]", "[+66]% Strength <when defending> <in [Foundation] tiles>", "[-1] Sight <hidden from users>", "Cannot move <in [Foundation] tiles> <hidden from users>", "May Paradrop to [Foundation] tiles up to [10] tiles away <in [non-[Foundation]] tiles> <hidden from users>", "[This Unit] takes [50] damage <upon turn start> <in [non-[Foundation]] tiles> <hidden from users>", "[+50]% Strength <vs [Infantry] units> <when attacking>", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>", "[+15]% Strength bonus for [Infantry] units within [2] tiles"],
+		"promotions": ["HQ", "Fortification", "Order: Dig in!"],
+		"attackSound": "machinegun"
+	},
+	{
 		"name": "Watchtower",
 		"unitType": "Fortification",
 		"movement": 1,
@@ -743,6 +756,7 @@
 		"uniques": ["Cannot move <in [non-[City center]] tiles> <hidden from users>", "May Paradrop to [Land] tiles up to [10] tiles away <hidden from users>", "Can see over obstacles", "[+2] Sight", "Cannot attack"],
 		"promotions": ["Fortification", "Detection T1"]
 	},
+	
 	{
 		"name": "Sensei of SCHALE",
 		"unitType": "Hero",
