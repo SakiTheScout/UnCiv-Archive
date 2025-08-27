@@ -842,7 +842,7 @@
 	{
 		"name": "Move! Move! Move!",    
 		"uniques": [
-			"[This Unit] loses the [Move! Move! Move!] status <upon turn end>",
+			"[This Unit] loses the [Move! Move! Move!] status",
 			"[This Unit] gains the [Order Cooldown] status for [1] turn(s) <upon gaining the [Move! Move! Move!] status> <for [HQ] units>"]},
 	{
 		"name": "Order: Dig in!",
@@ -860,6 +860,42 @@
 			"[+50]% Strength bonus for [Infantry] units within [1] tiles <vs [Ranged] units> <when defending>",
 			"[This Unit] loses the [Dig in!] status <upon turn start>",
 			"[This Unit] gains the [Order Cooldown] status for [1] turn(s) <upon gaining the [Dig in!] status> <for [HQ] units>"]},
+
+"Order: Deploy Smoke!", "Order: Evasive Maneuver!"
+	{
+		"name": "Order: Brace for Impact!",
+		"prerequisites": ["HQ"],
+		"uniques": [
+			"Comment [[Brace for Impact!]: Adjacent armored units dig in against ranged attacks.]",
+			"[This Unit] gains the [Brace for Impact!] status for [1] turn(s) <for [0] movement> <for units without [Order Cooldown]> <hidden from users>"],
+		"innerColor": [100,50,150],
+		"outerColor": [0,0,0],
+		"column": 113,
+		"row": 0},
+	{
+		"name": "Brace for Impact!",    
+		"uniques": [
+			"[+33]% Strength bonus for [Light Armor] units within [1] tiles <vs [Ranged] units> <when defending>",
+			"[+33]% Strength bonus for [Medium Armor] units within [1] tiles <vs [Ranged] units> <when defending>",
+			"[+33]% Strength bonus for [Heavy Armor] units within [1] tiles <vs [Ranged] units> <when defending>",
+			"[This Unit] loses the [Brace for Impact!] status <upon turn start>",
+			"[This Unit] gains the [Order Cooldown] status for [1] turn(s) <upon gaining the [Brace for Impact!] status> <for [HQ] units>"]},
+	{
+		"name": "Order: Deploy Smoke!",
+		"prerequisites": ["HQ"],
+		"uniques": [
+			"Comment [[Deploy Smoke!]: Adjacent armored units gain [Smokescreen].]",
+			"[This Unit] gains the [Move! Move! Move!] status for [1] turn(s) <for [0] movement> <for units without [Order Cooldown]> <hidden from users>"],
+		"innerColor": [100,100,100],
+		"outerColor": [0,0,0],
+		"column": 114,
+		"row": 0},
+	{
+		"name": "Deploy Smoke!",    
+		"uniques": [
+			"[This Unit] gains the [Smokescreen] status for [3] turn(s)",
+			"[This Unit] loses the [Smokescreen] status <upon damaging a [All] unit>",
+			"[This Unit] gains the [Order Cooldown] status for [3] turn(s) <upon gaining the [Move! Move! Move!] status> <for [HQ] units>"]},
 	{
 		"name": "Order Cooldown",
 		"uniques": ["Comment [Order is on cooldown]"]},
