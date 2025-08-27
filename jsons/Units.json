@@ -475,7 +475,7 @@
 		"cost": 370,
 		"requiredTech": "Combined Arms",
 		"uniques": ["Consumes [1] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"],
-	        "promotions": ["HQ", "Order: Deploy Smoke!", "Order: Evasive Maneuver!", "Order: Bring it Down!"],
+	        "promotions": ["HQ", "Order: Deploy Smoke!", "Order: Evasive Maneuver!", "Order: Bring it down!"],
 		"attackSound": "tankshot"
 	},
   {
@@ -497,7 +497,7 @@
 		"cost": 500,
 		"requiredTech": "Combined Arms",
 		"uniques": ["[+15]% Strength bonus for [Heavy Armor] units within [2] tiles <when attacking>", "[-15]% Strength for enemy [Infantry] units in adjacent [All] tiles", "Consumes [3] [Iron]", "Consumes [2] [Oil]", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"],
-	        "promotions": ["HQ", "Order: Bring it Down!"],
+	        "promotions": ["HQ", "Order: Bring it down!"],
 		"attackSound": "tankshot"
 	},
 	{
