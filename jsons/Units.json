@@ -780,6 +780,16 @@
 		"attackSound": "machinegun"
 	},
 	{
+		"name": "Medical Bunker",
+		"unitType": "Fortification",
+		"movement": 1,
+		"strength": 50,
+		"cost": 400,
+		"requiredTech": "Pharmaceuticals",
+		"uniques": ["Comment [WARNING! Fortifications must be placed on the Foundation improvement, lest they get destroyed!]", "All adjacent units heal [15] HP when healing", "[+66]% Strength <when defending> <in [Foundation] tiles>", "[-1] Sight <hidden from users>", "Cannot move <in [Foundation] tiles> <hidden from users>", "May Paradrop to [Foundation] tiles up to [10] tiles away <in [non-[Foundation]] tiles> <hidden from users>", "[This Unit] takes [50] damage <upon turn start> <in [non-[Foundation]] tiles> <hidden from users>", "Cannot attack"],
+		"promotions": ["Fortification"]
+	},
+	{
 		"name": "Watchtower",
 		"unitType": "Fortification",
 		"movement": 1,
