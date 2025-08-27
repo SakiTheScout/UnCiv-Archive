@@ -450,6 +450,11 @@
 			"[-1] Movement",
 			"[This Unit] loses the [Ballistic Shield] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Grenade Cooldown] status for [5] turn(s) <upon gaining the [Ballistic Shield] status>"]},
+	{
+		"name": "Radar Scan",    
+		"uniques": [
+			"[+10] Sight",
+			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Radar Scan] status>"]},
 	// Grenades
 	{
 		"name": "Grenadier",
