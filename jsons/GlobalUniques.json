@@ -117,7 +117,8 @@
 	"[-1 Happiness] from every [Remedial Knights Hospital] <when number of [[Tea Party Plaza] Buildings] is more than [[Remedial Knights Hospital] Buildings]> <for [Trinity General School] Civilizations>",
 	"[-1 Happiness] from every [Remedial Knights Hospital] <when number of [[Sisterhood Cathedral] Buildings] is more than [[Remedial Knights Hospital] Buildings]> <for [Trinity General School] Civilizations>",
 	"[-1 Happiness] from every [Remedial Knights Hospital] <when number of [[Trinity's Vigilante Crew Keep] Buildings] is more than [[Remedial Knights Hospital] Buildings]> <for [Trinity General School] Civilizations>",
-	
+
+	"[-1 Happiness] <for every [[Demon] Units]>",
 	
     "Provides [1] [HQ limit] <for every [3] [[Troops] Units]>",
     "Provides [1] [FA limit] <for every [1] [[HQ] Units]>",
