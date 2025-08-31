@@ -26,8 +26,8 @@
 		"name": "Demon",
 		"movementType": "Land",
 		"uniques": ["[This Unit] is destroyed <upon losing the [Constitution] status>",
-		"[This Unit] gains the [Constitution] status for [+3] turn(s) <upon defeating a [all] unit>",
-		"[This Unit] gains the [Constitution] status for [+1] turn(s) <upon damaging a [all] unit>",
+		"[This Unit] gains the [Constitution] status for [5] turn(s) <upon defeating a [all] unit>",
+		"[This Unit] gains the [Constitution] status for [10] turn(s) <upon damaging a [all] unit>",
 		"Consumes [1] [Eleph]",
 		"[This Unit] takes [25] damage <upon entering a [Minefield] tile>"]
 	},
