@@ -459,7 +459,8 @@
 	{
 		"name": "Summon a Demon",
 		"uniques": [
-			"[This Unit] is destroyed"
+			"[This Unit] is destroyed",
+			"Free [Lesser Demon] appears"
 		]
 	},
 	// Grenades
