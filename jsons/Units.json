@@ -17,7 +17,7 @@
 		"cost": 10,
 		"uniques": [
 			"[This Unit] gains the [Constitution] status for [10] turn(s)",
-			"[+50]% Strength <upon entering a new era>",
+			"[+50]% Strength <for every [Era number]>",
 			"Unbuildable"
 		]
   },
