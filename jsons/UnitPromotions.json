@@ -456,6 +456,12 @@
 			"[+10] Sight",
 			"Can see over obstacles",
 			"[This Unit] gains the [Grenade Cooldown] status for [15] turn(s) <upon gaining the [Radar Scan] status>"]},
+	{
+		"name": "Summon a Demon",
+		"uniques": [
+			"[This Unit] is destroyed"
+		]
+	},
 	// Grenades
 	{
 		"name": "Grenadier",
