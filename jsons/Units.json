@@ -5,9 +5,21 @@
 		"movement": 2,
 		"cost": 106,
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
-			"Requires at least [2] population",
-		"Limited to [1] per Civilization <for [Lesser School] Civilizations> <hidden from users>"],
+			"Requires at least [2] population"],
 		"hurryCostModifier": 20
+  },
+  {
+		"name": "Lesser Demon",
+	    "uniqueTo": "Occult",
+		"unitType": "Demon",
+		"movement": 2,
+	    "strength": 10,
+		"cost": 10,
+		"uniques": [
+			"[This Unit] gains the [Constitution] status for [10] turn(s)",
+			"[+50]% Strength <upon entering a new era>",
+			"Unbuildable"
+		]
   },
   {
 		"name": "Light Infantry",
