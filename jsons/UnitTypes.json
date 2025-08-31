@@ -11,7 +11,7 @@
           "[This Unit] gains [1] movement <when adjacent to a [Move! Move! Move!] unit>",
           "[This Unit] gains the [Blood for the Blood God] promotion <upon defeating a [All] unit> <with [1]% chance>",
           "[This Unit] takes [25] damage <upon entering a [Minefield] tile> <for [non-[Combat Engineer]] units>",
-		  "[This] gains the [Summon a Demon] promotion <costs [25] [Eleph]> <for all movement> <for [Occult] Civilizations>",
+		  "[This Unit] gains the [Summon a Demon] promotion <costs [25] [Eleph]> <for all movement> <for [Occult] Civilizations>",
           "May capture killed [Fortification] units <with [75]% chance>",
           "[This Unit] gains the [Smokescreen] status for [3] turn(s) <when adjacent to a [Deploy Smoke!] unit>",
 	        "[This Unit] loses the [Smokescreen] status <upon damaging a [All] unit>"]
