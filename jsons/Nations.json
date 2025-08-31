@@ -567,7 +567,7 @@
 		"outerColor": [42,20,45],
 		"innerColor": [134,126,234],
 		"uniqueName": "Unburdened with Morality",
-		"uniques":["Organised Gang",
+		"uniques":["Organised Gang", "Occult",
 			"Enemy [Infantry] units must spend [1] extra movement points when inside your territory",
 			"[Land] units gain the [Tainted Augmentations] promotion",
 			"Gain [15] Influence with a [Military] gift to a City-State",
