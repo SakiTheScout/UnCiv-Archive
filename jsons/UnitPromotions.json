@@ -736,6 +736,10 @@
 			"No defensive terrain bonus",
 			"Can only heal by pillaging",
 			"No Sight"]},
+	{
+		"name": "Constitution",
+		"uniques": ["Comment [Demons, being beings of pure energy from an other plain, cannot affect the material universe unless they are manifested in it. Such manifestations are temporary, and without maintaining their constitution demon will perish back into its realm.]"]},
+	
 	// High Schools
 	{
 		"name": "Agricultural Schooling",
