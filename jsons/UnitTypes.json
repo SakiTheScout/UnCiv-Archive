@@ -23,7 +23,7 @@
    },
 	{
 		"name": "Demon",
-		"movement Type": "Land",
+		"movementType": "Land",
 		"uniques": ["[This Unit] is destroyed <upon losing the [Constitution] status>",
 		"[This Unit] gains the [Constitution] status for [+3] turn(s) <upon defeating a [all] unit>",
 		"[This Unit] gains the [Constitution] status for [+1] turn(s) <upon damaging a [all] unit>",
