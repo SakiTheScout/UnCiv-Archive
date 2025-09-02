@@ -344,7 +344,7 @@
 		"innerColor": [137,151,148],
 		"uniqueName": "Road of Fury",
 		"uniques":["Organised Gang",
-			"Comment [These gangers are using raiding tactics that boost bikers and light vehicles and give them more Fast Attack forst organisation slots, but their infantry is worse quality and they have less Fire Support slots.]",
+			"Comment [These gangers are using raiding tactics that boost bikers and light vehicles and give them more Fast Attack force organisation slots, but their infantry is worse quality and they have less Fire Support slots.]",
 			"Provides [1] [FA limit] <for every [2] [[HQ] Units]> <hidden from users>",
 			"Provides [-1] [FS limit] <for every [2] [[HQ] Units]> <hidden from users>",
 			"[Land] units gain the [Outlaws Ironclad] promotion",
