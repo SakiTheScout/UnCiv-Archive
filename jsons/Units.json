@@ -14,10 +14,9 @@
 		"unitType": "Demon",
 		"movement": 2,
 	    "strength": 10,
-		"cost": 10,
+		"cost": 1,
 		"uniques": [
-			"[This Unit] gains the [Constitution] status for [10] turn(s)",
-			"[+50]% Strength <for every [Era number]>",
+			"[+75]% Strength <for every [Era number]>",
 			"Unbuildable"
 		]
   },
