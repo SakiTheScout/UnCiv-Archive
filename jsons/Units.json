@@ -54,6 +54,7 @@
 		"movement": 2,
 	    "strength": 15,
 		"cost": 1,
+	    "promotions": ["HQ"],
 		"uniques": [
 			"[+75]% Strength <for every [Era number]>",
 			"[-20]% Strength for enemy [All] units in adjacent [All] tiles"
@@ -66,6 +67,7 @@
 		"movement": 3,
 	    "strength": 30,
 		"cost": 1,
+	    "promotions": ["HQ"],
 		"uniques": [
 			"[+75]% Strength <for every [Era number]>",
 			"[-25]% Strength for enemy [All] units in adjacent [All] tiles"
