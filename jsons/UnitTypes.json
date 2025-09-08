@@ -27,6 +27,12 @@
 		"movementType": "Land",
 		"uniques": [
 		"Consumes [1] [Eleph]",
+		"Can only heal by pillaging",
+		"Heals [25] damage if it kills a unit",
+		"Cannot be purchased",
+		"Unbuildable",
+		"Unable to pillage tiles",
+		"[This Unit] takes [1] damage <upon turn start>",
 		"[This Unit] takes [25] damage <upon entering a [Minefield] tile>"]
 	},
   {
