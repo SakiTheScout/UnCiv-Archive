@@ -106,6 +106,7 @@
 		"innerColor": [12,34,38],
 		"uniqueName": "Hatred that is not ours",
 		"uniques":["Lesser School",
+		"Occult",
 		"Comment [A school with tragic fate. Will you endure?]",
 		"Triggers a [Trinity Treaty (Arius)] event <upon discovering [Civil Service] technology> <without [Counter]> <hidden from users>",
 		"Triggers a [Trinity Treaty (Arius)] event <upon turn start> <starting from the [Renaissance era]> <after turn number [2]> <without [Counter]> <hidden from users>",
