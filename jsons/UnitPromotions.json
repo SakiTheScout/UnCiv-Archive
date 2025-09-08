@@ -458,9 +458,9 @@
 		"name": "Summon a Demon",
 		"uniques": [
 			"[This Unit] is destroyed",
-			"Free [Lesser Demon] appears <with [50]% chance>",
-			"Free [Shooting Demon] appears <with [40]% chance>",
-			"Free [Demon Beast] appears <with [60]% chance>",
+			"Free [Lesser Demon] appears <with [33]% chance>",
+			"Free [Shooting Demon] appears <with [33]% chance>",
+			"Free [Demon Beast] appears <with [50]% chance>",
 			"Free [Demon Champion] appears <with [10]% chance>",
 			"Free [Greater Demon] appears <with [2]% chance>"
 		]
