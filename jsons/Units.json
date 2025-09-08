@@ -17,7 +17,58 @@
 		"cost": 1,
 		"uniques": [
 			"[+75]% Strength <for every [Era number]>",
-			"Unbuildable"
+			"[-15]% Strength for enemy [All] units in adjacent [All] tiles"
+		]
+  },
+  {
+		"name": "Shooting Demon",
+	    "uniqueTo": "Occult",
+		"unitType": "Demon",
+		"movement": 2,
+	    "strength": 8,
+	    "rangedStrength": 11,
+	    "range": 2,
+		"cost": 1,
+		"uniques": [
+			"[+75]% Strength <for every [Era number]>",
+			"[-15]% Strength for enemy [All] units in adjacent [All] tiles"
+		]
+  },
+  {
+		"name": "Demon Beast",
+	    "uniqueTo": "Occult",
+		"unitType": "Demon",
+		"movement": 4,
+	    "strength": 9,
+		"cost": 1,
+		"uniques": [
+			"[+75]% Strength <for every [Era number]>",
+			"[+25]% Strength <for every [Era number]> <vs [{Wounded} {Infantry}] units>",
+			"[-15]% Strength for enemy [All] units in adjacent [All] tiles"
+		]
+  },
+  {
+		"name": "Demon Champion",
+	    "uniqueTo": "Occult",
+		"unitType": "Demon",
+		"movement": 2,
+	    "strength": 15,
+		"cost": 1,
+		"uniques": [
+			"[+75]% Strength <for every [Era number]>",
+			"[-20]% Strength for enemy [All] units in adjacent [All] tiles"
+		]
+  },
+  {
+		"name": "Greater Demon",
+	    "uniqueTo": "Occult",
+		"unitType": "Demon",
+		"movement": 3,
+	    "strength": 30,
+		"cost": 1,
+		"uniques": [
+			"[+75]% Strength <for every [Era number]>",
+			"[-25]% Strength for enemy [All] units in adjacent [All] tiles"
 		]
   },
   {
