@@ -214,7 +214,7 @@
 	// Hellforge
 	{
       "name": "Tainted Augmentations",
-      "uniques": ["[This Unit] gains the [Tainted Augmentation] status for [1] turn(s) <for all movement> <costs [+100 Gold] stat> <costs [5] [Eleph]> <hidden from users>"]},
+      "uniques": ["[This Unit] gains the [Tainted Augmentation] status for [1] turn(s) <for all movement> <costs [100 Gold] stats> <costs [5] [Eleph]> <hidden from users>"]},
 	{
 		"name": "Tainted Augmentation",
 		"uniques": [
