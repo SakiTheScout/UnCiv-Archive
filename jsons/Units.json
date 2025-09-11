@@ -7,7 +7,7 @@
 		"uniques": ["Founds a new city <by consuming this unit>", "Excess Food converted to Production when under construction",
 			"Requires at least [2] population",
 		    "[-1] population [in this city]",
-		    "Founds a new city <in [Barbarian encampment] tiles> <upon turn end> <for [Barbarians] Civilizations>"],
+		    "Founds a new city <in [Barbarian encampment] tiles> <upon turn end> <for [Barbarians] Civilizations> <hidden from users>"],
 		"hurryCostModifier": 20
   },
   {
