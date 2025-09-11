@@ -574,7 +574,7 @@
 			"Gain [15] Influence with a [Military] gift to a City-State",
 			"\"Borrows\" city names from other civilizations in the game",
 			"[+100]% Great Person generation [in capital]"],
-		"cities": ["Hellforge", "Trinity Inner District A1", "Trinity Inner District B2", "Trinity Inner District C3", "Trinity Inner District D4", "Trinity Inner District E5", "Trinity Inner District F6", "Trinity Inner District G7", "Trinity Inner District H8", "Trinity Inner District I9", "Trinity Inner District J10"],
+		"cities": ["Hellforge"],
 		"personality": "Seminar"
 	},
 	
@@ -621,6 +621,6 @@
 		"name": "Barbarians",
 		"outerColor": [0,0,0],
                 "innerColor": [200,0,0],
-		"uniques": ["Excluded from map editor", "No movement cost to pillage", "[Melee] units gain the [Blood for the Blood God] promotion <every [8] turns> <with [10]% chance>"]
+		"uniques": ["\"Borrows\" city names from other civilizations in the game", "Excluded from map editor", "No movement cost to pillage", "[Melee] units gain the [Blood for the Blood God] promotion <every [8] turns> <with [5]% chance>"]
 	}
 ]
