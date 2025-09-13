@@ -388,6 +388,7 @@
 		"name": "L118",
 		"unitType": "Towed",
 		"uniqueTo": "Trinity General School",
+		"replaces": "Heavy Artillery",
 		"movement": 1,
 		"strength": 40,
 		"rangedStrength": 90,
@@ -454,6 +455,7 @@
 	{
 		"name": "Crusader Tank",
 		"uniqueTo": "Trinity General School",
+		"replaces": "Light Tank",
 		"unitType": "Light Armor",
 		"movement": 6,
 		"strength": 80,
@@ -584,6 +586,7 @@
 	{
 		"name": "Crusader Tank Commander",
 		"uniqueTo": "Trinity General School",
+		"replaces": "Light Tank Commander",
 		"unitType": "Light Armor",
 		"movement": 6,
 		"strength": 80,
