@@ -348,6 +348,8 @@
 			"Instantly provides [5] [Eleph] <upon defeating a [All] unit>",
 			"Instantly provides [5] [Eleph] <upon defeating a [Kivotos Halo] unit>",
 			"Instantly provides [5] [Eleph] <upon defeating a [Kivotos Halo] unit> <with [33]% chance>",
+			"[+1 Happiness] <for every [[Demon] Units]>",
+			"[+5 Happiness, +3 Culture] <for every [[Greater Demon] Units]>",
 			"Free [Greater Demon] appears <upon defeating a [Kivotos Halo] unit> <with [1]% chance>",
 			"\"Borrows\" city names from other civilizations in the game"],
 		"cities": ["Ghostly Coven"],
