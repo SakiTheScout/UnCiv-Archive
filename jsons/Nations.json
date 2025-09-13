@@ -314,6 +314,46 @@
 		"personality": "Council of Officers"
 	},
 	{
+		"name": "Nature's Beauty Club",
+		"leaderName": "Kadenokouji Kokuriko",
+		"adjective": ["Nature's Beauty"],
+		"startBias": ["Mountain"],
+		"preferredVictoryType": "Domination",
+		
+		"startIntroPart1": "Hyakkiyako was never... Unite. It was, and remains, a colourful blanket, and Ying-Yan club supports this diversity... But in all their wild and extravagant variety, there was simply no place to us. We have always been looked upon with fear and suspicion, and not without reasons. Nature's Beauty Club crafts truly delightful ghost stories... Out of students.",
+		"startIntroPart2": "We were never truly gone, even though banished beyond the mountains. We are being held back by Hyakkaryouran, but it is not with armies we fight... How long would it take before the separated twigs will start snapping under pressure? Little by little... We'll make it together. Our own 'story', that'll set this world on fire.",
+		
+		"declaringWar": "Are you ready to witness the new art?",
+		"attacked": "How delusional of you.",
+		"defeated": "I suppose, it is an end...",
+		"introduction": "Greetings. I suppose one won't reasonlessly stalk these lands. Speak.",
+		
+		"neutralHello": "Hello. How about a little story before we start?..",
+		"neutralLetsHearIt": "I see. I assume you want to suggest something.",
+		"neutralNo": "I am sorry to decline.",
+		"neutralYes": "A worthwhile deal.",
+		
+		"hateHello": "Are you not scared of this night?..",
+		"hateLetsHearIt": "It would be a lie to say I would willingly agree.",
+		"hateNo": "No. You don't understand the art of witchcraft.", 
+		"hateYes": "Begrudgingly...",
+		
+		"afterPeace": "This chapter of our story ends here.",
+		"tradeRequest": "I have heard you have things of our interest in your possession. We are ready for an... Exchange.",
+		
+		"outerColor": [57,57,57],
+		"innerColor": [255,0,178],
+		"uniqueName": "Hyakumonogatari",
+		"uniques":["Lesser School", "Occult",
+			"Instantly provides [5] [Eleph] <upon defeating a [All] unit>",
+			"Instantly provides [5] [Eleph] <upon defeating a [Kivotos Halo] unit>",
+			"Instantly provides [5] [Eleph] <upon defeating a [Kivotos Halo] unit> <with [33]% chance>",
+			"Free [Greater Demon] appears <upon defeating a [Kivotos Halo] unit> <with [1]% chance>",
+			"\"Borrows\" city names from other civilizations in the game"],
+		"cities": ["Ghostly Coven"],
+		"personality": "Council of Officers"
+	},
+	{
 		"name": "Outlaws Ironclad",
 		"leaderName": "Nakao Eru",
 		"adjective": ["Ironclad Raider"],
