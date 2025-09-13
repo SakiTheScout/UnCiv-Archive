@@ -34,6 +34,7 @@
     "name": "Sister Militant",
     "uniques": [
       "Can Spread Religion",
+	  "[+33]% Strength <vs [Demon] units>",
       "Prevents spreading of religion to the city it is next to",
       "May enter foreign tiles without open borders"],
 	  "outerColor": [0,0,0],
@@ -158,6 +159,7 @@
     "uniques": [
       "[+33]% Strength <when fighting in [Friendly Land] tiles>",
       "[+33]% Strength <vs [Barbarian] units>",
+	  "[+33]% Strength <vs [Demon] units>",
       "Withdraws before melee combat <with [33]% chance>"],
   "outerColor": [32,30,35],
   "innerColor": [255,0,0]},
@@ -290,6 +292,7 @@
     "uniques": [
       "[+20]% Strength bonus for [Hyakkaryouran Conflict Resolution Council] units within [1] tiles",
       "[+33]% Strength <vs [Barbarian] units>",
+	  "[+33]% Strength <vs [Demon] units>",
       "No damage penalty for wounded units"]},
 	{
     "name": "Festival Management Committee",
@@ -337,6 +340,7 @@
     "uniques": [
       "Gain [1]-[10] [Science] <upon turn start>",
       "Withdraws before melee combat <with [33]% chance>",
+	  "[+33]% Strength <vs [Demon] units>",
       "[This Unit] gains the [Detection T1] promotion"],
 	  "outerColor": [255,253,249],
 	  "innerColor": [255,210,111]},
@@ -355,6 +359,7 @@
       "[This Unit] gains the [Stealth T1] promotion",
       "May Paradrop to [Land] tiles up to [15] tiles away <when [non-[Wounded]]>",
       "[+50]% XP gained from combat",
+	  "[+33]% Strength <vs [Demon] units>",
       "Instantly gain [1] [Golden Age points] <upon turn start>"],
   "outerColor": [15,25,50],
   "innerColor": [255,255,255]},
@@ -578,6 +583,7 @@
 			"[Target Unit] gains the [Burning] status for [5] turn(s) <upon damaging a [All] unit>",
 			"[+15]% Strength <when fighting in [Forest] tiles>",
 			"[+20]% Strength <when fighting in [Jungle] tiles>",
+			"[+33]% Strength <vs [Demon] units>",
 			"[This Unit] loses the [Molotov Cocktail] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Molotov Cocktail] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Molotov Cocktail] status> <for [Specialist Infantry] units>"]},
 	{
@@ -706,8 +712,9 @@
 		"name": "Holy Grenade",    
 		"uniques": [
 			"[This Unit] heals [50] HP <upon turn end>",
+			"[+50]% Strength <vs [Demon] units>",
 			"[This Unit] loses the [Holy Grenade] status <upon turn end>",
-		        "[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Holy Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Holy Grenade] status> <for [Specialist Infantry] units>"]},
+		    "[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Holy Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Holy Grenade] status> <for [Specialist Infantry] units>"]},
 	{
 		"name": "Halo-Shattering Grenades",
 		"prerequisites": ["Grenadier"],
@@ -782,7 +789,7 @@
 		"innerColor": [178,0,255]},
 	{
 		"name": "Religious Schooling",
-		"uniques":["[+5]% Strength", "Gain [1]-[10] [Faith] <upon turn start>","Gain [1]-[10] [Faith] <when not at war> <upon turn start>", "Gain [-1] [Gold] <upon turn start>"],
+		"uniques":["[+5]% Strength", "[+10]% Strength <vs [Barbarian] units>", "Gain [1]-[10] [Faith] <upon turn start>","Gain [1]-[10] [Faith] <when not at war> <upon turn start>", "Gain [-1] [Gold] <upon turn start>"],
 		"outerColor": [0,0,0],
 		"innerColor": [0,229,255]},
 	{
