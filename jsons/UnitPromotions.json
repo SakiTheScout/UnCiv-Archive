@@ -638,8 +638,9 @@
 		"prerequisites": ["Grenadier"],
 		"unitTypes": ["Infantry"],
 		"uniques": [
-			
-			"Comment [[Tpxic Gas Flask]: Poison Infantry unit for 8 turns. Cooldown: 10 turns.]",
+			"Only available <for [Shanhaijing Second Senior School] Civilizations>",
+			"Not shown on world screen <for [non-[Shanhaijing Second Senior School]] Civilizations>",
+			"Comment [[Toxic Gas Flask]: Poison Infantry unit for 8 turns. Cooldown: 10 turns.]",
 			"[+1]% Strength",
 			"[This Unit] gains the [Toxic Gas Flask] status for [1] turn(s) <for [0] movement> <for units without [Grenade Cooldown]> <hidden from users>"],
 		"innerColor": [50,255,0],
@@ -649,8 +650,6 @@
 	{
 		"name": "Toxic Gas Flask",    
 		"uniques": [
-			"Only available <for [Shanhaijing Second Senior School] Civilizations>",
-			"Not shown on world screen <for [non-[Shanhaijing Second Senior School]] Civilizations>",
 			"[Target Unit] gains the [Poisoned] status for [8] turn(s) <upon damaging a [Infantry] unit>",
 			"[This Unit] loses the [Toxic Gas Flask] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Toxic Gas Flask] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Flashbang Grenade] status> <for [Specialist Infantry] units>"]},	
@@ -684,7 +683,7 @@
 			"Only available <for [Millennium Science School] Civilizations>",
 			"Not shown on world screen <for [non-[Millennium Science School]] Civilizations>",
 			"[+1]% Strength",
-			"Comment [[EMP]: Stun armored unit for 2 turns, but the heavier the vehicle, the harder it will get stunned. Cooldown: 10 turns.]",
+			"Comment [[EMP Grenade]: Stun armored unit for 2 turns, but the heavier the vehicle, the harder it will get stunned. Cooldown: 10 turns.]",
 			"[This Unit] gains the [EMP Grenade] status for [1] turn(s) <for [0] movement> <for units without [Grenade Cooldown]> <hidden from users>"],
 		"innerColor": [61,130,255],
 		"outerColor": [241,246,255],
