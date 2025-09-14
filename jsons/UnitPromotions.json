@@ -133,7 +133,7 @@
 		"Unable to capture cities",
 		"[+1] Movement",
 		"Self-destructs when attacking",
-		"[Target Unit] takes [30] damage <upon damaging a [All] unit>",
+		"[Target Unit] takes [20] damage <upon damaging a [All] unit>",
 		"[This Unit] gains the [Grenade Cooldown] status for [3] turn(s) <upon gaining the [Martyrdom] status>"]},
 	// Abydos
     {
@@ -271,26 +271,26 @@
     "name": "Eastern Alchemy Society",
     "uniques": [
       "No damage penalty for wounded units",
-      "[-20]% Strength for enemy [Wounded] units in adjacent [All] tiles",
+      "[-25]% Strength for enemy [Wounded] units in adjacent [All] tiles",
       "Gain [1]-[10] [Science] <when not at war> <upon turn start>"]},
 	{
     "name": "Genryumon",
     "uniques": [
       "[This Unit] gains the [Detection T1] promotion",
-      "[+50]% Strength <when defending> <when fighting in [Friendly Land] tiles>",
+      "[+33]% Strength <when defending> <when fighting in [Friendly Land] tiles>",
       "Great General provides double combat bonus"]},
 	
 	// Hyakkiyako
 	{
     "name": "Yin-yang Club",
     "uniques": [
-      "[+33]% Strength <when fighting in [Friendly Land] tiles>",
+      "[+25]% Strength <when fighting in [Friendly Land] tiles>",
       "Instantly gain [1] [Golden Age points] <when not at war> <upon turn start>",
       "Gain [1]-[10] [Culture] <when not at war> <upon turn start>"]},
 	{
     "name": "Hyakkaryouran Conflict Resolution Council",
     "uniques": [
-      "[+20]% Strength bonus for [Hyakkaryouran Conflict Resolution Council] units within [1] tiles",
+      "[+15]% Strength bonus for [Hyakkaryouran Conflict Resolution Council] units within [1] tiles",
       "[+33]% Strength <vs [Barbarian] units>",
 	  "[+33]% Strength <vs [Demon] units>",
       "No damage penalty for wounded units"]},
@@ -303,7 +303,7 @@
 	{
     "name": "Etiquette Training Society",
     "uniques": [
-      "[+33]% XP gained from combat",
+      "[+25]% XP gained from combat",
       "Gain [1]-[10] [Science] <when not at war> <upon turn start>"]},
 	{
     "name": "Ninjutsu Research Club",
@@ -323,7 +323,7 @@
     "uniques": [
       "[+33]% Strength <in [Snow] tiles>",
       "[+33]% Strength <in [Tundra] tiles>",
-      "[+25]% Strength <when adjacent to a [Red Winter Secretariat] unit>",
+      "[+20]% Strength <when adjacent to a [Red Winter Secretariat] unit>",
       "Great General provides double combat bonus"],
 	  "outerColor": [255,253,249],
 	  "innerColor": [255,210,111]},
@@ -366,8 +366,8 @@
 	{
     "name": "Kivotos Police",
     "uniques": [
-      "[+20]% Strength <when stacked with a [Civilian] unit>",
-      "[+20]% Strength <when fighting in [Friendly Land] tiles>",
+      "[+25]% Strength <when stacked with a [Civilian] unit>",
+      "[+25]% Strength <when fighting in [Friendly Land] tiles>",
       "[1] Movement <when fighting in [Friendly Land] tiles>",
       "Instantly gain [1] [Golden Age points] <upon turn start>"],
   "outerColor": [10,30,60],
@@ -377,14 +377,14 @@
     "uniques": [
       "[This Unit] gains the [Detection T1] promotion",
       "May enter foreign tiles without open borders",
-      "[1] Sight",
+      "[+1] Sight",
       "Instantly gain [1] [Golden Age points] <upon turn start>"],
   "outerColor": [20,40,80],
   "innerColor": [255,200,0]},
 	// Neutral
 	{
 		"name": "Shock I",
-		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles>", "[-90]% weight to this choice for AI decisions"],
+		"uniques": ["[+15]% Strength <when fighting in [Open terrain] tiles>"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Infantry"],
         "column": 4,
         "row": 1
@@ -408,7 +408,7 @@
 
 	{
 		"name": "Drill I",
-		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles>", "[-90]% weight to this choice for AI decisions"],
+		"uniques": ["[+15]% Strength <when fighting in [Rough terrain] tiles>"],
 		"unitTypes": ["Sword","Gunpowder","Mounted","Armored","Infantry"],
         "column": 5,
         "row": 1
@@ -497,8 +497,11 @@
 			"[Target Unit] takes [15] damage <upon damaging a [Bike] unit>",
 			"[Target Unit] takes [25] damage <upon damaging a [Ranged Infantry] unit>",
 			"[Target Unit] takes [15] damage <upon damaging a [Towed] unit>",
-			"[+15]% Strength <vs [non-[Armored]] units>",
-			"[Target Unit] takes [5] damage <upon damaging a [Armored] unit>",
+			"[+33]% Strength <vs [Infantry] units>",
+			"[+33]% Strength <vs [Ranged Infantry] units>",
+			"[+20]% Strength <vs [Towed] units>",
+			"[+20]% Strength <vs [Bike] units>",
+			"[-33]% Strength <vs [{non-[Infantry]} {non-[Towed]} {non-[Bike]} {non-[Ranged Infantry]}] units>",
 			"[This Unit] loses the [Frag Grenade] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Frag Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Frag Grenade] status> <for [Specialist Infantry] units>"]},
 	{
@@ -516,11 +519,15 @@
 	{
 		"name": "AT Grenade",    
 		"uniques": [
-			"[Target Unit] takes [35] damage <upon damaging a [Light Armor] unit>",
-			"[Target Unit] takes [25] damage <upon damaging a [Medium Armor] unit>",
+			"[Target Unit] takes [25] damage <upon damaging a [Light Armor] unit>",
+			"[Target Unit] takes [20] damage <upon damaging a [Medium Armor] unit>",
 			"[Target Unit] takes [15] damage <upon damaging a [Heavy Armor] unit>",
-			"[+15]% Strength <vs [Armored] units>",
-			"[Target Unit] takes [5] damage <upon damaging a [non-[Armored]] unit>",
+			"[Target Unit] takes [10] damage <upon damaging a [Superheavy Armor] unit>",
+			"[+33]% Strength <vs [Light Armor] units>",
+			"[+33]% Strength <vs [Medium Armor] units>",
+			"[+33]% Strength <vs [Heavy Armor] units>",
+			"[+33]% Strength <vs [Superheavy Armor] units>",
+			"[-33]% Strength <vs [{non-[Light Armor]} {non-[Medium Armor]} {non-[Heavy Armor]} {non-[Suoerheavy Armor]}] units>",
 			"[This Unit] loses the [AT Grenade] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [AT Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [AT Grenade] status> <for [Specialist Infantry] units>"]},
 	{
@@ -538,9 +545,9 @@
 	{
 		"name": "HE Grenade",    
 		"uniques": [
-			"[Target Unit] takes [30] damage <upon damaging a [All] unit> <in [Fort] tiles>",
+			"[Target Unit] takes [25] damage <upon damaging a [All] unit> <in [Fort] tiles>",
 			"[+15]% Strength <vs cities>",
-			"[Target Unit] takes [30] damage <upon damaging a [All] unit> <in [Citadel] tiles>",
+			"[Target Unit] takes [25] damage <upon damaging a [All] unit> <in [Citadel] tiles>",
 			"[This Unit] loses the [HE Grenade] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [HE Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [HE Grenade] status> <for [Specialist Infantry] units>"]},
 	{
@@ -558,11 +565,10 @@
 	{
 		"name": "Incendiary Grenade",    
 		"uniques": [
-			"[Target Unit] takes [15] damage <upon damaging a [{non-[Light Armor]} {non-[Medium Armor]} {non-[Heavy Armor]}] unit>",
+			"[Target Unit] takes [15] damage <upon damaging a [{non-[Light Armor]} {non-[Medium Armor]} {non-[Heavy Armor]} {non-[Superheavy Armor]}] unit>",
 			"[Target Unit] gains the [Burning] status for [5] turn(s) <upon damaging a [All] unit>",
 			"[+15]% Strength <when fighting in [Forest] tiles>",
 			"[+20]% Strength <when fighting in [Jungle] tiles>",
-			"[Target Unit] takes [5] damage <upon damaging a [Armored] unit>",
 			"[This Unit] loses the [Incendiary Grenade] status <upon damaging a [All] unit>",
 			 "[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Incendiary Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Incendiary Grenade] status> <for [Specialist Infantry] units>"]},
 	{
@@ -580,9 +586,10 @@
 	{
 		"name": "Molotov Cocktail",    
 		"uniques": [
-			"[Target Unit] gains the [Burning] status for [5] turn(s) <upon damaging a [All] unit>",
-			"[+15]% Strength <when fighting in [Forest] tiles>",
-			"[+20]% Strength <when fighting in [Jungle] tiles>",
+			"[Target Unit] gains the [Burning] status for [6] turn(s) <upon damaging a [All] unit>",
+			"[+20]% Strength <when fighting in [Forest] tiles>",
+			"[+25]% Strength <when fighting in [Jungle] tiles>",
+			"[+25]% Strength <when fighting in [Foundation] tiles>",
 			"[+33]% Strength <vs [Demon] units>",
 			"[This Unit] loses the [Molotov Cocktail] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Molotov Cocktail] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Molotov Cocktail] status> <for [Specialist Infantry] units>"]},
@@ -623,7 +630,7 @@
 	{
 		"name": "Flashbang Grenade",    
 		"uniques": [
-			"[Target Unit] gains the [Stunned] status for [2] turn(s) <upon damaging a [{non-[Light Armor]} {non-[Medium Armor]} {non-[Heavy Armor]}] unit>",
+			"[Target Unit] gains the [Stunned] status for [3] turn(s) <upon damaging a [{non-[Light Armor]} {non-[Medium Armor]} {non-[Heavy Armor]}] unit>",
 			"[This Unit] loses the [Flashbang Grenade] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Flashbang Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Flashbang Grenade] status> <for [Specialist Infantry] units>"]},
 	{
@@ -654,7 +661,7 @@
 		"uniques": [
 			"Only available <for [Millennium Science School] Civilizations>",
 			"[+1]% Strength",
-			"Comment [[EMP]: Stun armored unit for 2 turns. Cooldown: 10 turns.]",
+			"Comment [[EMP]: Stun armored unit for 2 turns, but the heavier the vehicle, the harder it will get stunned. Cooldown: 10 turns.]",
 			"[This Unit] gains the [EMP Grenade] status for [1] turn(s) <for [0] movement> <for units without [Grenade Cooldown]> <hidden from users>"],
 		"innerColor": [61,130,255],
 		"outerColor": [241,246,255],
@@ -689,9 +696,9 @@
 			"[Target Unit] gains the [Burning] status for [3] turn(s) <upon damaging a [All] unit>",
 			"[+15]% Strength <when fighting in [Forest] tiles>",
 			"[+20]% Strength <when fighting in [Jungle] tiles>",
-			"[Target Unit] takes [20] damage <upon damaging a [All] unit> <in [Fort] tiles>",
+			"[Target Unit] takes [15] damage <upon damaging a [All] unit> <in [Fort] tiles>",
 			"[+15]% Strength <vs cities>",
-			"[Target Unit] takes [20] damage <upon damaging a [All] unit> <in [Citadel] tiles>",
+			"[Target Unit] takes [15] damage <upon damaging a [All] unit> <in [Citadel] tiles>",
 			"[Target Unit] takes [5] damage <upon damaging a [Light Armor] unit>",
 			"[This Unit] loses the [Pyro Grenade] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Pyro Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Pyro Grenade] status> <for [Specialist Infantry] units>"]},
@@ -702,7 +709,7 @@
 		"uniques": [
 			"Only available <for [Trinity General School] Civilizations>",
 			"[+1]% Strength",
-			"Comment [[Holy Grenade]: This unit heals 50HP. Cooldown: 10 turns.]",
+			"Comment [[Holy Grenade]: This unit heals 50HP, and damages demons. Cooldown: 10 turns.]",
 			"[This Unit] gains the [Holy Grenade] status for [1] turn(s) <for [0] movement> <for units without [Grenade Cooldown]> <hidden from users>"],
 		"innerColor": [255,210,111],
 		"outerColor": [0,0,0],
@@ -723,7 +730,7 @@
 			"Only available <for [Arius Branch School] Civilizations>",
 			"[+1]% Strength",
 			"Comment [[Halo-Shattering Grenade]: Instantly kill Kivotos Halo unit by consuming 25 Eleph. Cooldown: 10 turns.]",
-			"[This Unit] gains the [Halo-Shattering Grenade] status for [1] turn(s) <for [0] movement> <for units without [Grenade Cooldown]> <hidden from users>"],
+			"[This Unit] gains the [Halo-Shattering Grenade] status for [1] turn(s) <for [0] movement> <costs [25] [Eleph]> <for units without [Grenade Cooldown]> <hidden from users>"],
 		"innerColor": [12,34,38],
 		"outerColor": [242,247,255],
 		"column": 107,
@@ -731,8 +738,7 @@
 	{
 		"name": "Halo-Shattering Grenade",    
 		"uniques": [
-			"[Target Unit] takes [100] damage <upon damaging a [Kivotos Halo] unit>",
-			"Instantly consumes [25] [Eleph]",
+			"[Target Unit] takes [90] damage <upon damaging a [Kivotos Halo] unit>",
 			"[This Unit] loses the [Halo-Shattering Grenade] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Halo-Shattering Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Halo-Shattering Grenade] status> <for [Specialist Infantry] units>"]},
 	{
@@ -753,23 +759,26 @@
 			"Can only heal by pillaging",
 			"No Sight"]},
 	{
-		"name": "Constitution",
-		"uniques": ["Comment [Demons, being beings of pure energy from an other plain, cannot affect the material universe unless they are manifested in it. Such manifestations are temporary, and without maintaining their constitution demon will perish back into its realm.]"]},
-	
+		"name": "Poisoned",
+		"uniques": ["[This Unit] takes [5] damage <upon turn end>",
+			"[-30] HP when healing",
+			"[This Unit] loses the [Poisoned] status <when [non-[Wounded]]>",
+			"[-25]% Strength"]},
+		
 	// High Schools
 	{
 		"name": "Agricultural Schooling",
-		"uniques":["[+5]% Strength", "Can build [Farm] improvements at a [+50]% rate", "Can build [Plantation] improvements at a [+50]% rate", "Gain [-1] [Gold] <upon turn start>"],
+		"uniques":["[+5]% Strength", "Can build [Farm] improvements at a [+50]% rate", "Can build [Plantation] improvements at a [+50]% rate", "[-1] [Gold]"],
 		"outerColor": [0,0,0],
 		"innerColor": [25,255,0]},
 	{
 		"name": "Military Schooling",
-		"uniques":["[+5]% Strength", "[+25]% XP gained from combat","[Great General] is earned [20]% faster", "Gain [-1] [Gold] <upon turn start>"],
+		"uniques":["[+5]% Strength", "[+25]% XP gained from combat","[Great General] is earned [20]% faster", "[-1] [Gold]"],
 		"outerColor": [0,0,0],
 		"innerColor": [255,25,0]},
 	{
 		"name": "Medical Schooling",
-		"uniques":["[+5]% Strength", "[+5] HP when healing","All adjacent units heal [+5] HP when healing", "Gain [-1] [Gold] <upon turn start>"],
+		"uniques":["[+5]% Strength", "[+5] HP when healing","All adjacent units heal [+5] HP when healing", "[-1] [Gold]"],
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,0]},
 	{
@@ -779,7 +788,7 @@
 		"innerColor": [117,117,0]},
 	{
 		"name": "Maritime Schooling",
-		"uniques":["[+5]% Strength", "[1] Movement point cost to embark", "Eliminates combat penalty for attacking across a coast", "Gain [-1] [Gold] <upon turn start>"],
+		"uniques":["[+5]% Strength", "[1] Movement point cost to embark", "Eliminates combat penalty for attacking across a coast", "[-1] [Gold]"],
 		"outerColor": [0,0,0],
 		"innerColor": [0,25,255]},
 	{
