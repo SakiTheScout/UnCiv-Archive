@@ -634,7 +634,25 @@
 			"[This Unit] loses the [Flashbang Grenade] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Flashbang Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Flashbang Grenade] status> <for [Specialist Infantry] units>"]},
 	{
-		"name": "Smoke Grenades",
+		"name": "Toxic Gas Flasks",
+		"prerequisites": ["Grenadier"],
+		"unitTypes": ["Infantry"],
+		"uniques": [
+			"Comment [[Flashbang Grenade]: Poison Infantry unit for 8 turns. Cooldown: 10 turns.]",
+			"[+1]% Strength",
+			"[This Unit] gains the [Toxic Gas Flask] status for [1] turn(s) <for [0] movement> <for units without [Grenade Cooldown]> <hidden from users>"],
+		"innerColor": [245,245,245],
+		"outerColor": [0,0,0],
+		"column": 96,
+		"row": 3},
+	{
+		"name": "Toxic Gas Flask",    
+		"uniques": [
+			"[Target Unit] gains the [Poisoned] status for [8] turn(s) <upon damaging a [Infantry] unit>",
+			"[This Unit] loses the [Toxic Gas Flask] status <upon damaging a [All] unit>",
+			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [Toxic Gas Flask] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [Flashbang Grenade] status> <for [Specialist Infantry] units>"]},	
+	{
+	    "name": "Smoke Grenades",
 		"prerequisites": ["Grenadier"],
 		"unitTypes": ["Infantry"],
 		"uniques": [
@@ -768,17 +786,17 @@
 	// High Schools
 	{
 		"name": "Agricultural Schooling",
-		"uniques":["[+5]% Strength", "Can build [Farm] improvements at a [+50]% rate", "Can build [Plantation] improvements at a [+50]% rate", "[-1] [Gold]"],
+		"uniques":["[+5]% Strength", "Can build [Farm] improvements at a [+50]% rate", "Can build [Plantation] improvements at a [+50]% rate", "[-1 Gold]"],
 		"outerColor": [0,0,0],
 		"innerColor": [25,255,0]},
 	{
 		"name": "Military Schooling",
-		"uniques":["[+5]% Strength", "[+25]% XP gained from combat","[Great General] is earned [20]% faster", "[-1] [Gold]"],
+		"uniques":["[+5]% Strength", "[+25]% XP gained from combat","[Great General] is earned [20]% faster", "[-1 Gold]"],
 		"outerColor": [0,0,0],
 		"innerColor": [255,25,0]},
 	{
 		"name": "Medical Schooling",
-		"uniques":["[+5]% Strength", "[+5] HP when healing","All adjacent units heal [+5] HP when healing", "[-1] [Gold]"],
+		"uniques":["[+5]% Strength", "[+5] HP when healing","All adjacent units heal [+5] HP when healing", "[-1 Gold]"],
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,0]},
 	{
@@ -788,7 +806,7 @@
 		"innerColor": [117,117,0]},
 	{
 		"name": "Maritime Schooling",
-		"uniques":["[+5]% Strength", "[1] Movement point cost to embark", "Eliminates combat penalty for attacking across a coast", "[-1] [Gold]"],
+		"uniques":["[+5]% Strength", "[1] Movement point cost to embark", "Eliminates combat penalty for attacking across a coast", "[-1 Gold]"],
 		"outerColor": [0,0,0],
 		"innerColor": [0,25,255]},
 	{
