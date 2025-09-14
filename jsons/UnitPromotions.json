@@ -644,7 +644,7 @@
 			"[This Unit] gains the [Toxic Gas Flask] status for [1] turn(s) <for [0] movement> <for units without [Grenade Cooldown]> <hidden from users>"],
 		"innerColor": [245,245,245],
 		"outerColor": [0,0,0],
-		"column": 96,
+		"column": 108,
 		"row": 3},
 	{
 		"name": "Toxic Gas Flask",    
