@@ -639,10 +639,10 @@
 		"unitTypes": ["Infantry"],
 		"uniques": [
 			
-			"Comment [[Flashbang Grenade]: Poison Infantry unit for 8 turns. Cooldown: 10 turns.]",
+			"Comment [[Tpxic Gas Flask]: Poison Infantry unit for 8 turns. Cooldown: 10 turns.]",
 			"[+1]% Strength",
 			"[This Unit] gains the [Toxic Gas Flask] status for [1] turn(s) <for [0] movement> <for units without [Grenade Cooldown]> <hidden from users>"],
-		"innerColor": [245,245,245],
+		"innerColor": [50,255,0],
 		"outerColor": [0,0,0],
 		"column": 108,
 		"row": 3},
