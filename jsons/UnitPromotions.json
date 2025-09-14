@@ -794,17 +794,17 @@
 	// High Schools
 	{
 		"name": "Agricultural Schooling",
-		"uniques":["[+5]% Strength", "Can build [Farm] improvements at a [+50]% rate", "Can build [Plantation] improvements at a [+50]% rate", "[-1 Gold]"],
+		"uniques":["[+5]% Strength", "Can build [Farm] improvements at a [+50]% rate", "Can build [Plantation] improvements at a [+50]% rate", "Gain [-1] [Gold] <upon turn start>"],
 		"outerColor": [0,0,0],
 		"innerColor": [25,255,0]},
 	{
 		"name": "Military Schooling",
-		"uniques":["[+5]% Strength", "[+25]% XP gained from combat","[Great General] is earned [20]% faster", "[-1 Gold]"],
+		"uniques":["[+5]% Strength", "[+25]% XP gained from combat","[Great General] is earned [20]% faster", "Gain [-1] [Gold] <upon turn start>"],
 		"outerColor": [0,0,0],
 		"innerColor": [255,25,0]},
 	{
 		"name": "Medical Schooling",
-		"uniques":["[+5]% Strength", "[+5] HP when healing","All adjacent units heal [+5] HP when healing", "[-1 Gold]"],
+		"uniques":["[+5]% Strength", "[+5] HP when healing","All adjacent units heal [+5] HP when healing", "Gain [-1] [Gold] <upon turn start>"],
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,0]},
 	{
@@ -814,7 +814,7 @@
 		"innerColor": [117,117,0]},
 	{
 		"name": "Maritime Schooling",
-		"uniques":["[+5]% Strength", "[1] Movement point cost to embark", "Eliminates combat penalty for attacking across a coast", "[-1 Gold]"],
+		"uniques":["[+5]% Strength", "[1] Movement point cost to embark", "Eliminates combat penalty for attacking across a coast", "Gain [-1] [Gold] <upon turn start>"],
 		"outerColor": [0,0,0],
 		"innerColor": [0,25,255]},
 	{
