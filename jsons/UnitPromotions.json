@@ -469,8 +469,6 @@
 			"Free [Demon Champion] appears <with [10]% chance>",
 			"Free [Greater Demon] appears <with [2]% chance>",
 			"[This Unit] gains the [Grenade Cooldown] status for [5] turn(s) <upon gaining the [Summon a Demon] status>"]},
-		]
-	},
 	// Grenades
 	{
 		"name": "Grenadier",
