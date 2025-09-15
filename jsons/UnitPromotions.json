@@ -527,7 +527,7 @@
 			"[+33]% Strength <vs [Medium Armor] units>",
 			"[+33]% Strength <vs [Heavy Armor] units>",
 			"[+33]% Strength <vs [Superheavy Armor] units>",
-			"[-33]% Strength <vs [{non-[Light Armor]} {non-[Medium Armor]} {non-[Heavy Armor]} {non-[Suoerheavy Armor]}] units>",
+			"[-33]% Strength <vs [{non-[Light Armor]} {non-[Medium Armor]} {non-[Heavy Armor]} {non-[Superheavy Armor]}] units>",
 			"[This Unit] loses the [AT Grenade] status <upon damaging a [All] unit>",
 			"[This Unit] gains the [Grenade Cooldown] status for [10] turn(s) <upon gaining the [AT Grenade] status> <for [non-[Specialist Infantry]] units>", "[This Unit] gains the [Grenade Cooldown] status for [7] turn(s) <upon gaining the [AT Grenade] status> <for [Specialist Infantry] units>"]},
 	{
