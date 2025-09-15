@@ -874,7 +874,7 @@
 		"attackSound": "shot"
 	},
 	{
-	        "name": "Bastion",
+	    "name": "Bastion",
 		"unitType": "Fortification",
 		"movement": 1,
 		"range": 2,
