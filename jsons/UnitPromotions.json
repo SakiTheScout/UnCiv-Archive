@@ -452,7 +452,7 @@
 			"[+100]% Strength <when defending>",
 			"[-1] Movement",
 			"[This Unit] loses the [Ballistic Shield] status <upon damaging a [All] unit>",
-			"[This Unit] gains the [Grenade Cooldown] status for [5] turn(s) <upon gaining the [Ballistic Shield] status>"],
+			"[This Unit] gains the [Grenade Cooldown] status for [5] turn(s) <upon gaining the [Ballistic Shield] status>"]},
 	{
 		"name": "Radar Scan",    
 		"uniques": [
