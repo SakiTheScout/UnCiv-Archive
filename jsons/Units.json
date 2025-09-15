@@ -796,8 +796,8 @@
 	},
 	{
 		"name": "L118 Emplacement",
-		"uniqueTo": "Trinity Grneral School",
 		"replaces": "H.Artillery Emplacement",
+		"uniqueTo": "Trinity Grneral School",
 		"unitType": "Fortification",
 		"movement": 1,
 		"strength": 40,
