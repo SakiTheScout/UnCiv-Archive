@@ -113,8 +113,8 @@
                 "uniques": [
                     "Comment [Remedial Knights is the oldest faction in Trinity, they had relationships with Justina Council. They are the knightly chapter, that evolved into charity organisation manning and holding hospitals in Trinity, with knights being medics. They are renowned for being paragon of salvation and kindness.]",
                     "Only available <if [Remedial Knights Hospital] is constructed> <hidden from users>",
-                    "[+3 Happiness] from all [Remedial Knights] buildings <for [15] turns> <hidden from users>",
-					"[-1 Happiness] from all [{non-[Remedial Knights]} {Club}] buildings <for [15] turns> <hidden from users>",
+                    "[+3 Happiness] from all [Remedial Knights Hospital] buildings <for [15] turns> <hidden from users>",
+					"[-1 Happiness] from all [{non-[Remedial Knights Hospital]} {Club}] buildings <for [15] turns> <hidden from users>",
 					"When defeating a [Wounded] unit, earn [-100] Gold and recruit it <with [33]% chance> <for [15] turns>",
 					"[25]% Food is carried over after population increases [in all cities] <for [15] turns>",
 					"[+1 Culture, +1 Gold, +1 Happiness, +1 Food, +1 Production] per [10] population [in all cities] <for [15] turns>"
