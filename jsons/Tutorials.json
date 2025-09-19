@@ -10,7 +10,7 @@
   },
   {
     "name": "UnCiv Archive – Units and Force Organisation",
-    "": [
+    "civilopediaText": [
       {"text":"Hello again, player. If you have ever wondered, why can't I spawn tanks and artillery like AI does, this tutorial is exactly for you."},
       {"text":"What is the Force Organisation?"},
       {"text":"Force Organisation mechanic is one of the pillars this mod is held on. Units are united into 7 large groups, each having own uniques."},
