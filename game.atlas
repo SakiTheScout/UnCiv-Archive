@@ -584,6 +584,48 @@ UnitIcons/Breacher Infantry
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Light SP HWZ
+  rotate: false
+  xy: 600, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/ Medium SP HWZ
+  rotate: false
+  xy: 700, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Heavy SP HWZ
+  rotate: false
+  xy: 800, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Anti-Aircraft Autocannon
+  rotate: false
+  xy: 600, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/ Anti-Aircraft Gun
+  rotate: false
+  xy: 700, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Heavy Anti-Aircraft Gun
+  rotate: false
+  xy: 800, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 
 TileSets.png
 size: 160, 108
