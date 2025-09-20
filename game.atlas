@@ -391,7 +391,7 @@ NationIcons/Outlaws Ironclad
   index: -1
 
 Units.png
-size: 600,400
+size: 900,400
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -433,6 +433,27 @@ UnitIcons/Artillery
 UnitIcons/Heavy Artillery
   rotate: false
   xy: 500, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Light SP ATG
+  rotate: false
+  xy: 600, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/ Medium SP ATG
+  rotate: false
+  xy: 700, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Heavy SP ATG
+  rotate: false
+  xy: 800, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
@@ -538,6 +559,13 @@ UnitIcons/Raider Infantry
 UnitIcons/Veteran Infantry
   rotate: false
   xy: 200, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Breacher Infantry
+  rotate: false
+  xy: 300, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
