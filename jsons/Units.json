@@ -351,7 +351,7 @@
 		"rangedStrength": 80,
 		"cost": 510,
 		"requiredTech": "Railroads",
-		"uniques": ["[+2] Sight", "[+15]% Strength <vs [Infantry] units> <when attacking>", "Consumes [1] [Aluminium]", "Consumes [1] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"],
+		"uniques": ["[+2] Sight", "[+15]% Strength <vs [Infantry] units> <when attacking>", "Consumes [1] [Aluminum]", "Consumes [1] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"],
 	        "promotions": ["HQ", "Detection T2"],
 		"attackSound": "machinegun"
 	},
