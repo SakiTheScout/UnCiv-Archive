@@ -311,20 +311,78 @@
     "uniques": ["Comment [Infantry unit intended for sudden paradrop assaults.]", "May Paradrop to [Land] tiles up to [15] tiles away <when [non-[Wounded]]>", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"]
 	},
 	{
+		"name": "Light Scout Car",
+		"unitType": "Light Armor",
+		"movement": 6,
+		"strength": 55,
+		"cost": 270,
+		"requiredTech": "Railroads",
+		"uniques": ["[+25]% Strength <vs [Infantry] units> <when attacking>", "[+1] Sight", "Consumes [1] [Oil]", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"],
+	        "promotions": ["Fast Attack", "Detection T1"],
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Medium Armored Car",
+		"unitType": "Light Armor",
+		"movement": 5,
+		"strength": 65,
+		"cost": 300,
+		"requiredTech": "Railroads",
+		"uniques": ["[+25]% Strength <vs [Infantry] units> <when attacking>", "[+25]% Strength <vs [Light Armor] units> <when attacking>", "Consumes [1] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"],
+	        "promotions": ["Fast Attack"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Heavy Armored Car",
+		"unitType": "Medium Armor",
+		"movement": 4,
+		"strength": 70,
+		"cost": 320,
+		"requiredTech": "Railroads",
+		"uniques": ["[+25]% Strength <vs [Ranged]> <when defending>", "[+25]% Strength <vs [Medium Armor] units> <when attacking>", "[+30]% Strength <vs [Light Armor] units> <when attacking>", "Consumes [2] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"],
+	        "promotions": ["Fast Attack"],
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "Command Armored Car",
+		"unitType": "Light Armor",
+		"movement": 5,
+		"strength": 65,
+		"rangedStrength": 80,
+		"cost": 510,
+		"requiredTech": "Railroads",
+		"uniques": ["[+2] Sight", "[+15]% Strength <vs [Infantry] units> <when attacking>", "Consumes [1] [Aluminium]", "Consumes [1] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"],
+	        "promotions": ["HQ", "Detection T2"],
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Wheeled Tank Hunter",
+		"unitType": "Light Armor",
+		"movement": 5,
+		"strength": 60,
+		"range": 1,
+		"rangedStrength": 80,
+		"cost": 500,
+		"requiredTech": "Ballistics",
+		"uniques": ["[-33]% Strength <vs [Infantry] units> <when attacking>", "Consumes [2] [Iron]", "Consumes [1] [Oil]", "[+100]% Strength <vs [Light Armor] units>", "[+90]% Strength <vs [Medium Armor] units>", "[+80]% Strength <vs [Heavy Armor] units>", "[+70]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
+	    "promotions": ["Elite"],
+		"attackSound": "tankshot"
+	},
+	{
 		"name": "Scout Bikes",
 		"unitType": "Bike",
-		"movement": 6,
+		"movement": 7,
 		"strength": 65,
 		"cost": 320,
 		"requiredTech": "Combustion",
 		"promotions": ["Fast Attack"],
 		"attackSound": "shot",
-    "uniques": ["Consumes [1] [Oil]", "[-25]% Strength <when defending>", "[+15]% Strength <vs [Siege] units>", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"]
+    "uniques": ["Consumes [1] [Oil]", "[-25]% Strength <when defending>", "[+15]% Strength <vs [Towed] units>", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"]
 	},
   {
 		"name": "Attack Bikes",
 		"unitType": "Bike",
-		"movement": 4,
+		"movement": 6,
 		"strength": 65,
 		"cost": 375,
 		"requiredTech": "Combustion",
@@ -335,7 +393,7 @@
   {
 		"name": "Assault Bikes",
 		"unitType": "Bike",
-		"movement": 3,
+		"movement": 5,
 		"strength": 65,
 		"cost": 420,
 		"requiredTech": "Combustion",
