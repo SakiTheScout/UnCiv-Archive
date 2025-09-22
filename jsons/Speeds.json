@@ -1,0 +1,23 @@
+[
+ {
+        "name": "Kivotos",
+        "modifier": 1.0,
+        "productionCostModifier": 1.0,
+        "goldCostModifier": 1.0,
+        "scienceCostModifier": 1.0,
+        "cultureCostModifier": 1.0,
+        "faithCostModifier": 1.0,
+        "improvementBuildLengthModifier": 1.0,
+        "barbarianModifier": 2.0,
+        "goldGiftModifier": 1.0,
+        "cityStateTributeScalingInterval": 4.0,
+        "goldenAgeLengthModifier": 1.0,
+        "religiousPressureAdjacentCity": 1,
+        "peaceDealDuration": 4,
+        "dealDuration": 4,
+        "startYear": 2045,
+        "turns": [
+            {"yearsPerTurn":   0.25,     "untilTurn":  10000},
+        ]
+ }
+]
