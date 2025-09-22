@@ -10,14 +10,14 @@
         "improvementBuildLengthModifier": 1.0,
         "barbarianModifier": 2.0,
         "goldGiftModifier": 1.0,
-        "cityStateTributeScalingInterval": 4.0,
+        "cityStateTributeScalingInterval": 6.0,
         "goldenAgeLengthModifier": 1.0,
         "religiousPressureAdjacentCity": 1,
-        "peaceDealDuration": 4,
-        "dealDuration": 4,
+        "peaceDealDuration": 6,
+        "dealDuration": 6,
         "startYear": 2045,
         "turns": [
-            {"yearsPerTurn":   0.25,     "untilTurn":  10000},
+            {"yearsPerTurn":   0.0136986301369,     "untilTurn":  100000},
         ]
  }
 ]
