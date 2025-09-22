@@ -8,14 +8,14 @@
         "cultureCostModifier": 1.0,
         "faithCostModifier": 1.0,
         "improvementBuildLengthModifier": 1.0,
-        "barbarianModifier": 2.0,
+        "barbarianModifier": 5.0,
         "goldGiftModifier": 1.0,
         "cityStateTributeScalingInterval": 6.0,
         "goldenAgeLengthModifier": 1.0,
         "religiousPressureAdjacentCity": 1,
         "peaceDealDuration": 6,
         "dealDuration": 6,
-        "startYear": 2045,
+        "startYear": 1870,
         "turns": [
             {"yearsPerTurn":   0.0136986301369,     "untilTurn":  100000},
         ]
