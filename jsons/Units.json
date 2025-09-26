@@ -359,7 +359,7 @@
 		"requiredTech": "Railroads",
 		"obsoleteTech": "Mobile Tactics",
 		"upgradesTo": "Armored Command Vehicle",
-		"uniques": ["[+2] Sight", "[+15]% Strength <vs [Infantry] units> <when attacking>", "Consumes [1] [Aluminum]", "Consumes [1] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"],
+		"uniques": ["[+2] Sight", "[+15]% Strength <vs [Infantry] units> <when attacking>", "[+10]% Strength bonus for [Light Armor] units within [3] tiles", "[+10]% Strength bonus for [Medium Armor] units within [3] tiles", "[+10]% Strength bonus for [Heavy Armor] units within [3] tiles", "Consumes [1] [Aluminum]", "Consumes [1] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"],
 	    "promotions": ["HQ", "Detection T2"],
 		"attackSound": "machinegun"
 	},
@@ -1139,7 +1139,7 @@
 		"rangedStrength": 90,
 		"cost": 590,
 		"requiredTech": "Mobile Tactics",
-		"uniques": ["[+2] Sight", "[+15]% Strength <vs [Infantry] units> <when attacking>", "Consumes [2] [Aluminum]", "Consumes [1] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"],
+		"uniques": ["[+2] Sight", "[+15]% Strength <vs [Infantry] units> <when attacking>", "[+15]% Strength bonus for [Light Armor] units within [3] tiles", "[+10]% Strength bonus for [Medium Armor] units within [3] tiles", "[+10]% Strength bonus for [Heavy Armor] units within [3] tiles", "Consumes [2] [Aluminum]", "Consumes [1] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"],
 	    "promotions": ["HQ", "Detection T2"],
 		"attackSound": "machinegun"
 	},
