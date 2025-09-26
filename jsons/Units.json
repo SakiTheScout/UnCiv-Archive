@@ -736,6 +736,8 @@
 		"strength": 60,
 		"cost": 370,
 		"requiredTech": "Ballistics",
+		"obsoleteTech": "Advanced Ballistics",
+		"upgradesTo": "RPG Infantry",
 		"uniques": ["[-33]% Strength <vs [Infantry] units> <when attacking>", "[+90]% Strength <vs [Light Armor] units>", "[+80]% Strength <vs [Medium Armor] units>", "[+70]% Strength <vs [Heavy Armor] units>", "[+60]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
 		"promotions": ["Elite"],
 		"attackSound": "shot"
@@ -749,6 +751,8 @@
 		"rangedStrength": 80
 		"cost": 425,
 		"requiredTech": "Ballistics",
+		"obsoleteTech": "Advanced Ballistics",
+		"upgradesTo": "Light ATGM",
 		"promotions": ["Elite"],
 		"uniques": ["[-33]% Strength <vs [Infantry] units> <when attacking>", "Consumes [1] [Iron]", "[+100]% Strength <vs [Light Armor] units>", "[+90]% Strength <vs [Medium Armor] units>", "[+80]% Strength <vs [Heavy Armor] units>", "[+70]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
 		"attackSound": "shot"
@@ -1154,6 +1158,46 @@
 		"requiredTech": "Advanced Ballistics",
 		"uniques": ["[-33]% Strength <vs [Infantry] units> <when attacking>", "Consumes [1] [Aluminum]", "Consumes [2] [Iron]", "Consumes [1] [Oil]", "[+100]% Strength <vs [Light Armor] units>", "[+90]% Strength <vs [Medium Armor] units>", "[+80]% Strength <vs [Heavy Armor] units>", "[+70]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
 	    "promotions": ["Elite"],
+		"attackSound": "tankshot"
+	},
+
+	{
+		"name": "RPG Infantry",
+		"unitType": "Ranged Infantry",
+		"movement": 2,
+		"strength": 60,
+		"range": 1,
+		"rangedStrength": 70,
+		"cost": 400,
+		"requiredTech": "Advanced Ballistics",
+		"uniques": ["[+90]% Strength <vs [Light Armor] units>", "[+85]% Strength <vs [Medium Armor] units>", "[+80]% Strength <vs [Heavy Armor] units>", "[+75]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
+		"promotions": ["Elite"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Light ATGM",
+		"unitType": "Towed",
+		"range": 2,
+		"movement": 2,
+		"strength": 50,
+		"rangedStrength": 90
+		"cost": 530,
+		"requiredTech": "Advanced Ballistics",
+		"promotions": ["Elite"],
+		"uniques": ["[-33]% Strength <vs [Infantry] units> <when attacking>", "Consumes [1] [Aluminum]", "Consumes [1] [Iron]", "[+100]% Strength <vs [Light Armor] units>", "[+95]% Strength <vs [Medium Armor] units>", "[+90]% Strength <vs [Heavy Armor] units>", "[+85]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Heavy ATGM",
+		"unitType": "Towed",
+		"range": 3,
+		"movement": 1,
+		"strength": 60,
+		"rangedStrength": 130
+		"cost": 600,
+		"requiredTech": "Advanced Ballistics",
+		"promotions": ["Fire Support"],
+		"uniques": ["[-33]% Strength <vs [Infantry] units> <when attacking>", "Consumes [1] [Aluminum]", "Consumes [2] [Iron]", "[+110]% Strength <vs [Light Armor] units>", "[+105]% Strength <vs [Medium Armor] units>", "[+100]% Strength <vs [Heavy Armor] units>", "[+95]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 		"attackSound": "tankshot"
 	},
 	
