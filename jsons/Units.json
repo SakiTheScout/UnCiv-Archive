@@ -317,8 +317,10 @@
 		"strength": 55,
 		"cost": 270,
 		"requiredTech": "Railroads",
+		"obsoleteTech": "Mobile Tactics",
+		"upgradesTo": "Armored Recon Vehicle",
 		"uniques": ["[+25]% Strength <vs [Infantry] units> <when attacking>", "[+1] Sight", "Consumes [1] [Oil]", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"],
-	        "promotions": ["Fast Attack", "Detection T1"],
+	    "promotions": ["Fast Attack", "Detection T1"],
 		"attackSound": "machinegun"
 	},
 	{
@@ -328,8 +330,10 @@
 		"strength": 65,
 		"cost": 300,
 		"requiredTech": "Railroads",
+		"obsoleteTech": "Mobile Tactics",
+		"upgradesTo": "Infantry Fighting Vehicle",
 		"uniques": ["[+25]% Strength <vs [Infantry] units> <when attacking>", "[+25]% Strength <vs [Light Armor] units> <when attacking>", "Consumes [1] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"],
-	        "promotions": ["Fast Attack"],
+	    "promotions": ["Fast Attack"],
 		"attackSound": "shot"
 	},
 	{
@@ -339,8 +343,10 @@
 		"strength": 70,
 		"cost": 320,
 		"requiredTech": "Railroads",
+		"obsoleteTech": "Mobile Tactics",
+		"upgradesTo": "Mobile Gun System",
 		"uniques": ["[+25]% Strength <vs [Ranged]> <when defending>", "[+25]% Strength <vs [Medium Armor] units> <when attacking>", "[+30]% Strength <vs [Light Armor] units> <when attacking>", "Consumes [2] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"],
-	        "promotions": ["Fast Attack"],
+	    "promotions": ["Fast Attack"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -351,8 +357,10 @@
 		"rangedStrength": 80,
 		"cost": 510,
 		"requiredTech": "Railroads",
+		"obsoleteTech": "Mobile Tactics",
+		"upgradesTo": "Armored Command Vehicle",
 		"uniques": ["[+2] Sight", "[+15]% Strength <vs [Infantry] units> <when attacking>", "Consumes [1] [Aluminum]", "Consumes [1] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"],
-	        "promotions": ["HQ", "Detection T2"],
+	    "promotions": ["HQ", "Detection T2"],
 		"attackSound": "machinegun"
 	},
 	{
@@ -364,6 +372,8 @@
 		"rangedStrength": 80,
 		"cost": 500,
 		"requiredTech": "Ballistics",
+		"obsoleteTech": "Mobile Tactics",
+		"upgradesTo": "ATGM Carrier Vehicle",
 		"uniques": ["[-33]% Strength <vs [Infantry] units> <when attacking>", "Consumes [2] [Iron]", "Consumes [1] [Oil]", "[+100]% Strength <vs [Light Armor] units>", "[+90]% Strength <vs [Medium Armor] units>", "[+80]% Strength <vs [Heavy Armor] units>", "[+70]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
 	    "promotions": ["Elite"],
 		"attackSound": "tankshot"
@@ -529,6 +539,8 @@
 		"movement": 4,
 		"strength": 100,
 		"cost": 400,
+	    "obsoleteTech": "Nanotechnology",
+		"upgradesTo": "Main Battle Tank",
 		"requiredTech": "Combined Arms",
 		"uniques": ["Consumes [2] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 	        "promotions": ["Fire Support"],
@@ -540,9 +552,11 @@
 		"movement": 2,
 		"strength": 150,
 		"cost": 460,
+	    "obsoleteTech": "Nanotechnology",
+		"upgradesTo": "Main Battle Tank",
 		"requiredTech": "Combined Arms",
 		"uniques": ["Consumes [3] [Iron]", "Consumes [2] [Oil]", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
-	        "promotions": ["Fire Support"],
+	    "promotions": ["Fire Support"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -553,7 +567,7 @@
 		"cost": 350,
 		"requiredTech": "Combined Arms",
 		"uniques": ["Consumes [1] [Iron]", "Consumes [1] [Oil]", "[-33]% Strength <vs [Infantry] units> <when attacking>", "[+100]% Strength <vs [Light Armor] units>", "[+90]% Strength <vs [Medium Armor] units>", "[+80]% Strength <vs [Heavy Armor] units>", "[+70]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"],
-	        "promotions": ["Fast Attack"],
+	    "promotions": ["Fast Attack"],
 		"attackSound": "tankshot"
 	},
   {
@@ -564,7 +578,7 @@
 		"cost": 420,
 		"requiredTech": "Combined Arms",
 		"uniques": ["Consumes [2] [Iron]", "Consumes [1] [Oil]", "[-33]% Strength <vs [Infantry] units> <when attacking>", "[+100]% Strength <vs [Light Armor] units>", "[+90]% Strength <vs [Medium Armor] units>", "[+80]% Strength <vs [Heavy Armor] units>", "[+70]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
-	        "promotions": ["Fire Support"],
+	    "promotions": ["Fire Support"],
 		"attackSound": "tankshot"
 	},
   {
@@ -575,7 +589,7 @@
 		"cost": 480,
 		"requiredTech": "Combined Arms",
 		"uniques": ["Consumes [3] [Iron]", "Consumes [2] [Oil]", "[-33]% Strength <vs [Infantry] units> <when attacking>", "[+110]% Strength <vs [Light Armor] units>", "[+100]% Strength <vs [Medium Armor] units>", "[+90]% Strength <vs [Heavy Armor] units>", "[+80]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
-	        "promotions": ["Fire Support"],
+	    "promotions": ["Fire Support"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -588,7 +602,7 @@
 		"cost": 360,
 		"requiredTech": "Combined Arms",
 		"uniques": ["Consumes [1] [Iron]", "[+100]% Strength <vs cities> <when attacking>", "[+50]% Strength <vs [Fortification] units> <when attacking>", "Consumes [1] [Oil]", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"],
-	        "promotions": ["Indirect Fire", "Fast Attack"],
+	    "promotions": ["Indirect Fire", "Fast Attack"],
 		"attackSound": "artillery"
 	},
   {
@@ -601,7 +615,7 @@
 		"cost": 420,
 		"requiredTech": "Combined Arms",
 		"uniques": ["Consumes [2] [Iron]", "Consumes [1] [Oil]", "[+150]% Strength <vs cities> <when attacking>", "[+50]% Strength <vs [Fortification] units> <when attacking>", "Must set up to ranged attack", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
-	        "promotions": ["Fire Support"],
+	    "promotions": ["Fire Support"],
 		"attackSound": "artillery"
 	},
   {
@@ -627,7 +641,7 @@
 		"cost": 1000,
 		"requiredTech": "Robotics",
 		"uniques": ["Consumes [3] [Iron]", "Consumes [4] [Aluminum]", "Consumes [4] [Oil]", "Consumes [1] [Uranium]", "Unavailable <when number of [LoW limit] is less than [1]> <hidden from users>"],
-	        "promotions": ["Lord of War"],
+	    "promotions": ["Lord of War"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -638,7 +652,7 @@
 		"cost": 370,
 		"requiredTech": "Combined Arms",
 		"uniques": ["Consumes [1] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"],
-	        "promotions": ["HQ", "Order: Deploy Smoke!", "Order: Evasive Maneuver!", "Order: Bring it down!"],
+	    "promotions": ["HQ", "Order: Deploy Smoke!", "Order: Evasive Maneuver!", "Order: Bring it down!"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -651,7 +665,7 @@
 		"cost": 350,
 		"requiredTech": "Combined Arms",
 		"uniques": ["Consumes [1] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"],
-	        "promotions": ["HQ", "Order: Deploy Smoke!", "Order: Evasive Maneuver!", "Order: Bring it down!"],
+	    "promotions": ["HQ", "Order: Deploy Smoke!", "Order: Evasive Maneuver!", "Order: Bring it down!"],
 		"attackSound": "tankshot"
 	},
   {
@@ -662,7 +676,7 @@
 		"cost": 430,
 		"requiredTech": "Combined Arms",
 		"uniques": ["[+25]% Strength bonus for [Medium Armor] units within [1] tiles <when defending>", "Consumes [2] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"],
-	        "promotions": ["HQ", "Order: Deploy Smoke!", "Order: Brace for Impact!"],
+	    "promotions": ["HQ", "Order: Deploy Smoke!", "Order: Brace for Impact!"],
 		"attackSound": "tankshot"
 	},
   {
@@ -673,7 +687,7 @@
 		"cost": 500,
 		"requiredTech": "Combined Arms",
 		"uniques": ["[+15]% Strength bonus for [Heavy Armor] units within [2] tiles <when attacking>", "[-15]% Strength for enemy [Infantry] units in adjacent [All] tiles", "Consumes [3] [Iron]", "Consumes [2] [Oil]", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"],
-	        "promotions": ["HQ", "Order: Bring it down!"],
+	    "promotions": ["HQ", "Order: Bring it down!"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -1071,6 +1085,77 @@
 			"[-33]% Strength for enemy [All] units in adjacent [All] tiles"
 		]
   },
+
+	{
+		"name": "Main Battle Tank",
+		"unitType": "Heavy Armor",
+		"movement": 3,
+		"strength": 175,
+		"cost": 520,
+		"requiredTech": "Lasers",
+		"uniques": ["Consumes [2] [Aluminum]", "Consumes [2] [Iron]", "Consumes [2] [Oil]", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
+	        "promotions": ["Fire Support"],
+		"attackSound": "tankshot"
+	},
+	
+	{
+		"name": "Armored Recon Vehicle",
+		"unitType": "Light Armor",
+		"movement": 6,
+		"strength": 75,
+		"cost": 310,
+		"requiredTech": "Mobile Tactics",
+		"uniques": ["[+25]% Strength <vs [Infantry] units> <when attacking>", "[+1] Sight", "Consumes [1] [Aluminum]", "Consumes [1] [Oil]", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"],
+	    "promotions": ["Fast Attack", "Detection T1"],
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "Infantry Fighting Vehicle",
+		"unitType": "Light Armor",
+		"movement": 5,
+		"strength": 85,
+		"cost": 340,
+		"requiredTech": "Mobile Tactics",
+		"uniques": ["[+25]% Strength <vs [Infantry] units> <when attacking>", "[+25]% Strength <vs [Light Armor] units> <when attacking>", "Consumes [1] [Aluminum]", "Consumes [1] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"],
+	    "promotions": ["Fast Attack"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Mobile Gun System",
+		"unitType": "Medium Armor",
+		"movement": 4,
+		"strength": 90,
+		"cost": 400,
+		"requiredTech": "Mobile Tactics",
+		"uniques": ["[+50]% Strength <vs [Medium Armor] units> <when attacking>", "[+50]% Strength <vs [Heavy Armor] units> <when attacking>", "[+50]% Strength <vs [Light Armor] units> <when attacking>", "Consumes [1] [Aluminum]", "Consumes [2] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"],
+	    "promotions": ["Fast Attack"],
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "Armored Command Vehicle",
+		"unitType": "Light Armor",
+		"movement": 5,
+		"strength": 75,
+		"rangedStrength": 90,
+		"cost": 590,
+		"requiredTech": "Mobile Tactics",
+		"uniques": ["[+2] Sight", "[+15]% Strength <vs [Infantry] units> <when attacking>", "Consumes [2] [Aluminum]", "Consumes [1] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"],
+	    "promotions": ["HQ", "Detection T2"],
+		"attackSound": "machinegun"
+	},
+	{
+		"name": "ATGM Carrier Vehicle",
+		"unitType": "Light Armor",
+		"movement": 5,
+		"strength": 60,
+		"range": 2,
+		"rangedStrength": 80,
+		"cost": 500,
+		"requiredTech": "Advanced Ballistics",
+		"uniques": ["[-33]% Strength <vs [Infantry] units> <when attacking>", "Consumes [1] [Aluminum]", "Consumes [2] [Iron]", "Consumes [1] [Oil]", "[+100]% Strength <vs [Light Armor] units>", "[+90]% Strength <vs [Medium Armor] units>", "[+80]% Strength <vs [Heavy Armor] units>", "[+70]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
+	    "promotions": ["Elite"],
+		"attackSound": "tankshot"
+	},
 	
 	{
 		"name": "Sensei of SCHALE",
