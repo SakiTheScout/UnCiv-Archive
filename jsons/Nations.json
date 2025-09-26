@@ -628,6 +628,41 @@
 		"cities": ["Hellforge"],
 		"personality": "Seminar"
 	},
+	{
+		"name": "Sentinels of Paradise",
+		"leaderName": "Officers Council",
+		"adjective": ["Sentinel"],
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "N/A",
+		"startIntroPart2": "N/A",
+		
+		"declaringWar": "N/A",
+		"attacked": "N/A",
+		"defeated": "N/A",
+		"introduction": "N/A",
+		
+		"neutralHello": "N/A",
+		"neutralLetsHearIt": "N/A",
+		"neutralNo": "N/A",
+		"neutralYes": "N/A",
+
+		"hateHello": "N/A",
+		"hateLetsHearIt": "N/A",
+		"hateNo": "N/A",
+		"hateYes": "N/A",
+		
+		"afterPeace": "N/A",
+		"tradeRequest": "N/A",
+
+		"outerColor": [255,102,0],
+		"innerColor": [62,62,62],
+		"uniqueName": "Gatekeepers of Kivotos",
+		"uniques":["Greater School"],
+		"cities": ["The Gates to Paradise"],
+		"personality": "Seminar",
+	},
 	
 	{
 		"name": "Wild Hunt Academy of Arts",
