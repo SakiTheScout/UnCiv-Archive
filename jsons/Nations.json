@@ -663,6 +663,41 @@
 		"cities": ["The Gates to Paradise"],
 		"personality": "Seminar",
 	},
+	{
+		"name": "Blackroot Stronghold Academy",
+		"leaderName": "Student Council",
+		"adjective": ["Blackrootan"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "N/A",
+		"startIntroPart2": "N/A",
+		
+		"declaringWar": "N/A",
+		"attacked": "N/A",
+		"defeated": "N/A",
+		"introduction": "N/A",
+		
+		"neutralHello": "N/A",
+		"neutralLetsHearIt": "N/A",
+		"neutralNo": "N/A",
+		"neutralYes": "N/A",
+
+		"hateHello": "N/A",
+		"hateLetsHearIt": "N/A",
+		"hateNo": "N/A",
+		"hateYes": "N/A",
+		
+		"afterPeace": "N/A",
+		"tradeRequest": "N/A",
+
+		"outerColor": [59,178,9],
+		"innerColor": [8,4,2],
+		"uniqueName": "Whispers from Underground",
+		"uniques":["Lesser School"],
+		"cities": ["Underground Temple"],
+		"personality": "Seminar",
+	},
 	
 	{
 		"name": "Wild Hunt Academy of Arts",
