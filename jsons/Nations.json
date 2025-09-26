@@ -630,7 +630,7 @@
 	},
 	{
 		"name": "Sentinels of Paradise",
-		"leaderName": "Officers Council",
+		"leaderName": "Chief of Border Defence",
 		"adjective": ["Sentinel"],
 		"startBias": ["Desert"],
 		"preferredVictoryType": "Domination",
@@ -659,9 +659,12 @@
 		"outerColor": [255,102,0],
 		"innerColor": [62,62,62],
 		"uniqueName": "Gatekeepers of Kivotos",
-		"uniques":["Greater School"],
+		"uniques":["Greater School",
+		"[+1] Movement <when fighting in [Friendly Land] tiles>",
+		"[+25]% Strength <when fighting in [Friendly Land] tiles>",
+		"[-15]% Strength <when fighting in [Foreign Land] tiles>"],
 		"cities": ["The Gates to Paradise"],
-		"personality": "Seminar",
+		"personality": "Nanagami Rin",
 	},
 	{
 		"name": "Blackroot Stronghold Academy",
@@ -696,7 +699,7 @@
 		"uniqueName": "Whispers from Underground",
 		"uniques":["Lesser School"],
 		"cities": ["Underground Temple"],
-		"personality": "Seminar",
+		"personality": "",
 	},
 	
 	{
