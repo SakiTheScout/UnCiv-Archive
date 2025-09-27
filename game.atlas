@@ -635,7 +635,7 @@ UnitIcons/Heavy Anti-Aircraft Gun
   index: -1
 
 TileSets.png
-size: 160, 108
+size: 224, 108
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -754,6 +754,13 @@ TileSets/FantasyHex/Tiles/Jungle
 TileSets/FantasyHex/Tiles/Marsh
   rotate: false
   xy: 160, 0
+  size: 32, 36
+  orig: 32, 36
+  offset: 32, 36
+  index: -1
+TileSets/FantasyHex/Tiles/Foundation
+  rotate: false
+  xy: 192, 0
   size: 32, 36
   orig: 32, 36
   offset: 32, 36
