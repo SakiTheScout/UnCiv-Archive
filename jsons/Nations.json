@@ -391,7 +391,8 @@
 			"Provides [1] [FA limit] <for every [2] [[HQ] Units]> <hidden from users>",
 			"Provides [-1] [FS limit] <for every [2] [[HQ] Units]> <hidden from users>",
 			"[Land] units gain the [Outlaws Ironclad] promotion",
-			"\"Borrows\" city names from other civilizations in the game"],
+			"\"Borrows\" city names from other civilizations in the game",
+		    "Comment [– Fanon faction by SakiTheScout]"],
 		"cities": ["The Metal Yard"],
 		"personality": "Council of Officers"
 	},
@@ -624,7 +625,8 @@
 			"[Land] units gain the [Tainted Augmentations] promotion",
 			"Gain [15] Influence with a [Military] gift to a City-State",
 			"\"Borrows\" city names from other civilizations in the game",
-			"[+100]% Great Person generation [in capital]"],
+			"[+100]% Great Person generation [in capital]",
+		    "Comment [– Fanon faction by SakiTheScout]",],
 		"cities": ["Hellforge"],
 		"personality": "Seminar"
 	},
