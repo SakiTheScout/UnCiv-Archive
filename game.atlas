@@ -669,7 +669,7 @@ TileSets/FantasyHex/Tiles/Megapolis
   index: -1
 TileSets/FantasyHex/Tiles/Grassland
   rotate: false
-  xy: 64, 0
+  xy: 64, 8
   size: 32, 28
   orig: 32, 28
   offset: 32, 36
