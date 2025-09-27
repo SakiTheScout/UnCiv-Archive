@@ -1043,7 +1043,8 @@
 		"name": "Stealth T1",
 		"uniques": ["Comment [Be it magic, technology or personal skills, this unit is able to blend in with sorroundings.]",
 		"[+12]% Strength <vs [Ranged] units> <when defending>",
-		"Invisible to non-adjacent units"
+		"Invisible to non-adjacent units",
+		"[This Unit] loses the [Camouflage] promotion <hidden from users>"
 	]},
 	{
 		"name": "Stealth T2",
@@ -1051,13 +1052,18 @@
 		"[+15]% Strength <vs [Ranged] units> <when defending>",
 		"Invisible to others <in [Forest] tiles>",
 		"Invisible to others <in [Jungle] tiles>",
-		"Invisible to non-adjacent units"
+		"Invisible to non-adjacent units",
+		"[This Unit] loses the [Camouflage] promotion <hidden from users>",
+		"[This Unit] loses the [Stealth T1] promotion <hidden from users>"
 	]},
 	{
 		"name": "Stealth T3",
 		"uniques": ["Comment [Be it magic, technology or personal skills, this unit is able to blend in with sorroundings very well.]",
 		"[+20]% Strength <vs [Ranged] units> <when defending>",
-		"Invisible to others"
+		"Invisible to others",
+		"[This Unit] loses the [Camouflage] promotion <hidden from users>",
+		"[This Unit] loses the [Stealth T1] promotion <hidden from users>",
+		"[This Unit] loses the [Stealth T2] promotion <hidden from users>"
 	]},
 	// Detection
 	{
@@ -1071,7 +1077,8 @@
 		"uniques": ["Comment [Using technology, magic or natural perception, this unit is capable of detecting infiltrated units well.]",
 		"Can see invisible [Camouflage] units",
 		"Can see invisible [Stealth T1] units",
-		"Can see invisible [Stealth T2] units"
+		"Can see invisible [Stealth T2] units",
+		"[This Unit] loses the [Detection T1] promotion <hidden from users>"
 	]},
 	{
 		"name": "Detection T3",
@@ -1079,7 +1086,9 @@
 		"Can see invisible [Camouflage] units",
 		"Can see invisible [Stealth T1] units",
 		"Can see invisible [Stealth T2] units",
-		"Can see invisible [Stealth T3] units"
+		"Can see invisible [Stealth T3] units",
+		"[This Unit] loses the [Detection T1] promotion <hidden from users>",
+		"[This Unit] loses the [Detection T2] promotion <hidden from users>"
 	]},
 	// Force Organisation
 	{
