@@ -37,10 +37,10 @@
 	{
 		"name": "Trading post",
 		"terrainsCanBeBuiltOn": ["Plains","Grassland","Desert","Hill","Tundra","Forest","Jungle","Flood plains"],
-		"gold": 1,
+		"gold": 2,
 		"turnsToBuild": 7,
 		"techRequired": "Guilds",
-		"uniques": ["[+1 Gold] <after discovering [Economics]>",
+		"uniques": ["[+2 Gold] <after discovering [Economics]>",
 			"Pillaging this improvement yields approximately [+20 Gold]"],
 		"shortcutKey": "T"
 	},
@@ -83,7 +83,7 @@
 		"turnsToBuild": 6,
 		"gold": 1,
 		"techRequired": "Calendar",
-		"uniques": ["[+1 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]", "[+1 Food, +1 Gold] <with [1] to [1] neighboring [Village] tiles>"],
+		"uniques": ["[+2 Food] <after discovering [Fertilizer]>", "Can only be built to improve a resource", "Pillaging this improvement yields approximately [+10 Gold]", "[+1 Food, +1 Gold] <with [1] to [1] neighboring [Village] tiles>"],
 		"shortcutKey": "P"
 	},
 	{
@@ -147,6 +147,8 @@
 		"name": "Road",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 4,
+		"gold": 1,
+		"production": 1,
 		"techRequired": "The Wheel",
 		"uniques": ["Can be built outside your borders", "Costs [1] [Gold] per turn"],
 		"shortcutKey": "R",
@@ -160,6 +162,8 @@
 		"name": "Railroad",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"turnsToBuild": 4,
+		"gold": 1,
+		"production": 2,
 		"techRequired": "Railroads",
 		"uniques": ["Can be built outside your borders", "Costs [2] [Gold] per turn"],
 		"shortcutKey": "R",
@@ -169,9 +173,6 @@
         ]
 	},
 
-	// Removals
-	// Any improvement that starts with 'Remove ' is automatically changed into
-	// the improvement that removes the terrainfeature after it.
 	{
 		"name": "Remove Forest",
 		"turnsToBuild": 4,
@@ -190,7 +191,6 @@
 	{
 		"name": "Remove Fallout",
 		"turnsToBuild": 2,
-		// Has no tech requirements as it can always be built
 		"uniques": ["Can be built outside your borders", "Excluded from map editor"],
 		"shortcutKey": "X"
 	},
@@ -234,42 +234,43 @@
 		"name": "Academy",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"science": 8,
-		"uniques": ["Great Improvement", "[+2 Science] <after discovering [Scientific Theory]>",
-            "[+2 Science] <after discovering [Atomic Theory]>", "Removes removable features when built",
-            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]"]
+		"uniques": ["Great Improvement", "[+4 Science] <after discovering [Scientific Theory]>",
+            "[+4 Science] <after discovering [Atomic Theory]>", "Removes removable features when built",
+            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold, +120 Science]"]
 	},
 	{
 		"name": "Landmark",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"culture": 6,
 		"uniques": ["Great Improvement", "Removes removable features when built",
-            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]"]
+            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+40 Gold, +100 Culture]"]
 	},
 	{
 		"name": "Manufactory",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"production": 4,
-		"uniques": ["Great Improvement", "[+1 Production] <after discovering [Chemistry]>", "Will not be replaced by automated units",
-            "Removes removable features when built", "Pillaging this improvement yields approximately [+20 Gold]"]
+		"uniques": ["Great Improvement", "[+2 Production] <after discovering [Chemistry]>", "Will not be replaced by automated units",
+            "Removes removable features when built", "Pillaging this improvement yields approximately [+150 Gold]"]
 	},
 	{
 		"name": "Customs house",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"gold": 4,
-		"uniques": ["Great Improvement", "[+1 Gold] <after discovering [Economics]>", "Removes removable features when built",
-            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]"]
+		"gold": 5,
+		"uniques": ["Great Improvement", "[+4 Gold] <after discovering [Economics]>", "Removes removable features when built",
+            "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+300 Gold]"]
 	},
 	{
 		"name": "Holy site",
 		"terrainsCanBeBuiltOn": ["Land"],
 		"faith": 6,
-		"uniques": ["Great Improvement", "Removes removable features when built", "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold]"]
+		"uniques": ["Great Improvement", "Removes removable features when built", "Will not be replaced by automated units", "Pillaging this improvement yields approximately [+20 Gold, +80 Faith]"]
 	},
 	{
 		"name": "Citadel",
 		"turnsToBuild": 20,
 		"terrainsCanBeBuiltOn": ["Land"],
 		"uniques": [
+			"Defensive Improvement",
 			"Great Improvement",
 			"Gives a defensive bonus of [100]%",
 			"Adjacent enemy units ending their turn take [30] damage",
@@ -280,13 +281,11 @@
 		]
 	},
 
-	//Civilization unique improvements
-
 	// Unbuildable improvements
 	{
 		"name": "Ancient ruins",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Unpillagable", "Provides a random bonus when entered", "Unbuildable"]
+		"uniques": ["Unpillagable", "Provides a random bonus when entered", "Provides a random bonus when entered <with [20%] chance>", "Provides a random bonus when entered <with [10%] chance>", "Unbuildable"]
 	},
 	{
 		"name": "City ruins",
@@ -307,7 +306,7 @@
 	{
 		"name": "Barbarian encampment",
 		"terrainsCanBeBuiltOn": ["Land"],
-		"uniques": ["Unpillagable", "Unbuildable", "Excluded from map editor"],
+		"uniques": ["Unpillagable", "Unbuildable", "Excluded from map editor", "Provides a random bonus when entered <with [50%] chance>"],
         "civilopediaText": [{"text":"Home to uncivilized barbarians, will spawn a hostile unit from time to time"}]
 	},
 	// Urbanised Areas
