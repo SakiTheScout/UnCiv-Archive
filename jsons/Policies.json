@@ -487,8 +487,8 @@
             "Scientific": 0
         },
         "uniques": [
-            "",
-            "",
+            "[+10]% [Gold] [in all cities]",
+            "[+10]% [Gold] [in all cities] <while the empire is happy>",
             "Only available <before adopting [Cultural Legacy]>",
             "Only available <before adopting [Scholar Pioneers]>",
             "Only available <before adopting [Industrial Paradigm]>",
@@ -558,7 +558,7 @@
               "name": "Seas of Gold",
               "uniques": [
                 "[+3 Gold] [in all coastal cities]",
-                "[+1 Gold] from every [Fishing boats]"
+                "[+1 Gold] from every [Fishing Boats]"
               ],
               "requires": ["School-Corporation","Interschool Negotiations"],
               "row": 3,
