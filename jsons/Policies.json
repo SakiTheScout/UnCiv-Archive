@@ -19,7 +19,8 @@
             "Only available <before adopting [Industrial Paradigm]>",
             "Only available <before adopting [Purity and Zeal]>",
             "Only available <before adopting [Agricultural Revolution]>",
-            "Only available <before adopting [Schools Hegemony]>"
+            "Only available <before adopting [Schools Hegemony]>",
+            "Only available <before adopting [Mercantile Mindset]>"
         ],
         "policies": [
             {
@@ -114,7 +115,8 @@
             "Only available <before adopting [Industrial Paradigm]>",
             "Only available <before adopting [Purity and Zeal]>",
             "Only available <before adopting [Agricultural Revolution]>",
-            "Only available <before adopting [Rites of Warfare]>"
+            "Only available <before adopting [Rites of Warfare]>",
+            "Only available <before adopting [Mercantile Mindset]>"
         ],
         "policies": [
             {
@@ -207,7 +209,8 @@
             "Only available <before adopting [Industrial Paradigm]>",
             "Only available <before adopting [Cultural Legacy]>",
             "Only available <before adopting [Agricultural Revolution]>",
-            "Only available <before adopting [Schools Hegemony]>"
+            "Only available <before adopting [Schools Hegemony]>",
+            "Only available <before adopting [Mercantile Mindset]>"
         ],
         "policies": [
             {
@@ -300,7 +303,8 @@
             "Only available <before adopting [Industrial Paradigm]>",
             "Only available <before adopting [Purity and Zeal]>",
             "Only available <before adopting [Agricultural Revolution]>",
-            "Only available <before adopting [Schools Hegemony]>"
+            "Only available <before adopting [Schools Hegemony]>",
+            "Only available <before adopting [Mercantile Mindset]>"
         ],
         "policies": [
             {
@@ -395,7 +399,8 @@
             "Only available <before adopting [Industrial Paradigm]>",
             "Only available <before adopting [Rites of Warfare]>",
             "Only available <before adopting [Agricultural Revolution]>",
-            "Only available <before adopting [Schools Hegemony]>"
+            "Only available <before adopting [Schools Hegemony]>",
+            "Only available <before adopting [Mercantile Mindset]>"
         ],
         "policies": [
             {
@@ -476,8 +481,8 @@
         "era": "Medieval era",
         "priorities": {
             "Neutral": 0,
-            "Cultural": 10,
-            "Diplomatic": 0,
+            "Cultural": 0,
+            "Diplomatic": 10,
             "Domination": 0,
             "Scientific": 0
         },
@@ -489,7 +494,8 @@
             "Only available <before adopting [Industrial Paradigm]>",
             "Only available <before adopting [Purity and Zeal]>",
             "Only available <before adopting [Rites of Warfare]>",
-            "Only available <before adopting [Schools Hegemony]>"
+            "Only available <before adopting [Schools Hegemony]>",
+            "Only available <before adopting [Agricultural Revolution]>"
         ],
         "policies": [
             {
@@ -517,7 +523,7 @@
                 "uniques": [
                     "[+1 Gold, +1 Culture, +1 Production] [in capital] <for every [Remaining [All] Civilizations]>",
                     "[+2 Gold, -1 Happiness] from all [Merchant High School] buildings",
-                    "Resting point for Influence with City-States is increased by [5] <for every [Merchant High School]>"
+                    "Resting point for Influence with City-States is increased by [5] <for every [[Merchant High School] Buildings]>"
                 ],
                 "requires": ["Encouraged Trading"],
                 "row": 2,
@@ -586,7 +592,8 @@
             "Only available <before adopting [Industrial Paradigm]>",
             "Only available <before adopting [Purity and Zeal]>",
             "Only available <before adopting [Rites of Warfare]>",
-            "Only available <before adopting [Schools Hegemony]>"
+            "Only available <before adopting [Schools Hegemony]>",
+            "Only available <before adopting [Mercantile Mindset]>"
         ],
         "policies": [
             {
@@ -616,7 +623,7 @@
                     "[-1 Food, +2 Gold] [in all cities] <for every [Remaining [All] Civilizations]> <when not at war>",
                     "[+1 Food, +2 Gold] from each Trade Route"
                 ],
-                "requires": ["Farmind Business"],
+                "requires": ["Farming Business"],
                 "row": 2,
                 "column": 2
             },
@@ -627,7 +634,7 @@
                     "[+1 Science] from all [Food] buildings",
                     "[+15]% [Science] from every [Agricultural High School]"
                 ],
-                "requires": ["Farmind Business", "Intensive Agriculture"],
+                "requires": ["Farming Business", "Intensive Agriculture"],
                 "row": 2,
                 "column": 4
             },
@@ -679,7 +686,8 @@
             "Only available <before adopting [Scholar Pioneers]>",
             "Only available <before adopting [Purity and Zeal]>",
             "Only available <before adopting [Agricultural Revolution]>",
-            "Only available <before adopting [Schools Hegemony]>"
+            "Only available <before adopting [Schools Hegemony]>",
+            "Only available <before adopting [Mercantile Mindset]>"
         ],
         "policies": [
             {
