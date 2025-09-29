@@ -472,6 +472,103 @@
         ]
     },
   {
+        "name": "Mercantile Mindset",
+        "era": "Medieval era",
+        "priorities": {
+            "Neutral": 0,
+            "Cultural": 10,
+            "Diplomatic": 0,
+            "Domination": 0,
+            "Scientific": 0
+        },
+        "uniques": [
+            "",
+            "",
+            "Only available <before adopting [Cultural Legacy]>",
+            "Only available <before adopting [Scholar Pioneers]>",
+            "Only available <before adopting [Industrial Paradigm]>",
+            "Only available <before adopting [Purity and Zeal]>",
+            "Only available <before adopting [Rites of Warfare]>",
+            "Only available <before adopting [Schools Hegemony]>"
+        ],
+        "policies": [
+            {
+                "name": "Encouraged Trading",
+                "uniques": [
+                    "[+2 Gold, -1 Happiness] from every specialist [in all cities]",
+                    "[+2 Gold, -1 Science] from all [Merchant High School] buildings",
+                    "[+2 Gold, +1 Production, -1 Food] from each Trade Route"
+                ],
+                "row": 1,
+                "column": 4
+            },
+            {
+                "name": "Economical Development",
+                "uniques": [
+                    "[+2 Gold, -1 Culture] from all [Merchant High School] buildings",
+                    "[+10]% [Gold] from every [Merchant High School]",
+                    "[+50]% Yield from every [Trading post]"
+                ],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Interschool Negotiations",
+                "uniques": [
+                    "[+1 Gold, +1 Culture, +1 Production] [in capital] <for every [Remaining [All] Civilizations]>",
+                    "[+2 Gold, -1 Happiness] from all [Merchant High School] buildings",
+                    "Resting point for Influence with City-States is increased by [5] <for every [Merchant High School]>"
+                ],
+                "requires": ["Encouraged Trading"],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "School-Corporation",
+                "uniques": [
+                    "[+4 Gold, -3 Happiness] from all [Merchant High School] buildings",
+                    "[Gold] cost of purchasing [Military] units [-20]%"
+                ],
+                "requires": ["Encouraged Trading"],
+                "row": 2,
+                "column": 5
+            },
+            {
+                "name": "War/Peace Economics",
+                "uniques": [
+                    "[+5] Unit Supply per city <when at war>",
+                    "[10] units cost no maintenance <when at war>",
+                    "[+20]% Strength decreasing with distance from the capital <when at war>",
+                    "[-5 Gold, -5 Happiness] [in all cities] <when at war>",
+                    "[-5] Unit Supply per city <when not at war>",
+                    "[+100]% maintenance costs <for [all] units> <when not at war>",
+                    "[-20]% Strength decreasing with distance from the capital <when not at war>"
+                ],
+                "requires": ["Economical Development","Interschool Negotiations"],
+                "row": 3,
+                "column": 1
+            },
+            {
+              "name": "Seas of Gold",
+              "uniques": [
+                "[+3 Gold] [in all coastal cities]",
+                "[+1 Gold] from every [Fishing boats]"
+              ],
+              "requires": ["School-Corporation","Interschool Negotiations"],
+              "row": 3,
+              "column": 4
+            },
+            {
+                "name": "Mercantile Mindset Complete",
+                "uniques": [
+                    "Free [Great Merchant] appears",
+                    "Gain an extra spy",
+                    "[+4 Gold, -1 Happiness, -1 Culture, -1 Food] from each Trade Route"
+                ]
+            }
+        ]
+    },
+  {
         "name": "Agricultural Revolution",
         "era": "Medieval era",
         "priorities": {
@@ -493,7 +590,7 @@
         ],
         "policies": [
             {
-                "name": "Farmind Business",
+                "name": "Farming Business",
                 "uniques": [
                     "[+1 Gold] from all [Food] buildings",
                     "[+3 Gold, +1 Science] <for every [10] [[Agricultural Schooling] Units]>",
