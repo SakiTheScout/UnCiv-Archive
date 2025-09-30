@@ -635,7 +635,7 @@ UnitIcons/Heavy Anti-Aircraft Gun
   index: -1
 
 TileSets.png
-size: 288, 108
+size: 256, 108
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
