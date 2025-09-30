@@ -756,7 +756,7 @@ TileSets/FantasyHex/Tiles/Forest
   xy: 192, 80
   size: 32, 28
   orig: 32, 28
-  offset: 32, 36
+  offset: 32, 0
   index: -1
 TileSets/FantasyHex/Tiles/Marsh
   rotate: false
