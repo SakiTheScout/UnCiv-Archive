@@ -753,10 +753,10 @@ TileSets/FantasyHex/Tiles/Jungle
   index: -1
 TileSets/FantasyHex/Tiles/Forest
   rotate: false
-  xy: 192, 108
+  xy: 192, 80
   size: 32, 28
   orig: 32, 28
-  offset: 0, 0
+  offset: 32, 36
   index: -1
 TileSets/FantasyHex/Tiles/Marsh
   rotate: false
@@ -788,7 +788,7 @@ TileSets/FantasyHex/Tiles/Atoll
   index: -1
 TileSets/FantasyHex/Tiles/River-Bottom
   rotate: false
-  xy: 196, 84
+  xy: 224, 80
   size: 32, 28
   orig: 32, 28
   offset: 32, 36
@@ -802,7 +802,7 @@ TileSets/FantasyHex/Tiles/River-BottomRight
   index: -1
 TileSets/FantasyHex/Tiles/River-BottomLeft
   rotate: false
-  xy: 234, 44
+  xy: 224, 44
   size: 32, 28
   orig: 32, 28
   offset: 32, 36
