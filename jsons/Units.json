@@ -1180,7 +1180,7 @@
 		"range": 2,
 		"movement": 2,
 		"strength": 50,
-		"rangedStrength": 90
+		"rangedStrength": 90,
 		"cost": 530,
 		"requiredTech": "Advanced Ballistics",
 		"promotions": ["Elite"],
@@ -1193,11 +1193,49 @@
 		"range": 3,
 		"movement": 1,
 		"strength": 60,
-		"rangedStrength": 130
+		"rangedStrength": 130,
 		"cost": 600,
 		"requiredTech": "Advanced Ballistics",
 		"promotions": ["Fire Support"],
 		"uniques": ["[-33]% Strength <vs [Infantry] units> <when attacking>", "Consumes [1] [Aluminum]", "Consumes [2] [Iron]", "[+110]% Strength <vs [Light Armor] units>", "[+105]% Strength <vs [Medium Armor] units>", "[+100]% Strength <vs [Heavy Armor] units>", "[+95]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
+		"attackSound": "tankshot"
+	},
+	{
+		"name": "ATGM Car",
+		"unitType": "Light Armor",
+		"movement": 6,
+		"strength": 60,
+		"range": 2,
+		"rangedStrength": 90,
+		"cost": 570,
+		"requiredTech": "Combined Arms",
+		"uniques": ["Consumes [1] [Iron]", "Consumes [1] [Aluminum]", "Consumes [1] [Oil]", "[-33]% Strength <vs [Infantry] units> <when attacking>", "[+105]% Strength <vs [Light Armor] units>", "[+100]% Strength <vs [Medium Armor] units>", "[+95]% Strength <vs [Heavy Armor] units>", "[+90]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"],
+	    "promotions": ["Fast Attack"],
+		"attackSound": "tankshot"
+	},
+  {
+		"name": "AA/ATGM Complex",
+		"unitType": "Medium Armor",
+		"movement": 4,
+		"strength": 90,
+	    "range": 2,
+	    "ranged strength": 90,
+	    "interceptRange": 3,
+		"cost": 600,
+		"requiredTech": "Combined Arms",
+		"uniques": ["Consumes [2] [Iron]", "Consumes [1] [Aluminum]", "Consumes [1] [Oil]", "[90]% chance to intercept air attacks", "[+300]% Strength <vs [Air] units>", "[-33]% Strength <vs [Infantry] units> <when attacking>", "[+105]% Strength <vs [Light Armor] units>", "[+100]% Strength <vs [Medium Armor] units>", "[+95]% Strength <vs [Heavy Armor] units>", "[+90]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
+	    "promotions": ["Fire Support"],
+		"attackSound": "tankshot"
+	},
+  {
+		"name": "Armored Fighting Vehicle",
+		"unitType": "Heavy Armor",
+		"movement": 3,
+		"strength": 135,
+		"cost": 530,
+		"requiredTech": "Combined Arms",
+		"uniques": ["Consumes [2] [Iron]", "Consumes [1] [Aluminum]", "Consumes [2] [Oil]", "[+110]% Strength <vs [Light Armor] units>", "[+100]% Strength <vs [Medium Armor] units>", "[+90]% Strength <vs [Heavy Armor] units>", "[+80]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
+	    "promotions": ["Fire Support"],
 		"attackSound": "tankshot"
 	},
 	
