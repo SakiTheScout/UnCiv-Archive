@@ -786,27 +786,6 @@ TileSets/FantasyHex/Tiles/Atoll
   orig: 32, 28
   offset: 32, 36
   index: -1
-TileSets/FantasyHex/Tiles/River-Bottom
-  rotate: false
-  xy: 224, 80
-  size: 32, 28
-  orig: 32, 28
-  offset: 32, 36
-  index: -1
-TileSets/FantasyHex/Tiles/River-BottomRight
-  rotate: false
-  xy: 256, 80
-  size: 32, 28
-  orig: 32, 28
-  offset: 32, 36
-  index: -1
-TileSets/FantasyHex/Tiles/River-BottomLeft
-  rotate: false
-  xy: 224, 44
-  size: 32, 28
-  orig: 32, 28
-  offset: 32, 36
-  index: -1
 
 UnitPromotions.png
 size: 600,300
