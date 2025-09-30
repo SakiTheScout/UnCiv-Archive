@@ -781,28 +781,28 @@ TileSets/FantasyHex/Tiles/Hill
   index: -1
 TileSets/FantasyHex/Tiles/Atoll
   rotate: false
-  xy: 226, 8
+  xy: 224, 8
   size: 32, 28
   orig: 32, 28
   offset: 32, 36
   index: -1
 TileSets/FantasyHex/Tiles/River-Bottom
   rotate: false
-  xy: 192, 80
+  xy: 196, 84
   size: 32, 28
   orig: 32, 28
   offset: 32, 36
   index: -1
 TileSets/FantasyHex/Tiles/River-BottomRight
   rotate: false
-  xy: 224, 80
+  xy: 256, 80
   size: 32, 28
   orig: 32, 28
   offset: 32, 36
   index: -1
 TileSets/FantasyHex/Tiles/River-BottomLeft
   rotate: false
-  xy: 192, 44
+  xy: 234, 44
   size: 32, 28
   orig: 32, 28
   offset: 32, 36
