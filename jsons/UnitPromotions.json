@@ -216,23 +216,14 @@
 	// Hellforge
 	{
       "name": "Tainted Augmentations",
-      "uniques": ["[This Unit] gains the [Tainted Augmentation] status for [1] turn(s) <for all movement> <costs [+100 Gold] stats> <costs [5] [Eleph]> <hidden from users>"]},
+      "uniques": ["[This Unit] gains the [Tainted Augmentation] status for [10] turn(s) <for all movement> <costs [+100 Gold] stats> <costs [5] [Eleph]> <hidden from users> <for [non-[Tainted Augmentation]] units>"]},
 	{
 		"name": "Tainted Augmentation",
 		"uniques": [
-			"[This Unit] takes [10] damage <upon gaining the [Tainted Augmentation] status>",
-			"[This Unit] takes [10] damage <with [33]% chance> <upon gaining the [Tainted Augmentation] status>",
-			"[This Unit] takes [10] damage <with [20]% chance> <upon gaining the [Tainted Augmentation] status>",
-			"[+1] Sight <with [33]% chance> <upon gaining the [Tainted Augmentation] status> <for [100] turns>",
-			"[-1] Sight <with [20]% chance> <upon gaining the [Tainted Augmentation] status> <for [100] turns>",
-			"[+1] Movement <with [33]% chance> <upon gaining the [Tainted Augmentation] status> <for [100] turns>",
-			"[-1] Movement <with [20]% chance> <upon gaining the [Tainted Augmentation] status> <for [100] turns>",
-			"[+15]% Strength <when attacking> <with [33]% chance> <upon gaining the [Tainted Augmentation] status> <for [100] turns>",
-			"[-15]% Strength <when attacking> <with [20]% chance> <upon gaining the [Tainted Augmentation] status> <for [100] turns>",
-			"[+15]% Strength <when defending> <with [33]% chance> <upon gaining the [Tainted Augmentation] status> <for [100] turns>",
-			"[-15]% Strength <when defending> <with [20]% chance> <upon gaining the [Tainted Augmentation] status> <for [100] turns>",
-			"[+1] additional attacks per turn <with [25]% chance> <upon gaining the [Tainted Augmentation] status> <for [100] turns>",
-			"[-1] additional attacks per turn <with [10]% chance> <upon gaining the [Tainted Augmentation] status> <for [100] turns>"
+			"[+1] Movement",
+			"[+1] Sight",
+			"[+1] additional attacks per turn",
+			"[+25]% Strength"
 		]
 	},
 	// Helmet Gang
