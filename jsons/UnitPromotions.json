@@ -848,7 +848,6 @@
 			"[+50]% Strength <when attacking> <for units with [Blood God's Blessing]>",
 			"[-25]% Strength <when defending>",
 			"[This Unit] gains [2] movement <upon defeating a [All] unit>",
-			"[1] additional attacks per turn <upon defeating a [All] unit> <for [1] turns>",
 			"No damage penalty for wounded units",
 			"Can move after attacking",
 			"Heals [20] damage if it kills a unit",
