@@ -412,7 +412,7 @@ NationIcons/Nature's Beauty Club
   index: -1
 
 Units.png
-size: 900,400
+size: 900,500
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -619,7 +619,7 @@ UnitIcons/Anti-Aircraft Autocannon
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/ Anti-Aircraft Gun
+UnitIcons/Anti-Aircraft Gun
   rotate: false
   xy: 700, 200
   size: 100, 100
@@ -629,6 +629,104 @@ UnitIcons/ Anti-Aircraft Gun
 UnitIcons/Heavy Anti-Aircraft Gun
   rotate: false
   xy: 800, 200
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Light Scout Car
+  rotate: false
+  xy: 400, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Medium Armored Car
+  rotate: false
+  xy: 500, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Heavy Armored Car
+  rotate: false
+  xy: 600, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Wheeled Tank Hunter
+  rotate: false
+  xy: 700, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Command Armored Car
+  rotate: false
+  xy: 800, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/ATGM Car
+  rotate: false
+  xy: 0, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/AA/ATGM Complex
+  rotate: false
+  xy: 100, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Armored Fighting Vehicle
+  rotate: false
+  xy: 200, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Main Battle Tank
+  rotate: false
+  xy: 300, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Armored Recon Vehicle
+  rotate: false
+  xy: 400, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Infantry Fighting Vehicle
+  rotate: false
+  xy: 500, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mobile Gun System
+  rotate: false
+  xy: 600, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/ATGM Carrier Vehicle
+  rotate: false
+  xy: 700, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Armored Command Vehicle
+  rotate: false
+  xy: 800, 400
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
