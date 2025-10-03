@@ -72,7 +72,7 @@
 	"[Ranged Infantry] units gain the [Kivotos Halo] promotion <for [Lesser School] Civilizations>",
 	"[-1 Food, -1 Production, -1 Culture, -1 Happiness, -1 Science, +10 Gold] [in all cities] <for [Corporation] Civilizations>",
 	"[+10]% [Gold] [in capital] <for [Corporation] Civilizations>",
-	"[+5]% [Gold] [in all cities] <upon entering a new era> <for [Corporation] Civilizations>",
+	"[+5]% [Gold] [in all cities] <for [Corporation] Civilizations> <for every [Era Passed]>",
 	
     "[Ranged Infantry] units gain the [Features] promotion",
     "[Infantry] units gain the [Features] promotion",
