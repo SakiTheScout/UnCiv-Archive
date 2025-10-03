@@ -148,7 +148,7 @@
 		"uniqueName": "Great Legacy",
 		"uniques":["Greater School",
 		"Free Great Person <upon entering a new era>",
-		"[+1 Science, +1 Production, -2 Gold] [in all cities] <upon entering a new era> <for [9999] turns>",
+		"[+1 Science, +1 Production, -2 Gold] [in all cities] <for every [Era Passed]>",
 		"Comment [Desertification strikes upon reaching the Atomic era!]",
 		"Provides [4] [Desertification] <for every [Cities]> <starting from the [Atomic era]> <hidden from users>",
 		"Provides [1] [Desertification] <for every [3] [Owned [Land] Tiles]> <starting from the [Atomic era]> <hidden from users>",
