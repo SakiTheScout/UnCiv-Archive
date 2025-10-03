@@ -216,23 +216,14 @@
 	// Hellforge
 	{
       "name": "Tainted Augmentations",
-      "uniques": ["[This Unit] gains the [Tainted Augmentation] status for [1] turn(s) <for all movement> <costs [+100 Gold] stats> <costs [5] [Eleph]> <hidden from users>"]},
+      "uniques": ["[This Unit] gains the [Tainted Augmentation] status for [10] turn(s) <for all movement> <costs [+100 Gold] stats> <costs [5] [Eleph]> <hidden from users> <for [non-[Tainted Augmentation]] units>"]},
 	{
 		"name": "Tainted Augmentation",
 		"uniques": [
-			"[This Unit] takes [10] damage <upon gaining the [Tainted Augmentation] status>",
-			"[This Unit] takes [10] damage <with [33]% chance> <upon gaining the [Tainted Augmentation] status>",
-			"[This Unit] takes [10] damage <with [20]% chance> <upon gaining the [Tainted Augmentation] status>",
-			"[+1] Sight <with [33]% chance> <upon gaining the [Tainted Augmentation] status> <for [100] turns>",
-			"[-1] Sight <with [20]% chance> <upon gaining the [Tainted Augmentation] status> <for [100] turns>",
-			"[+1] Movement <with [33]% chance> <upon gaining the [Tainted Augmentation] status> <for [100] turns>",
-			"[-1] Movement <with [20]% chance> <upon gaining the [Tainted Augmentation] status> <for [100] turns>",
-			"[+15]% Strength <when attacking> <with [33]% chance> <upon gaining the [Tainted Augmentation] status> <for [100] turns>",
-			"[-15]% Strength <when attacking> <with [20]% chance> <upon gaining the [Tainted Augmentation] status> <for [100] turns>",
-			"[+15]% Strength <when defending> <with [33]% chance> <upon gaining the [Tainted Augmentation] status> <for [100] turns>",
-			"[-15]% Strength <when defending> <with [20]% chance> <upon gaining the [Tainted Augmentation] status> <for [100] turns>",
-			"[+1] additional attacks per turn <with [25]% chance> <upon gaining the [Tainted Augmentation] status> <for [100] turns>",
-			"[-1] additional attacks per turn <with [10]% chance> <upon gaining the [Tainted Augmentation] status> <for [100] turns>"
+			"[+1] Movement",
+			"[+1] Sight",
+			"[+1] additional attacks per turn",
+			"[+25]% Strength"
 		]
 	},
 	// Helmet Gang
@@ -857,7 +848,6 @@
 			"[+50]% Strength <when attacking> <for units with [Blood God's Blessing]>",
 			"[-25]% Strength <when defending>",
 			"[This Unit] gains [2] movement <upon defeating a [All] unit>",
-			"[1] additional attacks per turn <upon defeating a [All] unit> <for [1] turns>",
 			"No damage penalty for wounded units",
 			"Can move after attacking",
 			"Heals [20] damage if it kills a unit",
@@ -1043,7 +1033,8 @@
 		"name": "Stealth T1",
 		"uniques": ["Comment [Be it magic, technology or personal skills, this unit is able to blend in with sorroundings.]",
 		"[+12]% Strength <vs [Ranged] units> <when defending>",
-		"Invisible to non-adjacent units"
+		"Invisible to non-adjacent units",
+		"[This Unit] loses the [Camouflage] promotion <hidden from users>"
 	]},
 	{
 		"name": "Stealth T2",
@@ -1051,13 +1042,18 @@
 		"[+15]% Strength <vs [Ranged] units> <when defending>",
 		"Invisible to others <in [Forest] tiles>",
 		"Invisible to others <in [Jungle] tiles>",
-		"Invisible to non-adjacent units"
+		"Invisible to non-adjacent units",
+		"[This Unit] loses the [Camouflage] promotion <hidden from users>",
+		"[This Unit] loses the [Stealth T1] promotion <hidden from users>"
 	]},
 	{
 		"name": "Stealth T3",
 		"uniques": ["Comment [Be it magic, technology or personal skills, this unit is able to blend in with sorroundings very well.]",
 		"[+20]% Strength <vs [Ranged] units> <when defending>",
-		"Invisible to others"
+		"Invisible to others",
+		"[This Unit] loses the [Camouflage] promotion <hidden from users>",
+		"[This Unit] loses the [Stealth T1] promotion <hidden from users>",
+		"[This Unit] loses the [Stealth T2] promotion <hidden from users>"
 	]},
 	// Detection
 	{
@@ -1071,7 +1067,8 @@
 		"uniques": ["Comment [Using technology, magic or natural perception, this unit is capable of detecting infiltrated units well.]",
 		"Can see invisible [Camouflage] units",
 		"Can see invisible [Stealth T1] units",
-		"Can see invisible [Stealth T2] units"
+		"Can see invisible [Stealth T2] units",
+		"[This Unit] loses the [Detection T1] promotion <hidden from users>"
 	]},
 	{
 		"name": "Detection T3",
@@ -1079,7 +1076,9 @@
 		"Can see invisible [Camouflage] units",
 		"Can see invisible [Stealth T1] units",
 		"Can see invisible [Stealth T2] units",
-		"Can see invisible [Stealth T3] units"
+		"Can see invisible [Stealth T3] units",
+		"[This Unit] loses the [Detection T1] promotion <hidden from users>",
+		"[This Unit] loses the [Detection T2] promotion <hidden from users>"
 	]},
 	// Force Organisation
 	{

@@ -396,6 +396,13 @@ NationIcons/The Hellforge
   orig: 100, 100
   offset: 0, 0
   index: -1
+NationIcons/Sentinels of Paradise
+  rotate: false
+  xy: 100, 500
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 NationIcons/Nature's Beauty Club
   rotate: false
   xy: 200, 500
@@ -405,7 +412,7 @@ NationIcons/Nature's Beauty Club
   index: -1
 
 Units.png
-size: 900,400
+size: 900,500
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -612,7 +619,7 @@ UnitIcons/Anti-Aircraft Autocannon
   orig: 100, 100
   offset: 0, 0
   index: -1
-UnitIcons/ Anti-Aircraft Gun
+UnitIcons/Anti-Aircraft Gun
   rotate: false
   xy: 700, 200
   size: 100, 100
@@ -626,9 +633,107 @@ UnitIcons/Heavy Anti-Aircraft Gun
   orig: 100, 100
   offset: 0, 0
   index: -1
+UnitIcons/Light Scout Car
+  rotate: false
+  xy: 400, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Medium Armored Car
+  rotate: false
+  xy: 500, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Heavy Armored Car
+  rotate: false
+  xy: 600, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Wheeled Tank Hunter
+  rotate: false
+  xy: 700, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Command Armored Car
+  rotate: false
+  xy: 800, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/ATGM Car
+  rotate: false
+  xy: 0, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/AA/ATGM Complex
+  rotate: false
+  xy: 100, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Armored Fighting Vehicle
+  rotate: false
+  xy: 200, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Main Battle Tank
+  rotate: false
+  xy: 300, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Armored Recon Vehicle
+  rotate: false
+  xy: 400, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Infantry Fighting Vehicle
+  rotate: false
+  xy: 500, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Mobile Gun System
+  rotate: false
+  xy: 600, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/ATGM Carrier Vehicle
+  rotate: false
+  xy: 700, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+UnitIcons/Armored Command Vehicle
+  rotate: false
+  xy: 800, 400
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 
 TileSets.png
-size: 160, 108
+size: 256, 108
 format: RGBA8888
 filter: MipMapLinearLinear, MipMapLinearLinear
 repeat: none
@@ -662,51 +767,51 @@ TileSets/FantasyHex/Tiles/Megapolis
   index: -1
 TileSets/FantasyHex/Tiles/Grassland
   rotate: false
-  xy: 64, 0
-  size: 32, 36
-  orig: 32, 36
+  xy: 64, 8
+  size: 32, 28
+  orig: 32, 28
   offset: 32, 36
   index: -1
 TileSets/FantasyHex/Tiles/Desert
   rotate: false
-  xy: 64, 36
-  size: 32, 36
-  orig: 32, 36
+  xy: 64, 44
+  size: 32, 28
+  orig: 32, 28
   offset: 32, 36
   index: -1
 TileSets/FantasyHex/Tiles/Lakes
   rotate: false
-  xy: 64, 72
-  size: 32, 36
-  orig: 32, 36
+  xy: 64, 80
+  size: 32, 28
+  orig: 32, 28
   offset: 32, 36
   index: -1
 TileSets/FantasyHex/Tiles/Ocean
   rotate: false
-  xy: 32, 72
-  size: 32, 36
-  orig: 32, 36
+  xy: 32, 80
+  size: 32, 28
+  orig: 32, 28
   offset: 32, 36
   index: -1
 TileSets/FantasyHex/Tiles/Coast
   rotate: false
-  xy: 0, 72
-  size: 32, 36
-  orig: 32, 36
+  xy: 0, 80
+  size: 32, 28
+  orig: 32, 28
   offset: 32, 36
   index: -1
 TileSets/FantasyHex/Tiles/Tundra
   rotate: false
-  xy: 96, 72
-  size: 32, 36
-  orig: 32, 36
+  xy: 96, 80
+  size: 32, 28
+  orig: 32, 28
   offset: 32, 36
   index: -1
 TileSets/FantasyHex/Tiles/Snow
   rotate: false
-  xy: 96, 0
-  size: 32, 36
-  orig: 32, 36
+  xy: 96, 8
+  size: 32, 28
+  orig: 32, 28
   offset: 32, 36
   index: -1
 TileSets/FantasyHex/Tiles/Mountain
@@ -718,44 +823,58 @@ TileSets/FantasyHex/Tiles/Mountain
   index: -1
 TileSets/FantasyHex/Tiles/Minefield
   rotate: false
-  xy: 128, 72
-  size: 32, 36
-  orig: 32, 36
+  xy: 128, 80
+  size: 32, 28
+  orig: 32, 28
   offset: 32, 36
   index: -1
 TileSets/FantasyHex/Tiles/Plains
   rotate: false
-  xy: 128, 0
-  size: 32, 36
-  orig: 32, 36
+  xy: 128, 8
+  size: 32, 28
+  orig: 32, 28
   offset: 32, 36
   index: -1
 TileSets/FantasyHex/Tiles/Trench
   rotate: false
-  xy: 128, 36
-  size: 32, 36
-  orig: 32, 36
+  xy: 128, 44
+  size: 32, 28
+  orig: 32, 28
   offset: 32, 36
   index: -1
 TileSets/FantasyHex/Tiles/Jungle
   rotate: false
-  xy: 160, 72
-  size: 32, 36
-  orig: 32, 36
+  xy: 160, 79
+  size: 32, 29
+  orig: 32, 29
   offset: 32, 36
   index: -1
 TileSets/FantasyHex/Tiles/Marsh
   rotate: false
-  xy: 160, 0
-  size: 32, 36
-  orig: 32, 36
+  xy: 160, 8
+  size: 32, 28
+  orig: 32, 28
+  offset: 32, 36
+  index: -1
+TileSets/FantasyHex/Tiles/Foundation
+  rotate: false
+  xy: 192, 8
+  size: 32, 28
+  orig: 32, 28
   offset: 32, 36
   index: -1
 TileSets/FantasyHex/Tiles/Hill
   rotate: false
-  xy: 160, 36
-  size: 32, 36
-  orig: 32, 36
+  xy: 160, 44
+  size: 32, 28
+  orig: 32, 28
+  offset: 32, 36
+  index: -1
+TileSets/FantasyHex/Tiles/Atoll
+  rotate: false
+  xy: 224, 8
+  size: 32, 28
+  orig: 32, 28
   offset: 32, 36
   index: -1
 

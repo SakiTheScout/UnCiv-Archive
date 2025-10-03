@@ -19,7 +19,8 @@
             "Only available <before adopting [Industrial Paradigm]>",
             "Only available <before adopting [Purity and Zeal]>",
             "Only available <before adopting [Agricultural Revolution]>",
-            "Only available <before adopting [Schools Hegemony]>"
+            "Only available <before adopting [Schools Hegemony]>",
+            "Only available <before adopting [Mercantile Mindset]>"
         ],
         "policies": [
             {
@@ -45,7 +46,7 @@
             {
                 "name": "Warrior-King",
                 "uniques": [
-                    "[+1 Faith, +1 Gold, +1 Science, +1 Production, +1 Happiness, +1 Culture] [in capital] <for every [15] [[Military Schooling] Units]>",
+                    "[+1 Faith, +1 Gold, +1 Science, +1 Production, +1 Happiness, +1 Culture] [in capital] <for every [10] [[Military Schooling] Units]>",
                     "[1] Movement <in [Friendly Land] tiles>",
                     "[+50]% Strength for cities <with a garrison> <when attacking>"
                 ],
@@ -90,7 +91,7 @@
                 "name": "Rites of Warfare Complete",
                 "uniques": [
                     "Empire enters golden age",
-                    "[200]% Yield from pillaging tiles",
+                    "[100]% Yield from pillaging tiles",
                     "Earn [50]% of killed [Military] unit's [Strength] as [Gold]"
                 ]
             }
@@ -108,13 +109,14 @@
         },
         "uniques": [
             "[+10]% [Culture] <in cities with a [High School]>",
-            "Resting point for Influence with City-States is increased by [5]",
+            "Resting point for Influence with City-States is increased by [10]",
             "Only available <before adopting [Cultural Legacy]>",
             "Only available <before adopting [Scholar Pioneers]>",
             "Only available <before adopting [Industrial Paradigm]>",
             "Only available <before adopting [Purity and Zeal]>",
             "Only available <before adopting [Agricultural Revolution]>",
-            "Only available <before adopting [Rites of Warfare]>"
+            "Only available <before adopting [Rites of Warfare]>",
+            "Only available <before adopting [Mercantile Mindset]>"
         ],
         "policies": [
             {
@@ -129,7 +131,7 @@
             {
                 "name": "Unified Purpose",
                 "uniques": [
-                    "[+25]% Production towards any buildings that already exist in the Capital",
+                    "[+15]% Production towards any buildings that already exist in the Capital",
                     "Resting point for Influence with City-States is increased by [5]",
                     "[+1 Production] from every [High School]"
                 ],
@@ -201,13 +203,14 @@
         },
         "uniques": [
             "Gain a free [Follower] belief",
-            "[Faith] cost of purchasing items in cities [-25]%",
+            "[Faith] cost of purchasing items in cities [-20]%",
             "Only available <before adopting [Rites of Warfare]>",
             "Only available <before adopting [Scholar Pioneers]>",
             "Only available <before adopting [Industrial Paradigm]>",
             "Only available <before adopting [Cultural Legacy]>",
             "Only available <before adopting [Agricultural Revolution]>",
-            "Only available <before adopting [Schools Hegemony]>"
+            "Only available <before adopting [Schools Hegemony]>",
+            "Only available <before adopting [Mercantile Mindset]>"
         ],
         "policies": [
             {
@@ -233,7 +236,7 @@
             {
                 "name": "Holy Reign",
                 "uniques": [
-                    "[+1 Faith, +1 Gold] per [10] population [in all cities]",
+                    "[+1 Faith] per [8] population [in all cities]",
                     "[+2 Faith] from every [Religious High School]",
                     "[50]% of excess happiness converted to [Faith]"
                 ],
@@ -244,8 +247,8 @@
                 "name": "Purge the Heresy",
                 "uniques": [
                     "[+33]% Strength <vs [Barbarian] units>",
-                    "[+2 Happiness] <in cities following our religion>",
-                    "[-2 Happiness] <in cities not following a [your] religion>"
+                    "[+1 Happiness] <in cities following our religion>",
+                    "[-1 Happiness] <in cities not following a [your] religion>"
                 ],
                 "requires": ["Remembrancer Order", "Holy Reign"],
                 "row": 2,
@@ -275,7 +278,7 @@
             {
                 "name": "Purity and Zeal Complete",
                 "uniques": [
-                    "Earn [100]% of killed [Military] unit's [Strength] as [Faith]",
+                    "Earn [50]% of killed [Military] unit's [Strength] as [Faith]",
                     "[+1 Culture] <for every [10] [[Faith] Per Turn]>",
                     "Gain a free [Enhancer] belief"
                 ]
@@ -300,7 +303,8 @@
             "Only available <before adopting [Industrial Paradigm]>",
             "Only available <before adopting [Purity and Zeal]>",
             "Only available <before adopting [Agricultural Revolution]>",
-            "Only available <before adopting [Schools Hegemony]>"
+            "Only available <before adopting [Schools Hegemony]>",
+            "Only available <before adopting [Mercantile Mindset]>"
         ],
         "policies": [
             {
@@ -316,7 +320,7 @@
             {
                 "name": "Combat Research",
                 "uniques": [
-                    "Earn [75]% of killed [Military] unit's [Strength] as [Faith]",
+                    "Earn [50]% of killed [Military] unit's [Strength] as [Science]",
                     "[+33]% XP gained from combat <for [Scientific Schooling] units>",
                     "[+2 Science] <for every [10] [[Scientific Schooling] Units]>"
                 ],
@@ -348,7 +352,7 @@
                 "name": "Scientific Atheism",
                 "uniques": [
                     "[+1 Science, -1 Faith] <for every [[Faith] Per Turn]>",
-                    "[-2 Happiness] [in all cities in which the majority religion is an enhanced religion]",
+                    "[-1 Happiness] [in all cities in which the majority religion is an enhanced religion]",
                     "[+1 Science] per [5] population [in all cities]",
                     "[+1 Science] from every specialist [in all cities]"
                 ],
@@ -395,13 +399,14 @@
             "Only available <before adopting [Industrial Paradigm]>",
             "Only available <before adopting [Rites of Warfare]>",
             "Only available <before adopting [Agricultural Revolution]>",
-            "Only available <before adopting [Schools Hegemony]>"
+            "Only available <before adopting [Schools Hegemony]>",
+            "Only available <before adopting [Mercantile Mindset]>"
         ],
         "policies": [
             {
                 "name": "Tourism Business",
                 "uniques": [
-                    "[+3 Gold] from every [Artist]",
+                    "[+2 Gold] from every [World Wonder]",
                     "[Gold] cost of purchasing [Culture] buildings [-10]%",
                     "[+2 Gold] from all [Culture] buildings"
                 ],
@@ -465,8 +470,106 @@
                 "name": "Cultural Legacy Complete",
                 "uniques": [
                     "[+1 Culture] from every specialist [in all cities]",
-                    "[1] population in a random city",
+                    "[+25]% [Culture] [in all cities] <for [50] turns>",
                     "[-20]% City-State Influence degradation"
+                ]
+            }
+        ]
+    },
+  {
+        "name": "Mercantile Mindset",
+        "era": "Medieval era",
+        "priorities": {
+            "Neutral": 0,
+            "Cultural": 0,
+            "Diplomatic": 10,
+            "Domination": 0,
+            "Scientific": 0
+        },
+        "uniques": [
+            "[+10]% [Gold] [in all cities]",
+            "[+10]% [Gold] [in all cities] <while the empire is happy>",
+            "Only available <before adopting [Cultural Legacy]>",
+            "Only available <before adopting [Scholar Pioneers]>",
+            "Only available <before adopting [Industrial Paradigm]>",
+            "Only available <before adopting [Purity and Zeal]>",
+            "Only available <before adopting [Rites of Warfare]>",
+            "Only available <before adopting [Schools Hegemony]>",
+            "Only available <before adopting [Agricultural Revolution]>"
+        ],
+        "policies": [
+            {
+                "name": "Encouraged Trading",
+                "uniques": [
+                    "[+1 Gold] from every specialist [in all cities]",
+                    "[+1 Gold] from all [Merchant High School] buildings",
+                    "[+1 Gold, +1 Production] from each Trade Route"
+                ],
+                "row": 1,
+                "column": 4
+            },
+            {
+                "name": "Economical Development",
+                "uniques": [
+                    "[+2 Gold, -1 Culture] from all [Merchant High School] buildings",
+                    "[+10]% [Gold] from every [Merchant High School]",
+                    "[+50]% Yield from every [Trading post]"
+                ],
+                "row": 2,
+                "column": 1
+            },
+            {
+                "name": "Interschool Negotiations",
+                "uniques": [
+                    "[+1 Gold, +1 Culture, +1 Production] [in capital] <for every [Remaining [All] Civilizations]>",
+                    "[+1 Gold] from all [Merchant High School] buildings",
+                    "Resting point for Influence with City-States is increased by [5] <for every [[Merchant High School] Buildings]>"
+                ],
+                "requires": ["Encouraged Trading"],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "School-Corporation",
+                "uniques": [
+                    "[+2 Gold, -1 Happiness] from all [Merchant High School] buildings",
+                    "[Gold] cost of purchasing [Military] units [-20]%"
+                ],
+                "requires": ["Encouraged Trading"],
+                "row": 2,
+                "column": 5
+            },
+            {
+                "name": "War/Peace Economics",
+                "uniques": [
+                    "[+5] Unit Supply per city <when at war>",
+                    "[10] units cost no maintenance <when at war>",
+                    "[+20]% Strength decreasing with distance from the capital <when at war>",
+                    "[-2 Gold, -2 Happiness] [in all cities] <when at war>",
+                    "[-5] Unit Supply per city <when not at war>",
+                    "[+100]% maintenance costs <for [all] units> <when not at war>",
+                    "[-20]% Strength decreasing with distance from the capital <when not at war>"
+                ],
+                "requires": ["Economical Development","Interschool Negotiations"],
+                "row": 3,
+                "column": 1
+            },
+            {
+              "name": "Seas of Gold",
+              "uniques": [
+                "[+3 Gold] [in all coastal cities]",
+                "[+1 Gold] from every [Fishing Boats]"
+              ],
+              "requires": ["School-Corporation","Interschool Negotiations"],
+              "row": 3,
+              "column": 4
+            },
+            {
+                "name": "Mercantile Mindset Complete",
+                "uniques": [
+                    "Free [Great Merchant] appears",
+                    "Gain an extra spy",
+                    "[+3 Gold] from each Trade Route"
                 ]
             }
         ]
@@ -489,11 +592,12 @@
             "Only available <before adopting [Industrial Paradigm]>",
             "Only available <before adopting [Purity and Zeal]>",
             "Only available <before adopting [Rites of Warfare]>",
-            "Only available <before adopting [Schools Hegemony]>"
+            "Only available <before adopting [Schools Hegemony]>",
+            "Only available <before adopting [Mercantile Mindset]>"
         ],
         "policies": [
             {
-                "name": "Farmind Business",
+                "name": "Farming Business",
                 "uniques": [
                     "[+1 Gold] from all [Food] buildings",
                     "[+3 Gold, +1 Science] <for every [10] [[Agricultural Schooling] Units]>",
@@ -505,7 +609,7 @@
             {
                 "name": "Intensive Agriculture",
                 "uniques": [
-                    "[+1 Food] from [Farm] tiles [in all cities] <every [50] turns>",
+                    "[+1 Food] from [Farm] tiles [in all cities]",
                     "[+2]% [Food] from every [Farm]",
                     "Allied City-States provide [Food] equal to [+50]% of what they produce for themselves"
                 ],
@@ -519,7 +623,7 @@
                     "[-1 Food, +2 Gold] [in all cities] <for every [Remaining [All] Civilizations]> <when not at war>",
                     "[+1 Food, +2 Gold] from each Trade Route"
                 ],
-                "requires": ["Farmind Business"],
+                "requires": ["Farming Business"],
                 "row": 2,
                 "column": 2
             },
@@ -530,7 +634,7 @@
                     "[+1 Science] from all [Food] buildings",
                     "[+15]% [Science] from every [Agricultural High School]"
                 ],
-                "requires": ["Farmind Business", "Intensive Agriculture"],
+                "requires": ["Farming Business", "Intensive Agriculture"],
                 "row": 2,
                 "column": 4
             },
@@ -558,7 +662,7 @@
                 "name": "Agricultural Revolution Complete",
                 "uniques": [
                     "[+1 Culture] <for every [10] [[Agricultural Schooling] Units]>",
-                    "[2] population in a random city",
+                    "[1] population in a random city",
                     "Free Great Person"
                 ]
             }
@@ -582,7 +686,8 @@
             "Only available <before adopting [Scholar Pioneers]>",
             "Only available <before adopting [Purity and Zeal]>",
             "Only available <before adopting [Agricultural Revolution]>",
-            "Only available <before adopting [Schools Hegemony]>"
+            "Only available <before adopting [Schools Hegemony]>",
+            "Only available <before adopting [Mercantile Mindset]>"
         ],
         "policies": [
             {
@@ -598,7 +703,7 @@
             {
                 "name": "Foreign Workforce",
                 "uniques": [
-                    "[+3]% [Production] [in all cities] <upon declaring friendship>",
+                    "[+3]% [Production] [in all cities] <for every [Remaining [Friendly] Civilizations]>",
                     "[+2 Production] from each Trade Route",
                     "[+25]% spy effectiveness [in foreign cities]",
                     "[+25]% enemy spy effectiveness [in your cities]"
@@ -610,7 +715,7 @@
             {
                 "name": "Leading by Example",
                 "uniques": [
-                    "[+2 Happiness, +2 Production, +2 Science, +2 Culture] per [8] population [in all cities]",
+                    "[+1 Happiness, +1 Production, +1 Science, +1 Culture] per [7] population [in all cities]",
                     "[+1 Production, +1 Happiness] from every specialist [in all cities]",
                     "[+25]% [Production] <during a Golden Age>"
                 ],
@@ -621,8 +726,7 @@
             {
                 "name": "Bonus for Overtime",
                 "uniques": [
-                    "[+2 Production, +2 Science, +2 Culture] from [Town] tiles [in all cities]",
-                    "[-50]% of excess happiness converted to [Gold]"
+                    "[+2 Production, +2 Science, +2 Culture, -2 Gold] from [Town] tiles [in all cities]"
                 ],
                 "requires": ["Mechanization"],
                 "row": 2,
