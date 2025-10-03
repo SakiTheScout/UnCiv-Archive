@@ -703,7 +703,7 @@
             {
                 "name": "Foreign Workforce",
                 "uniques": [
-                    "[+3]% [Production] [in all cities] <for every [[Friendly] Civilizations]>",
+                    "[+3]% [Production] [in all cities] <for every [Remaining [Friendly] Civilizations]>",
                     "[+2 Production] from each Trade Route",
                     "[+25]% spy effectiveness [in foreign cities]",
                     "[+25]% enemy spy effectiveness [in your cities]"
