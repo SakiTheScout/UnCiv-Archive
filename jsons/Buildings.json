@@ -890,7 +890,7 @@
 		"uniques": [
 			"Club",
 			"[-5]% maintenance cost for [all] buildings [in all cities]",
-			"[+5]% [Gold] [in all cities] <for every [Remaining [Friendly] Civilizations]",
+			"[+5]% [Gold] [in all cities] <for every [Remaining [Friendly] Civilizations]>",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Club]>",
 			"All newly-trained [Land] units [in this city] receive the [Occult House] promotion",
