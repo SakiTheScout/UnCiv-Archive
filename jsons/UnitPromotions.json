@@ -386,7 +386,7 @@
       "[+15]% Strength <when [Wounded]>",
 	  "[+33]% Strength <when below [50] HP>"]},
 	{
-    "name": "Extermination Force",
+    "name": "Exterminator Force",
     "uniques": [
       "[+25]% Strength <vs [Barbarian] units>",
       "[+25]% Strength <when fighting in [Friendly Land] tiles>",
@@ -396,7 +396,7 @@
     "uniques": [
       "Gain [1]-[10] [Science] <upon turn start>",
       "Gain [1]-[10] [Science] <when not at war> <upon turn start>",
-	  "Gain [1]-[5] [Science] <for every [Remaining [Friendly] Civilization]> <upon turn start>"]},
+	  "Gain [1]-[5] [Science] <for every [Remaining [Friendly] Civilizations]> <upon turn start>"]},
 	
 	// Neutral
 	{
