@@ -94,7 +94,18 @@
 		"requiredTech": "Plastics",
 	        "promotions": ["Troops"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Generalist infantry unit.]"]
+    "uniques": ["Comment [Generalist infantry unit.]", "Can transform to [Infantry (T)]"]
+	},
+	{
+		"name": "Infantry (T)",
+		"unitType": "Transported Infantry",
+		"movement": 1,
+		"strength": 70,
+		"cost": 375,
+		"requiredTech": "Plastics",
+	        "promotions": ["Troops"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Generalist infantry unit.]", "Unbuildable", "Can transform to [Infantry]"]
 	},
   {
 		"name": "Heavy Infantry",
