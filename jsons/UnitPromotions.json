@@ -1081,6 +1081,19 @@
 		"[This Unit] loses the [Stealth T1] promotion <hidden from users>",
 		"[This Unit] loses the [Stealth T2] promotion <hidden from users>"
 	]},
+	// Carry Capacity and Transports
+	{
+		"name": "Carry Capacity 1",
+		"uniques": ["Comment [This transport is capable of carrying 1 infantry unit.]",
+		"Transport",
+		"Can carry [1] [Transported Infantry] units"
+	]},
+	{
+		"name": "Carry Capacity 2",
+		"uniques": ["Comment [This transport is capable of carrying 2 infantry unit.]",
+		"Transport",
+		"Can carry [2] [Transported Infantry] units"
+	]},
 	// Detection
 	{
 		"name": "Detection T1",
