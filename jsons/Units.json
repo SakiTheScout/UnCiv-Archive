@@ -1132,7 +1132,18 @@
 		"cost": 340,
 		"requiredTech": "Mobile Tactics",
 		"uniques": ["[+25]% Strength <vs [Infantry] units> <when attacking>", "[+25]% Strength <vs [Light Armor] units> <when attacking>", "Consumes [1] [Aluminum]", "Consumes [1] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"],
-	    "promotions": ["Fast Attack"],
+	    "promotions": ["Fast Attack", "Carry Capacity 1"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Armored Personnel Carrier",
+		"unitType": "Light Armor",
+		"movement": 5,
+		"strength": 75,
+		"cost": 340,
+		"requiredTech": "Mobile Tactics",
+		"uniques": ["[+25]% Strength <vs [Infantry] units> <when attacking>", "[+25]% Strength <vs [Light Armor] units> <when attacking>", "Consumes [1] [Aluminum]", "Consumes [1] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"],
+	    "promotions": ["Fast Attack", "Carry Capacity 2"],
 		"attackSound": "shot"
 	},
 	{
