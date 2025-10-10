@@ -50,6 +50,8 @@
         "[+200]% Yield from pillaging tiles",
         "[50]% Health from pillaging tiles",
         "[-1] Sight <for [Embarked] units>",
+
+	"Provides [10] [Aluminum] <in cities with at least [2] [Population]>",
 	
     "[Infantry] units gain the [Kivotos Halo] promotion <for [Greater School] Civilizations>",
 	"[Ranged Infantry] units gain the [Kivotos Halo] promotion <for [Greater School] Civilizations>",
