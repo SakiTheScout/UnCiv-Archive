@@ -93,7 +93,20 @@
         "uniques": ["No defensive terrain bonus", "Rough terrain penalty", "[-2] Movement <in [Jungle] tiles>", "[-1] Movement <in [Forest] tiles>", "[-2] Movement <in [Marsh] tiles>",
         "[This Unit] takes [25] damage <upon ending a turn in a [Minefield] tile>",
         "[This Unit] gains the [Smokescreen] status for [3] turn(s) <when adjacent to a [Deploy Smoke!] unit> <for [non-[Fortification]] units>",
-	      "[This Unit] loses the [Smokescreen] status <upon damaging a [All] unit>"]
+	    "[This Unit] loses the [Smokescreen] status <upon damaging a [All] unit>"]
+  },
+  {
+        "name": "Helicopter",
+        "movementType": "Land",
+        "uniques": ["Can move after attacking", "No defensive terrain bonus",
+        "Unable to pillage tiles",
+        "Unable to capture cities",
+       	"Can see over obstacles",
+		"Ignores terrain cost",
+		"Ignores Zone of Control",
+		"May travel on Water tiles without embarking",
+		"All tiles cost 1 movement",
+		"[-33]% Strength <vs [Air] units>"]
   },
   {
         "name": "Fortification",
