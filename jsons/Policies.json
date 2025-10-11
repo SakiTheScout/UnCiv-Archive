@@ -98,6 +98,100 @@
         ]
     },
   {
+        "name": "Hippocratic Mandate",
+        "era": "Medieval era",
+        "priorities": {
+            "Neutral": 10,
+            "Cultural": 5,
+            "Diplomatic": 0,
+            "Domination": 0,
+            "Scientific": 5
+        },
+        "uniques": [
+            "",
+            "",
+            "Only available <before adopting [Cultural Legacy]>",
+            "Only available <before adopting [Scholar Pioneers]>",
+            "Only available <before adopting [Industrial Paradigm]>",
+            "Only available <before adopting [Purity and Zeal]>",
+            "Only available <before adopting [Agricultural Revolution]>",
+            "Only available <before adopting [Schools Hegemony]>",
+            "Only available <before adopting [Mercantile Mindset]>"
+        ],
+        "policies": [
+            {
+                "name": "Preventative Medicine",
+                "uniques": [
+                    "",
+                    ""
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Public Healthcare",
+                "uniques": [
+                    "",
+                    "",
+                    ""
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "International Aid",
+                "uniques": [
+                    "[+2 Science, +1 Happiness] [in capital] <for every [5] [[Medical Schooling] Units]>",
+                    "",
+                    ""
+                ],
+                "requires": ["Public Healthcare", "Preventative Medicine"],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Paramedical Intervention",
+                "uniques": [
+                    "",
+                    ""
+                ],
+                "requires": ["International Aid"],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": "Recruitment of the Wounded",
+                "uniques": [
+                    "May capture killed [Infantry] units <with [20]% chance>",
+                    "Heals [20] damage if it kills a unit <for [Medical Schooling] units>",
+                    "[+5] HP when healing <in [Your] tiles>"
+                ],
+                "requires": ["International Aid"],
+                "row": 3,
+                "column": 3
+            },
+            {
+              "name": "Culture of Hospitality",
+              "uniques": [
+                "",
+                "",
+                ""
+              ],
+              "requires": ["International Aid"],
+              "row": 3,
+              "column": 5
+            },
+            {
+                "name": "Hippocratic Mandate Complete",
+                "uniques": [
+                    "Empire enters golden age",
+                    "[100]% Yield from pillaging tiles",
+                    "Earn [50]% of killed [Military] unit's [Strength] as [Gold]"
+                ]
+            }
+        ]
+    },
+  {
         "name": "Schools Hegemony",
         "era": "Medieval era",
         "priorities": {
