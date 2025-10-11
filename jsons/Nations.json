@@ -467,8 +467,8 @@
 		"innerColor": [253,251,250],
 		"uniqueName": "Hyaku oni yoru gyō",
 		"uniques":["Greater School",
-			"May buy [Military] units with [Culture] [in all cities]",
-			"May buy [{non-[Faith]} {non-[Wonder]}] buildings with [Culture] [in all cities]"],
+			"May buy [{non-[Unbuildable]} {Military}] units with [Culture] [in all cities]",
+			"May buy [{non-[Faith]} {non-[Wonder]} {non-[Unbuildable]}] buildings with [Culture] [in all cities]"],
 		"cities": ["The Great Tree", "Yin-yang Club Palace", "Hyakkiyako Trading District", "The Crab Lake", "Hyakkiyako Festival Grounds", "Hyakkiyako District 1", "Hyakkiyako District 2", "Hyakkiyako District 3", "Hyakkiyako District 4", "Hyakkiyako District 5", "Hyakkiyako District 6"],
 		"personality": "Amachi Niya"
 	},
