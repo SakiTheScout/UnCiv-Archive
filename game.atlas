@@ -256,7 +256,14 @@ NationIcons/Kaiser Corporation
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Placeholder1
+BuildingIcons/Hold a Festival!
+  rotate: false
+  xy: 100, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Festival Duration
   rotate: false
   xy: 100, 300
   size: 100, 100
@@ -413,20 +420,6 @@ NationIcons/Nature's Beauty Club
 NationIcons/Blackroot Stronghold Academy 
   rotate: false
   xy: 300, 500
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-BuildingIcons/Hold a Festival!
-  rotate: false
-  xy: 400, 500
-  size: 100, 100
-  orig: 100, 100
-  offset: 0, 0
-  index: -1
-ResourceIcons/Festival Duration
-  rotate: false
-  xy: 400, 500
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
