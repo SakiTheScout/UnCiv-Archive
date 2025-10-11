@@ -751,7 +751,9 @@
 			"Unsellable <hidden from users>",
 			"Instantly gain [30] [Sponsorship Duration]",
 			"Instantly consumes [1] [Edict Duration] <upon turn end>"
-		]
+		],
+	  "outerColor": [255,253,249],
+	  "innerColor": [255,210,111]
 	},
 	{
 		"name": "Branch Corporations Council",
@@ -1588,6 +1590,8 @@
 			"Unsellable <hidden from users>",
 			"Instantly gain [5] [Festival Duration]",
 			"Instantly consumes [1] [Festival Duration] <upon turn end>"
-		]
+		],
+	  "outerColor": [178,0,255],
+	  "innerColor": [83,49,97]
 	}
 ]
