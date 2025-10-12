@@ -44,12 +44,16 @@
     {"text":"1. Always monitor [Happiness] and try to maintain it on level around 10 or above. It is relatively easy if you plan your buildings and research properly. Many buildings from school trch branch give happiness. You should also hunt luxury resources."},
     {"text":"2. Don't settle too many cities, especially when below 10 [Happiness]. It may look rewarding, but it will complicate your situation which is most likely not the best. Regulate growth of your population and always assign your population to avoid joblessness, people get angry really quickly if they have nothing to eat."},
     {"text":"3. Look through your civ's special abilities, Clubs, High Schools and their policy trees to plan your gameplay. Many High Schools have [Happiness] bonuses in their trees."},
-    {"text":"If you will avoid following these principles, it is inevitable that your [Happiness] will go down. In addition to previously mentioned consequences, there are more: for every 5 Unhappiness, all stats in your cities will be lowered by 20%, excluding [Faith]. The stats will go down to -100% and be nullified."}
-    {"text":">>> Special effects related to [Happiness]"},
-    {"text":"As you might have guessed, there is no black without white. The main bonuses somewhat related to [Happiness] are:"},
-    {"text":"1. Golden Age boosts all stats in all cities by 15%, and Strength of all units by 20%. It is incredibly valuable to start Golden Ages, especially in time of crisis."},
-    {"text":"2. We Love the King Day also provides boosts for a city, them being "}
+    {"text":"If you will avoid following these principles, it is inevitable that your [Happiness] will go down. In addition to previously mentioned consequences, there are more: for every 5 Unhappiness, all stats in your cities will be lowered by 20%, including Growth and excluding [Faith]. The stats will go down to -100% and be nullified."},
+    {"text":"As you might have guessed, there is no black without white. Golden Age boosts all stats in all cities by 30%, and Strength of all units by 20%. It is incredibly valuable to start Golden Ages, especially in time of crisis."},
+    {"text":"---------------------------"},
+    {"text":">>> The [Gold] Shortage and its mechanic."},
+    {"text":"This mod does not allow you to run a debt economy. Lacking [Gold] in your coffers hugely affects the most important stats in game: [Happiness] and Strength of your units. These two stats will progressively decrease depending on the amount of your current debt. In case with [Happiness], it also makes it harder to actually go 0 again."},
+    {"text":"---------------------------"},
+    {"text":">>> The Cities and their mechanics in mod."},
+    {"text":"Little has escaped reworks and reimagination. Here are two main mechanics related to Cities:"},
+    {"text":"1. Capital is not only usually the biggest and longest lasting city, but also a subject to a 15% buff for all stats. This is quite generous, but also means that taking out capitals is harder and more valuable."},
+    {"text":"2. With progress of eras, Cities will have slight bonus of 5% to all stats except for Growth and [Happiness] which are not affected, [Science] and [Faith] which are instead decreased by 5%."},
   ]
-  },
-  
+  }
 ]
