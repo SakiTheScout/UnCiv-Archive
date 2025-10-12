@@ -193,26 +193,26 @@
 	{
 		"name": "HQ limit",
 		"resourceType": "Strategic",
-		"uniques": ["Not shown on world screen"]
+		"uniques": ["Not shown on world screen", "Cannot be traded"]
 	},
 	{
 		"name": "FS limit",
 		"resourceType": "Strategic",
-		"uniques": ["Not shown on world screen"]
+		"uniques": ["Not shown on world screen", "Cannot be traded"]
 	},
 	{
 		"name": "FA limit",
 		"resourceType": "Strategic",
-		"uniques": ["Not shown on world screen"]
+		"uniques": ["Not shown on world screen", "Cannot be traded"]
 	},
 	{
 		"name": "LoW limit",
 		"resourceType": "Strategic",
-		"uniques": ["Not shown on world screen"]
+		"uniques": ["Not shown on world screen", "Cannot be traded"]
 	},
 	{
 		"name": "E limit",
 		"resourceType": "Strategic",
-		"uniques": ["Not shown on world screen"]
+		"uniques": ["Not shown on world screen", "Cannot be traded"]
 	}
 ]
