@@ -44,8 +44,11 @@
     {"text":"1. Always monitor [Happiness] and try to maintain it on level around 10 or above. It is relatively easy if you plan your buildings and research properly. Many buildings from school trch branch give happiness. You should also hunt luxury resources."},
     {"text":"2. Don't settle too many cities, especially when below 10 [Happiness]. It may look rewarding, but it will complicate your situation which is most likely not the best. Regulate growth of your population and always assign your population to avoid joblessness, people get angry really quickly if they have nothing to eat."},
     {"text":"3. Look through your civ's special abilities, Clubs, High Schools and their policy trees to plan your gameplay. Many High Schools have [Happiness] bonuses in their trees."},
-    {"text":"If you will avoid following these principles, it is inevitable that your [Happiness] will go down. In addition to previously mentioned consequences, there are more:"},
-    {"text":"For every 5 Unhappiness, all stats in your cities will be lowered by 20%, excluding [Faith]. The stats will go down to -100% and be nullified."}
+    {"text":"If you will avoid following these principles, it is inevitable that your [Happiness] will go down. In addition to previously mentioned consequences, there are more: for every 5 Unhappiness, all stats in your cities will be lowered by 20%, excluding [Faith]. The stats will go down to -100% and be nullified."}
+    {"text":">>> Special effects related to [Happiness]"},
+    {"text":"As you might have guessed, there is no black without white. The main bonuses somewhat related to [Happiness] are:"},
+    {"text":"1. Golden Age boosts all stats in all cities by 15%, and Strength of all units by 20%. It is incredibly valuable to start Golden Ages, especially in time of crisis."},
+    {"text":"2. We Love the King Day also provides boosts for a city, them being "}
   ]
   },
   
