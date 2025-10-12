@@ -54,6 +54,50 @@
     {"text":"Little has escaped reworks and reimagination. Here are two main mechanics related to Cities:"},
     {"text":"1. Capital is not only usually the biggest and longest lasting city, but also a subject to a 15% buff for all stats. This is quite generous, but also means that taking out capitals is harder and more valuable."},
     {"text":"2. With progress of eras, Cities will have slight bonus of 5% to all stats except for Growth and [Happiness] which are not affected, [Science] and [Faith] which are instead decreased by 5%."},
+    {"text":"---------------------------"},
+    {"text":"That's it for now, have good luck balancing your gameplay!"},
+  ]
+  },
+  {
+  "name": "UnCiv Archive – High Schools, Clubs and Policy Trees",
+  "civilopediaText": [
+    {"text":"Hello again, player. I suppose you have already peeked inside of the Policies menu and choked on your tea looking at the generous amount of new policy trees. But don't get too excited."},
+    {"text":">>> High Schools, general introduction."},
+    {"text":"After researching a specific tech called High Schools in the new tech branch, you unlock one of the most important mechanics in the mod: the High Schools. To build one, you first must build [Elementary School] and [Middle School] buildings in a city. They will give you slight boosts despite biting price. But more importantly, they will allow you to choose a High School."},
+    {"text":"What is a High School for your civilization? It is a separate school inside of your faction, most likely a vassal to major school/corporation/nation/gang. In exchange for protection, they will train your units according to their curriculums, providing unique and useful bonuses. Depending on a school, these bonuses will be more or less peaceful, but in general they are all useful. You may have only one High School in your city, so you must choose carefully."},
+    {"text":"There are many High Schools, and even more Appendix Buildings available after researching School Logistics I and II techs. Each High School has own dedicated Policy tree."},
+    {"text":"---------------------------"},
+    {"text":">>> Policy Trees of High Schools."},
+    {"text":"Gameplay-shaping, mutually exclusive policy trees that circle around specific kind of High School, providing either thematic bonuses or directly interacting with the school."},
+    {"text":"It is crucial to choose a policy tree that will match your gamestyle, because there will be no going back. Each tree has unique structure and ways to provide you bonuses. All trees are concentrated on schools, and usually affect their respective Schooling units, for example giving them more strength or providing stats depending on number of the units."},
+    {"text":"It is also preferable to choose policy tree basing off your current civilization to achieve absolute synergy."},
+    {"text":"---------------------------"},
+    {"text":">>> Clubs of the factions."},
+    {"text":"Many schools have their own Clubs, which are more characteristic for Greater Schools. Clubs, just like High Schools, are mutually exclusive so that you may have only one Club per city. Each club has unique bonuses and drawbacks as well as many mechanics tied around them."},
+    {"text":"Clubs are unique to each school (at least until I make universal clubs) and in fact are the main unique your civilization has. Carefully navigate the Clubs of your chosen civilization. Each has unique time to unlock the clubs, for example [Trinity General School] unlocks them after researching Civil Service while [Red Winter Federal Academy] has to wait until Industrialization."},
+    {"text":"Clubs also usually engage in unique mechanics of each civilization. For example [Abydos High School] has only one club – Foreclosive Task Force. It is dedicated to fight off the Desertification, which inevitably starts consuming Abydos since Atomic era. It is important to have as many as possible. [Trinity General School] unlocks special choices for Tea Party Host during their unique event by building clubs."},
+    {"text":"Not only do the Clubs shape your economics and engage in mechanics, they also provide powerful promotions for units built in there. The effect may range from purely peaceful to purely combat, and balancing off these Clubs in your roster is crucial for winning."},
+    {"text":"---------------------------"},
+    {"text":"I hope I have provided thorough but generalized explanation to the High Schools and Clubs. I am sure you will be able to read more about them on your own."},
+  ]
+  },
+  {
+  "name": "UnCiv Archive – Factional Tags, Subtags",
+  "civilopediaText": [
+    {"text":"Hello again, player. I suppose you have seen the strange words like Greater School, Lesser School, Occult on the top of Civ's unique. These are the Factional Tags. In short, they designate what exactly this faction is within Kivotos."},
+    {"text":">>> Greater School"},
+    {"text":"Greater Schools in Kivotos are centres of major political power. They usually consolidate majority of firepower and influence in entirety of Academy City. There are 7 Great Schools: [Abydos High School], [Trinity General School], [Gehenna Academy], [Shanhaijing Second Senior School], [Hyakkiyako Alliance Academy], [Millennium Science School] and [Red Winter Federal Academy], Greater Schools with immense power in this 17.000.000km² region."},
+    {"text":"Greater Schools have greater borders than other civilizations and don't suffer as much [Happiness] debuff from number of cities, but suffer more Unhappiness from specialists and struggle to consolidate their culture."},
+    {"text":"Greater School's units also have [Kivotos Halo] being students of Kivotos."},
+    {"text":"---------------------------"},
+    {"text":">>> Lesser School"},
+    {"text":"Not all schools in Kivotos are in size of France. Vast majority, in fact, occupy land equal to a major region within a country. They usually have much less resources and fame, but it doesn't make them defenceless: even the Greater Schools struggle to conquer them. That's why in current state, Kivotos has no ultimate ruler and the constant feuds between schools will never come to and end. Lesser schools may also have their own vassal High Schools."},
+    {"text":"Lesser Schools have smaller territory and number of cities as their population is much more consolidated than that of Greater Schools, which allows more effective adoption of policies and election of specialists."},
+    {"text":"Just like Greater Schools, Lesser School consist of students and have [Kivotos Halo] on units."},
+    {"text":"---------------------------"},
+    {"text":">>> Corporation"},
+    {"text":"Not all powers in Kivotos are purely made of students. In modern era, many businesses have turned their gazes onto the Academy City and its abundant resources. Through it may be hard for them to navigate feuds and chaos of this place, many international corporations have established stable footholds in Kivotos' economics."},
+    {"text":"Corporations have incredible [Gold] incomes in their cities, at cost of decreasing other stats."},
   ]
   }
 ]
