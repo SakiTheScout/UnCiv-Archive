@@ -819,7 +819,7 @@
 		"innerColor": [255,25,0]},
 	{
 		"name": "Medical Schooling",
-		"uniques":["[+5]% Strength", "All adjacent units heal [+5] HP when healing", "[This Unit] loses the [Poisoned] status <upon gaining the [Poisoned] status> <after adopting [Hazard Research]>", "[This Unit] gains [1] XP <upon turn start> <when below [15] HP> <after adopting [Hazard Research]>", "Gain [-1] [Gold] <upon turn start>"],
+		"uniques":["[+5]% Strength", "All adjacent units heal [+5] HP when healing", "All adjacent units heal [+5] HP when healing <after adopting [Recruitment of the Wounded]>", "All adjacent units heal [+5] HP when healing <after adopting [Hippocratic Mandate Complete]>", "[This Unit] loses the [Poisoned] status <upon gaining the [Poisoned] status> <after adopting [Hazard Research]>", "[This Unit] gains [1] XP <upon turn start> <when below [15] HP> <after adopting [Hazard Research]>", "Gain [-1] [Gold] <upon turn start>"],
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,0]},
 	{
