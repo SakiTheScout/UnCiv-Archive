@@ -108,7 +108,7 @@
             "Scientific": 5
         },
         "uniques": [
-            "Earn [15]% of killed [Infantry] unit's [cost] as [Science]",
+            "Earn [15]% of killed [Infantry] unit's [Cost] as [Science]",
             "Religion naturally spreads to cities [+1] tiles away",
             "Only available <before adopting [Cultural Legacy]>",
             "Only available <before adopting [Scholar Pioneers]>",
@@ -152,9 +152,8 @@
             {
                 "name": "Hazard Research",
                 "uniques": [
-                    "[This Unit] loses the [Poisoned] status <upon gaining the [Poisoned] status> <for [Medical Schooling] units>",
-                    "[This Unit] gains [1] XP <upon turn start> <when below [15] HP> <for [Medical Schooling] units>"
-                ],
+                    "Comment [Allows [Medical Schooling] units to gain XP while heavily wounded and makes them immune to [Poisoned] status.]",            
+              ],
                 "requires": ["International Aid"],
                 "row": 3,
                 "column": 1
