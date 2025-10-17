@@ -161,7 +161,7 @@
             {
                 "name": "Recruitment of the Wounded",
                 "uniques": [
-                    "All adjacent units heal [5] HP when healing <for [Medical Schooling] units>",
+                    "Comment [Improves healing of adjacent units for [Medical Schooling] units.]",
                     "Heals [20] damage if it kills a unit <for [Medical Schooling] units>",
                     "[+5] HP when healing <in [Your] tiles>"
                 ],
@@ -184,7 +184,7 @@
                 "name": "Hippocratic Mandate Complete",
                 "uniques": [
                     "Empire enters golden age",
-                    "[+5] HP when healing <for [Medical Schooling] units>",
+                    "Comment [Improves healing of adjacent units for [Medical Schooling] units.",
                     "All adjacent units heal [5] HP when healing <for [Medical Schooling] units>"
                 ]
             }
