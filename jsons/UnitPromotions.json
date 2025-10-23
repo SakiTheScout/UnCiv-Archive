@@ -491,7 +491,7 @@
 		"uniques": [
 			"Consumes [1] [Oil] <after discovering [Radar]>",
 			"Consumes [1] [Iron] <after discovering [Radar]>",
-			"[This Unit] gains the [Airborne Action] status for [1] turn(s) <for [0] movement> <for units without [Airborne Cooldow ]> <after discovering [Radar]>"]},
+			"[This Unit] gains the [Airborne Action] status for [1] turn(s) <for [0] movement> <for units without [Airborne Cooldown]> <after discovering [Radar]>"]},
 	{
 		"name": "Airborne Action",    
 		"uniques": [
