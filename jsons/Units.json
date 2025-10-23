@@ -317,9 +317,9 @@
 		"strength": 70,
 		"cost": 375,
 		"requiredTech": "Radar",
-	        "promotions": ["Fast Attack"],
+	        "promotions": ["Fast Attack", "Airborne"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Infantry unit intended for sudden paradrop assaults.]", "May Paradrop to [Land] tiles up to [15] tiles away <when [non-[Wounded]]>", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"]
+    "uniques": ["Comment [Infantry unit intended for sudden paradrop assaults.]", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"]
 	},
 	{
 		"name": "Light Scout Car",
