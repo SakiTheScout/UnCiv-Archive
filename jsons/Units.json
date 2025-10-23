@@ -219,7 +219,7 @@
 	},
 	{
 		"name": "Field Captain (T)",
-		"unitType": "Transport Infantry",
+		"unitType": "Transported Infantry",
 		"movement": 1,
 		"strength": 70,
 		"cost": 500,
