@@ -215,7 +215,7 @@
 		"requiredTech": "Radar",
 	        "promotions": ["HQ", "Order: Bring it down!"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Experienced field officer leading troops with inspiring and fearsome aura.]", "Can transform to [Field Captain (T)] <when adjacent to a [{Friendly} {Transport}] unit>" "[-25]% Strength for enemy [{Wounded} {Infantry}] units in adjacent [All] tiles", "[+15]% Strength bonus for [Infantry] units within [2] tiles", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"]
+    "uniques": ["Comment [Experienced field officer leading troops with inspiring and fearsome aura.]", "Can transform to [Field Captain (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "[-25]% Strength for enemy [{Wounded} {Infantry}] units in adjacent [All] tiles", "[+15]% Strength bonus for [Infantry] units within [2] tiles", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"]
 	},
 	{
 		"name": "Field Captain (T)",
