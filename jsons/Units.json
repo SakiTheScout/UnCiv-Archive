@@ -373,7 +373,18 @@
 		"requiredTech": "Pharmaceuticals",
 	        "promotions": ["Elite"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Infantry unit that excels at dealing with wounded enemy units with an aura of fear.]", "[-25]% Strength for enemy [{Wounded} {Infantry}] units in adjacent [All] tiles", "[+25]% Strength <vs [Wounded] units> <when attacking>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
+    "uniques": ["Comment [Infantry unit that excels at dealing with wounded enemy units with an aura of fear.]", "Can transform to [Raider Infantry (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "[-25]% Strength for enemy [{Wounded} {Infantry}] units in adjacent [All] tiles", "[+25]% Strength <vs [Wounded] units> <when attacking>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
+	},
+	{
+		"name": "Raider Infantry (T)",
+		"unitType": "Transported Infantry",
+		"movement": 1,
+		"strength": 70,
+		"cost": 420,
+		"requiredTech": "Pharmaceuticals",
+	        "promotions": ["Elite"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Infantry unit that excels at dealing with wounded enemy units with an aura of fear.]", "Unbuildable", "Can transform to [Raider Infantry]", "[-25]% Strength for enemy [{Wounded} {Infantry}] units in adjacent [All] tiles", "[+25]% Strength <vs [Wounded] units> <when attacking>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
 	},
 	{
 		"name": "Defender Infantry",
@@ -384,7 +395,18 @@
 		"requiredTech": "Radar",
 	        "promotions": ["Elite", "Detection T3"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Heavy infantry unit specialized in defending friendly land.]", "[+25]% Strength <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>", "[+1] Movement <in [{Friendly} {Land}] tiles>", "[-1] Sight"]
+    "uniques": ["Comment [Heavy infantry unit specialized in defending friendly land.]", "Can transform to [Defender Infantry (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "[+25]% Strength <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>", "[+1] Movement <in [{Friendly} {Land}] tiles>", "[-1] Sight"]
+	},
+	{
+		"name": "Defender Infantry (T)",
+		"unitType": "Transported Infantry",
+		"movement": 1,
+		"strength": 70,
+		"cost": 420,
+		"requiredTech": "Radar",
+	        "promotions": ["Elite", "Detection T3"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Heavy infantry unit specialized in defending friendly land.]", "Unbuildable", "Can transform to [Defender Infantry]", "[+25]% Strength <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>", "[+1] Movement <in [{Friendly} {Land}] tiles>", "[-1] Sight"]
 	},
 	{
 		"name": "Infiltrator Infantry",
@@ -395,7 +417,18 @@
 		"requiredTech": "Pharmaceuticals",
 	        "promotions": ["Elite", "Stealth T2"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Light infantry that infiltrates enemy positions.]", "[-25]% Strength <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
+    "uniques": ["Comment [Light infantry that infiltrates enemy positions.]", "Can transform to [Infiltrator Infantry (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "[-25]% Strength <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
+	},
+	{
+		"name": "Infiltrator Infantry (T)",
+		"unitType": "Transported Infantry",
+		"movement": 1,
+		"strength": 70,
+		"cost": 420,
+		"requiredTech": "Pharmaceuticals",
+	        "promotions": ["Elite", "Stealth T2"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Light infantry that infiltrates enemy positions.]", "Unbuildable", "Can transform to [Infiltrator Infantry]", "[-25]% Strength <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
 	},
 	{
 		"name": "Veteran Infantry",
@@ -406,7 +439,18 @@
 		"requiredTech": "Plastics",
 	        "promotions": ["Elite"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Elite infantry unit made of experienced troops and as such excelling in all kinds of regular warfare.]", "[+25]% Strength <vs [Ranged] units> <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
+    "uniques": ["Comment [Elite infantry unit made of experienced troops and as such excelling in all kinds of regular warfare.]", "Can transform to [Veteran Infantry (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "[+25]% Strength <vs [Ranged] units> <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
+	},
+	{
+		"name": "Veteran Infantry (T)",
+		"unitType": "Transported Infantry",
+		"movement": 1,
+		"strength": 90,
+		"cost": 450,
+		"requiredTech": "Plastics",
+	        "promotions": ["Elite"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Elite infantry unit made of experienced troops and as such excelling in all kinds of regular warfare.]", "Unbuildable", "Can transform to [Veteran Infantry]", "[+25]% Strength <vs [Ranged] units> <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
 	},
 	{
 		"name": "Breacher Infantry",
@@ -417,7 +461,19 @@
 		"requiredTech": "Ballistics",
 	        "promotions": ["Elite"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Heavy infantry unit equipped with ballistic shields that allow them to withstand brutal damage.]", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>",
+    "uniques": ["Comment [Heavy infantry unit equipped with ballistic shields that allow them to withstand brutal damage.]", "Can transform to [Breacher Infantry (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>",
+    "[This Unit] gains the [Ballistic Shield] status for [3] turn(s) <requires [2] movement> <for all movement> <for units without [Grenade Cooldown]> <hidden from users>"],
+	},
+	{
+		"name": "Breacher Infantry (T)",
+		"unitType": "Transported Infantry",
+		"movement": 1,
+		"strength": 70,
+		"cost": 450,
+		"requiredTech": "Ballistics",
+	        "promotions": ["Elite"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Heavy infantry unit equipped with ballistic shields that allow them to withstand brutal damage.]", "Unbuildable", "Can transform to [Breacher Infantry]", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>",
     "[This Unit] gains the [Ballistic Shield] status for [3] turn(s) <requires [2] movement> <for all movement> <for units without [Grenade Cooldown]> <hidden from users>"],
 	},
 	{
@@ -429,7 +485,20 @@
 		"rangedStrength": 70,
 		"cost": 435,
 		"requiredTech": "Combined Arms",
-		"uniques": ["[+100]% Strength <vs [HQ] units> <when attacking>", "[-25]% Strength <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
+		"uniques": ["[+100]% Strength <vs [HQ] units> <when attacking>", "Can transform to [Sniper Infantry (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "[-25]% Strength <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
+		"promotions": ["Elite", "Stealth T2"],
+		"attackSound": "shot"
+	},
+	{
+		"name": "Sniper Infantry (T)",
+		"unitType": "Transported Infantry",
+		"range": 3,
+		"movement": 1,
+		"strength": 60,
+		"rangedStrength": 70,
+		"cost": 435,
+		"requiredTech": "Combined Arms",
+		"uniques": ["[+100]% Strength <vs [HQ] units> <when attacking>", "Unbuildable", "Can transform to [Sniper Infantry]", "[-25]% Strength <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
 		"promotions": ["Elite", "Stealth T2"],
 		"attackSound": "shot"
 	},
@@ -442,7 +511,18 @@
 		"requiredTech": "Combined Arms",
 	        "promotions": ["Fast Attack"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Infantry intended for naval operations and rapid assaults.]", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>", "Eliminates combat penalty for attacking across a coast", "[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>", "[+50]% Strength <when attacking> <when [Embarked]>"]
+    "uniques": ["Comment [Infantry intended for naval operations and rapid assaults.]", "Can transform to [Marine Infantry (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>", "Eliminates combat penalty for attacking across a coast", "[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>", "[+50]% Strength <when attacking> <when [Embarked]>"]
+	},
+	{
+		"name": "Marine Infantry (T)",
+		"unitType": "Transported Infantry",
+		"movement": 1,
+		"strength": 70,
+		"cost": 400,
+		"requiredTech": "Combined Arms",
+	        "promotions": ["Fast Attack"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Infantry intended for naval operations and rapid assaults.]","Unbuildable", "Can transform to [Marine Infantry]", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>", "Eliminates combat penalty for attacking across a coast", "[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>", "[+50]% Strength <when attacking> <when [Embarked]>"]
 	},
 	{
 		"name": "Paratrooper Infantry",
@@ -453,7 +533,18 @@
 		"requiredTech": "Radar",
 	        "promotions": ["Fast Attack", "Airborne"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Infantry unit intended for sudden paradrop assaults.]", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"]
+    "uniques": ["Comment [Infantry unit intended for sudden paradrop assaults.]", "Can transform to [Paratrooper Infantry (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"]
+	},
+	{
+		"name": "Paratrooper Infantry (T)",
+		"unitType": "Transported Infantry",
+		"movement": 1,
+		"strength": 70,
+		"cost": 375,
+		"requiredTech": "Radar",
+	        "promotions": ["Fast Attack", "Airborne"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Infantry unit intended for sudden paradrop assaults.]", "Unbuildable", "Can transform to [Paratrooper Infantry]", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"]
 	},
 	{
 		"name": "Light Scout Car",
