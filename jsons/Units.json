@@ -1378,7 +1378,7 @@
 		"strength": 75,
 		"cost": 340,
 		"requiredTech": "Mobile Tactics",
-		"uniques": ["[+25]% Strength <vs [Infantry] units> <when attacking>", "[+25]% Strength <vs [Light Armor] units> <when attacking>", "Consumes [1] [Aluminum]", "Consumes [1] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"],
+		"uniques": ["[+25]% Strength <vs [Infantry] units> <when attacking>", "[+25]% Strength <vs [Light Armor] units> <when attacking>", "Consumes [1] [Aluminum]", "Consumes [1] [Iron]", "Consumes [1] [Oil]", "Unavailable <when number of [DT limit] is less than [1]> <hidden from users>"],
 	    "promotions": ["Designated Transport", "Carry Capacity 2"],
 		"attackSound": "shot"
 	},
