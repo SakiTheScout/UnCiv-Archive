@@ -317,5 +317,34 @@
       "Autocracy": 6,
       "Order": 7
     }
+  },
+  {
+    "name": "1st house of the occult",
+    "production": 5,
+    "food": 6,
+    "gold": 8,
+    "science": 8,
+    "culture": 9,
+    "happiness": 9,
+    "faith": 8,
+    "military": 7,
+    "aggressive": 3,
+    "declareWar": 5,
+    "commerce": 10,
+    "diplomacy": 8,
+    "loyal": 5,
+    "expansion": 6,
+    "priorities": {
+      "Tradition": 10,
+      "Liberty": 6,
+      "Honor": 4,
+      "Commerce": 10,
+      "Patronage": 4,
+      "Piety": 10,
+      "Rationalism": 6,
+      "Freedom": 5,
+      "Autocracy": 5,
+      "Order": 7
+    }
   }
 ]

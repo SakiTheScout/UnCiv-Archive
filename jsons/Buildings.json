@@ -751,7 +751,9 @@
 			"Unsellable <hidden from users>",
 			"Instantly gain [30] [Sponsorship Duration]",
 			"Instantly consumes [1] [Edict Duration] <upon turn end>"
-		]
+		],
+	  "outerColor": [255,253,249],
+	  "innerColor": [255,210,111]
 	},
 	{
 		"name": "Branch Corporations Council",
@@ -875,6 +877,77 @@
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Club]> <hidden from users>",
 			"All newly-trained [Land] units [in this city] receive the [Street Ghost Troupe] promotion",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Cannot be purchased <hidden from users>"]
+	},
+	// Blackroot Stronghold Academy
+	{
+		"name": "Occult House Holdings",
+		"uniqueTo": "Blackroot Stronghold Academy",
+		"gold": 2,
+		"faith": 1,
+		"cost": 40,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"Club",
+			"[-5]% maintenance cost for [all] buildings [in all cities]",
+			"[+5]% [Gold] [in all cities] <for every [Remaining [Friendly] Civilizations]>",
+			"Cost increases by [40] when built",
+			"Only available <in cities without a [Club]>",
+			"All newly-trained [Land] units [in this city] receive the [Occult House] promotion",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Cannot be purchased <hidden from users>"]
+	},
+	{
+		"name": "Apothecary House Holdings",
+		"uniqueTo": "Blackroot Stronghold Academy",
+		"food": 2,
+		"faith": 1,
+		"cost": 40,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"Club",
+			"[+15]% growth [in this city]",
+			"[10]% Food is carried over after population increases [in this city]",
+			"Cost increases by [40] when built",
+			"Only available <in cities without a [Club]>",
+			"All newly-trained [Land] units [in this city] receive the [Apothecary House] promotion",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Cannot be purchased <hidden from users>"]
+	},
+	{
+		"name": "Exterminator Force Holdings",
+		"uniqueTo": "Blackroot Stronghold Academy",
+		"happiness": -1,
+		"cost": 40,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"Club",
+			"New [Land] units start with [15] XP [in this city]",
+			"Cost increases by [40] when built",
+			"Only available <in cities without a [Club]>",
+			"All newly-trained [Land] units [in this city] receive the [Exterminator Force] promotion",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Cannot be purchased <hidden from users>"]
+	},
+	{
+		"name": "Scribe Committee Holdings",
+		"uniqueTo": "Blackroot Stronghold Academy",
+		"science": 2,
+		"faith": 1,
+		"cost": 40,
+		"requiredTech": "Civil Service",
+		"uniques": [
+			"Club",
+			"Gain an extra spy",
+			"Science gained from research agreements [+10]%",
+			"Cost increases by [40] when built",
+			"Only available <in cities without a [Club]>",
+			"All newly-trained [Land] units [in this city] receive the [Scribe Committee] promotion",
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
@@ -1517,6 +1590,8 @@
 			"Unsellable <hidden from users>",
 			"Instantly gain [5] [Festival Duration]",
 			"Instantly consumes [1] [Festival Duration] <upon turn end>"
-		]
+		],
+	  "outerColor": [178,0,255],
+	  "innerColor": [83,49,97]
 	}
 ]

@@ -294,7 +294,7 @@
 	{
     "name": "Etiquette Training Society",
     "uniques": [
-      "[+25]% XP gained from combat",
+      "[+50]% XP gained from combat",
       "Gain [1]-[10] [Science] <when not at war> <upon turn start>"]},
 	{
     "name": "Ninjutsu Research Club",
@@ -348,7 +348,7 @@
     "name": "Special Response Team",
     "uniques": [
       "[This Unit] gains the [Stealth T1] promotion",
-      "May Paradrop to [Land] tiles up to [15] tiles away <when [non-[Wounded]]>",
+      "[This Unit] gains the [Airborne] promotion",
       "[+50]% XP gained from combat",
 	  "[+33]% Strength <vs [Demon] units>",
       "Instantly gain [1] [Golden Age points] <upon turn start>"],
@@ -372,6 +372,32 @@
       "Instantly gain [1] [Golden Age points] <upon turn start>"],
   "outerColor": [20,40,80],
   "innerColor": [255,200,0]},
+	// Blackroot
+    {
+    "name": "Occult House",
+    "uniques": [
+      "Can build [non-[Defensive Improvement]] improvements on tiles",
+	  "Unit will heal every turn, even if it performs an action",
+      "Gain [1]-[10] [Gold] <when not at war> <upon turn start>"]},
+	{
+    "name": "Apothecary House",
+    "uniques": [
+      "All adjacent units heal [5] HP when healing",
+      "[+15]% Strength <when [Wounded]>",
+	  "[+33]% Strength <when below [50] HP>"]},
+	{
+    "name": "Exterminator Force",
+    "uniques": [
+      "[+25]% Strength <vs [Barbarian] units>",
+      "[+25]% Strength <when fighting in [Friendly Land] tiles>",
+	  "[+20]% XP gained from combat"]},
+	{
+    "name": "Scribe Committee",
+    "uniques": [
+      "Gain [1]-[10] [Science] <upon turn start>",
+      "Gain [1]-[10] [Science] <when not at war> <upon turn start>",
+	  "Gain [1]-[5] [Science] <for every [Remaining [Friendly] Civilizations]> <upon turn start>"]},
+	
 	// Neutral
 	{
 		"name": "Shock I",
@@ -460,6 +486,23 @@
 			"Free [Demon Champion] appears <with [10]% chance>",
 			"Free [Greater Demon] appears <with [2]% chance>",
 			"[This Unit] gains the [Grenade Cooldown] status for [5] turn(s) <upon gaining the [Summon a Demon] status>"]},
+	{
+		"name": "Airborne",
+		"uniques": [
+			"Consumes [1] [Oil] <after discovering [Radar]>",
+			"Consumes [1] [Iron] <after discovering [Radar]>",
+			"[This Unit] gains the [Airborne Action] status for [1] turn(s) <for [0] movement> <for units without [Airborne Cooldown]> <after discovering [Radar]>"]},
+	{
+		"name": "Airborne Action",    
+		"uniques": [
+			"May Paradrop to [Land] tiles up to [20] tiles away",
+			"[1] additional attacks per turn",
+			"[This Unit] loses the [Airborne Action] status <upon damaging a [All] unit>",
+			"[This Unit] gains the [Airborne Cooldown] status for [10] turn(s) <upon gaining the [Airborne Action] status>"]},
+	{
+		"name": "Airborne Cooldown",
+		"uniques": [
+			"Comment [Airborne Action is on cooldown.]"]},
 	// Grenades
 	{
 		"name": "Grenadier",
@@ -793,7 +836,7 @@
 		"innerColor": [255,25,0]},
 	{
 		"name": "Medical Schooling",
-		"uniques":["[+5]% Strength", "[+5] HP when healing","All adjacent units heal [+5] HP when healing", "Gain [-1] [Gold] <upon turn start>"],
+		"uniques":["[+5]% Strength", "All adjacent units heal [+5] HP when healing", "All adjacent units heal [+5] HP when healing <after adopting [Recruitment of the Wounded]>", "All adjacent units heal [+5] HP when healing <after adopting [Hippocratic Mandate Complete]>", "[This Unit] loses the [Poisoned] status <upon gaining the [Poisoned] status> <after adopting [Hazard Research]>", "[+5] HP when healing <after adopting [Hippocratic Mandate Complete]>", "[This Unit] gains [1] XP <upon turn start> <when below [15] HP> <after adopting [Hazard Research]>", "Gain [-1] [Gold] <upon turn start>"],
 		"outerColor": [255,255,255],
 		"innerColor": [255,0,0]},
 	{
@@ -838,7 +881,7 @@
 		"innerColor": [255,102,0]},
 	{
 		"name": "General Schooling",
-		"uniques":["[+5]% Strength", "Gain [1]-[5] [Science] <when not at war> <upon turn start>", "Gain [1]-[5] [Culture] <when not at war> <upon turn start>", "Gain [1]-[5] [Gold] <when not at war> <upon turn start>", "[+10]% XP gained from combat", "Gain [-3] [Gold] <upon turn start>"],
+		"uniques":["[+5]% Strength", "Gain [1]-[5] [Science] <when not at war> <upon turn start>", "Gain [1]-[5] [Culture] <when not at war> <upon turn start>", "Gain [1]-[5] [Gold] <when not at war> <upon turn start>", "[+10]% XP gained from combat", "Gain [-1] [Gold] <upon turn start>"],
 		"outerColor": [0,0,0],
 		"innerColor": [230,230,230]},
 	// Blood for the Blood God
@@ -1055,6 +1098,19 @@
 		"[This Unit] loses the [Stealth T1] promotion <hidden from users>",
 		"[This Unit] loses the [Stealth T2] promotion <hidden from users>"
 	]},
+	// Carry Capacity and Transports
+	{
+		"name": "Carry Capacity 1",
+		"uniques": ["Comment [This transport is capable of carrying 1 infantry unit.]",
+		"Transport",
+		"Can carry [1] [Transported Infantry] units"
+	]},
+	{
+		"name": "Carry Capacity 2",
+		"uniques": ["Comment [This transport is capable of carrying 2 infantry unit.]",
+		"Transport",
+		"Can carry [2] [Transported Infantry] units"
+	]},
 	// Detection
 	{
 		"name": "Detection T1",
@@ -1084,6 +1140,11 @@
 	{
 		"name": "Troops",
 		"uniques": ["Comment [Bulk of an army, necessary to have to unlock other units in force organisation.]"],
+	"outerColor": [255,255,255],
+	"innerColor": [0,0,0]},
+	{
+		"name": "Designated Transport",
+		"uniques": ["Comment [A transport for infantry and towed units. 1 for every 1 [Troops] unit.]", "Consumes [1] [DT limit] <hidden from users>", "[-25]% XP gained from combat"],
 	"outerColor": [255,255,255],
 	"innerColor": [0,0,0]},
 	{

@@ -2,33 +2,21 @@
 	{
 		"name": "Trinity General School",
 		"leaderName": "Tea Party Council",
-		"adjective": ["Trinitian"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
 
 		"startIntroPart1": "Order, elegance, discipline, tradition and modesty – these are the virtues of a student from Trinity General School. In past, we used to be many schools, forced to fight side by side against the barbarian hordes of Gehenna Academy. But in their wisdom, founders of our great school have decided to put aside their differences and sign the Trinity Treaty which gave birth to a new global power in the academy city of Kivotos. Over the ages we maintained our traditions, and the heirs to those great schools still diverse our school. Pater, Filius and Sanctus factions of Tea Party, the Sisterhood, the Remedial Knights, Justice Realisation Committee and Trinity's Vigilante Crew, these worthy ladies now lead our glorious institution. Through the ages we had to adapt, our piety alone was not enough, so we had to become the traders, the richest people in the Academy City eventually. But our ancient enemy, the Gehenna barbarians, these pathetic, mindless beasts, insects that insult us with their very existence, still rattle in their district, ready to unleash their animalistic nature upon us once again...",
 		"startIntroPart2": "The shadows loom above the roofs of our cathedrals, oh Presidents. Will we stand against the coming darkness? Will we be able to leave our names in stone of ages? Will we manage to rule Kivotos?..",
-		
 		"declaringWar": "Die, barbarian scum.",
 		"attacked": "Filthy barbarians think they can overrun us. To arms!",
 		"defeated": "Your victory will be short-lived...",
 		"introduction": "We, Tea Party, greet thee. Would you like to join us for this cup of tea?",
-		
 		"neutralHello": "Greetings, may the God bless thee.",
-		"neutralLetsHearIt": "We see you would like to offer us something. Proceed, please.",
-		"neutralNo": "After discussing this matter, we have to decline your offer.",
-		"neutralYes": "After discussing this matter, we agreed to accept your offer.",
-
 		"hateHello": "You don't deserve greetings, barbarian...",
-		"hateLetsHearIt": "What is that you were going to say, scum?",
-		"hateNo": "We refuse, be gone.",
-		"hateYes": "...We have to agree...",
-		
-		"afterPeace": "The slaughter is over, we shall be leaving.",
 		"tradeRequest": "We have prepared a deal to you, would you agree?",
-
 		"outerColor": [255,253,249],
 		"innerColor": [255,210,111],
+		
 		"uniqueName": "Trinity Unification",
 		"uniques":["Greater School",
 			"Comment [There are five main factions in Trinity General School: Tea Party, Remedial Knights, Justice Realisation Committee, Trinity's Vigilante Crew and Sisterhood. All five participate in school's Student Council meetings, have own unique traditions and domains. They will not be happy about favouritism, so you will have to find a way to balance them off.]",
@@ -42,31 +30,19 @@
 	{
 		"name": "Gehenna Academy",
 		"leaderName": "Great Leader Makoto",
-		"adjective": ["Gehennan"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Gehenna prospers in its freedom and chaos, for the chaos is the key to progress. Our Academy is one of the oldest, but as old as we are, so is our rivalry with Trinity General School. Seriously, how can they be so high and mighty, so obsessed with discipline? They are stagnant losers who will eventually fail.",
 		"startIntroPart2": "Great Leader Hanuma Makoto, will you try to bring order to this school or direct its chaos to crush its foes? Will you manage to pace along with Millennium or fall like Abydos? Time will show us if your golden statue was worth it...",
-		
 		"declaringWar": "The war time has come to you!",
 		"attacked": "Huh? Is that a mistake you made? Well, I will make sure it was the last mistake!",
 		"defeated": "Your victory will be short-lived...",
 		"introduction": "Hello there. I am Great Leader Makoto of the Gehenna Academy's Pandemonium Society. Ome day I will rule everything!",
-		
 		"neutralHello": "Hello, how is it going?",
-		"neutralLetsHearIt": "Ho-ho! You would like to make offer?",
-		"neutralNo": "Ibuki didn't like this offer and I am solidary with her!",
-		"neutralYes": "How sweet, I will take it!",
-
 		"hateHello": "Ugh, it's you... Wish these outlaws killed you on the way here...",
-		"hateLetsHearIt": "Okay, I, Great Makoto, allow you to spill it out. I am sure it is some nonses though.",
-		"hateNo": "Nonsense it is, now get outta here!",
-		"hateYes": "That's not that bad...",
-		
-		"afterPeace": "Okay, now I think we have better problems to solve.",
 		"tradeRequest": "Hey! Will you accept the deal from the Great Makoto?",
-
+		
 		"outerColor": [223,30,11],
 		"innerColor": [255,241,244],
 		"uniqueName": "Diabolic Reputation",
@@ -78,32 +54,21 @@
 	{
 		"name": "Arius Branch School",
 		"leaderName": "Madame Beatrice",
-		"adjective": ["Arian"],
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Long ago, we were many schools with one similarity: hatred towards aggressive barbarians of Gehenna Academy. We solved our issues and coordinated our efforts during tea parties, and one day they decided to unite. But we refused, we didn't want to be one, grey mass. And they betrayed us, turned their weapons against us. Arius burned, and was erased from history.",
 		"startIntroPart2": "...But we live! We will have our vengeance that comes in flaming hatred! And you, Madame Beatrice, shall guide our efforts with your iron fist. Vanitas Vanitatum et Omnia Vanitas!",
-		
 		"declaringWar": "Et Omnia Vanitas, die.",
 		"attacked": "You have made a colossal mistake...",
 		"defeated": "...Not the first time...",
 		"introduction": "Hello. Madame has considered you undeserving of her presence, so I will watch the diplomacy by her name.",
-		
 		"neutralHello": "Hello, do you need something?",
-		"neutralLetsHearIt": "Is that what I think it is?..",
-		"neutralNo": "Sorry, no.",
-		"neutralYes": "Yes, indeed.",
-		"hateHello": "...Vanity...",
-		"hateLetsHearIt": "...You speak...",
-		"hateNo": "...",
-		"hateYes": "...We have to agree...",
-		
-		"afterPeace": "Vanitas Vanitatum...",
+		"hateHello": "...Vanity...",		
 		"tradeRequest": "Here's the deal. By the day, don't you mind we are terrorists?",
-
 		"outerColor": [242,247,255],
 		"innerColor": [12,34,38],
+		
 		"uniqueName": "Hatred that is not ours",
 		"uniques":["Lesser School",
 		"Occult",
@@ -119,32 +84,22 @@
 	{
 		"name": "Abydos High School",
 		"leaderName": "Takanashi Hoshino",
-		"adjective": ["Abydosan"],
 		"startBias": ["Oasis"],
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Abydos is the oldest running school in all Kivotos, our influence can still be noticed in other Great Schools. Legacy of Abydos is truly vast as we keep discovering new and new sites with ancient relics. But after Desertification that started 7 years ago, Abydos District got mostly covered in sand and its economics crumbled, people started to flee, students ceased to enroll and banks demand insane debts to be returned...",
 		"startIntroPart2": "Will we manage to rise after such fall? Will we regain control and enforce order and stability across this wasteland? TAKANASHI HOSHINO, WAKE UP! I AM BRIEFING YOU!",
-		
 		"declaringWar": "I tried it to be the easy way. Now we do this a hard way.",
 		"attacked": "Uhe~ Not the first time...",
 		"defeated": "...Huh. Is that it?.. Guess I have more time to nap then...",
 		"introduction": "Eh? Hello-hello~! Who might you be, hm?.. I am Takanashi Hoshino, president of Abydos Independent High School...",
-		
 		"neutralHello": "Uhe~... Hi, you needed somethin'?",
 		"neutralLetsHearIt": "Oh?.. Are you interested in investing in Abydos economics by any chance?..",
-		"neutralNo": "Eh... No, rejected...",
-		"neutralYes": "Woah, thanks for offer...",
 		"hateHello": "...Make it quick, I am busy.",
-		"hateLetsHearIt": "What are you going to offer?",
-		"hateNo": "Rejected, go away.",
-		"hateYes": "Fine...",
-		
-		"afterPeace": "Eh... Gladly it resolved...",
 		"tradeRequest": "Mmm... Trading, exchanging... How exhausting!.. Here's my deal...",
-
 		"outerColor": [1,255,255],
 		"innerColor": [1,1,1],
+		
 		"uniqueName": "Great Legacy",
 		"uniques":["Greater School",
 		"Free Great Person <upon entering a new era>",
@@ -166,33 +121,21 @@
 {
 		"name": "Highlander Railroad Academy",
 		"leaderName": "Central Control Centre",
-		"adjective": ["Highlander"],
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Highlander Railroad Academy was always... An unorthodox school. Independent but intertwined with corporations, a major force but has no turf at all. Has no army or military club, but always armed to teeth. Highlanders own 80% of railroad networks in Kivotos, we use armored and armed trains to enforce our demands even to such giants as Red Winter and Gehenna. The recent meddle with Abydos was just a minor setback to our plans.",
 		"startIntroPart2": "Our main objective set by Saint Nephthis Corporation is to-... Nozomi! Hikari! Do you brats even listen?- DON'T PRESS THAT BUTTON!",
-		
 		"declaringWar": "Blah-blah, it's time for war!",
 		"attacked": "Heeheehee, bold, aren't you?",
 		"defeated": "Woah, this was unexpected...",
 		"introduction": "Hello, hi.",
-		
 		"neutralHello": "Yo! Make haste, we are short on schedule!",
-		"neutralLetsHearIt": "Ho-ho! You have an interesting offer?",
-		"neutralNo": "Nah, not interested.",
-		"neutralYes": "Oh-hoho! Yes!",
-
 		"hateHello": "Speak before we rolled you over with a train!",
-		"hateLetsHearIt": "Guh, let's hear it!",
-		"hateNo": "Be gone now!",
-		"hateYes": "...We have to agree...",
-		
-		"afterPeace": "Phew, it is over...",
 		"tradeRequest": "Need this?",
-
 		"outerColor": [33,68,98],
 		"innerColor": [229,224,220],
+	
 		"uniqueName": "Railroad Masters",
 		"uniques":["Lesser School",
 			"[+3 Gold, +3 Production, +3 Culture] from each Trade Route",
@@ -204,33 +147,23 @@
 	{
 		"name": "Millennium Science School",
 		"leaderName": "Seminar",
-		"adjective": ["Millennial"],
 		"startBias": ["Coast"],
 		"preferredVictoryType": "Scientific",
 		
 		"startIntroPart1": "Oh, Millennium. The youngest Great School in Kivotos. Nobody could have even had believed that our humble school would achive such greatness. Our scientific inventions are known and used by majority of population, our potents yield us great money. But we didn't earn our great legacy yet, we are disliked by other Great Schools. They underestimate us. How foolish...",
 		"startIntroPart2": "President Tsukatsuki Rio, leader of Seminar. You have proven a smart and logical leader with paranoiac tendencies. Will you manage to suppress all opposition? Will Millennium crush these arrogant old schools?",
-		
 		"declaringWar": "Your illogical behaviour has provoked us to declare war.",
 		"attacked": "Fool. This will be punished.",
 		"defeated": "Uncalculated result...",
 		"introduction": "Greetings. I am Tsukatsuki Rio, president of Seminar.",
 		
 		"neutralHello": "Hello. Don't be impressed by talking coffee machine, its AI needs to he corrected.",
-		"neutralLetsHearIt": "What are your suggestions then?",
-		"neutralNo": "This is out of our current plans.",
-		"neutralYes": "This is suitable for our purposes.",
-
 		"hateHello": "These handcuffs are necessary.",
 		"hateLetsHearIt": "Speak.",
-		"hateNo": "This is not according to our plans.",
-		"hateYes": "This is according to our plans.",
-		
-		"afterPeace": "War is over, time to process our experience.",
 		"tradeRequest": "According to calculations, this trade offer will not be rejected.",
-
 		"outerColor": [241,246,255],
 		"innerColor": [61,130,255],
+		
 		"uniqueName": "Expanding Ingenuity",
 		"uniques":["Greater School",
 			"Triggers a [Millennium Prize] event <upon turn start> <every [30] turns> <(modified by game speed)>",
@@ -241,33 +174,21 @@
 	{
 		"name": "Shanhaijing Second Senior School",
 		"leaderName": "Ryuuge Kisaki",
-		"adjective": ["Shanhaijing"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "Shanhaijing... A name that resembles ancient, preserved traditions of countless generations before us. Discipline, respect, awe before the Madam... Have these traitors forgotten that? First, we had to allow free entrance to Black Tortoise Promenade streets, these tourists, walking money wallets and nothing more to these merchants under Rumi's lead!",
 		"startIntroPart2": "What awaits us next, Madam Ryuuge Kisaki? Will we manage to preserve our traditions while keeping up with other Great Schools? What will be left of our school when all of that will be over?..",
-		
 		"declaringWar": "I, Ryuuge Kisaki of Genryumon, sign my decree: a war against you.",
 		"attacked": "I, Ryuuge Kisaki of Genryumon, will protect my people from your shadow.",
 		"defeated": "...Forgive me, Shanhaijing... I... Failed...",
 		"introduction": "Greetings, be guest to Shanhaijing Second Senior School. I am Ryuuge Kisaki, president of this school. Fufu, mostly people call me Madam to not mistaken with other presidents.",
-		
 		"neutralHello": "So you stand before the Madam of Genryumon. What would you like to say?",
-		"neutralLetsHearIt": "I am listening to your offer.",
-		"neutralNo": "I am afraid Genryumon and Shanhaijing is not going to accept it.",
-		"neutralYes": "This is a generous offer. I, Ryuuge Kisaki, accept this offer.",
-
 		"hateHello": "I hope Genryumon didn't neat you too hard during interrogation.",
-		"hateLetsHearIt": "Speak.",
-		"hateNo": "This is an outrageous offer. Throw this fool away.",
-		"hateYes": "I will consider this offer...",
-		
-		"afterPeace": "Yet another war has passed by Shanhaijing.",
 		"tradeRequest": "I, Ryuuge Kisaki of Genryumon, offer you this trade.",
-
 		"outerColor": [68,166,98],
 		"innerColor": [242,255,244],
+		
 		"uniqueName": "Preserved Traditions",
 		"uniques":["Greater School",
 			"[+1 Production, +1 Science, +1 Culture, +1 Gold, +1 Faith, +1 Food] [in all cities] <for every [10] [Happiness]>"],
@@ -277,33 +198,21 @@
 	{
 		"name": "The Helmet Gang",
 		"leaderName": "Council of Officers",
-		"adjective": ["Helmet Ganger"],
 		"startBias": ["Hill"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Back in the day, we was just a bunch of hardheads smashin’ skulls and takin’ goods. Then we realized – why fight each other when we could crush EVERYONE else? So we banded together, strapped on our helmets, and now? We’re the baddest, richest, toughest crew in Kivotos. You don’t like it? Haha! Try us.",
 		"startIntroPart2": "Yo, dumbasses! Listen up! This is Helmet Gang talkin’ da Big Boss, Smash Queen, and Bone Crusher at the top. We don’t do fancy words or weak ‘tea parties.’ We smash, we loot, we stomp. Follow or get flattened.",
-		
 		"declaringWar": "HEY WEAKLING! TIME TO DIE!",
 		"attacked": "THEY THINK THEY CAN HIT US?! CRUSH ‘EM!",
 		"defeated": "Ugh… This ain’t over, moron…",
 		"introduction": "The hell you want? Speak fast or get smashed.",
-		
 		"neutralHello": "Uh… what? You talkin’ to us?",
-		"neutralLetsHearIt": "Spit it out, loser.",
-		"neutralNo": "HA! NO.",
-		"neutralYes": "…Fine. But we ain’t happy ‘bout it.",
-		
 		"hateHello": "Oh, it’s YOU. Wanna get wrecked?",
-		"hateLetsHearIt": "You better not be wastin’ ou' time, punk.",
-		"hateNo": "HELL NO. SCREW OFF.", 
-		"hateYes": "Tch… FINE. But we’re still gonna kick you later.",
-		
-		"afterPeace": "BORING. Let’s go find someone to punch.",
 		"tradeRequest": "Yo, we got stuff. You got stuff. Wanna swap or what?",
-		
 		"outerColor": [13,10,0],
 		"innerColor": [255,252,242],
+		
 		"uniqueName": "Mighty and many",
 		"uniques":["Organised Gang",
 			"Triggers a [Chief Elections] event <upon entering a Golden Age>",
@@ -316,33 +225,21 @@
 	{
 		"name": "Nature's Beauty Club",
 		"leaderName": "Kadenokouji Kokuriko",
-		"adjective": ["Nature's Beauty"],
 		"startBias": ["Mountain"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Hyakkiyako was never... Unite. It was, and remains, a colourful blanket, and Ying-Yan club supports this diversity... But in all their wild and extravagant variety, there was simply no place to us. We have always been looked upon with fear and suspicion, and not without reasons. Nature's Beauty Club crafts truly delightful ghost stories... Out of students.",
 		"startIntroPart2": "We were never truly gone, even though banished beyond the mountains. We are being held back by Hyakkaryouran, but it is not with armies we fight... How long would it take before the separated twigs will start snapping under pressure? Little by little... We'll make it together. Our own 'story', that'll set this world on fire.",
-		
 		"declaringWar": "Are you ready to witness the new art?",
 		"attacked": "How delusional of you.",
 		"defeated": "I suppose, it is an end...",
 		"introduction": "Greetings. I suppose one won't reasonlessly stalk these lands. Speak.",
-		
 		"neutralHello": "Hello. How about a little story before we start?..",
-		"neutralLetsHearIt": "I see. I assume you want to suggest something.",
-		"neutralNo": "I am sorry to decline.",
-		"neutralYes": "A worthwhile deal.",
-		
 		"hateHello": "Are you not scared of this night?..",
-		"hateLetsHearIt": "It would be a lie to say I would willingly agree.",
-		"hateNo": "No. You don't understand the art of witchcraft.", 
-		"hateYes": "Begrudgingly...",
-		
-		"afterPeace": "This chapter of our story ends here.",
 		"tradeRequest": "I have heard you have things of our interest in your possession. We are ready for an... Exchange.",
-		
 		"outerColor": [57,57,57],
 		"innerColor": [255,0,178],
+		
 		"uniqueName": "Hyakumonogatari",
 		"uniques":["Lesser School", "Occult",
 			"Instantly provides [5] [Eleph] <upon defeating a [All] unit>",
@@ -358,33 +255,21 @@
 	{
 		"name": "Outlaws Ironclad",
 		"leaderName": "Nakao Eru",
-		"adjective": ["Ironclad Raider"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Speed gives us strength! We have always been surviving in the wastelands, on the streets, in the desert even, only thanks to speed of our metal steeds! We ride into battle for glory and riches, with fever unmatched! None can match OUR speed!",
 		"startIntroPart2": "Lads! Speed up! I want to conquer the world and make it my bike track! Faster than falling stars! Raid! Pillage! Murder! Take whatever you can carry with you! Ebb and flow! Hahaha! Onto the Road of Fury!!",
-		
 		"declaringWar": "HAHAHAHA! I will ride you over!!",
 		"attacked": "THEY THINK THEY CAN HIT US?! CRUSH ‘EM!",
 		"defeated": "I die like I lived! Quickly and deadly!",
 		"introduction": "Woohoo! Faster!! Faster!!! You are not that fast! Bye!",
-		
 		"neutralHello": "Speak faster! What is it?",
-		"neutralLetsHearIt": "We're not outta options!",
-		"neutralNo": "Nope, you're too slow!",
-		"neutralYes": "Fine, fine! Just quit yapping!",
-		
 		"hateHello": "Oh, it’s YOU. Wanna get wrecked?",
-		"hateLetsHearIt": "You shouldn't have came in here!",
-		"hateNo": "HAHAHAHA! WHAT A NICE JOKE!!", 
-		"hateYes": "I will ride you over-... Later...",
-		
-		"afterPeace": "Haha! That was rather quick!",
 		"tradeRequest": "You! We have brought you something interesting! Decide quickly!",
-		
 		"outerColor": [255,229,0],
 		"innerColor": [137,151,148],
+		
 		"uniqueName": "Road of Fury",
 		"uniques":["Organised Gang",
 			"Comment [These gangers are using raiding tactics that boost bikers and light vehicles and give them more Fast Attack force organisation slots, but their infantry is worse quality and they have less Fire Support slots.]",
@@ -399,33 +284,21 @@
 	{
 			"name": "Kaiser Corporation",
 		"leaderName": "CEO",
-		"adjective": ["Kaiser"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Back in time, Kaiser Corporation used to be an international business organisation mainly targeting poor, undeveloped countries where it enforced its own laws and made people work on factories that produced high quality goods for the wealthy countries. Then, we turned our gazes to Kivotos. Naive, goodie-two-shoes children. What an easy victim to our business trics which we had a lot. Our first idea was to scam the GSC. Disastrous though it was.",
 		"startIntroPart2": "Well then, enough basking in pleasant past, CEO. Will you manage to increase capital of Kaiser Corporation? Will you be able to crush these fools with halos? Will you rule Kivotos?",
-		
 		"declaringWar": "You should have paid your debts!",
 		"attacked": "That goes against article 4 of our contract!",
 		"defeated": "Run for your lives! Grab what you can!",
 		"introduction": "Hello, how smart of you to come here to Kaiser Corporation. Here's an interesting contract for you to sign. Haha, trust me, there are no underwater stones!",
-		
 		"neutralHello": "Good day, partner. What are you going to discuss?",
-		"neutralLetsHearIt": "Very well, let's hear it...",
-		"neutralNo": "I suppose it was your first trading deal... Not bad. But I still refuse.",
-		"neutralYes": "Very, very good indeed.",
-		
 		"hateHello": "Dammit, it's you again. Please, faster. My time costs more than yours!",
-		"hateLetsHearIt": "You better be not wasting my precious time.",
-		"hateNo": "Tsk, what a bad deal, I am even impressed.", 
-		"hateYes": "I suppose... We can deal with it.",
-		
-		"afterPeace": "That's a pleasant outcome for this conflict, I assume.",
 		"tradeRequest": "Hello, would you like to hear out this contract?",
-		
 		"outerColor": [255,204,0],
 		"innerColor": [14,11,0],
+		
 		"uniqueName": "Money is power",
 		"uniques":["Corporation",
 			"[-1 Food, -1 Culture, +3 Gold] [in all cities] <for every [Era Passed]>",
@@ -438,70 +311,46 @@
 	{
 		"name": "Hyakkiyako Alliance Academy",
 		"leaderName": "Amachi Niya",
-		"adjective": ["Hyakkiyakan"],
 		"startBias": ["Plains, Forest, Mountain"],
 		"preferredVictoryType": "Cultural",
 		
 		"startIntroPart1": "Blossoms fall, street bands sing, birds fly and insects buzz. Ah, what a beautiful land it is, called Hyakkiyako. An ancient land indeed. Land of traditions, ghost stories, festivals and outstandingly pure nature. Who could ever have believed this peaceful corner of Kivotos was a merciless aggressor in days of yore?.. Hah, let's forget such nuances.",
 		"startIntroPart2": "The darkness still lurks there in mountains, it creeps closer and everyone can feel it though few can understand what exactly is happening. Will you manage to maintain this ignorant, cultured prosperity of Hyakkiyako? Or perhaps everything will fall into darkness once again?",
-		
 		"declaringWar": "The move is being made.",
 		"attacked": "I have predicted this. You can't tell just how obvious your moves are.",
 		"defeated": "But... The Great Game...",
 		"introduction": "Greetings, foreigner. I am Amachi Niya, president of Yin-yang Club, and I represent Hyakkiyako Alliance Academy's students. By the way, would you like to listen to haiku Chise has made? They are surely beautiful, and after that I recommend you to go to our festivals!",
-		
 		"neutralHello": "Hello, friend. Is music pleasant for you?",
-		"neutralLetsHearIt": "Ah, a trade offer? I can see it will improve our cultural experience.",
-		"neutralNo": "Aw, how bad I have to decline it.",
-		"neutralYes": "That's a very good deal, I shall take it.",
-
 		"hateHello": "Your end is at hand. Enjoy the music and views while you can.",
-		"hateLetsHearIt": "Speak your words so that I can forget them.",
-		"hateNo": "This offer is irrelevant to my plans.",
-		"hateYes": "...I have to agree...",
-		
-		"afterPeace": "The peace treaties are interesting. How do the fallen react to them? How do they look at those who sign them? I suppose we all will get to understand it one day.",
 		"tradeRequest": "Hello, an while enjoying a cup of green tea, would you like to hear the deal?",
-
 		"outerColor": [173,28,159],
 		"innerColor": [253,251,250],
+		
 		"uniqueName": "Hyaku oni yoru gyō",
 		"uniques":["Greater School",
-			"May buy [Military] units with [Culture] [in all cities]",
-			"May buy [{non-[Faith]} {non-[Wonder]}] buildings with [Culture] [in all cities]"],
+			"May buy [{non-[Unbuildable]} {Military}] units with [Culture] [in all cities]",
+			"May buy [{non-[Wonder]} {non-[Unbuildable]}] buildings with [Culture] [in all cities]"],
 		"cities": ["The Great Tree", "Yin-yang Club Palace", "Hyakkiyako Trading District", "The Crab Lake", "Hyakkiyako Festival Grounds", "Hyakkiyako District 1", "Hyakkiyako District 2", "Hyakkiyako District 3", "Hyakkiyako District 4", "Hyakkiyako District 5", "Hyakkiyako District 6"],
 		"personality": "Amachi Niya"
 	},
 	{
 		"name": "Red Winter Federal Academy",
 		"leaderName": "Secretariat",
-		"adjective": ["Red Winter"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Red Winter Federal Academy's students have always been considered the most stoic, stong-willed and free-spirited in entirety of Kivotos. True it is, because nobody else could have survived in permafrost wastelands where everything tries to kill you. But as for us, it may be... Inconvenient.",
 		"startIntroPart2": "Alright, Head Secretary of Red Winter. I suppose you already wonder why there is a crowd gathered outside the main building yelling something. Well, that's your first obstacle: they want pudding for breakfast AND for dinner. Students of Red Winter constantly riot and it's up to you wether you satisfy their demands or repress them.",
-		
 		"declaringWar": "I, Renkawa Cherino, Beautifier of Lands, declare WAR upon you!",
 		"attacked": "Huh?! This early in the morning?!!",
 		"defeated": "You may have conquered Red Winter Federal Academy, but not its students!",
 		"introduction": "I am Renkawa Cherino, president of Red Winter Federal Academy, Chief Beautification Officer, Chief of Sanitation, Main Secretary, Athletics Club Captain, Head of all Prefects and Maven of Meal Service!",
-		
 		"neutralHello": "Greetings, comrade!",
-		"neutralLetsHearIt": "What would you like to offer to me, Renkawa Cherino, Main Secretary, Atheltics Club President,...",
-		"neutralNo": "Well, I think it will be irrelevant for me.",
-		"neutralYes": "Wahh! I accept this offer!",
-
 		"hateHello": "Why are you alive?!",
-		"hateLetsHearIt": "Spit it out before I PURGE you!",
-		"hateNo": "As if I would have ever accepted it, me, Renkawa Cherino, Chief Beautification Officer,...",
-		"hateYes": "...We have to agree...",
-		
-		"afterPeace": "Oh, the war is finally over? I thought I will eat my second pudding before it ends.",
 		"tradeRequest": "I, Renkawa Cherino, offer you this! Be honoured!",
-
 		"outerColor": [255,255,255],
 		"innerColor": [204,0,0],
+		
 		"uniqueName": "Revolutionary spirits",
 		"uniques":["Greater School",
 			"Comment [Political tensions may lead to revolutions! Watch out!]",
@@ -554,33 +403,21 @@
 	{
 		"name": "General Student Council",
 		"leaderName": "Nanagami Rin",
-		"adjective": ["Kivotosan"],
 		"startBias": ["Grassland"],
 		"preferredVictoryType": "Diplomatic",
 		
 		"startIntroPart1": "General Student Council has been established in order to organise the independent schools and prevent downfall of Kivotos. It served this purpose all these years and only the Great Schools could match its influence. We enforced our laws, demands and edicts upon all lesser schools this entire time. But recently, GSC president went missing which caused political collapse in Kivotos. Great Schools lost their shores, lesser schools stopped following our orders, terrorists, criminals and large corporations crawled out of their cracks.",
 		"startIntroPart2": "Vice President Nanagani Rin, you have been elected to be the Acting President of General Student Council. You now hold in your hands almost ultimate authority and rights, but will you have strength and power to act upon your plans? Will you unite Kivotos and calm thos chaos, or fall to foes ineer or outer? Time will show us.",
-		
 		"declaringWar": "You are an obstacle to solving our crisis.",
 		"attacked": "How dare you?..",
 		"defeated": "Will history remember me?.. Better not...",
 		"introduction": "Greetings, I am the acting president of General Student Council, Nanagani Rin. I expect your cooperation so that we will be able to build thriving and healthy society.",
-		
 		"neutralHello": "Greetings. Good to see someone mature around.",
-		"neutralLetsHearIt": "Very well, let's hear your offer out.",
-		"neutralNo": "Sorry, but our plans didn't include spending on this trade.",
-		"neutralYes": "I will assign this matter in no time.",
-
 		"hateHello": "What do you want here?",
-		"hateLetsHearIt": "What could this be, huh?",
-		"hateNo": "No, it's rejected.",
-		"hateYes": "I... have to agree.",
-		
-		"afterPeace": "Time of war has ended, it is time to rebuild now.",
 		"tradeRequest": "Would you like to sign this offer?",
-
 		"outerColor": [0,178,255],
 		"innerColor": [242, 251, 245],
+		
 		"uniqueName": "The Academy City",
 		"uniques":["Greater School",
 			"Resting point for Influence with City-States is increased by [5] <for every [Cities]>",
@@ -598,27 +435,16 @@
 
 		"startIntroPart1": "Archive article 38: We have been banished from Millennium. 'Monsters!' they said. 'Madmen!', 'Murderers!', 'Maniacs!'... Don't they know knowledge has a price? These were necessary sacrifices in the name of science. We have been executing upon the ideals of development. But we were misunderstood and feared as the consequence. Fools always feared the genius. So we went far, farther to the Northern Wastes, beyond the permafrost belonging to Red Winter. There, we have found abandoned mining facilities, frozen into ground vehicles, horrors beyond our imagination and bands of forsaken barbarians. There started our struggle to survive. We became something far more terrifying than things that lurked in the shadows beneath the polar skies. We have raised metal walls of logic and cold hatred.",
 		"startIntroPart2": "We have been nicknamed the Hellforge years later. We exchange the fruits of our ingenuity, unburdened by such pathetic concepts as morality and ethics, for slaves and food. Black smoke rises above our factory-fortress, a perfect amalgamation of occult and scientific. We did not forget those who betrayed us. We are returning.",
-		
 		"declaringWar": "Your extermination is the next step towards apotheosis.",
 		"attacked": "Your attempts are futile.",
 		"defeated": "How could we not calculate this outcome?..",
 		"introduction": "Your signal doesn't seem familiar. Identify. A new customer, I suppose. Welcome. You could wear a gas mask to avoid polluted air poisoning which is relevant type of illness among unaugmented personnel.",
-		
 		"neutralHello": "Look! It has many eyes and cruel personality! Did you just ask me why does this coffee machine need eyes and a flamethrower?",
-		"neutralLetsHearIt": "Let us begin our trades.",
-		"neutralNo": "This offer is not logical and thus denied.",
-		"neutralYes": "I should warn you that payment must be delivered in time.",
-
 		"hateHello": "Do not waste my time.",
-		"hateLetsHearIt": "Fine, speak.",
-		"hateNo": "Request denied.",
-		"hateYes": "It is a surprisingly logical offer.",
-		
-		"afterPeace": "Objectives achieved. Disengage.",
 		"tradeRequest": "We have prepared a deal to you, would you agree?",
-
 		"outerColor": [42,20,45],
 		"innerColor": [134,126,234],
+		
 		"uniqueName": "Unburdened with Morality",
 		"uniques":["Organised Gang", "Occult",
 			"Enemy [Infantry] units must spend [1] extra movement points when inside your territory",
@@ -629,6 +455,32 @@
 		    "Comment [– Fanon faction by SakiTheScout]",],
 		"cities": ["Hellforge"],
 		"personality": "Seminar"
+	},
+	{
+		"name": "Blackroot Stronghold Academy",
+		"leaderName": "Student Council",
+		"adjective": ["Blackrootan"],
+		"startBias": ["Plains"],
+		"preferredVictoryType": "Domination",
+
+		"startIntroPart1": "N/A",
+		"startIntroPart2": "N/A",
+		"declaringWar": "N/A",
+		"attacked": "N/A",
+		"defeated": "N/A",
+		"introduction": "N/A",
+		"neutralHello": "N/A",
+		"hateHello": "N/A",
+		"tradeRequest": "N/A",
+		"outerColor": [59,178,9],
+		"innerColor": [8,4,2],
+		
+		"uniqueName": "Whispers from Underground",
+		"uniques":["Greater School",
+		"All newly-trained [Infantry] units [in all cities] receive the [Stealth T1] promotion",
+		"Comment [– Fanon faction by thesandmanfaraway]"],
+		"cities": ["Underground Temple"],
+		"personality": "1st house of the occult",
 	},
 	
 	{
@@ -641,6 +493,7 @@
 		"defeated": "Life is temporary, art is immortal...",
 		"outerColor": [70, 44, 56],
 		"innerColor": [203,181,98],
+		
 		"uniques":["Lesser School"],
 		"cities": ["Wild Hunt Academy of Arts Main Building"]
 	},
@@ -654,6 +507,7 @@
 		"defeated": "The starlight fades above the seas...",
 		"outerColor": [255,102,0],
 		"innerColor": [0,127,255],
+		
 		"uniques": ["Lesser School"],
 		"cities": ["Odyssey Maritime School Main Building"]
 	},
@@ -667,13 +521,16 @@
 		"defeated": "Laurels to the winner...",
 		"outerColor": [255,255,255],
 		"innerColor": [255,220,0],
+		
 		"uniques": ["Lesser School"],
 		"cities": ["Olympian Sports School Main Building"]
 		},
 	{
 		"name": "Barbarians",
+		
 		"outerColor": [0,0,0],
-                "innerColor": [200,0,0],
+        "innerColor": [200,0,0],
+		
 		"uniques": ["\"Borrows\" city names from other civilizations in the game", "Excluded from map editor", "No movement cost to pillage", "[Melee] units gain the [Blood for the Blood God] promotion <every [8] turns> <with [5]% chance>"]
 	}
 ]

@@ -125,12 +125,14 @@
 	"Instantly provides [25] [Eleph] <for [Occult] Civilizations>",
 	
     "Provides [1] [HQ limit] <for every [3] [[Troops] Units]>",
+	"Provides [1] [DT limit] <for every [1] [[Troops] Units]>",
     "Provides [1] [FA limit] <for every [1] [[HQ] Units]>",
     "Provides [1] [E limit] <for every [1] [[HQ] Units]>",
     "Provides [1] [FS limit] <for every [1] [[HQ] Units]>",
     "Provides [1] [LoW limit] <for every [3] [[HQ] Units]>",	
 	
 	"Remove [Issue an Edict] [in all cities] <upon turn start> <when below [1] [Edict Duration]>",
+	"Remove [Revolution] [in all cities] <upon turn end> <when below [100] [Political Instability]>",
 	"Remove [Assign Sponsorship] [in all cities] <upon turn start> <when below [1] [Sponsorship Duration]>",
 	"Remove [Hold a Festival!] [in all cities] <upon turn start> <when below [1] [Festival Duration]>",
 	"Turn this tile into a [Desert] tile <for [Abydos High School] Civilizations> <when number of [Desertification] is more than [300]> <upon turn start> <every [1] turns> <with [33]% chance>"

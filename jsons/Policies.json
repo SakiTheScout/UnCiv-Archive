@@ -98,6 +98,98 @@
         ]
     },
   {
+        "name": "Hippocratic Mandate",
+        "era": "Medieval era",
+        "priorities": {
+            "Neutral": 10,
+            "Cultural": 5,
+            "Diplomatic": 0,
+            "Domination": 0,
+            "Scientific": 5
+        },
+        "uniques": [
+            "Earn [15]% of killed [Infantry] unit's [Cost] as [Science]",
+            "Religion naturally spreads to cities [+1] tiles away",
+            "Only available <before adopting [Cultural Legacy]>",
+            "Only available <before adopting [Scholar Pioneers]>",
+            "Only available <before adopting [Industrial Paradigm]>",
+            "Only available <before adopting [Purity and Zeal]>",
+            "Only available <before adopting [Agricultural Revolution]>",
+            "Only available <before adopting [Schools Hegemony]>",
+            "Only available <before adopting [Mercantile Mindset]>"
+        ],
+        "policies": [
+            {
+                "name": "Preventative Medicine",
+                "uniques": [
+                    "[+3 Science] from every [Medical High School]",
+                    "Provides a [School Infirmary] in your first [4] cities for free"
+                ],
+                "row": 1,
+                "column": 1
+            },
+            {
+                "name": "Public Healthcare",
+                "uniques": [
+                    "[+1 Happiness, +1 Food] from every [School Infirmary]",
+                    "[15]% Food is carried over after population increases [in all cities]",
+                    "[-10]% Unhappiness from [Population] [in all cities]"
+                ],
+                "row": 1,
+                "column": 5
+            },
+            {
+                "name": "International Aid",
+                "uniques": [
+                    "[+2 Science, +1 Happiness] [in capital] <for every [5] [[Medical Schooling] Units]>",
+                    "Resting point for Influence with City-States is increased by [5] <for every [[Medical High School] Buildings]>",
+                    "[+2 Gold] <for every [Remaining [Major] Civilizations]>"
+                ],
+                "requires": ["Public Healthcare", "Preventative Medicine"],
+                "row": 2,
+                "column": 3
+            },
+            {
+                "name": "Hazard Research",
+                "uniques": [
+                    "Comment [Allows [Medical Schooling] units to gain XP while heavily wounded and makes them immune to [Poisoned] status.]",            
+              ],
+                "requires": ["International Aid"],
+                "row": 3,
+                "column": 1
+            },
+            {
+                "name": "Recruitment of the Wounded",
+                "uniques": [
+                    "Comment [Improves healing of adjacent units for [Medical Schooling] units.]",
+                    "Heals [20] damage if it kills a unit <for [Medical Schooling] units>",
+                    "[+5] HP when healing <in [Your] tiles>"
+                ],
+                "requires": ["International Aid"],
+                "row": 3,
+                "column": 3
+            },
+            {
+              "name": "Culture of Hospitality",
+              "uniques": [
+                "[-10]% Unhappiness from [Population] [in all cities]",
+                "[-10]% Unhappiness from [Population] [in non-enemy foreign cities]",
+                "[+1 Happiness, +2 Culture] from every [Medical High School]"
+              ],
+              "requires": ["International Aid"],
+              "row": 3,
+              "column": 5
+            },
+            {
+                "name": "Hippocratic Mandate Complete",
+                "uniques": [
+                    "Empire enters golden age",
+                    "Comment [Improves healing of adjacent units and self-healing for [Medical Schooling] units."
+                ]
+            }
+        ]
+    },
+  {
         "name": "Schools Hegemony",
         "era": "Medieval era",
         "priorities": {
