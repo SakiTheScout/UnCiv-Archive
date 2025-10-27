@@ -196,6 +196,11 @@
 		"uniques": ["Not shown on world screen", "Cannot be traded"]
 	},
 	{
+		"name": "DT limit",
+		"resourceType": "Strategic",
+		"uniques": ["Not shown on world screen", "Cannot be traded"]
+	},
+	{
 		"name": "FS limit",
 		"resourceType": "Strategic",
 		"uniques": ["Not shown on world screen", "Cannot be traded"]
