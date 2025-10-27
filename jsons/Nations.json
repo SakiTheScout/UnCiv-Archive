@@ -463,15 +463,6 @@
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 
-		"startIntroPart1": "N/A",
-		"startIntroPart2": "N/A",
-		"declaringWar": "N/A",
-		"attacked": "N/A",
-		"defeated": "N/A",
-		"introduction": "N/A",
-		"neutralHello": "N/A",
-		"hateHello": "N/A",
-		"tradeRequest": "N/A",
 		"outerColor": [59,178,9],
 		"innerColor": [8,4,2],
 		
