@@ -83,7 +83,7 @@
 		"requiredTech": "Plastics",
 	        "promotions": ["Troops"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Fast infantry unit.]", "[-25]% Strength <when defending>", "Can transform to [Light Infantry (T)] <when adjacent to a [{Friendly} {Transport}] unit>"]
+    "uniques": ["Comment [Fast infantry unit.]", "[-25]% Strength <when defending>", "Can transform to [Light Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>"]
 	},
 	{
 		"name": "Light Infantry (T)",
@@ -105,7 +105,7 @@
 		"requiredTech": "Plastics",
 	        "promotions": ["Troops"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Generalist infantry unit.]", "Can transform to [Infantry (T)] <when adjacent to a [{Friendly} {Transport}] unit>"]
+    "uniques": ["Comment [Generalist infantry unit.]", "Can transform to [Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>"]
 	},
 	{
 		"name": "Infantry (T)",
@@ -127,7 +127,7 @@
 		"requiredTech": "Plastics",
 	        "promotions": ["Troops"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Heavy infantry unit.]", "[+25]% Strength <when defending>", "Can transform to [Heavy Infantry (T)] <when adjacent to a [{Friendly} {Transport}] unit>"]
+    "uniques": ["Comment [Heavy infantry unit.]", "[+25]% Strength <when defending>", "Can transform to [Heavy Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>"]
 	},
 	{
 		"name": "Heavy Infantry (T)",
@@ -149,7 +149,7 @@
 		"requiredTech": "Electronics",
 	        "promotions": ["HQ", "Order: Move! Move! Move!", "Order: Bring it down!", "Order: Dig in!"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Field commander and retinue, giving orders to infantry units.]", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"]
+    "uniques": ["Comment [Field commander and retinue, giving orders to infantry units.]", "Can transform to [Infantry Command Squad (T)] <when adjacent to a [{Your} {Transport}] unit>", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"]
 	},
 	{
 		"name": "Infantry Command Squad (T)",
@@ -171,7 +171,7 @@
 		"requiredTech": "Electronics",
 	        "promotions": ["HQ", "Order: Bring it down!", "Order: Dig in!"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Not very experienced field commander, giving orders to infantry units.]", "Can transform to [Infantry Lieutenant (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"]
+    "uniques": ["Comment [Not very experienced field commander, giving orders to infantry units.]", "Can transform to [Infantry Lieutenant (T)] <when adjacent to a [{Your} {Transport}] unit>", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"]
 	},
 	{
 		"name": "Infantry Lieutenant (T)",
@@ -193,7 +193,7 @@
 		"requiredTech": "Combined Arms",
 	        "promotions": ["HQ"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Solitary operative aiming to hunt down HQ units on the battlefield.]", "Ignores Zone of Control", "[+100]% Strength <vs [HQ] units> <when attacking>", "Can transform to [Infantry Champion (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"]
+    "uniques": ["Comment [Solitary operative aiming to hunt down HQ units on the battlefield.]", "Ignores Zone of Control", "[+100]% Strength <vs [HQ] units> <when attacking>", "Can transform to [Infantry Champion (T)] <when adjacent to a [{Your} {Transport}] unit>", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"]
 	},
 	{
 		"name": "Infantry Champion (T)",
@@ -215,7 +215,7 @@
 		"requiredTech": "Radar",
 	        "promotions": ["HQ", "Order: Bring it down!"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Experienced field officer leading troops with inspiring and fearsome aura.]", "Can transform to [Field Captain (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "[-25]% Strength for enemy [{Wounded} {Infantry}] units in adjacent [All] tiles", "[+15]% Strength bonus for [Infantry] units within [2] tiles", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"]
+    "uniques": ["Comment [Experienced field officer leading troops with inspiring and fearsome aura.]", "Can transform to [Field Captain (T)] <when adjacent to a [{Your} {Transport}] unit>", "[-25]% Strength for enemy [{Wounded} {Infantry}] units in adjacent [All] tiles", "[+15]% Strength bonus for [Infantry] units within [2] tiles", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"]
 	},
 	{
 		"name": "Field Captain (T)",
@@ -237,7 +237,7 @@
 		"requiredTech": "Plastics",
 	        "promotions": ["Elite"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Infantry unit that can safely move over traps, mines and obstacles, as well as to plant and remove them. Can create Foundations to then place Fortifications there.]", "Can transform to [Combat Engineer (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "Can build [Defensive Improvement] improvements on tiles", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
+    "uniques": ["Comment [Infantry unit that can safely move over traps, mines and obstacles, as well as to plant and remove them. Can create Foundations to then place Fortifications there.]", "Can transform to [Combat Engineer (T)] <when adjacent to a [{Your} {Transport}] unit>", "Can build [Defensive Improvement] improvements on tiles", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
 	},
 	{
 		"name": "Combat Engineer (T)",
@@ -259,7 +259,7 @@
 		"requiredTech": "Pharmaceuticals",
 	        "promotions": ["HQ"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Like an angel of salvation, this person comes to give wounded their remedy.]", "Can transform to [Field Surgeon (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "All adjacent units heal [25] HP when healing", "[+15]% Strength bonus for [{Wounded} {Infantry}] units within [1] tiles", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"]
+    "uniques": ["Comment [Like an angel of salvation, this person comes to give wounded their remedy.]", "Can transform to [Field Surgeon (T)] <when adjacent to a [{Your} {Transport}] unit>", "All adjacent units heal [25] HP when healing", "[+15]% Strength bonus for [{Wounded} {Infantry}] units within [1] tiles", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"]
 	},
 	{
 		"name": "Field Surgeon (T)",
@@ -281,7 +281,7 @@
 		"rangedStrength": 80,
 		"cost": 480,
 		"requiredTech": "Combined Arms",
-		"uniques": ["[+200]% Strength <vs [HQ] units> <when attacking>", "Can transform to [Assassin (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"],
+		"uniques": ["[+200]% Strength <vs [HQ] units> <when attacking>", "Can transform to [Assassin (T)] <when adjacent to a [{Your} {Transport}] unit>", "Unavailable <when number of [HQ limit] is less than [1]> <hidden from users>"],
 		"promotions": ["HQ", "Stealth T2", "Detection T2"],
 		"attackSound": "shot"
 	},
@@ -307,7 +307,7 @@
 		"requiredTech": "Plastics",
 		"attackSound": "shot",
 		"promotions": ["Troops", "Detection T1"],
-    "uniques": ["Comment [Scout infantry unit.]", "Can transform to [Scout Infantry (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "[-25]% Strength <when defending>", "Ignores terrain cost"]
+    "uniques": ["Comment [Scout infantry unit.]", "Can transform to [Scout Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>", "[-25]% Strength <when defending>", "Ignores terrain cost"]
 	},
 	{
 		"name": "Scout Infantry (T)",
@@ -329,7 +329,7 @@
 		"requiredTech": "Plastics",
 	        "promotions": ["Troops"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Grenade-focused infantry unit with reduced cooldown.]", "Can transform to [Specialist Infantry (T)] <when adjacent to a [{Friendly} {Transport}] unit>"]
+    "uniques": ["Comment [Grenade-focused infantry unit with reduced cooldown.]", "Can transform to [Specialist Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>"]
 	},
 	{
 		"name": "Specialist Infantry (T)",
@@ -351,7 +351,7 @@
 		"requiredTech": "Plastics",
 	        "promotions": ["Troops"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Infantry unit specialising in assaults on reinforced positions.]", "Can transform to [Assault Infantry (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "[+33]% Strength <when fighting in [Defensive Improvement] tiles> <when attacking>", "Ignores Zone of Control"]
+    "uniques": ["Comment [Infantry unit specialising in assaults on reinforced positions.]", "Can transform to [Assault Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>", "[+33]% Strength <when fighting in [Defensive Improvement] tiles> <when attacking>", "Ignores Zone of Control"]
 	},
 	{
 		"name": "Assault Infantry (T)",
@@ -373,7 +373,7 @@
 		"requiredTech": "Pharmaceuticals",
 	        "promotions": ["Elite"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Infantry unit that excels at dealing with wounded enemy units with an aura of fear.]", "Can transform to [Raider Infantry (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "[-25]% Strength for enemy [{Wounded} {Infantry}] units in adjacent [All] tiles", "[+25]% Strength <vs [Wounded] units> <when attacking>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
+    "uniques": ["Comment [Infantry unit that excels at dealing with wounded enemy units with an aura of fear.]", "Can transform to [Raider Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>", "[-25]% Strength for enemy [{Wounded} {Infantry}] units in adjacent [All] tiles", "[+25]% Strength <vs [Wounded] units> <when attacking>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
 	},
 	{
 		"name": "Raider Infantry (T)",
@@ -395,7 +395,7 @@
 		"requiredTech": "Radar",
 	        "promotions": ["Elite", "Detection T3"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Heavy infantry unit specialized in defending friendly land.]", "Can transform to [Defender Infantry (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "[+25]% Strength <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>", "[+1] Movement <in [{Friendly} {Land}] tiles>", "[-1] Sight"]
+    "uniques": ["Comment [Heavy infantry unit specialized in defending friendly land.]", "Can transform to [Defender Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>", "[+25]% Strength <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>", "[+1] Movement <in [{Friendly} {Land}] tiles>", "[-1] Sight"]
 	},
 	{
 		"name": "Defender Infantry (T)",
@@ -417,7 +417,7 @@
 		"requiredTech": "Pharmaceuticals",
 	        "promotions": ["Elite", "Stealth T2"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Light infantry that infiltrates enemy positions.]", "Can transform to [Infiltrator Infantry (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "[-25]% Strength <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
+    "uniques": ["Comment [Light infantry that infiltrates enemy positions.]", "Can transform to [Infiltrator Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>", "[-25]% Strength <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
 	},
 	{
 		"name": "Infiltrator Infantry (T)",
@@ -439,7 +439,7 @@
 		"requiredTech": "Plastics",
 	        "promotions": ["Elite"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Elite infantry unit made of experienced troops and as such excelling in all kinds of regular warfare.]", "Can transform to [Veteran Infantry (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "[+25]% Strength <vs [Ranged] units> <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
+    "uniques": ["Comment [Elite infantry unit made of experienced troops and as such excelling in all kinds of regular warfare.]", "Can transform to [Veteran Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>", "[+25]% Strength <vs [Ranged] units> <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"]
 	},
 	{
 		"name": "Veteran Infantry (T)",
@@ -461,7 +461,7 @@
 		"requiredTech": "Ballistics",
 	        "promotions": ["Elite"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Heavy infantry unit equipped with ballistic shields that allow them to withstand brutal damage.]", "Can transform to [Breacher Infantry (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>",
+    "uniques": ["Comment [Heavy infantry unit equipped with ballistic shields that allow them to withstand brutal damage.]", "Can transform to [Breacher Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>",
     "[This Unit] gains the [Ballistic Shield] status for [3] turn(s) <requires [2] movement> <for all movement> <for units without [Grenade Cooldown]> <hidden from users>"],
 	},
 	{
@@ -485,7 +485,7 @@
 		"rangedStrength": 70,
 		"cost": 435,
 		"requiredTech": "Combined Arms",
-		"uniques": ["[+100]% Strength <vs [HQ] units> <when attacking>", "Can transform to [Sniper Infantry (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "[-25]% Strength <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
+		"uniques": ["[+100]% Strength <vs [HQ] units> <when attacking>", "Can transform to [Sniper Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>", "[-25]% Strength <when defending>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
 		"promotions": ["Elite", "Stealth T2"],
 		"attackSound": "shot"
 	},
@@ -511,7 +511,7 @@
 		"requiredTech": "Combined Arms",
 	        "promotions": ["Fast Attack"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Infantry intended for naval operations and rapid assaults.]", "Can transform to [Marine Infantry (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>", "Eliminates combat penalty for attacking across a coast", "[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>", "[+50]% Strength <when attacking> <when [Embarked]>"]
+    "uniques": ["Comment [Infantry intended for naval operations and rapid assaults.]", "Can transform to [Marine Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>", "Eliminates combat penalty for attacking across a coast", "[+1] Sight <when [Embarked]>", "[+100]% Strength <when defending> <when [Embarked]>", "[+50]% Strength <when attacking> <when [Embarked]>"]
 	},
 	{
 		"name": "Marine Infantry (T)",
@@ -533,7 +533,7 @@
 		"requiredTech": "Radar",
 	        "promotions": ["Fast Attack", "Airborne"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Infantry unit intended for sudden paradrop assaults.]", "Can transform to [Paratrooper Infantry (T)] <when adjacent to a [{Friendly} {Transport}] unit>", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"]
+    "uniques": ["Comment [Infantry unit intended for sudden paradrop assaults.]", "Can transform to [Paratrooper Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>", "Unavailable <when number of [FA limit] is less than [1]> <hidden from users>"]
 	},
 	{
 		"name": "Paratrooper Infantry (T)",
@@ -935,7 +935,7 @@
 		"rangedStrength": 70,
 		"cost": 375,
 		"requiredTech": "Ballistics",
-		"uniques": ["[+25]% Strength <vs [Infantry] units> <when attacking>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
+		"uniques": ["[+25]% Strength <vs [Infantry] units>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
 		"promotions": ["Elite"],
 		"attackSound": "machinegun"
 	},
