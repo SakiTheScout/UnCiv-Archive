@@ -270,21 +270,21 @@ ResourceIcons/Festival Duration
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Placeholder2
+EmojiIcons/Culture
   rotate: false
   xy: 200, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Placeholder3
+EmojiIcons/Gold
   rotate: false
   xy: 300, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Placeholder4
+EmojiIcons/Production
   rotate: false
   xy: 400, 300
   size: 100, 100
