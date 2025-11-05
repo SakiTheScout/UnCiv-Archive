@@ -121,13 +121,13 @@
   {
 		"name": "Heavy Infantry",
 		"unitType": "Infantry",
-		"movement": 1,
+		"movement": 2,
 		"strength": 70,
 		"cost": 420,
 		"requiredTech": "Plastics",
 	        "promotions": ["Troops"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Heavy infantry unit.]", "[+25]% Strength <when defending>", "Can transform to [Heavy Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>"]
+    "uniques": ["Comment [Heavy infantry unit.]", "Rough terrain penalty", "[+20]% Strength <when defending>", "Can transform to [Heavy Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>"]
 	},
 	{
 		"name": "Heavy Infantry (T)",
@@ -327,7 +327,7 @@
 		"strength": 70,
 		"cost": 400,
 		"requiredTech": "Plastics",
-	        "promotions": ["Troops"],
+	        "promotions": ["Troops", "Grenade Specialist"],
 		"attackSound": "shot",
     "uniques": ["Comment [Grenade-focused infantry unit with reduced cooldown.]", "Can transform to [Specialist Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>"]
 	},
@@ -338,7 +338,7 @@
 		"strength": 70,
 		"cost": 400,
 		"requiredTech": "Plastics",
-	        "promotions": ["Troops"],
+	        "promotions": ["Troops", "Grenade Specialist"],
 		"attackSound": "shot",
     "uniques": ["Comment [Grenade-focused infantry unit with reduced cooldown.]", "Unbuildable", "Can transform to [Specialist Infantry]"]
 	},
@@ -1579,7 +1579,7 @@
 	    "obsoleteTech": "Plastics",
 		"attackSound": "shot",
 		"promotions": ["Troops", "Detection T1"],
-    "uniques": ["Comment [Scout infantry unit.]", "Can transform to [Scout Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>", "[-25]% Strength <when defending>", "Ignores terrain cost"]
+    "uniques": ["Comment [Scout infantry unit.]", "Can transform to [Pioneer Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>", "[-25]% Strength <when defending>", "Ignores terrain cost"]
 	},
 	{
 		"name": "Pioneer Infantry (T)",
@@ -1590,7 +1590,7 @@
 		"requiredTech": "Replaceable Parts",
 		"attackSound": "shot",
 		"promotions": ["Troops", "Detection T1"],
-    "uniques": ["Comment [Scout infantry unit.]", "Unbuildable", "Can transform to [Scout Infantry]", "[-25]% Strength <when defending>", "Ignores terrain cost"]
+    "uniques": ["Comment [Scout infantry unit.]", "Unbuildable", "Can transform to [Pioneer Infantry]", "[-25]% Strength <when defending>", "Ignores terrain cost"]
 	},
   {
 		"name": "Grenadiers",
@@ -1599,7 +1599,9 @@
 		"strength": 65,
 		"cost": 385,
 		"requiredTech": "Replaceable Parts",
-	        "promotions": ["Troops", "Grenadier", "HE Grenades"],
+	    "upgradesTo": "Specialist Infantry",
+	    "obsoleteTech": "Plastics",
+	        "promotions": ["Troops", "Grenade Specialist"],
 		"attackSound": "shot",
     "uniques": ["Comment [Grenade-focused infantry unit, slightly elite.]", "Can transform to [Grenadiers (T)] <when adjacent to a [{Your} {Transport}] unit>"]
 	},
@@ -1610,7 +1612,7 @@
 		"strength": 65,
 		"cost": 385,
 		"requiredTech": "Plastics",
-	        "promotions": ["Troops", "Grenadier", "HE Grenades"],
+	        "promotions": ["Troops", "Grenade Specialist"],
 		"attackSound": "shot",
     "uniques": ["Comment [Grenade-focused infantry unit, slightly elite.]", "Unbuildable", "Can transform to [Grenadiers]"]
 	},
@@ -1621,11 +1623,11 @@
 		"strength": 62,
 		"cost": 360,
 		"requiredTech": "Replaceable Parts",
-	    "upgradesTo": "Infantry",
+	    "upgradesTo": "Assault Infantry",
 	    "obsoleteTech": "Plastics",
 	        "promotions": ["Troops"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Infantry unit specialising in assaults on reinforced positions.]", "Can transform to [Jaegers (T)] <when adjacent to a [{Your} {Transport}] unit>", "[+33]% Strength <when fighting in [Defensive Improvement] tiles> <when attacking>", "Ignores Zone of Control"]
+    "uniques": ["Comment [Infantry unit specialising in assaults on reinforced positions.]", "Can transform to [Jaegers (T)] <when adjacent to a [{Your} {Transport}] unit>", "[+25]% Strength <when fighting in [Defensive Improvement] tiles> <when attacking>", "Ignores Zone of Control"]
 	},
 	{
 		"name": "Jaegers (T)",
