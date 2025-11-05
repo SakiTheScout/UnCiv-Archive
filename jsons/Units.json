@@ -83,7 +83,7 @@
 		"requiredTech": "Plastics",
 	        "promotions": ["Troops"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Fast infantry unit.]", "[-25]% Strength <when defending>", "Can transform to [Light Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>"]
+    "uniques": ["Comment [Fast infantry unit.]", "[-25]% Strength <when defending>", "Can transform to [Light Infantry (T)] <when adjacent to a [Transport] unit>"]
 	},
 	{
 		"name": "Light Infantry (T)",
@@ -105,7 +105,7 @@
 		"requiredTech": "Plastics",
 	        "promotions": ["Troops"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Generalist infantry unit.]", "Can transform to [Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>"]
+    "uniques": ["Comment [Generalist infantry unit.]", "Can transform to [Infantry (T)] <when adjacent to a [Transport] unit>"]
 	},
 	{
 		"name": "Infantry (T)",
