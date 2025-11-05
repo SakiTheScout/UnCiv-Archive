@@ -312,7 +312,7 @@
 	{
 		"name": "Scout Infantry (T)",
 		"unitType": "Transported Infantry",
-		"movement": 3,
+		"movement": 1,
 		"strength": 60,
 		"cost": 350,
 		"requiredTech": "Plastics",
@@ -1496,7 +1496,149 @@
 	    "promotions": ["Fire Support"],
 		"attackSound": "tankshot"
 	},
-	
+
+	//WWI units
+	{
+		"name": "Conscripts",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 55,
+		"cost": 285,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Light Infantry",
+	    "obsoleteTech": "Plastics",
+	        "promotions": ["Troops"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Cheap infantry unit.]", "[-15]% Strength <when defending>", "Can transform to [Conscripts (T)] <when adjacent to a [{Your} {Transport}] unit>"]
+	},
+	{
+		"name": "Conscripts (T)",
+		"unitType": "Transported Infantry",
+		"movement": 1,
+		"strength": 55,
+		"cost": 285,
+		"requiredTech": "Replaceable Parts",
+	        "promotions": ["Troops"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Generalist infantry unit.]", "Unbuildable", "Can transform to [Conscripts]"]
+	},
+  {
+		"name": "Riflemen",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 60,
+		"cost": 340,
+		"requiredTech": "Replaceable Parts",
+	    "upgradesTo": "Infantry",
+	    "obsoleteTech": "Plastics",
+	        "promotions": ["Troops"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Frontline infantry unit.]", "Can transform to [Riflemen (T)] <when adjacent to a [{Your} {Transport}] unit>"]
+	},
+	{
+		"name": "Riflemen (T)",
+		"unitType": "Transported Infantry",
+		"movement": 1,
+		"strength": 60,
+		"cost": 340,
+		"requiredTech": "Plastics",
+	        "promotions": ["Troops"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Frontline infantry unit.]", "Unbuildable", "Can transform to [Riflemen]"]
+	},
+  {
+		"name": "Plated Infantry",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 60,
+		"cost": 360,
+		"requiredTech": "Replaceable Parts",
+	        "promotions": ["Troops"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Heavy infantry unit.]", "[+15]% Strength <when defending>", "Can transform to [Plated Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>"]
+	},
+	{
+		"name": "Plated Infantry (T)",
+		"unitType": "Transported Infantry",
+		"movement": 1,
+		"strength": 60,
+		"cost": 360,
+		"requiredTech": "Replaceable Parts",
+	        "promotions": ["Troops"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Generalist infantry unit.]", "Unbuildable", "Can transform to [Plated Infantry]"]
+	},
+	{
+		"name": "Pioneer Infantry",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 50,
+		"cost": 310,
+		"requiredTech": "Replaceable Parts",
+		"upgradesTo": "Scout Infantry",
+	    "obsoleteTech": "Plastics",
+		"attackSound": "shot",
+		"promotions": ["Troops", "Detection T1"],
+    "uniques": ["Comment [Scout infantry unit.]", "Can transform to [Scout Infantry (T)] <when adjacent to a [{Your} {Transport}] unit>", "[-25]% Strength <when defending>", "Ignores terrain cost"]
+	},
+	{
+		"name": "Pioneer Infantry (T)",
+		"unitType": "Transported Infantry",
+		"movement": 1,
+		"strength": 50,
+		"cost": 310,
+		"requiredTech": "Replaceable Parts",
+		"attackSound": "shot",
+		"promotions": ["Troops", "Detection T1"],
+    "uniques": ["Comment [Scout infantry unit.]", "Unbuildable", "Can transform to [Scout Infantry]", "[-25]% Strength <when defending>", "Ignores terrain cost"]
+	},
+  {
+		"name": "Grenadiers",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 65,
+		"cost": 385,
+		"requiredTech": "Replaceable Parts",
+	        "promotions": ["Troops", "Grenadier", "HE Grenades"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Grenade-focused infantry unit, slightly elite.]", "Can transform to [Grenadiers (T)] <when adjacent to a [{Your} {Transport}] unit>"]
+	},
+	{
+		"name": "Grenadiers (T)",
+		"unitType": "Transported Infantry",
+		"movement": 1,
+		"strength": 65,
+		"cost": 385,
+		"requiredTech": "Plastics",
+	        "promotions": ["Troops", "Grenadier", "HE Grenades"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Grenade-focused infantry unit, slightly elite.]", "Unbuildable", "Can transform to [Grenadiers]"]
+	},
+  {
+		"name": "Jaegers",
+		"unitType": "Infantry",
+		"movement": 2,
+		"strength": 62,
+		"cost": 360,
+		"requiredTech": "Replaceable Parts",
+	    "upgradesTo": "Infantry",
+	    "obsoleteTech": "Plastics",
+	        "promotions": ["Troops"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Infantry unit specialising in assaults on reinforced positions.]", "Can transform to [Jaegers (T)] <when adjacent to a [{Your} {Transport}] unit>", "[+33]% Strength <when fighting in [Defensive Improvement] tiles> <when attacking>", "Ignores Zone of Control"]
+	},
+	{
+		"name": "Jaegers (T)",
+		"unitType": "Transported Infantry",
+		"movement": 1,
+		"strength": 62,
+		"cost": 360,
+	    "obsoleteTech": "Replaceable Parts",
+	        "promotions": ["Troops"],
+		"attackSound": "shot",
+    "uniques": ["Comment [Infantry unit specialising in assaults on reinforced positions.]", "Unbuildable", "Can transform to [Jaegers]", "[+33]% Strength <when fighting in [Defensive Improvement] tiles> <when attacking>", "Ignores Zone of Control"]
+	},
+	//Heroes
 	{
 		"name": "Sensei of SCHALE",
 		"unitType": "Hero",
