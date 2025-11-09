@@ -429,7 +429,6 @@
 	{
 		"name": "The Hellforge",
 		"leaderName": "Witch-Machine",
-		"adjective": ["Hellforged"],
 		"startBias": ["Snow"],
 		"preferredVictoryType": "Scientific",
 
@@ -459,7 +458,6 @@
 	{
 		"name": "Blackroot Stronghold Academy",
 		"leaderName": "Student Council",
-		"adjective": ["Blackrootan"],
 		"startBias": ["Plains"],
 		"preferredVictoryType": "Domination",
 
@@ -472,6 +470,231 @@
 		"Comment [– Fanon faction by thesandmanfaraway]"],
 		"cities": ["Underground Temple"],
 		"personality": "1st house of the occult",
+	},
+
+    {
+		"name": "America",
+		"leaderName": "The President",
+		"preferredVictoryType": "Domination",
+
+		"outerColor": [10, 49, 97],
+		"innerColor": [191, 13, 62],
+		
+		"uniqueName": "Manifest Destiny",
+		"uniques":["Outsider",
+		"[+3 Gold, -1 Faith] from every specialist [in all cities]"
+		],
+		"cities": ["Washington","New York","Boston","Philadelphia","Atlanta","Chicago","Seattle","San Francisco","Los Angeles","Houston",
+			"Portland","St. Louis","Miami","Buffalo","Detroit","New Orleans","Baltimore","Denver","Cincinnati","Dallas","Memphis",
+			"Cleveland","Kansas City","San Diego","Richmond","Las Vegas","Phoenix","Albuquerque","Minneapolis","Pittsburgh",
+			"Oakland","Tampa Bay","Orlando","Tacoma","Santa Fe","Olympia","Hunt Valley","Springfield","Palo Alto","Centralia",
+			"Spokane","Jacksonville","Savannah","Charleston","San Antonio","Birmingham","Anchorage","Sacramento","Reno",
+			"Salt Lake City","Boise","Milwaukee","Santa Cruz","Little Rock"]
+	},
+	{
+		"name": "Russia",
+		"leaderName": "The President",
+		"startBias": ["Tundra"],
+		"preferredVictoryType": "Domination",
+
+		"outerColor": [213, 0, 0],
+		"innerColor": [255, 255, 255],
+		
+		"uniqueName": "Iron Will",
+		"uniques":["Outsider"
+		],
+		"cities": ["Moscow","St. Petersburg","Novgorod","Rostov","Yaroslavl","Yekaterinburg","Yakutsk","Vladivostok","Smolensk","Orenburg",
+			"Krasnoyarsk","Khabarovsk","Bryansk","Tver","Novosibirsk","Magadan","Murmansk","Irkutsk","Chita","Samara",
+			"Arkhangelsk","Chelyabinsk","Tobolsk","Vologda","Omsk","Astrakhan","Kursk","Saratov","Tula","Vladimir","Perm",
+			"Voronezh","Pskov","Starayarussa","Kostoma","Nizhniy Novgorod","Suzdal","Magnitogorsk"]
+	},
+	{
+		"name": "England",
+		"leaderName": "The Prime Minister",
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+		"outerColor": [200, 16, 46],
+		"innerColor": [255, 212, 0],
+		
+		"uniqueName": "Rule, Britannia!",
+		"uniques":["Outsider"
+		],
+		"cities": ["London","York","Nottingham","Hastings","Canterbury","Coventry","Warwick","Newcastle","Oxford","Liverpool",
+			"Dover","Brighton","Norwich","Leeds","Reading","Birmingham","Richmond","Exeter","Cambridge","Gloucester",
+			"Manchester","Bristol","Leicester","Carlisle","Ipswich","Portsmouth","Berwick","Bath","Mumbles","Southampton",
+			"Sheffield","Salisbury","Colchester","Plymouth","Lancaster","Blackpool","Winchester","Hull"]
+	},
+	{
+		"name": "Spain",
+		"leaderName": "The President",
+		"preferredVictoryType": "Domination",
+
+		"outerColor": [241, 191, 0],
+		"innerColor": [173, 21, 25],
+		
+		"uniqueName": "Plus Ultra",
+		"uniques":["Outsider"
+		],
+		"cities": ["Madrid","Barcelona","Seville","Cordoba","Toledo","Santiago","Salamanca","Murcia","Valencia","Zaragoza","Pamplona",
+			"Vitoria","Santander","Oviedo","Jaen","Logroño","Valladolid","Palma","Teruel","Almeria","Leon","Zamora","Mida",
+			"Lugo","Alicante","Càdiz","Eiche","Alcorcon","Burgos","Vigo","Badajoz","La Coruña","Guadalquivir","Bilbao",
+			"San Sebastian","Granada","Mérida","Huelva","Ibiza","Las Palmas","Tenerife"]
+	},
+	{
+		"name": "Arabia",
+		"leaderName": "The Custodian",
+		"startBias": ["Desert"],
+		"preferredVictoryType": "Domination",
+
+		"outerColor": [0, 84, 48],
+		"innerColor": [179, 133, 0],
+		
+		"uniqueName": "Desert Legacy",
+		"uniques":["Outsider"
+		],
+		"cities": ["Mecca","Medina","Damascus","Baghdad","Najran","Kufah","Basra","Khurasan","Anjar","Fustat",
+			"Aden","Yamama","Muscat","Mansura","Bukhara","Fez","Shiraz","Merw","Balkh","Mosul",
+			"Aydab","Bayt","Suhar","Taif","Hama","Tabuk","Sana'a","Shihr","Tripoli","Tunis","Kairouan","Algiers","Oran"]
+	},
+	{
+		"name": "China",
+		"leaderName": "The General Secretary",
+		"startBias": ["Hill"],
+		"preferredVictoryType": "Domination",
+
+		"outerColor": [238, 28, 37],
+		"innerColor": [255, 223, 0],
+		
+		"uniqueName": "Middle Kingdom",
+		"uniques":["Outsider",
+		"[+20]% Production towards any buildings that already exist in the Capital",
+		"Production to [Gold] conversion in cities changed by [+25]%",
+	    "[-33]% maintenance costs <for [Infantry] units>"
+		],
+		"cities": ["Beijing","Shanghai","Guangzhou","Nanjing","Xian","Chengdu","Hangzhou","Tianjin","Macau","Shandong",
+			"Kaifeng","Ningbo","Baoding","Yangzhou","Harbin","Chongqing","Luoyang","Kunming","Taipei","Shenyang",
+			"Taiyuan","Tainan","Dalian","Lijiang","Wuxi","Suzhou","Maoming","Shaoguan","Yangjiang","Heyuan","Huangshi",
+			"Yichang","Yingtian","Xinyu","Xinzheng","Handan","Dunhuang","Gaoyu","Nantong","Weifang","Xikang"]
+	},
+	{
+		"name": "France",
+		"leaderName": "The President",
+		"preferredVictoryType": "Domination",
+
+		"outerColor": [0, 56, 147],
+		"innerColor": [237, 41, 57],
+		
+		"uniqueName": "Liberté, Égalité",
+		"uniques":["Outsider",
+		"Gain an extra spy",
+		"[+15]% Production when constructing [Culture] buildings [in capital]",
+		"[15]% of excess happiness converted to [Culture]"
+		],
+		"cities": ["Paris","Orleans","Lyon","Troyes","Tours","Marseille","Chartres","Avignon","Rouen","Grenoble",
+			"Dijon","Amiens","Cherbourg","Poitiers","Toulouse","Bayonne","Strasbourg","Brest","Bordeaux","Rennes",
+			"Nice","Saint Etienne","Nantes","Reims","Le Mans","Montpellier","Limoges","Nancy","Lille","Caen","Toulon",
+			"Le Havre","Lourdes","Cannes","Aix-En-Provence","La Rochelle","Bourges","Calais"]
+	},
+	{
+		"name": "Germany",
+		"leaderName": "The Federal Chancellor",
+		"preferredVictoryType": "Domination",
+
+		"outerColor": [0, 0, 0],
+		"innerColor": [255, 206, 0],
+		
+		"uniqueName": "Ordnung und Fortschritt",
+		"uniques":["Outsider",
+		"[Gold] cost of purchasing [Heavy Armor] units [-10]%",
+		"[Gold] cost of purchasing [Medium Armor] units [-15]%",
+		"[Gold] cost of purchasing [Light Armor] units [-15]%",
+		"[-15]% Gold cost of acquiring tiles [in all cities]"
+		],
+		"cities": ["Berlin","Hamburg","Munich","Cologne","Frankfurt","Essen","Dortmund","Stuttgart","Düsseldorf","Bremen",
+			"Hannover","Duisburg","Leipzig","Dresden","Bonn","Bochum","Bielefeld","Karlsruhe","Gelsenkirchen","Wiesbaden",
+			"Münster","Rostock","Chemnitz","Braunschweig","Halle","Mönchengladbach","Kiel","Wuppertal","Freiburg","Hagen",
+			"Erfurt","Kaiserslautern","Kassel","Oberhausen","Hamm","Saarbrücken","Krefeld","Pirmasens","Potsdam","Solingen",
+			"Osnabrück","Ludwigshafen","Leverkusen","Oldenburg","Neuss","Mülheim","Darmstadt","Herne","Würzburg",
+			"Recklinghausen","Göttingen","Wolfsburg","Koblenz","Hildesheim","Erlangen"]
+	},
+	{
+		"name": "India",
+		"leaderName": "The Prime Minister",
+		"startBias": ["River"],
+		"preferredVictoryType": "Domination",
+
+		"outerColor": [255, 153, 51],
+		"innerColor": [0, 119, 73],
+		
+		"uniqueName": "Unity in Diversity",
+		"uniques":["Outsider",
+		"[+2 Food, -1 Gold] from [Fresh Water] tiles [in all cities]",
+		"[+25]% growth [in capital] <during a Golden Age>"
+		],
+		"cities": ["Delhi","Mumbai","Vijayanagara","Pataliputra","Varanasi","Agra","Calcutta","Lahore","Bangalore","Hyderabad","Madurai","Ahmedabad",
+			"Kolhapur","Prayaga","Ayodhya","Indraprastha","Mathura","Ujjain","Gulbarga","Jaunpur","Rajagriha","Sravasti","Tiruchirapalli","Thanjavur",
+			"Bodhgaya","Kushinagar","Amaravati","Gaur","Gwalior","Jaipur","Karachi"]
+	},
+	{
+		"name": "Japan",
+		"leaderName": "The Prime Minister",
+		"startBias": ["Mountain", "Coast"],
+		"preferredVictoryType": "Domination",
+
+		"outerColor": [255, 255, 255],
+		"innerColor": [188, 0, 45],
+		
+		"uniqueName": "Wa no Kokoro",
+		"uniques":["Outsider",
+		"[+1 Culture, +2 Happiness] [in capital] <when not at war>",
+		"[+10]% [Culture] <while the empire is happy>",
+		"[+5]% [Gold] from every [Culture]"
+		],
+		"cities": ["Kyoto","Osaka","Tokyo","Satsuma","Kagoshima","Nara","Nagoya","Izumo","Nagasaki","Yokohama",
+			"Shimonoseki","Matsuyama","Sapporo","Hakodate","Ise","Toyama","Fukushima","Suo","Bizen","Echizen",
+			"Izumi","Omi","Echigo","Kozuke","Sado","Kobe","Nagano","Hiroshima","Takayama","Akita","Fukuoka","Aomori",
+			"Kamakura","Kochi","Naha","Sendai","Gifu","Yamaguchi","Ota","Tottori"]
+	},
+	{
+		"name": "Korea",
+		"leaderName": "The President",
+		"startBias": ["Coast"],
+		"preferredVictoryType": "Domination",
+
+		"outerColor": [0, 71, 160],
+		"innerColor": [205, 17, 38],
+		
+		"uniqueName": "The Miracle on the Han",
+		"uniques":["Outsider",
+		"[+1 Science] from every specialist [in capital]",
+		"[+1 Science] from every specialist [in capital] <during a Golden Age>",
+		"[+10]% [Science] [in all cities] <during a Golden Age>"
+		],
+		"cities": ["Seoul","Busan","Jeonju","Daegu","Pyongyang","Kaesong","Suwon","Gwangju","Gangneung","Hamhung","Wonju","Ulsan",
+			"Changwon","Andong","Gongju","Haeju","Cheongju","Mokpo","Dongducheon","Geoje","Suncheon","Jinju","Sangju",
+			"Rason","Gyeongju","Chungju","Sacheon","Gimje","Anju"]
+	},
+	{
+		"name": "Sweden",
+		"leaderName": "The Prime Minister",
+		"startBias": ["Snow", "Coast"],
+		"preferredVictoryType": "Domination",
+
+		"outerColor": [0, 78, 147],
+		"innerColor": [254, 204, 0],
+		
+		"uniqueName": "Folkhemmet",
+		"uniques":["Outsider",
+		"[+1 Happiness] per [6] population [in all cities]>",
+		"[+1 Culture] per [5] population [in all cities]>",
+		"[+1 Food] from [Snow] tiles [in all cities] <during a Golden Age>"
+		],
+		"cities": ["Stockholm","Sigtuna","Helsinki","Birka","Uppsala","Gothenburg","Turku","Malmö","Linköping","Kalmar","Skara","Västerås","Jönköping",
+            "Visby","Falun","Norrköping","Gävle","Halmstad","Karlskrona","Hudiksvall","Örebro","Umeå","Karlstad",
+            "Helsingborg","Härnösand","Vadstena","Lund","Västervik","Enköping","Skövde","Eskilstuna","Luleå","Lidköping",
+            "Södertälje","Mariestad","Östersund","Borås","Sundsvall","Vimmerby","Köping","Mora","Arboga","Växjö","Gränna",
+            "Kiruna","Borgholm","Strängnäs","Sveg"]
 	},
 	
 	{
