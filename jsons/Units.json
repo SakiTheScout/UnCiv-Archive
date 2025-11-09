@@ -1574,7 +1574,7 @@
 	    "obsoleteTech": "Plastics",
 	        "promotions": ["Troops"],
 		"attackSound": "shot",
-    "uniques": ["Comment [Cheap infantry unit.]", "[-15]% Strength <when defending>", "Can transform to [Conscripts (T)] <when adjacent to a [{Your} {Transport}] unit>"]
+    "uniques": ["Comment [Cheap infantry unit.]", "[-15]% Strength <when defending>", "Can transform to [Conscripts (T)] <when adjacent to a [Transport] unit>"]
 	},
 	{
 		"name": "Conscripts (T)",
