@@ -686,8 +686,8 @@
 		
 		"uniqueName": "Folkhemmet",
 		"uniques":["Outsider",
-		"[+1 Happiness] per [6] population [in all cities]>",
-		"[+1 Culture] per [5] population [in all cities]>",
+		"[+1 Happiness] per [6] population [in all cities]",
+		"[+1 Culture] per [5] population [in all cities]",
 		"[+1 Food] from [Snow] tiles [in all cities] <during a Golden Age>"
 		],
 		"cities": ["Stockholm","Sigtuna","Helsinki","Birka","Uppsala","Gothenburg","Turku","Malmö","Linköping","Kalmar","Skara","Västerås","Jönköping",
