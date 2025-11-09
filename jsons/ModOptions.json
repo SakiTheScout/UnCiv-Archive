@@ -1,6 +1,11 @@
 {
 	"modUrl": "https://github.com/SakiTheScout/UnCiv-Archive",
 	"author": "SakiTheScout",
+	"nationsToRemove": ["Austria", "Aztecs", "Babylon", "Byzantium", "Carthage", "Celts", "Denmark", "Egypt", "Ethiopia", "Greece", "Rome", "Inca", "Iroquois", "Mongolia", "Persia", "Polynesia", "Siam", "Songhai", "The Maya", "The Huns", "The Netherlands", "The Ottomans"],
+	"buildingsToRemove": [],
+	"unitsToRemove": [],
+	"techsToRemove": [],
+	"policyBranchesToRemove": [],
 	"constants": {
 		"maxXPfromBarbarians": 999999
 	},
