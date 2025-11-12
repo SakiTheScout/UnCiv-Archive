@@ -726,7 +726,7 @@
 		"range": 2,
 		"cost": 300,
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["Can transform to a [Light Mortar]", "Consumes [1] [Iron]", "[+50]% Strength <vs [Infantry] units> <when attacking>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
+		"uniques": ["Can transform to [Light Mortar]", "Consumes [1] [Iron]", "[+50]% Strength <vs [Infantry] units> <when attacking>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
 		"promotions": ["Indirect Fire", "Elite"],
 		"attackSound": "artillery"
 	},
@@ -1080,7 +1080,7 @@
 		"cost": 340,
 		"requiredTech": "Ballistics",
 		"promotions": ["Fire Support"],
-		"uniques": ["Can transform to [Anti-Aircraft Auticannon (T)] <when adjacent to a [Designated Transport] unit>","Consumes [1] [Iron]", "[1] additional attacks per turn", "[1] extra interceptions may be made per turn", "[80]% chance to intercept air attacks", "[+300]% Strength <vs [Air] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
+		"uniques": ["Can transform to [Anti-Aircraft Autocannon (T)] <when adjacent to a [Designated Transport] unit>","Consumes [1] [Iron]", "[1] additional attacks per turn", "[1] extra interceptions may be made per turn", "[80]% chance to intercept air attacks", "[+300]% Strength <vs [Air] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 		"attackSound": "machinegun"
 	},
 	{
