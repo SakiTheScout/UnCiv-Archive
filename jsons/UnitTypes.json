@@ -50,7 +50,7 @@
   },
 	{
         "name": "Transported Towed",
-        "movementType": "Land",
+        "movementType": "Air",
         "uniques": ["[-25]% Strength <when defending>",
 		"Cannot attack",
 		"Unbuildable",
