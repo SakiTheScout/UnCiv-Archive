@@ -1147,7 +1147,7 @@
 	"innerColor": [0,0,0]},
 	{
 		"name": "Designated Transport",
-		"uniques": ["Comment [A transport for infantry and towed units. 1 for every 1 [Troops] unit.]", "Consumes [1] [DT limit] <hidden from users>", "[-25]% XP gained from combat"],
+		"uniques": ["Comment [A transport for infantry and towed units. 1 for every 1 [Troops] unit.]", "Consumes [1] [DT limit] <hidden from users>", "[-25]% XP gained from combat", "Can carry [1] [Transported Towed] units"],
 	"outerColor": [255,255,255],
 	"innerColor": [0,0,0]},
 	{
