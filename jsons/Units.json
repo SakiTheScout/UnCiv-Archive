@@ -656,7 +656,7 @@
 		"range": 2,
 		"cost": 320,
 		"requiredTech": "Dynamite",
-		"uniques": ["Consumes [1] [Iron]", "[+100]% Strength <vs cities> <when attacking>", "[+50]% Strength <vs [Fortification] units> <when attacking>", "No defensive terrain bonus", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
+		"uniques": ["Can transform to [Light Artillery (T)] <when adjacent to a [Designated Transport] unit>","Consumes [1] [Iron]", "[+100]% Strength <vs cities> <when attacking>", "[+50]% Strength <vs [Fortification] units> <when attacking>", "No defensive terrain bonus", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 		"promotions": ["Indirect Fire", "Fire Support"],
 		"attackSound": "artillery"
 	},
@@ -669,7 +669,7 @@
 		"range": 3,
 		"cost": 375,
 		"requiredTech": "Dynamite",
-		"uniques": ["Consumes [1] [Iron]", "[+100]% Strength <vs cities> <when attacking>", "[+50]% Strength <vs [Fortification] units> <when attacking>", "No defensive terrain bonus",
+		"uniques": ["Can transform to [Artillery (T)] <when adjacent to a [Designated Transport] unit>", "Consumes [1] [Iron]", "[+100]% Strength <vs cities> <when attacking>", "[+50]% Strength <vs [Fortification] units> <when attacking>", "No defensive terrain bonus",
 			"Must set up to ranged attack", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 		"promotions": ["Indirect Fire", "Fire Support"],
 		"attackSound": "artillery"
@@ -683,7 +683,7 @@
 		"range": 4,
 		"cost": 420,
 		"requiredTech": "Dynamite",
-		"uniques": ["Consumes [2] [Iron]", "[+100]% Strength <vs cities> <when attacking>", "[+50]% Strength <vs [Fortification] units> <when attacking>", "No defensive terrain bonus",
+		"uniques": ["Can transform to [Heavy Artillery (T)] <when adjacent to a [Designated Transport] unit>","Consumes [2] [Iron]", "[+100]% Strength <vs cities> <when attacking>", "[+50]% Strength <vs [Fortification] units> <when attacking>", "No defensive terrain bonus",
 			"Must set up to ranged attack","[-1] Sight", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 		"promotions": ["Indirect Fire", "Fire Support"],
 		"attackSound": "artillery"
@@ -699,7 +699,7 @@
 		"range": 5,
 		"cost": 420,
 		"requiredTech": "Dynamite",
-		"uniques": ["Consumes [2] [Iron]", "[+100]% Strength <vs cities> <when attacking>", "[+50]% Strength <vs [Fortification] units> <when attacking>", "No defensive terrain bonus",
+		"uniques": ["Can transform to [L118 (T)] <when adjacent to a [Designated Transport] unit>","Consumes [2] [Iron]", "[+100]% Strength <vs cities> <when attacking>", "[+50]% Strength <vs [Fortification] units> <when attacking>", "No defensive terrain bonus",
 			"Must set up to ranged attack","[-1] Sight", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 		"promotions": ["Indirect Fire", "Fire Support"],
 		"attackSound": "artillery"
@@ -713,7 +713,20 @@
 		"range": 2,
 		"cost": 300,
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["Consumes [1] [Iron]", "[+50]% Strength <vs [Infantry] units> <when attacking>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
+		"uniques": ["Can transform to [Light Mortar (T)] <when adjacent to a [Transport] unit>", "Consumes [1] [Iron]", "[+50]% Strength <vs [Infantry] units> <when attacking>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
+		"promotions": ["Indirect Fire", "Elite"],
+		"attackSound": "artillery"
+	},
+	{
+		"name": "Light Mortar (T)",
+		"unitType": "Transported Infantry",
+		"movement": 2,
+		"strength": 50,
+		"rangedStrength": 60,
+		"range": 2,
+		"cost": 300,
+		"requiredTech": "Replaceable Parts",
+		"uniques": ["Can transform to a [Light Mortar]", "Consumes [1] [Iron]", "[+50]% Strength <vs [Infantry] units> <when attacking>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
 		"promotions": ["Indirect Fire", "Elite"],
 		"attackSound": "artillery"
 	},
@@ -726,7 +739,7 @@
 		"range": 2,
 		"cost": 350,
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["Consumes [1] [Iron]", "[+100]% Strength <vs [Infantry] units> <when attacking>","No defensive terrain bonus",
+		"uniques": ["Can transform to [Mortar (T)] <when adjacent to a [Designated Transport] unit>", "Consumes [1] [Iron]", "[+100]% Strength <vs [Infantry] units> <when attacking>","No defensive terrain bonus",
 			"Must set up to ranged attack", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 		"promotions": ["Indirect Fire", "Fire Support"],
 		"attackSound": "artillery"
@@ -740,7 +753,7 @@
 		"range": 3,
 		"cost": 390,
 		"requiredTech": "Replaceable Parts",
-		"uniques": ["Consumes [2] [Iron]", "[+150]% Strength <vs [Infantry] units> <when attacking>","No defensive terrain bonus",
+		"uniques": ["Can transform to [Heavy Mortar (T)] <when adjacent to a [Designated Transport] unit>","Consumes [2] [Iron]", "[+150]% Strength <vs [Infantry] units> <when attacking>","No defensive terrain bonus",
 			"Must set up to ranged attack","[-1] Sight", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 		"promotions": ["Indirect Fire", "Fire Support"],
 		"attackSound": "artillery"
@@ -1042,7 +1055,7 @@
 		"obsoleteTech": "Advanced Ballistics",
 		"upgradesTo": "Light ATGM",
 		"promotions": ["Elite"],
-		"uniques": ["[-33]% Strength <vs [Infantry] units> <when attacking>", "Consumes [1] [Iron]", "[+100]% Strength <vs [Light Armor] units>", "[+90]% Strength <vs [Medium Armor] units>", "[+80]% Strength <vs [Heavy Armor] units>", "[+70]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
+		"uniques": ["Can transform to [Anti-Tank Gun (T)] <when adjacent to a [Designated Transport] unit>", "[-33]% Strength <vs [Infantry] units> <when attacking>", "Consumes [1] [Iron]", "[+100]% Strength <vs [Light Armor] units>", "[+90]% Strength <vs [Medium Armor] units>", "[+80]% Strength <vs [Heavy Armor] units>", "[+70]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>"],
 		"attackSound": "shot"
 	},
 	{
@@ -1055,7 +1068,7 @@
 		"cost": 450,
 		"requiredTech": "Ballistics",
 		"promotions": ["Fire Support"],
-		"uniques": ["[-33]% Strength <vs [Infantry] units> <when attacking>", "Consumes [2] [Iron]", "[+110]% Strength <vs [Light Armor] units>", "[+100]% Strength <vs [Medium Armor] units>", "[+90]% Strength <vs [Heavy Armor] units>", "[+80]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
+		"uniques": ["Can transform to [Heavy Anti-Tank Gun (T)] <when adjacent to a [Designated Transport] unit>","[-33]% Strength <vs [Infantry] units> <when attacking>", "Consumes [2] [Iron]", "[+110]% Strength <vs [Light Armor] units>", "[+100]% Strength <vs [Medium Armor] units>", "[+90]% Strength <vs [Heavy Armor] units>", "[+80]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -1067,7 +1080,7 @@
 		"cost": 340,
 		"requiredTech": "Ballistics",
 		"promotions": ["Fire Support"],
-		"uniques": ["Consumes [1] [Iron]", "[1] additional attacks per turn", "[1] extra interceptions may be made per turn", "[80]% chance to intercept air attacks", "[+300]% Strength <vs [Air] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
+		"uniques": ["Can transform to [Anti-Aircraft Auticannon (T)] <when adjacent to a [Designated Transport] unit>","Consumes [1] [Iron]", "[1] additional attacks per turn", "[1] extra interceptions may be made per turn", "[80]% chance to intercept air attacks", "[+300]% Strength <vs [Air] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 		"attackSound": "machinegun"
 	},
 	{
@@ -1079,7 +1092,7 @@
 		"cost": 360,
 		"requiredTech": "Ballistics",
 		"promotions": ["Fire Support"],
-		"uniques": ["Consumes [1] [Iron]", "[90]% chance to intercept air attacks", "[+300]% Strength <vs [Air] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
+		"uniques": ["Can transform to [Anti-Aircraft Gun (T)] <when adjacent to a [Designated Transport] unit>", "Consumes [1] [Iron]", "[90]% chance to intercept air attacks", "[+300]% Strength <vs [Air] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 		"attackSound": "shot"
 	},
 	{
@@ -1091,7 +1104,7 @@
 		"cost": 400,
 		"requiredTech": "Ballistics",
 		"promotions": ["Fire Support"],
-		"uniques": ["Consumes [2] [Iron]", "[100]% chance to intercept air attacks", "[+300]% Strength <vs [Air] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
+		"uniques": ["Can transform to [Heavy Anti-Aircraft Gun (T)] <when adjacent to a [Designated Transport] unit>","Consumes [2] [Iron]", "[100]% chance to intercept air attacks", "[+300]% Strength <vs [Air] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>"],
 		"attackSound": "tankshot"
 	},
 	{
@@ -1561,6 +1574,155 @@
 	    "promotions": ["Fire Support"],
 		"attackSound": "tankshot"
 	},
+	{
+		"name": "Light Artillery (T)",
+		"unitType": "Transported Towed",
+		"movement": 1,
+		"strength": 40,
+		"rangedStrength": 40,
+		"range": 2,
+		"cost": 320,
+		"requiredTech": "Dynamite",
+		"uniques": ["Consumes [1] [Iron]", "[+100]% Strength <vs cities> <when attacking>", "[+50]% Strength <vs [Fortification] units> <when attacking>", "No defensive terrain bonus", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>", "Can transform to [Light Artillery]"],
+		"promotions": ["Indirect Fire", "Fire Support"],
+		"attackSound": "artillery"
+	},
+{
+		"name": "Artillery (T)",
+		"unitType": "Transported Towed",
+		"movement": 1,
+		"strength": 40,
+		"rangedStrength": 60,
+		"range": 3,
+		"cost": 375,
+		"requiredTech": "Dynamite",
+		"uniques": ["Consumes [1] [Iron]", "[+100]% Strength <vs cities> <when attacking>", "[+50]% Strength <vs [Fortification] units> <when attacking>", "No defensive terrain bonus",
+			"Must set up to ranged attack", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>", "Can transform to [Artillery]"],
+		"promotions": ["Indirect Fire", "Fire Support"],
+		"attackSound": "artillery"
+	},
+{
+		"name": "Heavy Artillery (T)",
+		"unitType": "Transported Towed",
+		"movement": 1,
+		"strength": 40,
+		"rangedStrength": 80,
+		"range": 4,
+		"cost": 420,
+		"requiredTech": "Dynamite",
+		"uniques": ["Consumes [2] [Iron]", "[+100]% Strength <vs cities> <when attacking>", "[+50]% Strength <vs [Fortification] units> <when attacking>", "No defensive terrain bonus",
+			"Must set up to ranged attack","[-1] Sight", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>", "Can transform to [Heavy Artillery]"],
+		"promotions": ["Indirect Fire", "Fire Support"],
+		"attackSound": "artillery"
+	},
+{
+		"name": "L118 (T)",
+		"unitType": "Transported Towed",
+		"uniqueTo": "Trinity General School",
+		"replaces": "Heavy Artillery",
+		"movement": 1,
+		"strength": 40,
+		"rangedStrength": 90,
+		"range": 5,
+		"cost": 420,
+		"requiredTech": "Dynamite",
+		"uniques": ["Consumes [2] [Iron]", "[+100]% Strength <vs cities> <when attacking>", "[+50]% Strength <vs [Fortification] units> <when attacking>", "No defensive terrain bonus",
+			"Must set up to ranged attack","[-1] Sight", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>", "Can transform to [L118]"],
+		"promotions": ["Indirect Fire", "Fire Support"],
+		"attackSound": "artillery"
+	},
+{
+		"name": "Mortar (T)",
+		"unitType": "Transported Towed",
+		"movement": 1,
+		"strength": 50,
+		"rangedStrength": 75,
+		"range": 2,
+		"cost": 350,
+		"requiredTech": "Replaceable Parts",
+		"uniques": ["Consumes [1] [Iron]", "[+100]% Strength <vs [Infantry] units> <when attacking>","No defensive terrain bonus",
+			"Must set up to ranged attack", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>", "Can transform to [Mortar]"],
+		"promotions": ["Indirect Fire", "Fire Support"],
+		"attackSound": "artillery"
+	},
+{
+		"name": "Heavy Mortar (T)",
+		"unitType": "Transported Towed",
+		"movement": 1,
+		"strength": 50,
+		"rangedStrength": 90,
+		"range": 3,
+		"cost": 390,
+		"requiredTech": "Replaceable Parts",
+		"uniques": ["Consumes [2] [Iron]", "[+150]% Strength <vs [Infantry] units> <when attacking>","No defensive terrain bonus",
+			"Must set up to ranged attack","[-1] Sight", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>", "Can transform to [Heavy Mortar]"],
+		"promotions": ["Indirect Fire", "Fire Support"],
+		"attackSound": "artillery"
+	},
+{
+		"name": "Anti-Tank Gun (T)",
+		"unitType": "Transported Towed",
+		"range": 1,
+		"movement": 1,
+		"strength": 50,
+		"rangedStrength": 80,
+		"cost": 425,
+		"requiredTech": "Ballistics",
+		"obsoleteTech": "Advanced Ballistics",
+		"upgradesTo": "Light ATGM",
+		"promotions": ["Elite"],
+		"uniques": ["[-33]% Strength <vs [Infantry] units> <when attacking>", "Consumes [1] [Iron]", "[+100]% Strength <vs [Light Armor] units>", "[+90]% Strength <vs [Medium Armor] units>", "[+80]% Strength <vs [Heavy Armor] units>", "[+70]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [E limit] is less than [1]> <hidden from users>", "Can transform to [Anti-Tank Gun]"],
+		"attackSound": "shot"
+	},
+{
+		"name": "Heavy Anti-Tank Gun (T)",
+		"unitType": "Transported Towed",
+		"range": 2,
+		"movement": 1,
+		"strength": 60,
+		"rangedStrength": 115,
+		"cost": 450,
+		"requiredTech": "Ballistics",
+		"promotions": ["Fire Support"],
+		"uniques": ["[-33]% Strength <vs [Infantry] units> <when attacking>", "Consumes [2] [Iron]", "[+110]% Strength <vs [Light Armor] units>", "[+100]% Strength <vs [Medium Armor] units>", "[+90]% Strength <vs [Heavy Armor] units>", "[+80]% Strength <vs [Superheavy Armor] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>", "Can transform to [Heavy Anti-Tank Gun]"],
+		"attackSound": "tankshot"
+	},
+{
+		"name": "Anti-Aircraft Autocannon (T)",
+		"unitType": "Transported Towed",
+		"movement": 1,
+		"interceptRange": 1,
+		"strength": 50,
+		"cost": 340,
+		"requiredTech": "Ballistics",
+		"promotions": ["Fire Support"],
+		"uniques": ["Consumes [1] [Iron]", "[1] additional attacks per turn", "[1] extra interceptions may be made per turn", "[80]% chance to intercept air attacks", "[+300]% Strength <vs [Air] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>", "Can transform to [Anti-Aircraft Autocannon]"],
+		"attackSound": "machinegun"
+	},
+{
+		"name": "Anti-Aircraft Gun (T)",
+		"unitType": "Transported Towed",
+		"movement": 1,
+		"interceptRange": 2,
+		"strength": 70,
+		"cost": 360,
+		"requiredTech": "Ballistics",
+		"promotions": ["Fire Support"],
+		"uniques": ["Consumes [1] [Iron]", "[90]% chance to intercept air attacks", "[+300]% Strength <vs [Air] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>", "Can transform to [Anti-Aircraft Gun]"],
+		"attackSound": "shot"
+	},
+{
+		"name": "Heavy Anti-Aircraft Gun (T)",
+		"unitType": "Transported Towed",
+		"movement": 1,
+		"interceptRange": 3,
+		"strength": 80,
+		"cost": 400,
+		"requiredTech": "Ballistics",
+		"promotions": ["Fire Support"],
+		"uniques": ["Consumes [2] [Iron]", "[100]% chance to intercept air attacks", "[+300]% Strength <vs [Air] units>", "Unavailable <when number of [FS limit] is less than [1]> <hidden from users>", "Can transform to [Heavy Anti-Aircraft Gun]"],
+		"attackSound": "tankshot"
+},
 
 	//WWI units
 	{
