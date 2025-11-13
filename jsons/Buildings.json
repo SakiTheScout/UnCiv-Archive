@@ -240,13 +240,12 @@
 	{
 		"name": "Pandemonium Society Headquarters",
 		"uniqueTo": "Gehenna Academy",
-		"cost": 40,
+		"cost": 100,
 		"requiredTech": "Chivalry",
 		"isNationalWonder": true,
 		"uniques": [
 			"Club",
-			"Consumes [2] [Prefects Influence] <starting from the [Ancient era]>",
-			"Provides [2] [Pandemonium Influence]",
+			"Provides [3] [Pandemonium Influence]",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Club]>",
 			"All newly-trained [Land] units [in this city] receive the [Pandemonium Society] promotion",
@@ -262,7 +261,6 @@
 		"uniques": [
 			"Club",
 			"Only available <if [Pandemonium Society Headquarters] is constructed>",
-			"Consumes [2] [Prefects Influence] <starting from the [Ancient era]>",
 			"Provides [2] [Pandemonium Influence]",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Club]>",
@@ -274,13 +272,12 @@
 	{
 		"name": "Prefect Team Headquarters",
 		"uniqueTo": "Gehenna Academy",
-		"cost": 40,
+		"cost": 100,
 		"requiredTech": "Chivalry",
 		"isNationalWonder": true,
 		"uniques": [
 			"Club",
-			"Consumes [2] [Pandemonium Influence] <starting from the [Ancient era]>",
-			"Provides [2] [Prefects Influence]",
+			"Provides [3] [Prefects Influence]",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Club]>",
 			"All newly-trained [Land] units [in this city] receive the [Pandemonium Society] promotion",
@@ -296,7 +293,6 @@
 		"uniques": [
 			"Club",
 			"Only available <if [Prefect Team Headquarters] is constructed>",
-			"Consumes [2] [Pandemonium Influence] <starting from the [Ancient era]>",
 			"Provides [2] [Prefects Influence]",
 			"New [Land] units start with [30] XP [in this city]",
 			"Cost increases by [40] when built",
