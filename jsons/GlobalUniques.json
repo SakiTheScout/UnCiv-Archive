@@ -137,7 +137,19 @@
 	"Provides [-1] [Prefects Influence] <for every [[Pandemonium Society Bulletin Board] Buildings]>",
 	"Provides [-2] [Prefects Influence] <for every [[Pandemonium Society Office] Buildings]>",
 	"Provides [-3] [Prefects Influence] <for every [[Pandemonium Society Headquarters] Buildings]>",
-	
+
+	"[-10 Happiness] <when below [-10] [Pandemonium Influence]>",
+	"[-10 Happiness] <when below [-10] [Prefects Influence]>",
+
+	"Provides [-3] [Chaos] <for every [[Prefect Team Headquarters] Buildings]>",
+	"Provides [-2] [Chaos] <for every [[Prefect Team Office] Buildings]>",
+	"Provides [2] [Chaos] <for every [[Pandemonium Society Headquarters] Buildings]>",
+	"Provides [1] [Chaos] <for every [[Pandemonium Society Office] Buildings]>",
+	"Provides [3] [Chaos] <for every [[X Headquarters] Buildings]>",
+	"Provides [2] [Chaos] <for every [[X Office] Buildings]>",
+	"Provides [-1] [Chaos] <for every [[Y Headquarters] Buildings]>",
+	"Provides [-2] [Chaos] <for every [[Y Office] Buildings]>",
+		
 	"Remove [Issue an Edict] [in all cities] <upon turn start> <when below [1] [Edict Duration]>",
 	"Remove [Revolution] [in all cities] <upon turn end> <when below [100] [Political Instability]>",
 	"Remove [Assign Sponsorship] [in all cities] <upon turn start> <when below [1] [Sponsorship Duration]>",
