@@ -313,7 +313,7 @@
 			"Cannot be purchased <hidden from users>"]
 	},
 	{
-		"name": "Prefect Team Bukletin Board",
+		"name": "Prefect Team Bulletin Board",
 		"uniqueTo": "Gehenna Academy",
 		"cost": 10,
 		"requiredTech": "Chivalry",
