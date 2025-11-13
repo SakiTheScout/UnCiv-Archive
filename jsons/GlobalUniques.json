@@ -131,12 +131,12 @@
     "Provides [1] [FS limit] <for every [1] [[HQ] Units]>",
     "Provides [1] [LoW limit] <for every [3] [[HQ] Units]>",
 
-	"Consumes [1] [Pandemonium Influence] <for every [[Prefect Team Bulletin Board] Buildings]>",
-	"Consumes [2] [Pandemonium Influence] <for every [[Prefect Team Office] Buildings]>",
-	"Consumes [3] [Pandemonium Influence] <for every [[Prefect Team Headquarters] Buildings]>",
-	"Consumes [1] [Prefects Influence] <for every [[Pandemonium Society Bulletin Board] Buildings]>",
-	"Consumes [2] [Prefects Influence] <for every [[Pandemonium Society Office] Buildings]>",
-	"Consumes [3] [Prefects Influence] <for every [[Pandemonium Society Headquarters] Buildings]>",
+	"Provides [-1] [Pandemonium Influence] <for every [[Prefect Team Bulletin Board] Buildings]>",
+	"Provides [-2] [Pandemonium Influence] <for every [[Prefect Team Office] Buildings]>",
+	"Provides [-3] [Pandemonium Influence] <for every [[Prefect Team Headquarters] Buildings]>",
+	"Provides [-1] [Prefects Influence] <for every [[Pandemonium Society Bulletin Board] Buildings]>",
+	"Provides [-2] [Prefects Influence] <for every [[Pandemonium Society Office] Buildings]>",
+	"Provides [-3] [Prefects Influence] <for every [[Pandemonium Society Headquarters] Buildings]>",
 	
 	"Remove [Issue an Edict] [in all cities] <upon turn start> <when below [1] [Edict Duration]>",
 	"Remove [Revolution] [in all cities] <upon turn end> <when below [100] [Political Instability]>",
