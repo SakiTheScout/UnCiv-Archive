@@ -158,21 +158,21 @@ BuildingIcons/Outlaws Office
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Hot Springs Department Office
+BuildingIcons/Hot Springs Development Department Office
   rotate: false
   xy: 900, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Hot Springs Department Headquarters
+BuildingIcons/Hot Springs Development Department Headquarters
   rotate: false
   xy: 900, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Hot Springs Department Bulletin Board
+BuildingIcons/Hot Springs Development Department Bulletin Board
   rotate: false
   xy: 900, 0
   size: 100, 100
