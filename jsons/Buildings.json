@@ -368,23 +368,45 @@
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
 	},
-	
 	{
-		"name": "Hot Springs Office",
+		"name": "Hot Springs Development Department Headquarters",
 		"uniqueTo": "Gehenna Academy",
-		"production": 3,
-		"happiness": 1,
-		"gold": -1,
-		"culture": 1,
+		"requiredTech": "Chivalry",
+		"isNationalWonder": true,
+		"uniques": [
+			"Club",
+			"Only available <in cities without a [Club]>",
+			"All newly-trained [Land] units [in this city] receive the [Pandemonium Society] promotion",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Cannot be purchased <hidden from users>"]
+	},
+	{
+		"name": "Hot Springs Development Department Office",
+		"uniqueTo": "Gehenna Academy",
 		"cost": 40,
 		"requiredTech": "Chivalry",
 		"uniques": [
 			"Club",
-			"Can build [all] improvements at a [+3]% rate",
-			"[-1 Science, -1 Production, -1 Gold, -1 Happiness] [in all cities]",
+			"Only available <if [Hot Springs Development Department Headquarters] is constructed>",
+			"Provides [2] [Pandemonium Influence]",
 			"Cost increases by [40] when built",
-			"Only available <in cities without a [Club]> <hidden from users>",
-			"All newly-trained [Land] units [in this city] receive the [Hot Springs Department] promotion",
+			"Only available <in cities without a [Club]>",
+			"All newly-trained [Land] units [in this city] receive the [Pandemonium Society] promotion",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Cannot be purchased <hidden from users>"]
+	},
+	{
+		"name": "Hot Springs Development Department Bulletin Board",
+		"uniqueTo": "Gehenna Academy",
+		"cost": 10,
+		"requiredTech": "Chivalry",
+		"uniques": [
+			"Bulletin Board",
+			"Only available <if [Hot Springs Development Department Headquarters] is constructed>",
+			"Cost increases by [10] when built",
+			"Only available <in cities without a [Bulletin Board]>",
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
