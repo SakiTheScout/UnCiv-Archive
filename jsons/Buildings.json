@@ -376,7 +376,7 @@
 		"uniques": [
 			"Club",
 			"Only available <in cities without a [Club]>",
-			"All newly-trained [Land] units [in this city] receive the [Pandemonium Society] promotion",
+			"All newly-trained [Land] units [in this city] receive the [Hot Springs Department] promotion",
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
@@ -389,10 +389,9 @@
 		"uniques": [
 			"Club",
 			"Only available <if [Hot Springs Development Department Headquarters] is constructed>",
-			"Provides [2] [Pandemonium Influence]",
 			"Cost increases by [40] when built",
 			"Only available <in cities without a [Club]>",
-			"All newly-trained [Land] units [in this city] receive the [Pandemonium Society] promotion",
+			"All newly-trained [Land] units [in this city] receive the [Hot Springs Department] promotion",
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
