@@ -102,14 +102,49 @@ NationIcons/Gehenna Academy
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Emergency Medicine Infirmary
+BuildingIcons/Emergency Medicine Department Headquarters
   rotate: false
   xy: 300, 0
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
+BuildingIcons/Emergency Medicine Department Office
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Emergency Medicine Department Bulletin Board
+  rotate: false
+  xy: 300, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Prefects Influence
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
 BuildingIcons/Prefect Team Office
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Prefect Team Headquarters
+  rotate: false
+  xy: 400, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Prefect Team Bulletin Board
   rotate: false
   xy: 400, 0
   size: 100, 100
@@ -123,7 +158,21 @@ BuildingIcons/Outlaws Office
   orig: 100, 100
   offset: 0, 0
   index: -1
-BuildingIcons/Hot Springs Office
+BuildingIcons/Hot Springs Department Office
+  rotate: false
+  xy: 900, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Hot Springs Department Headquarters
+  rotate: false
+  xy: 900, 0
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Hot Springs Department Bulletin Board
   rotate: false
   xy: 900, 0
   size: 100, 100
@@ -131,6 +180,27 @@ BuildingIcons/Hot Springs Office
   offset: 0, 0
   index: -1
 BuildingIcons/Pandemonium Society Office
+  rotate: false
+  xy: 800, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Pandemonium Influence
+  rotate: false
+  xy: 800, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Pandemonium Society Headquarters
+  rotate: false
+  xy: 800, 100
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+BuildingIcons/Pandemonium Society Bulletin Board
   rotate: false
   xy: 800, 100
   size: 100, 100
@@ -287,6 +357,13 @@ EmojiIcons/Gold
 EmojiIcons/Production
   rotate: false
   xy: 400, 300
+  size: 100, 100
+  orig: 100, 100
+  offset: 0, 0
+  index: -1
+ResourceIcons/Chaos
+  rotate: false
+  xy: 500, 300
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
