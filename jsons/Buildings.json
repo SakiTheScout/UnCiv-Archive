@@ -327,26 +327,48 @@
 			"Cannot be purchased <hidden from users>"]
 	},
 	{
-		"name": "Emergency Medicine Infirmary",
+		"name": "Emergency Medicine Department Headquarters",
 		"uniqueTo": "Gehenna Academy",
-		"faith": 2,
-		"production": -1,
-		"happiness": 3,
-		"gold": -2,
-		"culture": 1,
-		"cost": 40,
 		"requiredTech": "Chivalry",
+		"isNationalWonder": true,
 		"uniques": [
 			"Club",
-			"[+25]% growth [in this city]",
-			"[+2 Happiness] per [5] population [in this city]",
-			"Cost increases by [40] when built",
-			"Only available <in cities without a [Club]> <hidden from users>",
-			"All newly-trained [Land] units [in this city] receive the [Medical Emergency Department] promotion",
+			"Only available <in cities without a [Club]>",
+			"All newly-trained [Land] units [in this city] receive the [Emergency Medicine Department] promotion",
 			"Unsellable <hidden from users>",
 			"Destroyed when the city is captured",
 			"Cannot be purchased <hidden from users>"]
 	},
+	{
+		"name": "Emergency Medicine Department Society Office",
+		"uniqueTo": "Gehenna Academy",
+		"cost": 40,
+		"requiredTech": "Chivalry",
+		"uniques": [
+			"Club",
+			"Only available <if [Emergency Medicine Department Headquarters] is constructed>",
+			"Cost increases by [40] when built",
+			"Only available <in cities without a [Club]>",
+			"All newly-trained [Land] units [in this city] receive the [Emergency Medicine Department] promotion",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Cannot be purchased <hidden from users>"]
+	},
+	{
+		"name": "Emergency Medicine Department Bulletin Board",
+		"uniqueTo": "Gehenna Academy",
+		"cost": 10,
+		"requiredTech": "Chivalry",
+		"uniques": [
+			"Bulletin Board",
+			"Only available <if [Emergency Medicine Department Headquarters] is constructed>",
+			"Cost increases by [10] when built",
+			"Only available <in cities without a [Bulletin Board]>",
+			"Unsellable <hidden from users>",
+			"Destroyed when the city is captured",
+			"Cannot be purchased <hidden from users>"]
+	},
+	
 	{
 		"name": "Hot Springs Office",
 		"uniqueTo": "Gehenna Academy",
