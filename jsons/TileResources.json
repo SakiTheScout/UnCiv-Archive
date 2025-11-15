@@ -129,7 +129,7 @@
 	{
 		"name": "Chaos",
 		"resourceType": "Strategic",
-		"uniques": ["Cannot be traded", "Not shown on world screen <for [non-[Gehenna Academy]] Civilizations>"]
+		"uniques": ["Stockpiled", "Cannot be traded", "Not shown on world screen <for [non-[Gehenna Academy]] Civilizations>"]
 	},
 	{
 		"name": "Pandemonium Influence",
