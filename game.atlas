@@ -419,35 +419,35 @@ EmojiIcons/Happiness
   index: -1
 StatIcons/Malcontent
   rotate: false
-  xy: 500, 500
+  xy: 700, 500
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 StatIcons/Science
   rotate: false
-  xy: 400, 500
+  xy: 500, 500
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 EmojiIcons/Science
   rotate: false
-  xy: 400, 500
+  xy: 500, 500
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 StatIcons/Faith
   rotate: false
-  xy: 300, 500
+  xy: 400, 500
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
   index: -1
 EmojiIcons/Faith
   rotate: false
-  xy: 300, 500
+  xy: 400, 500
   size: 100, 100
   orig: 100, 100
   offset: 0, 0
