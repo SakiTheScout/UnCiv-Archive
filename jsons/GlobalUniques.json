@@ -73,6 +73,12 @@
 	"[-1 Food, -1 Production, -1 Culture, -1 Happiness, -1 Science, +10 Gold] [in all cities] <for [Corporation] Civilizations>",
 	"[+10]% [Gold] [in capital] <for [Corporation] Civilizations>",
 	"[+5]% [Gold] [in all cities] <for [Corporation] Civilizations> <for every [Era Passed]>",
+	"[-33]% Strength <when defending> <vs [Kivotos Halo] units> <for [Outsider] Civilizations>",
+	"Gain an extra spy <for [Outsider] Civilizations>",
+	"[+15]% Strength <when adjacent to a [Heavy Armor] unit> <for [Outsider] Civilizations>",
+	"[+20]% Culture cost of adopting new Policies <for [Outsider] Civilizations>",
+	"[-15]% unhappiness from the number of cities <for [Outsider] Civilizations>",
+	"[-15]% Unhappiness from [Specialists] [in all cities] <for [Outsider] Civilizations>",
 	
     "[Ranged Infantry] units gain the [Features] promotion",
     "[Infantry] units gain the [Features] promotion",
