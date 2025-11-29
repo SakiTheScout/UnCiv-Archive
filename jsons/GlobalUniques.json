@@ -155,12 +155,7 @@
 	"Provides [1] [Chaos] <for every [[Hot Springs Development Department Office] Buildings]> <when below [100] [Chaos]>",
 	"Provides [-2] [Chaos] <for every [[Emergency Medicine Department Headquarters] Buildings]> <when above [0] [Chaos]>",
 	"Provides [-3] [Chaos] <for every [[Emergency Medicine Department Office] Buildings]> <when above [0] [Chaos]>",
-	"Provides [1] [Chaos] <in cities with [5] [Population]>",
-	"Provides [1] [Chaos] <in cities with [10] [Population]>",
-	"Provides [1] [Chaos] <in cities with [15] [Population]>",
-	"Provides [1] [Chaos] <in cities with [20] [Population]>",
-	"Provides [1] [Chaos] <in cities with [25] [Population]>",
-		
+			
 	"Remove [Issue an Edict] [in all cities] <upon turn start> <when below [1] [Edict Duration]>",
 	"Remove [Revolution] [in all cities] <upon turn end> <when below [100] [Political Instability]>",
 	"Remove [Assign Sponsorship] [in all cities] <upon turn start> <when below [1] [Sponsorship Duration]>",
