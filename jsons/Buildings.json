@@ -39,14 +39,15 @@
 	"name": "Open Food Export Settings",
 	"cost": 1,
 	"uniques": [
-		"Only available <if [Food Export] is constructed>"
+		"Only available <if [Food Export] is constructed>",
+		"Triggers a [Food Export Settings] event"
 	]
 	},
 	{
 	"name": "Food Export 1",
 	"cost": 1,
 	"uniques": [
-		"Not available",
+		"Unbuildable",
 		"Unsellable",
 		"Moves to new capital when capital changes"
 	]
@@ -55,7 +56,7 @@
 	"name": "Food Export 2",
 	"cost": 1,
 	"uniques": [
-		"Not available",
+		"Unbuildable",
 		"Unsellable",
 		"Moves to new capital when capital changes"
 	]
@@ -64,7 +65,7 @@
 	"name": "Food Export 3",
 	"cost": 1,
 	"uniques": [
-		"Not available",
+		"Unbuildable",
 		"Unsellable",
 		"Moves to new capital when capital changes"
 	]
@@ -73,7 +74,7 @@
 	"name": "Food Export 4",
 	"cost": 1,
 	"uniques": [
-		"Not available",
+		"Unbuildable",
 		"Unsellable",
 		"Moves to new capital when capital changes"
 	]
@@ -82,7 +83,7 @@
 	"name": "Food Export 5",
 	"cost": 1,
 	"uniques": [
-		"Not available",
+		"Unbuildable",
 		"Unsellable",
 		"Moves to new capital when capital changes"
 	]
@@ -91,7 +92,7 @@
 	"name": "Food Export 6",
 	"cost": 1,
 	"uniques": [
-		"Not available",
+		"Unbuildable",
 		"Unsellable",
 		"Moves to new capital when capital changes"
 	]
@@ -100,7 +101,7 @@
 	"name": "Food Export 7",
 	"cost": 1,
 	"uniques": [
-		"Not available",
+		"Unbuildable",
 		"Unsellable",
 		"Moves to new capital when capital changes"
 	]
@@ -109,7 +110,7 @@
 	"name": "Food Export 8",
 	"cost": 1,
 	"uniques": [
-		"Not available",
+		"Unbuildable",
 		"Unsellable",
 		"Moves to new capital when capital changes"
 	]
@@ -118,7 +119,7 @@
 	"name": "Food Export 9",
 	"cost": 1,
 	"uniques": [
-		"Not available",
+		"Unbuildable",
 		"Unsellable",
 		"Moves to new capital when capital changes"
 	]
@@ -127,7 +128,7 @@
 	"name": "Food Export 10",
 	"cost": 1,
 	"uniques": [
-		"Not available",
+		"Unbuildable",
 		"Unsellable",
 		"Moves to new capital when capital changes"
 	]
