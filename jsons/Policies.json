@@ -769,7 +769,7 @@
             "Scientific": 0
         },
         "uniques": [
-            "[+1Production, +1 Science] from every [Town]",
+            "[+1 Production, +1 Science] from every [Town]",
             "[+10]% [Production] from every [Production]",
             "Only available <before adopting [Cultural Legacy]>",
             "Only available <before adopting [Rites of Warfare]>",
