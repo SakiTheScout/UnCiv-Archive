@@ -1,4 +1,110 @@
 [
+	// Festival
+	{
+		"name": "Hold a Festival!",
+		"cost": 1,
+		"requiredTech": "Festivals",
+		"uniques": [
+			"Triggers a [Festival!] event",
+			"Can be purchased with [Gold] [in capital]",
+			"Shown while unbuilable <hidden from users>",
+			"Unbuildable <hidden from users>",
+			"Unsellable <hidden from users>",
+			"Instantly gain [5] [Festival Duration]",
+			"Instantly consumes [1] [Festival Duration] <upon turn end>"
+		],
+	  "outerColor": [178,0,255],
+	  "innerColor": [83,49,97]
+	},
+	//Food Export
+	{
+	"name": "Food Export",
+	"cost": 1,
+	"uniques": [
+		"Only available <after adopting [Food Export]>",
+		"Comment [Converts 1 [Food] into 1.5 [Gold] (rounding down), which is scaled basing off your current settings of export. You may change them anytime.]",
+		"[-1 Food, +1 Gold] <if [Food Export 1] is constructed> <hidden from users>",
+		"[-2 Food, +3 Gold] <if [Food Export 2] is constructed> <hidden from users>",
+		"[-3 Food, +4 Gold] <if [Food Export 3] is constructed> <hidden from users>",
+		"[-4 Food, +6 Gold] <if [Food Export 4] is constructed> <hidden from users>",
+		"[-5 Food, +7 Gold] <if [Food Export 5] is constructed> <hidden from users>",
+		"[-6 Food, +9 Gold] <if [Food Export 6] is constructed> <hidden from users>",
+		"[-7 Food, +10 Gold] <if [Food Export 7] is constructed> <hidden from users>",
+		"[-8 Food, +12 Gold] <if [Food Export 8] is constructed> <hidden from users>",
+		"[-9 Food, +13 Gold] <if [Food Export 9] is constructed> <hidden from users>",
+		"[-10 Food, +15 Gold] <if [Food Export 10] is constructed> <hidden from users>"
+	]
+	},
+	{
+	"name": "Food Export 1",
+	"cost": 1,
+	"uniques": [
+		"Not available"
+	]
+	},
+	{
+	"name": "Food Export 2",
+	"cost": 1,
+	"uniques": [
+		"Not available"
+	]
+	},
+	{
+	"name": "Food Export 3",
+	"cost": 1,
+	"uniques": [
+		"Not available"
+	]
+	},
+	{
+	"name": "Food Export 4",
+	"cost": 1,
+	"uniques": [
+		"Not available"
+	]
+	},
+	{
+	"name": "Food Export 5",
+	"cost": 1,
+	"uniques": [
+		"Not available"
+	]
+	},
+	{
+	"name": "Food Export 6",
+	"cost": 1,
+	"uniques": [
+		"Not available"
+	]
+	},
+	{
+	"name": "Food Export 7",
+	"cost": 1,
+	"uniques": [
+		"Not available"
+	]
+	},
+	{
+	"name": "Food Export 8",
+	"cost": 1,
+	"uniques": [
+		"Not available"
+	]
+	},
+	{
+	"name": "Food Export 9",
+	"cost": 1,
+	"uniques": [
+		"Not available"
+	]
+	},
+	{
+	"name": "Food Export 10",
+	"cost": 1,
+	"uniques": [
+		"Not available"
+	]
+	},
 	//Trinity General School
 	{
 		"name": "Tea Party Plaza",
@@ -1592,7 +1698,6 @@
 	{
 		"name": "SRT Special Academy",
 		"requiredTech": "High Schools",
-		"replaces": "Military High School",
 		"uniqueTo": "General Student Council",
 		"cost": 450,
 		"maintenance": 5,
@@ -1604,14 +1709,13 @@
 		"[-100]% Production when constructing [Military] units [in this city]",
 		"Provides [5] [Eleph]",
 		"Provides [3] [E limit] <hidden from users>",
-		"Limited to [3] per Civilization",
+		"Limited to [1] per Civilization",
 		"All newly-trained [Land] units [in this city] receive the [Special Response Team] promotion",
 		"Only available <in cities without a [High School]>"]
 	},
 	{
 		"name": "Valkyrie Police School",
 		"requiredTech": "High Schools",
-		"replaces": "Police High School",
 		"uniqueTo": "General Student Council",
 		"cost": 450,
 		"maintenance": 4,
@@ -1622,14 +1726,13 @@
 		"[-15]% Unhappiness from [Population] [in all cities]",
 		"[+20]% Production when constructing [Military] units [in this city]",
 		"Provides [5] [Eleph]",
-		"Limited to [3] per Civilization",
+		"Limited to [1] per Civilization",
 		"All newly-trained [Land] units [in this city] receive the [Kivotos Police] promotion",
 		"Only available <in cities without a [High School]>"]
 	},
 	{
 		"name": "Kronos Journalism School",
 		"requiredTech": "High Schools",
-		"replaces": "Cultural High School",
 		"uniqueTo": "General Student Council",
 		"cost": 450,
 		"maintenance": 4,
@@ -1638,7 +1741,7 @@
 		"High School",
 		"[+4 Happiness, +3 Culture] from each Trade Route",
 		"Provides [5] [Eleph]",
-		"Limited to [3] per Civilization",
+		"Limited to [1] per Civilization",
 		"[-15]% Culture cost of adopting new Policies",
 		"All newly-trained [Land] units [in this city] receive the [Kronos News Club] promotion",
 		"Only available <in cities without a [High School]>"]
@@ -1667,22 +1770,5 @@
 			"Instantly gain [10] [Edict Duration]",
 			"Instantly consumes [1] [Edict Duration] <upon turn end>"
 		]
-	},
-// Festival
-	{
-		"name": "Hold a Festival!",
-		"cost": 1,
-		"requiredTech": "Festivals",
-		"uniques": [
-			"Triggers a [Festival!] event",
-			"Can be purchased with [Gold] [in capital]",
-			"Shown while unbuilable <hidden from users>",
-			"Unbuildable <hidden from users>",
-			"Unsellable <hidden from users>",
-			"Instantly gain [5] [Festival Duration]",
-			"Instantly consumes [1] [Festival Duration] <upon turn end>"
-		],
-	  "outerColor": [178,0,255],
-	  "innerColor": [83,49,97]
 	}
 ]
