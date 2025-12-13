@@ -710,7 +710,7 @@
             {
                 "name": "Food Export",
                 "uniques": [
-                    "Comment: [Unlocks the Food Export building, a building that allows you to create and modify export of food from your cities.]",
+                    "Comment [Unlocks the Food Export building, a building that allows you to create and modify export of food from your cities.]",
                     "Gain a free [Food Export 1] [in capital]",
                     "[+1 Food, +1 Gold] from each Trade Route"
                 ],
