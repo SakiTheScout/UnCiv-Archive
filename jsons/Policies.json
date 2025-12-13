@@ -595,7 +595,7 @@
                 "uniques": [
                     "[+1 Gold] from every specialist [in all cities]",
                     "[+1 Gold] from all [Merchant High School] buildings",
-                    "[+1 Gold, +1 Production] from each Trade Route"
+                    "[+2 Gold, +1 Production] from each Trade Route"
                 ],
                 "row": 1,
                 "column": 4
@@ -603,7 +603,7 @@
             {
                 "name": "Economical Development",
                 "uniques": [
-                    "[+2 Gold, -1 Culture] from all [Merchant High School] buildings",
+                    "[+3 Gold, -1 Culture] from all [Merchant High School] buildings",
                     "[+10]% [Gold] from every [Merchant High School]",
                     "[+50]% Yield from every [Trading post]"
                 ],
@@ -624,7 +624,7 @@
             {
                 "name": "School-Corporation",
                 "uniques": [
-                    "[+2 Gold, -1 Happiness] from all [Merchant High School] buildings",
+                    "[+3 Gold, -1 Happiness] from all [Merchant High School] buildings",
                     "[Gold] cost of purchasing [Military] units [-20]%"
                 ],
                 "requires": ["Encouraged Trading"],
@@ -677,8 +677,8 @@
             "Scientific": 0
         },
         "uniques": [
-            "[+15]% growth [in capital]",
-            "[+10]% growth [in all cities]",
+            "[+10]% growth [in capital]",
+            "[+5]% growth [in all cities]",
             "Only available <before adopting [Cultural Legacy]>",
             "Only available <before adopting [Scholar Pioneers]>",
             "Only available <before adopting [Industrial Paradigm]>",
@@ -692,8 +692,8 @@
                 "name": "Farming Business",
                 "uniques": [
                     "[+1 Gold] from all [Food] buildings",
-                    "[+3 Gold, +1 Science] <for every [10] [[Agricultural Schooling] Units]>",
-                    "[+4 Gold] from every [Agricultural High School]"
+                    "[+2 Gold] <for every [10] [[Agricultural Schooling] Units]>",
+                    "[+3 Gold] from every [Agricultural High School]"
                 ],
                 "row": 1,
                 "column": 2
@@ -701,8 +701,7 @@
             {
                 "name": "Intensive Agriculture",
                 "uniques": [
-                    "[+1 Food] from [Farm] tiles [in all cities]",
-                    "[+2]% [Food] from every [Farm]",
+                    "[+1]% [Food] from every [Farm]",
                     "Allied City-States provide [Food] equal to [+50]% of what they produce for themselves"
                 ],
                 "row": 1,
@@ -711,9 +710,8 @@
             {
                 "name": "Food Export",
                 "uniques": [
-                    "[-2 Food, +3 Gold] [in all cities] <for every [Remaining [All] Civilizations]>",
-                    "[-1 Food, +2 Gold] [in all cities] <for every [Remaining [All] Civilizations]> <when not at war>",
-                    "[+1 Food, +2 Gold] from each Trade Route"
+                    "Comment: [Unlocks [Food Export] building, a building that allows you to create and modify export of food from your cities.]",
+                    "[+1 Food, +1 Gold] from each Trade Route"
                 ],
                 "requires": ["Farming Business"],
                 "row": 2,
@@ -722,9 +720,9 @@
             {
                 "name": "Agricultural Technology",
                 "uniques": [
-                    "[+2 Science, -1 Gold] from every [Agricultural High School]",
+                    "[+2 Science] from every [Agricultural High School]",
                     "[+1 Science] from all [Food] buildings",
-                    "[+15]% [Science] from every [Agricultural High School]"
+                    "[+10]% [Science] from every [Agricultural High School]"
                 ],
                 "requires": ["Farming Business", "Intensive Agriculture"],
                 "row": 2,
@@ -734,7 +732,7 @@
                 "name": "Culture of the Farmlands",
                 "uniques": [
                     "[+1 Culture] from [Farm] tiles [in all cities]",
-                    "[+2 Culture] from every [Agricultural High School]"
+                    "[+1 Culture] from every [Agricultural High School]"
                 ],
                 "requires": ["Agricultural Technology", "Food Export"],
                 "row": 3,
@@ -743,7 +741,7 @@
             {
               "name": "Rural Privilege",
               "uniques": [
-                "[+2 Gold, +2 Happiness, +1 Science, +1 Culture] from [Village] tiles [in all cities]",
+                "[+2 Gold, +1 Happiness, +1 Culture] from [Village] tiles [in all cities]",
                 "[10] HP when healing <in [Village] tiles>"
               ],
               "requires": ["Agricultural Technology"],
@@ -762,7 +760,7 @@
     },
   {
         "name": "Industrial Paradigm",
-        "era": "Medieval era",
+        "era": "Industrial era",
         "priorities": {
             "Neutral": 10,
             "Cultural": 0,
@@ -771,8 +769,8 @@
             "Scientific": 0
         },
         "uniques": [
-            "[+2 Production, +1 Science] from every [Town]",
-            "[+15]% [Production] from every [Production]",
+            "[+1Production, +1 Science] from every [Town]",
+            "[+10]% [Production] from every [Production]",
             "Only available <before adopting [Cultural Legacy]>",
             "Only available <before adopting [Rites of Warfare]>",
             "Only available <before adopting [Scholar Pioneers]>",
@@ -785,9 +783,9 @@
             {
                 "name": "Mechanization",
                 "uniques": [
-                    "[+15]% Production when constructing [Military] units [in all cities]",
-                    "[+3 Science] from every [Engineering High School]",
-                    "[+3 Happiness] from every [Engineering High School]"
+                    "[+10]% Production when constructing [Military] units [in all cities]",
+                    "[+2 Science] from every [Engineering High School]",
+                    "[+1 Happiness] from every [Engineering High School]"
                 ],
                 "row": 1,
                 "column": 3
@@ -797,7 +795,6 @@
                 "uniques": [
                     "[+3]% [Production] [in all cities] <for every [Remaining [Friendly] Civilizations]>",
                     "[+2 Production] from each Trade Route",
-                    "[+25]% spy effectiveness [in foreign cities]",
                     "[+25]% enemy spy effectiveness [in your cities]"
                 ],
                 "requires": ["Mechanization"],
@@ -807,9 +804,9 @@
             {
                 "name": "Leading by Example",
                 "uniques": [
-                    "[+1 Happiness, +1 Production, +1 Science, +1 Culture] per [7] population [in all cities]",
-                    "[+1 Production, +1 Happiness] from every specialist [in all cities]",
-                    "[+25]% [Production] <during a Golden Age>"
+                    "[+1 Happiness, +1 Production, +1 Science, +1 Culture] per [10] population [in all cities]",
+                    "[+1 Production, +1 Happiness] from every specialist [in capital]",
+                    "[+20]% [Production] <during a Golden Age>"
                 ],
                 "requires": ["Mechanization"],
                 "row": 2,
@@ -818,7 +815,7 @@
             {
                 "name": "Bonus for Overtime",
                 "uniques": [
-                    "[+2 Production, +2 Science, +2 Culture, -2 Gold] from [Town] tiles [in all cities]"
+                    "[+2 Production, +1 Science, +1 Culture, -4 Gold] from [Town] tiles [in all cities]"
                 ],
                 "requires": ["Mechanization"],
                 "row": 2,
@@ -827,7 +824,7 @@
             {
                 "name": "Work Ethics",
                 "uniques": [
-                    "[+1 Happiness, +1 Culture] from every [Production]"
+                    "[+1 Happiness] from every [Production]"
                 ],
                 "requires": ["Foreign Workforce", "Leading by Example"],
                 "row": 3,
@@ -836,8 +833,8 @@
             {
               "name": "Educated Professionals",
               "uniques": [
-                "[+3 Culture] from every [Engineering High School]",
-                "[+3 Gold] from every [Engineering High School]"
+                "[+2 Culture] from every [Engineering High School]",
+                "[+2 Gold] from every [Engineering High School]"
               ],
               "requires": ["Foreign Workforce", "Bonus for Overtime"],
               "row": 3,
