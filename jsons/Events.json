@@ -481,6 +481,45 @@
         ]
     },
 
+{
+	"name": "Food Export Settings",
+	"text": "Modfiy settings of your food trades! There are 10 levels of them available, you can go up and down at any moment, as well as check the current level of export.",
+	"choices": [
+		{
+			"text": "Check current level",
+			"uniques": [
+				"Remove [Open Food Export Settings] [in all cities] <hidden from users>",
+				"Triggers a [Check Export Level] event"
+			]
+		},
+		{
+			"name": "Go up!"
+			"uniques": [
+				"Only available <if [Food Export 10] is not constructed> <hidden from users>",
+				"Remove [Open Food Export Settings] [in all cities] <hidden from users>",
+				"Triggers a [Food Export Settings] event",
+				"Gain a free [Food Export 2] [in capital] <if [Food Export 1] is constructed> <hidden from users>",
+				"Remove [Food Export 1] [in capital] <if [Food Export 1] is constructed> <hidden from users>",
+				"Gain a free [Food Export 3] [in capital] <if [Food Export 2] is constructed> <hidden from users>",
+				"Remove [Food Export 2] [in capital] <if [Food Export 2] is constructed> <hidden from users>",
+				"Gain a free [Food Export 4] [in capital] <if [Food Export 3] is constructed> <hidden from users>",
+				"Remove [Food Export 3] [in capital] <if [Food Export 3] is constructed> <hidden from users>",
+				"Gain a free [Food Export 5] [in capital] <if [Food Export 4] is constructed> <hidden from users>",
+				"Remove [Food Export 4] [in capital] <if [Food Export 4] is constructed> <hidden from users>",
+				"Gain a free [Food Export 6] [in capital] <if [Food Export 5] is constructed> <hidden from users>",
+				"Remove [Food Export 5] [in capital] <if [Food Export 5] is constructed> <hidden from users>",
+				"Gain a free [Food Export 7] [in capital] <if [Food Export 6] is constructed> <hidden from users>",
+				"Remove [Food Export 6] [in capital] <if [Food Export 6] is constructed> <hidden from users>",
+				"Gain a free [Food Export 8] [in capital] <if [Food Export 7] is constructed> <hidden from users>",
+				"Remove [Food Export 7] [in capital] <if [Food Export 7] is constructed> <hidden from users>",
+				"Gain a free [Food Export 9] [in capital] <if [Food Export 8] is constructed> <hidden from users>",
+				"Remove [Food Export 8] [in capital] <if [Food Export 8] is constructed> <hidden from users>",
+				"Gain a free [Food Export 10] [in capital] <if [Food Export 9] is constructed> <hidden from users>",
+				"Remove [Food Export 9] [in capital] <if [Food Export 9] is constructed> <hidden from users>",
+			]
+		},
+	]
+},
 	
   {
     "name": "Political Stagnation!",
