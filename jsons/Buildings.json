@@ -378,6 +378,10 @@
 		"isNationalWonder": true,
 		"uniques": [
 			"Club",
+			"New [Heavy Armor] units start with [20] XP [in this city] <when between [-5] and [5] [Pandemonium Influence]>",
+			"New [Infantry] units start with [15] XP [in this city] <when between [-5] and [5] [Pandemonium Influence]>",
+			"[+10]% [Gold] [in all cities] <when between [-5] and [5] [Pandemonium Influence]>",
+			"[+1 Happiness] [in all cities] <when between [-5] and [5] [Pandemonium Influence]>",
 			"Provides [3] [Pandemonium Influence]",
 			"Only available <in cities without a [Club]>",
 			"All newly-trained [Land] units [in this city] receive the [Pandemonium Society] promotion",
@@ -392,6 +396,9 @@
 		"requiredTech": "Chivalry",
 		"uniques": [
 			"Club",
+			"[-1]% Culture cost of adopting new Policies <when between [-5] and [5] [Pandemonium Influence]>",
+			"[+15]% Production when constructing [Military] units [in this city] <when between [-5] and [5] [Pandemonium Influence]>",
+			"[-5]% [Production] [in this city]",
 			"Only available <if [Pandemonium Society Headquarters] is constructed>",
 			"Provides [2] [Pandemonium Influence]",
 			"Cost increases by [40] when built",
@@ -408,6 +415,8 @@
 		"requiredTech": "Chivalry",
 		"uniques": [
 			"Bulletin Board",
+			"Each city founded increases culture cost of policies [1]% less than normal",
+			"[-10]% Unhappiness from [Population] [in this city] <when between [-5] and [5] [Pandemonium Influence]>",
 			"Only available <if [Pandemonium Society Headquarters] is constructed>",
 			"Provides [1] [Pandemonium Influence]",
 			"Cost increases by [10] when built",
