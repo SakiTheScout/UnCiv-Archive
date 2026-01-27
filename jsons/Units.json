@@ -1889,7 +1889,21 @@
 "May capture killed [Kivotos Halo] units <hidden from users>",
 "Comment [Sensei is able to convince students to fight on their side, for price of 120 Eleph for an attempt.]",
 "Unavailable"]},
-
+	{
+		"name": "Whisper of Treason",
+		"unitType": "Fortification",
+		"uniqueTo": "Barbarians",
+		"movement": 1,
+		"strength": 10,
+		"rangedStrength": 1,
+		"cost": 1,
+		"uniques": ["[+999999] Sight", "[+999999] Range",
+		"[Target Unit] takes [100] damage <upon damaging a [{Military} {non-[Doubtful]}] unit> <with [33]% chance>",
+		"[Target Unit] takes [100] damage <upon damaging a [{Military} {Doubtful}] unit> <with [66]% chance>",
+		"[Target Unit] gains the [Doubtful] status for [10] turn(s)",
+		"May capture killed [Military] units", "Ranged attacks may be performed over obstacles", "Self-destructs when attacking", "Can see over obstacles"],
+		"promotions": ["Fortification", "Detection T3", "Stealth T3"]
+	},
 	
   {"name": "Tank", "unitType": "Armored", "movement": 1, "strength": 1, "cost": 1, "uniques": ["Unavailable", "Will not be displayed in Civilopedia", "Never appears as a Barbarian unit"],"attackSound": "tankshot"},
   {"name": "Machine Gun", "unitType": "Armored", "movement": 1, "strength": 1, "cost": 1, "uniques": ["Unavailable", "Will not be displayed in Civilopedia", "Never appears as a Barbarian unit"],"attackSound": "tankshot"},
