@@ -503,6 +503,10 @@
 		"name": "Airborne Cooldown",
 		"uniques": [
 			"Comment [Airborne Action is on cooldown.]"]},
+	{
+		"name": "Doubtful",
+		"uniques": [
+			"Comment [Doubt is the first step to betrayal.]"]},
 	// Grenades
 	{
 		"name": "Grenadier",
