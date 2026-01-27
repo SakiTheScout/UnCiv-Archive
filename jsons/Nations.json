@@ -748,6 +748,6 @@
 		"outerColor": [0,0,0],
         "innerColor": [200,0,0],
 		
-		"uniques": ["\"Borrows\" city names from other civilizations in the game", "Excluded from map editor", "No movement cost to pillage", "[Melee] units gain the [Blood for the Blood God] promotion <every [8] turns> <with [5]% chance>"]
+		"uniques": ["\"Borrows\" city names from other civilizations in the game", "Excluded from map editor", "No movement cost to pillage", "[Melee] units gain the [Blood for the Blood God] promotion <every [8] turns> <with [5]% chance>", "A [Whisper of Treason] rebels <every [9] turns> <upon turn start> <for every [Remaining [Major] Civilization]>"]
 	}
 ]
